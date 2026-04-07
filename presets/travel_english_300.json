@@ -1,0 +1,1206 @@
+{
+  "name": "여행 영어 300",
+  "description": "해외여행에서 꼭 필요한 영단어 및 표현 300개",
+  "words": [
+    {
+      "w": "food court",
+      "m": "푸드코트"
+    },
+    {
+      "w": "exit",
+      "m": "출국"
+    },
+    {
+      "w": "first class",
+      "m": "일등석"
+    },
+    {
+      "w": "well-done",
+      "m": "완전히 익힌"
+    },
+    {
+      "w": "airline",
+      "m": "항공사"
+    },
+    {
+      "w": "portable Wi-Fi",
+      "m": "포켓 와이파이"
+    },
+    {
+      "w": "waterfall",
+      "m": "폭포"
+    },
+    {
+      "w": "transfer",
+      "m": "환승하다"
+    },
+    {
+      "w": "overhead bin",
+      "m": "머리 위 짐칸"
+    },
+    {
+      "w": "purpose of visit",
+      "m": "방문 목적"
+    },
+    {
+      "w": "landing",
+      "m": "착륙"
+    },
+    {
+      "w": "I'll take this one.",
+      "m": "이걸로 할게요."
+    },
+    {
+      "w": "snack",
+      "m": "간식"
+    },
+    {
+      "w": "I need a doctor.",
+      "m": "의사가 필요합니다."
+    },
+    {
+      "w": "cold",
+      "m": "감기"
+    },
+    {
+      "w": "Can I change rooms?",
+      "m": "방을 바꿀 수 있나요?"
+    },
+    {
+      "w": "Where is the exit?",
+      "m": "출구가 어디인가요?"
+    },
+    {
+      "w": "economy class",
+      "m": "이코노미석"
+    },
+    {
+      "w": "fitting room",
+      "m": "탈의실"
+    },
+    {
+      "w": "landmark",
+      "m": "랜드마크"
+    },
+    {
+      "w": "adapter",
+      "m": "어댑터"
+    },
+    {
+      "w": "boarding pass",
+      "m": "탑승권"
+    },
+    {
+      "w": "visa",
+      "m": "비자"
+    },
+    {
+      "w": "text message",
+      "m": "문자 메시지"
+    },
+    {
+      "w": "sale",
+      "m": "세일"
+    },
+    {
+      "w": "next to",
+      "m": "~옆에"
+    },
+    {
+      "w": "voltage",
+      "m": "전압"
+    },
+    {
+      "w": "cough",
+      "m": "기침"
+    },
+    {
+      "w": "allergic",
+      "m": "알레르기가 있는"
+    },
+    {
+      "w": "arrival",
+      "m": "도착"
+    },
+    {
+      "w": "Can I pay by card?",
+      "m": "카드로 결제할 수 있나요?"
+    },
+    {
+      "w": "traffic light",
+      "m": "신호등"
+    },
+    {
+      "w": "island",
+      "m": "섬"
+    },
+    {
+      "w": "reservation",
+      "m": "예약"
+    },
+    {
+      "w": "prohibited items",
+      "m": "반입 금지 품목"
+    },
+    {
+      "w": "tour guide",
+      "m": "여행 가이드"
+    },
+    {
+      "w": "international call",
+      "m": "국제 전화"
+    },
+    {
+      "w": "delicious",
+      "m": "맛있는"
+    },
+    {
+      "w": "bus stop",
+      "m": "버스 정류장"
+    },
+    {
+      "w": "suite",
+      "m": "스위트룸"
+    },
+    {
+      "w": "battery",
+      "m": "배터리"
+    },
+    {
+      "w": "SIM card",
+      "m": "유심 카드"
+    },
+    {
+      "w": "Check, please.",
+      "m": "계산서 주세요."
+    },
+    {
+      "w": "main course",
+      "m": "주요리"
+    },
+    {
+      "w": "Do you speak English?",
+      "m": "영어 하시나요?"
+    },
+    {
+      "w": "breakfast",
+      "m": "아침 식사"
+    },
+    {
+      "w": "No.",
+      "m": "아니요."
+    },
+    {
+      "w": "size",
+      "m": "사이즈"
+    },
+    {
+      "w": "prescription",
+      "m": "처방전"
+    },
+    {
+      "w": "pillow",
+      "m": "베개"
+    },
+    {
+      "w": "terminal",
+      "m": "터미널"
+    },
+    {
+      "w": "Can you help me?",
+      "m": "도와주실 수 있나요?"
+    },
+    {
+      "w": "delay",
+      "m": "지연"
+    },
+    {
+      "w": "security check",
+      "m": "보안 검색"
+    },
+    {
+      "w": "train",
+      "m": "기차"
+    },
+    {
+      "w": "highway",
+      "m": "고속도로"
+    },
+    {
+      "w": "exchange rate",
+      "m": "환율"
+    },
+    {
+      "w": "fast food",
+      "m": "패스트푸드"
+    },
+    {
+      "w": "Just a moment, please.",
+      "m": "잠시만요."
+    },
+    {
+      "w": "beach",
+      "m": "해변"
+    },
+    {
+      "w": "quarantine",
+      "m": "검역"
+    },
+    {
+      "w": "Wi-Fi",
+      "m": "와이파이"
+    },
+    {
+      "w": "single room",
+      "m": "1인실"
+    },
+    {
+      "w": "Hello.",
+      "m": "안녕하세요."
+    },
+    {
+      "w": "length of stay",
+      "m": "체류 기간"
+    },
+    {
+      "w": "lost and found",
+      "m": "분실물 센터"
+    },
+    {
+      "w": "immigration officer",
+      "m": "출입국 심사관"
+    },
+    {
+      "w": "block",
+      "m": "블록, 구획"
+    },
+    {
+      "w": "bellboy",
+      "m": "벨보이"
+    },
+    {
+      "w": "medicine",
+      "m": "약"
+    },
+    {
+      "w": "resort",
+      "m": "리조트"
+    },
+    {
+      "w": "go straight",
+      "m": "직진하다"
+    },
+    {
+      "w": "Where is the restroom?",
+      "m": "화장실이 어디인가요?"
+    },
+    {
+      "w": "How much does it cost?",
+      "m": "얼마인가요?"
+    },
+    {
+      "w": "business trip",
+      "m": "출장"
+    },
+    {
+      "w": "flight",
+      "m": "항공편"
+    },
+    {
+      "w": "across from",
+      "m": "~건너편에"
+    },
+    {
+      "w": "soup",
+      "m": "수프"
+    },
+    {
+      "w": "I'd like to order.",
+      "m": "주문하고 싶어요."
+    },
+    {
+      "w": "tax refund",
+      "m": "세금 환급"
+    },
+    {
+      "w": "How are you?",
+      "m": "어떻게 지내세요?"
+    },
+    {
+      "w": "credit card",
+      "m": "신용카드"
+    },
+    {
+      "w": "try on",
+      "m": "입어 보다"
+    },
+    {
+      "w": "customs",
+      "m": "세관"
+    },
+    {
+      "w": "bargain",
+      "m": "흥정하다"
+    },
+    {
+      "w": "travel insurance",
+      "m": "여행자 보험"
+    },
+    {
+      "w": "pilot",
+      "m": "조종사"
+    },
+    {
+      "w": "I need help.",
+      "m": "도움이 필요합니다."
+    },
+    {
+      "w": "Keep the change.",
+      "m": "거스름돈은 됐어요."
+    },
+    {
+      "w": "swimming pool",
+      "m": "수영장"
+    },
+    {
+      "w": "palace",
+      "m": "궁전"
+    },
+    {
+      "w": "I don't understand.",
+      "m": "이해하지 못하겠어요."
+    },
+    {
+      "w": "insurance",
+      "m": "보험"
+    },
+    {
+      "w": "vegetarian",
+      "m": "채식주의자"
+    },
+    {
+      "w": "room service",
+      "m": "룸서비스"
+    },
+    {
+      "w": "parking lot",
+      "m": "주차장"
+    },
+    {
+      "w": "rare",
+      "m": "살짝 익힌"
+    },
+    {
+      "w": "phone call",
+      "m": "전화 통화"
+    },
+    {
+      "w": "mild",
+      "m": "순한"
+    },
+    {
+      "w": "brand",
+      "m": "브랜드"
+    },
+    {
+      "w": "steak",
+      "m": "스테이크"
+    },
+    {
+      "w": "police",
+      "m": "경찰"
+    },
+    {
+      "w": "allergy",
+      "m": "알레르기"
+    },
+    {
+      "w": "downtown",
+      "m": "시내, 도심"
+    },
+    {
+      "w": "waiter",
+      "m": "웨이터"
+    },
+    {
+      "w": "expensive",
+      "m": "비싼"
+    },
+    {
+      "w": "itinerary",
+      "m": "여행 일정"
+    },
+    {
+      "w": "window seat",
+      "m": "창가 좌석"
+    },
+    {
+      "w": "restaurant",
+      "m": "식당"
+    },
+    {
+      "w": "late check-out",
+      "m": "늦은 체크아웃"
+    },
+    {
+      "w": "dine in",
+      "m": "매장에서 먹기"
+    },
+    {
+      "w": "pedestrian",
+      "m": "보행자"
+    },
+    {
+      "w": "sightseeing trip",
+      "m": "관광 여행"
+    },
+    {
+      "w": "mountain",
+      "m": "산"
+    },
+    {
+      "w": "ATM",
+      "m": "현금인출기"
+    },
+    {
+      "w": "I have a reservation.",
+      "m": "예약했습니다."
+    },
+    {
+      "w": "fever",
+      "m": "열"
+    },
+    {
+      "w": "cafe",
+      "m": "카페"
+    },
+    {
+      "w": "Call 911!",
+      "m": "911에 전화해주세요!"
+    },
+    {
+      "w": "Yes.",
+      "m": "네."
+    },
+    {
+      "w": "crosswalk",
+      "m": "횡단보도"
+    },
+    {
+      "w": "round trip",
+      "m": "왕복"
+    },
+    {
+      "w": "intersection",
+      "m": "교차로"
+    },
+    {
+      "w": "appetizer",
+      "m": "전채 요리"
+    },
+    {
+      "w": "What do you recommend?",
+      "m": "뭘 추천하시나요?"
+    },
+    {
+      "w": "flight attendant",
+      "m": "승무원"
+    },
+    {
+      "w": "gate",
+      "m": "탑승구"
+    },
+    {
+      "w": "early check-in",
+      "m": "이른 체크인"
+    },
+    {
+      "w": "waitress",
+      "m": "웨이트리스"
+    },
+    {
+      "w": "ruins",
+      "m": "유적지"
+    },
+    {
+      "w": "declaration form",
+      "m": "신고서"
+    },
+    {
+      "w": "departure",
+      "m": "출발"
+    },
+    {
+      "w": "Is breakfast included?",
+      "m": "조식이 포함인가요?"
+    },
+    {
+      "w": "table for four",
+      "m": "4인 테이블"
+    },
+    {
+      "w": "power bank",
+      "m": "보조 배터리"
+    },
+    {
+      "w": "data plan",
+      "m": "데이터 요금제"
+    },
+    {
+      "w": "charger",
+      "m": "충전기"
+    },
+    {
+      "w": "sparkling water",
+      "m": "탄산수"
+    },
+    {
+      "w": "wallet",
+      "m": "지갑"
+    },
+    {
+      "w": "no vacancy",
+      "m": "빈방 없음"
+    },
+    {
+      "w": "signal",
+      "m": "신호, 수신"
+    },
+    {
+      "w": "order",
+      "m": "주문하다"
+    },
+    {
+      "w": "canceled",
+      "m": "취소된"
+    },
+    {
+      "w": "turn left",
+      "m": "좌회전하다"
+    },
+    {
+      "w": "room key",
+      "m": "방 열쇠"
+    },
+    {
+      "w": "GPS",
+      "m": "GPS, 위치 추적"
+    },
+    {
+      "w": "outlet",
+      "m": "콘센트"
+    },
+    {
+      "w": "passport",
+      "m": "여권"
+    },
+    {
+      "w": "entry",
+      "m": "입국"
+    },
+    {
+      "w": "cashier",
+      "m": "계산대, 점원"
+    },
+    {
+      "w": "See you later.",
+      "m": "나중에 봐요."
+    },
+    {
+      "w": "beverage",
+      "m": "음료"
+    },
+    {
+      "w": "nothing to declare",
+      "m": "신고할 것 없음"
+    },
+    {
+      "w": "spicy",
+      "m": "매운"
+    },
+    {
+      "w": "pain",
+      "m": "통증"
+    },
+    {
+      "w": "photo spot",
+      "m": "사진 명소"
+    },
+    {
+      "w": "boarding time",
+      "m": "탑승 시간"
+    },
+    {
+      "w": "check in",
+      "m": "체크인하다"
+    },
+    {
+      "w": "shopping mall",
+      "m": "쇼핑몰"
+    },
+    {
+      "w": "concierge",
+      "m": "컨시어지, 안내 직원"
+    },
+    {
+      "w": "Please.",
+      "m": "부탁합니다."
+    },
+    {
+      "w": "No problem.",
+      "m": "괜찮아요."
+    },
+    {
+      "w": "market",
+      "m": "시장"
+    },
+    {
+      "w": "What time is it?",
+      "m": "지금 몇 시인가요?"
+    },
+    {
+      "w": "salad",
+      "m": "샐러드"
+    },
+    {
+      "w": "doctor",
+      "m": "의사"
+    },
+    {
+      "w": "currency exchange",
+      "m": "환전"
+    },
+    {
+      "w": "Is this gluten-free?",
+      "m": "이것은 글루텐 프리인가요?"
+    },
+    {
+      "w": "Thank you.",
+      "m": "감사합니다."
+    },
+    {
+      "w": "color",
+      "m": "색상"
+    },
+    {
+      "w": "jet lag",
+      "m": "시차 적응 장애"
+    },
+    {
+      "w": "duty-free shop",
+      "m": "면세점"
+    },
+    {
+      "w": "What time is check-out?",
+      "m": "체크아웃 시간이 언제인가요?"
+    },
+    {
+      "w": "takeoff",
+      "m": "이륙"
+    },
+    {
+      "w": "route",
+      "m": "경로, 노선"
+    },
+    {
+      "w": "turn right",
+      "m": "우회전하다"
+    },
+    {
+      "w": "closed",
+      "m": "닫힌, 휴무"
+    },
+    {
+      "w": "first aid kit",
+      "m": "구급상자"
+    },
+    {
+      "w": "refill",
+      "m": "리필"
+    },
+    {
+      "w": "headache",
+      "m": "두통"
+    },
+    {
+      "w": "sightseeing",
+      "m": "관광"
+    },
+    {
+      "w": "Can I see the menu?",
+      "m": "메뉴 볼 수 있나요?"
+    },
+    {
+      "w": "receipt",
+      "m": "영수증"
+    },
+    {
+      "w": "theme park",
+      "m": "테마파크"
+    },
+    {
+      "w": "Where is the station?",
+      "m": "역이 어디인가요?"
+    },
+    {
+      "w": "discount",
+      "m": "할인"
+    },
+    {
+      "w": "I'm sorry.",
+      "m": "죄송합니다."
+    },
+    {
+      "w": "confirm",
+      "m": "확인하다"
+    },
+    {
+      "w": "gym",
+      "m": "헬스장"
+    },
+    {
+      "w": "book a flight",
+      "m": "항공편을 예약하다"
+    },
+    {
+      "w": "platform",
+      "m": "승강장"
+    },
+    {
+      "w": "Can I get a refund?",
+      "m": "환불 가능한가요?"
+    },
+    {
+      "w": "I'm a tourist.",
+      "m": "저는 관광객입니다."
+    },
+    {
+      "w": "map",
+      "m": "지도"
+    },
+    {
+      "w": "gift shop",
+      "m": "기념품 가게"
+    },
+    {
+      "w": "pharmacy",
+      "m": "약국"
+    },
+    {
+      "w": "stomachache",
+      "m": "복통"
+    },
+    {
+      "w": "Goodbye.",
+      "m": "안녕히 가세요."
+    },
+    {
+      "w": "price",
+      "m": "가격"
+    },
+    {
+      "w": "towel",
+      "m": "수건"
+    },
+    {
+      "w": "Is this seat taken?",
+      "m": "이 자리 비어있나요?"
+    },
+    {
+      "w": "Where can I find a taxi?",
+      "m": "택시를 어디서 잡나요?"
+    },
+    {
+      "w": "dinner",
+      "m": "저녁 식사"
+    },
+    {
+      "w": "tip",
+      "m": "팁"
+    },
+    {
+      "w": "runway",
+      "m": "활주로"
+    },
+    {
+      "w": "roaming",
+      "m": "로밍"
+    },
+    {
+      "w": "direct flight",
+      "m": "직항편"
+    },
+    {
+      "w": "hospital",
+      "m": "병원"
+    },
+    {
+      "w": "emergency",
+      "m": "응급 상황"
+    },
+    {
+      "w": "takeout",
+      "m": "포장"
+    },
+    {
+      "w": "temple",
+      "m": "사원, 절"
+    },
+    {
+      "w": "blanket",
+      "m": "담요"
+    },
+    {
+      "w": "I'm lost.",
+      "m": "길을 잃었어요."
+    },
+    {
+      "w": "You're welcome.",
+      "m": "천만에요."
+    },
+    {
+      "w": "Do you accept cards?",
+      "m": "카드 되나요?"
+    },
+    {
+      "w": "accommodation",
+      "m": "숙소"
+    },
+    {
+      "w": "departure card",
+      "m": "출국 카드"
+    },
+    {
+      "w": "ticket",
+      "m": "표"
+    },
+    {
+      "w": "metal detector",
+      "m": "금속 탐지기"
+    },
+    {
+      "w": "minibar",
+      "m": "미니바"
+    },
+    {
+      "w": "opening hours",
+      "m": "영업 시간"
+    },
+    {
+      "w": "How far is it?",
+      "m": "얼마나 먼가요?"
+    },
+    {
+      "w": "lobby",
+      "m": "로비"
+    },
+    {
+      "w": "stamp",
+      "m": "도장, 스탬프"
+    },
+    {
+      "w": "tax-free",
+      "m": "면세"
+    },
+    {
+      "w": "baggage claim",
+      "m": "수하물 찾는 곳"
+    },
+    {
+      "w": "return",
+      "m": "반품하다"
+    },
+    {
+      "w": "Can you repeat that?",
+      "m": "다시 말씀해 주시겠어요?"
+    },
+    {
+      "w": "tour",
+      "m": "관광, 투어"
+    },
+    {
+      "w": "laundry service",
+      "m": "세탁 서비스"
+    },
+    {
+      "w": "museum",
+      "m": "박물관"
+    },
+    {
+      "w": "housekeeping",
+      "m": "객실 정리"
+    },
+    {
+      "w": "medium",
+      "m": "중간 정도 익힌"
+    },
+    {
+      "w": "still water",
+      "m": "일반 물"
+    },
+    {
+      "w": "hostel",
+      "m": "호스텔"
+    },
+    {
+      "w": "tap water",
+      "m": "수돗물"
+    },
+    {
+      "w": "injury",
+      "m": "부상"
+    },
+    {
+      "w": "How much is this?",
+      "m": "이거 얼마인가요?"
+    },
+    {
+      "w": "train station",
+      "m": "기차역"
+    },
+    {
+      "w": "Can I have the Wi-Fi password?",
+      "m": "와이파이 비밀번호 알 수 있나요?"
+    },
+    {
+      "w": "seafood",
+      "m": "해산물"
+    },
+    {
+      "w": "turbulence",
+      "m": "난기류"
+    },
+    {
+      "w": "immigration",
+      "m": "출입국 관리"
+    },
+    {
+      "w": "complimentary breakfast",
+      "m": "무료 조식"
+    },
+    {
+      "w": "Help!",
+      "m": "도와주세요!"
+    },
+    {
+      "w": "aisle seat",
+      "m": "복도 좌석"
+    },
+    {
+      "w": "dessert",
+      "m": "디저트"
+    },
+    {
+      "w": "ambulance",
+      "m": "구급차"
+    },
+    {
+      "w": "Wi-Fi password",
+      "m": "와이파이 비밀번호"
+    },
+    {
+      "w": "bag",
+      "m": "가방, 봉투"
+    },
+    {
+      "w": "one way",
+      "m": "편도"
+    },
+    {
+      "w": "suitcase",
+      "m": "여행 가방"
+    },
+    {
+      "w": "guided tour",
+      "m": "가이드 투어"
+    },
+    {
+      "w": "Nice to meet you.",
+      "m": "만나서 반갑습니다."
+    },
+    {
+      "w": "cheap",
+      "m": "싼"
+    },
+    {
+      "w": "admission fee",
+      "m": "입장료"
+    },
+    {
+      "w": "cash",
+      "m": "현금"
+    },
+    {
+      "w": "hotel",
+      "m": "호텔"
+    },
+    {
+      "w": "national park",
+      "m": "국립공원"
+    },
+    {
+      "w": "Do Not Disturb",
+      "m": "방해하지 마세요"
+    },
+    {
+      "w": "X-ray machine",
+      "m": "엑스레이 기계"
+    },
+    {
+      "w": "seat belt",
+      "m": "안전벨트"
+    },
+    {
+      "w": "nearby",
+      "m": "근처에"
+    },
+    {
+      "w": "castle",
+      "m": "성"
+    },
+    {
+      "w": "scenic view",
+      "m": "경치"
+    },
+    {
+      "w": "vacancy",
+      "m": "빈방"
+    },
+    {
+      "w": "historical site",
+      "m": "역사 유적지"
+    },
+    {
+      "w": "Have a nice day.",
+      "m": "좋은 하루 보내세요."
+    },
+    {
+      "w": "It's an emergency.",
+      "m": "긴급 상황입니다."
+    },
+    {
+      "w": "gallery",
+      "m": "갤러리, 미술관"
+    },
+    {
+      "w": "taxi",
+      "m": "택시"
+    },
+    {
+      "w": "bill",
+      "m": "계산서"
+    },
+    {
+      "w": "Could you take a photo?",
+      "m": "사진 찍어 주시겠어요?"
+    },
+    {
+      "w": "monument",
+      "m": "기념비"
+    },
+    {
+      "w": "Could you speak slowly?",
+      "m": "천천히 말씀해 주시겠어요?"
+    },
+    {
+      "w": "reservation for two",
+      "m": "2인 예약"
+    },
+    {
+      "w": "check out",
+      "m": "체크아웃하다"
+    },
+    {
+      "w": "souvenir",
+      "m": "기념품"
+    },
+    {
+      "w": "return ticket",
+      "m": "귀국 항공권"
+    },
+    {
+      "w": "subway",
+      "m": "지하철"
+    },
+    {
+      "w": "bandage",
+      "m": "붕대"
+    },
+    {
+      "w": "I'm looking for...",
+      "m": "...를 찾고 있습니다."
+    },
+    {
+      "w": "lunch",
+      "m": "점심 식사"
+    },
+    {
+      "w": "connecting flight",
+      "m": "환승 항공편"
+    },
+    {
+      "w": "Excuse me.",
+      "m": "실례합니다."
+    },
+    {
+      "w": "fare",
+      "m": "요금"
+    },
+    {
+      "w": "bus",
+      "m": "버스"
+    },
+    {
+      "w": "double room",
+      "m": "2인실"
+    },
+    {
+      "w": "carry-on bag",
+      "m": "기내 반입 가방"
+    },
+    {
+      "w": "luggage",
+      "m": "짐, 수하물"
+    },
+    {
+      "w": "fire department",
+      "m": "소방서"
+    },
+    {
+      "w": "front desk",
+      "m": "프런트 데스크"
+    },
+    {
+      "w": "Is it far from here?",
+      "m": "여기서 먼가요?"
+    },
+    {
+      "w": "wake-up call",
+      "m": "모닝콜"
+    },
+    {
+      "w": "menu",
+      "m": "메뉴"
+    },
+    {
+      "w": "rental car",
+      "m": "렌터카"
+    },
+    {
+      "w": "one-day pass",
+      "m": "1일 이용권"
+    },
+    {
+      "w": "ferry",
+      "m": "페리, 여객선"
+    },
+    {
+      "w": "layover",
+      "m": "경유"
+    },
+    {
+      "w": "air conditioning",
+      "m": "에어컨"
+    }
+  ]
+}

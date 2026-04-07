@@ -1,0 +1,1994 @@
+{
+  "name": "비즈니스 영어 500",
+  "description": "비즈니스 환경에서 필수적인 영단어 및 표현 500개",
+  "words": [
+    {
+      "w": "forecast",
+      "m": "예측, 전망"
+    },
+    {
+      "w": "logistics",
+      "m": "물류"
+    },
+    {
+      "w": "deadline",
+      "m": "마감 기한"
+    },
+    {
+      "w": "content marketing",
+      "m": "콘텐츠 마케팅"
+    },
+    {
+      "w": "abstain",
+      "m": "기권하다"
+    },
+    {
+      "w": "reply",
+      "m": "답장, 회신"
+    },
+    {
+      "w": "risk management",
+      "m": "위험 관리"
+    },
+    {
+      "w": "onboarding",
+      "m": "신규 직원 교육"
+    },
+    {
+      "w": "FYI (for your information)",
+      "m": "참고로"
+    },
+    {
+      "w": "franchise",
+      "m": "프랜차이즈"
+    },
+    {
+      "w": "trade agreement",
+      "m": "무역 협정"
+    },
+    {
+      "w": "phytosanitary certificate",
+      "m": "식물위생증명서"
+    },
+    {
+      "w": "draft",
+      "m": "초안"
+    },
+    {
+      "w": "screening",
+      "m": "서류 심사"
+    },
+    {
+      "w": "go the extra mile",
+      "m": "추가 노력하다"
+    },
+    {
+      "w": "correspondence",
+      "m": "서신, 통신"
+    },
+    {
+      "w": "open source",
+      "m": "오픈 소스"
+    },
+    {
+      "w": "budget",
+      "m": "예산"
+    },
+    {
+      "w": "job description",
+      "m": "직무 기술서"
+    },
+    {
+      "w": "terms and conditions",
+      "m": "이용 약관"
+    },
+    {
+      "w": "receptionist",
+      "m": "접수 담당자"
+    },
+    {
+      "w": "insourcing",
+      "m": "내부화"
+    },
+    {
+      "w": "objective",
+      "m": "목표"
+    },
+    {
+      "w": "sanction",
+      "m": "제재"
+    },
+    {
+      "w": "adjourn",
+      "m": "휴회하다, 연기하다"
+    },
+    {
+      "w": "deadlock",
+      "m": "교착 상태"
+    },
+    {
+      "w": "agreement",
+      "m": "합의서, 협약"
+    },
+    {
+      "w": "KPI",
+      "m": "핵심 성과 지표"
+    },
+    {
+      "w": "shift",
+      "m": "교대 근무"
+    },
+    {
+      "w": "candidate",
+      "m": "후보자, 지원자"
+    },
+    {
+      "w": "brand awareness",
+      "m": "브랜드 인지도"
+    },
+    {
+      "w": "overhead",
+      "m": "간접비"
+    },
+    {
+      "w": "severance",
+      "m": "퇴직금"
+    },
+    {
+      "w": "wrap-up",
+      "m": "마무리, 정리"
+    },
+    {
+      "w": "power of attorney",
+      "m": "위임장"
+    },
+    {
+      "w": "moderator",
+      "m": "진행자"
+    },
+    {
+      "w": "spreadsheet",
+      "m": "스프레드시트"
+    },
+    {
+      "w": "sincerely",
+      "m": "경의를 표하며"
+    },
+    {
+      "w": "performance review",
+      "m": "인사 평가"
+    },
+    {
+      "w": "affiliate marketing",
+      "m": "제휴 마케팅"
+    },
+    {
+      "w": "repository",
+      "m": "저장소"
+    },
+    {
+      "w": "reference check",
+      "m": "평판 조회"
+    },
+    {
+      "w": "bounce rate",
+      "m": "이탈률"
+    },
+    {
+      "w": "liability",
+      "m": "부채"
+    },
+    {
+      "w": "clearance",
+      "m": "통관"
+    },
+    {
+      "w": "churn rate",
+      "m": "이탈률"
+    },
+    {
+      "w": "acquisition cost",
+      "m": "고객 획득 비용"
+    },
+    {
+      "w": "venture capital",
+      "m": "벤처 캐피털"
+    },
+    {
+      "w": "ledger",
+      "m": "원장"
+    },
+    {
+      "w": "accounts payable",
+      "m": "미지급금"
+    },
+    {
+      "w": "circular",
+      "m": "회람문"
+    },
+    {
+      "w": "unsubscribe",
+      "m": "구독 취소하다"
+    },
+    {
+      "w": "remote work",
+      "m": "원격 근무"
+    },
+    {
+      "w": "subsidiary",
+      "m": "자회사"
+    },
+    {
+      "w": "ratify",
+      "m": "비준하다, 승인하다"
+    },
+    {
+      "w": "accounts reconciliation",
+      "m": "계정 조정"
+    },
+    {
+      "w": "CTO",
+      "m": "최고기술책임자"
+    },
+    {
+      "w": "segmentation",
+      "m": "시장 세분화"
+    },
+    {
+      "w": "quota",
+      "m": "할당량, 목표치"
+    },
+    {
+      "w": "scalable architecture",
+      "m": "확장 가능 구조"
+    },
+    {
+      "w": "bond",
+      "m": "채권"
+    },
+    {
+      "w": "version control",
+      "m": "버전 관리"
+    },
+    {
+      "w": "breakout session",
+      "m": "분과 회의"
+    },
+    {
+      "w": "net income",
+      "m": "순이익"
+    },
+    {
+      "w": "presentation",
+      "m": "발표, 프레젠테이션"
+    },
+    {
+      "w": "newsletter",
+      "m": "뉴스레터, 소식지"
+    },
+    {
+      "w": "parent company",
+      "m": "모회사"
+    },
+    {
+      "w": "collateral",
+      "m": "담보"
+    },
+    {
+      "w": "wireframe",
+      "m": "와이어프레임"
+    },
+    {
+      "w": "reimbursement",
+      "m": "경비 환급"
+    },
+    {
+      "w": "bounce back",
+      "m": "반송되다"
+    },
+    {
+      "w": "close a deal",
+      "m": "거래를 성사시키다"
+    },
+    {
+      "w": "shareholder",
+      "m": "주주"
+    },
+    {
+      "w": "SaaS",
+      "m": "서비스형 소프트웨어"
+    },
+    {
+      "w": "shipping manifest",
+      "m": "선적 명세서"
+    },
+    {
+      "w": "container",
+      "m": "컨테이너"
+    },
+    {
+      "w": "liquidity",
+      "m": "유동성"
+    },
+    {
+      "w": "turnover",
+      "m": "매출액, 이직률"
+    },
+    {
+      "w": "cover letter",
+      "m": "자기소개서"
+    },
+    {
+      "w": "market research",
+      "m": "시장 조사"
+    },
+    {
+      "w": "facilitate",
+      "m": "촉진하다, 진행하다"
+    },
+    {
+      "w": "consensus",
+      "m": "합의, 의견 일치"
+    },
+    {
+      "w": "break room",
+      "m": "휴게실"
+    },
+    {
+      "w": "labor union",
+      "m": "노동조합"
+    },
+    {
+      "w": "consignment",
+      "m": "위탁 판매"
+    },
+    {
+      "w": "delegation",
+      "m": "위임"
+    },
+    {
+      "w": "encryption",
+      "m": "암호화"
+    },
+    {
+      "w": "confidential",
+      "m": "기밀의"
+    },
+    {
+      "w": "priority",
+      "m": "우선순위"
+    },
+    {
+      "w": "roundtable",
+      "m": "원탁 회의"
+    },
+    {
+      "w": "per our conversation",
+      "m": "대화 내용대로"
+    },
+    {
+      "w": "write-off",
+      "m": "상각, 손실 처리"
+    },
+    {
+      "w": "indemnity",
+      "m": "배상, 보상"
+    },
+    {
+      "w": "contingency fund",
+      "m": "비상 자금"
+    },
+    {
+      "w": "inflation",
+      "m": "인플레이션"
+    },
+    {
+      "w": "thread",
+      "m": "메일 스레드"
+    },
+    {
+      "w": "bulk email",
+      "m": "대량 메일"
+    },
+    {
+      "w": "cubicle",
+      "m": "칸막이 사무실"
+    },
+    {
+      "w": "hedging",
+      "m": "환위험 회피"
+    },
+    {
+      "w": "engagement",
+      "m": "참여도"
+    },
+    {
+      "w": "compensation",
+      "m": "보상, 급여"
+    },
+    {
+      "w": "analytics",
+      "m": "분석"
+    },
+    {
+      "w": "workforce",
+      "m": "인력, 노동력"
+    },
+    {
+      "w": "bug fix",
+      "m": "버그 수정"
+    },
+    {
+      "w": "reference number",
+      "m": "참조 번호"
+    },
+    {
+      "w": "blue ocean strategy",
+      "m": "블루오션 전략"
+    },
+    {
+      "w": "accounts receivable",
+      "m": "매출채권"
+    },
+    {
+      "w": "exchange rate",
+      "m": "환율"
+    },
+    {
+      "w": "click-through rate",
+      "m": "클릭률"
+    },
+    {
+      "w": "agile",
+      "m": "애자일, 민첩한"
+    },
+    {
+      "w": "town hall meeting",
+      "m": "전체 설명회"
+    },
+    {
+      "w": "trade deficit",
+      "m": "무역 적자"
+    },
+    {
+      "w": "regards",
+      "m": "안부, 경의"
+    },
+    {
+      "w": "carbon footprint email",
+      "m": "탄소 발자국 메일"
+    },
+    {
+      "w": "latency",
+      "m": "지연 시간"
+    },
+    {
+      "w": "pain point",
+      "m": "문제점, 고충"
+    },
+    {
+      "w": "time management",
+      "m": "시간 관리"
+    },
+    {
+      "w": "profit",
+      "m": "이익"
+    },
+    {
+      "w": "minutes of meeting",
+      "m": "회의 의사록"
+    },
+    {
+      "w": "overtime",
+      "m": "초과 근무"
+    },
+    {
+      "w": "convene",
+      "m": "소집하다"
+    },
+    {
+      "w": "regulatory compliance",
+      "m": "규정 준수"
+    },
+    {
+      "w": "move the needle",
+      "m": "변화를 일으키다"
+    },
+    {
+      "w": "diversity",
+      "m": "다양성"
+    },
+    {
+      "w": "mediation",
+      "m": "조정"
+    },
+    {
+      "w": "duty-free",
+      "m": "면세"
+    },
+    {
+      "w": "stakeholder",
+      "m": "이해관계자"
+    },
+    {
+      "w": "break-even point",
+      "m": "손익분기점"
+    },
+    {
+      "w": "promotion",
+      "m": "판촉, 홍보"
+    },
+    {
+      "w": "exit strategy",
+      "m": "출구 전략"
+    },
+    {
+      "w": "market penetration",
+      "m": "시장 침투"
+    },
+    {
+      "w": "chairperson",
+      "m": "의장, 사회자"
+    },
+    {
+      "w": "telecommute",
+      "m": "재택근무하다"
+    },
+    {
+      "w": "low-hanging fruit",
+      "m": "쉬운 성과"
+    },
+    {
+      "w": "breach of contract",
+      "m": "계약 위반"
+    },
+    {
+      "w": "follow up on",
+      "m": "후속 조치하다"
+    },
+    {
+      "w": "non-disclosure agreement",
+      "m": "비밀유지계약"
+    },
+    {
+      "w": "pivot",
+      "m": "사업 전환"
+    },
+    {
+      "w": "deploy",
+      "m": "배포하다"
+    },
+    {
+      "w": "sweeten the deal",
+      "m": "조건을 좋게 하다"
+    },
+    {
+      "w": "rebate",
+      "m": "리베이트, 환급"
+    },
+    {
+      "w": "headquarters",
+      "m": "본사"
+    },
+    {
+      "w": "subject line",
+      "m": "제목줄"
+    },
+    {
+      "w": "dividend",
+      "m": "배당금"
+    },
+    {
+      "w": "endorsement",
+      "m": "추천, 보증"
+    },
+    {
+      "w": "wholesale",
+      "m": "도매"
+    },
+    {
+      "w": "anti-dumping duty",
+      "m": "반덤핑 관세"
+    },
+    {
+      "w": "affidavit",
+      "m": "선서 진술서"
+    },
+    {
+      "w": "liability clause",
+      "m": "책임 조항"
+    },
+    {
+      "w": "ballpark figure",
+      "m": "대략적인 수치"
+    },
+    {
+      "w": "recruitment",
+      "m": "채용"
+    },
+    {
+      "w": "retail",
+      "m": "소매"
+    },
+    {
+      "w": "filing",
+      "m": "서류 정리"
+    },
+    {
+      "w": "waiver",
+      "m": "권리 포기"
+    },
+    {
+      "w": "API",
+      "m": "응용 프로그램 인터페이스"
+    },
+    {
+      "w": "bottom line price",
+      "m": "최저 가격"
+    },
+    {
+      "w": "value chain",
+      "m": "가치 사슬"
+    },
+    {
+      "w": "video conference",
+      "m": "화상 회의"
+    },
+    {
+      "w": "department",
+      "m": "부서"
+    },
+    {
+      "w": "handout",
+      "m": "배포 자료"
+    },
+    {
+      "w": "positioning",
+      "m": "포지셔닝"
+    },
+    {
+      "w": "talent acquisition",
+      "m": "인재 확보"
+    },
+    {
+      "w": "COO",
+      "m": "최고운영책임자"
+    },
+    {
+      "w": "strategy",
+      "m": "전략"
+    },
+    {
+      "w": "top line",
+      "m": "매출 상위선"
+    },
+    {
+      "w": "merger",
+      "m": "합병"
+    },
+    {
+      "w": "merchandising",
+      "m": "머천다이징"
+    },
+    {
+      "w": "purchase order",
+      "m": "발주서"
+    },
+    {
+      "w": "CIF",
+      "m": "운임보험료 포함 조건"
+    },
+    {
+      "w": "incoterms",
+      "m": "국제무역조건"
+    },
+    {
+      "w": "accrual",
+      "m": "발생주의"
+    },
+    {
+      "w": "payroll",
+      "m": "급여"
+    },
+    {
+      "w": "office supplies",
+      "m": "사무용품"
+    },
+    {
+      "w": "action item",
+      "m": "실행 항목"
+    },
+    {
+      "w": "second a motion",
+      "m": "동의를 지지하다"
+    },
+    {
+      "w": "ASAP",
+      "m": "가능한 빨리"
+    },
+    {
+      "w": "settlement",
+      "m": "합의, 정산"
+    },
+    {
+      "w": "stakeholder meeting",
+      "m": "이해관계자 회의"
+    },
+    {
+      "w": "trade surplus",
+      "m": "무역 흑자"
+    },
+    {
+      "w": "counteroffer",
+      "m": "역제안"
+    },
+    {
+      "w": "trademark",
+      "m": "상표"
+    },
+    {
+      "w": "asset",
+      "m": "자산"
+    },
+    {
+      "w": "resume",
+      "m": "이력서"
+    },
+    {
+      "w": "hard sell",
+      "m": "강력한 판매 전략"
+    },
+    {
+      "w": "workstation",
+      "m": "작업 공간"
+    },
+    {
+      "w": "salutation",
+      "m": "인사말"
+    },
+    {
+      "w": "cc all",
+      "m": "전체 참조"
+    },
+    {
+      "w": "the ball is in your court",
+      "m": "결정은 당신에게"
+    },
+    {
+      "w": "spam filter",
+      "m": "스팸 필터"
+    },
+    {
+      "w": "capital expenditure",
+      "m": "자본적 지출"
+    },
+    {
+      "w": "cloud computing",
+      "m": "클라우드 컴퓨팅"
+    },
+    {
+      "w": "mission statement",
+      "m": "사명 선언문"
+    },
+    {
+      "w": "supply chain",
+      "m": "공급망"
+    },
+    {
+      "w": "compromise",
+      "m": "타협하다"
+    },
+    {
+      "w": "territory",
+      "m": "영업 구역"
+    },
+    {
+      "w": "disciplinary action",
+      "m": "징계 조치"
+    },
+    {
+      "w": "deliverable",
+      "m": "산출물, 결과물"
+    },
+    {
+      "w": "recipient",
+      "m": "수신자"
+    },
+    {
+      "w": "general ledger",
+      "m": "총계정원장"
+    },
+    {
+      "w": "efficiency",
+      "m": "효율성"
+    },
+    {
+      "w": "statute",
+      "m": "법령"
+    },
+    {
+      "w": "non-compete clause",
+      "m": "경업 금지 조항"
+    },
+    {
+      "w": "bill of lading",
+      "m": "선하증권"
+    },
+    {
+      "w": "optimize",
+      "m": "최적화하다"
+    },
+    {
+      "w": "retention rate",
+      "m": "직원 유지율"
+    },
+    {
+      "w": "escalate",
+      "m": "상부에 보고하다"
+    },
+    {
+      "w": "ROI (return on investment)",
+      "m": "투자 수익률"
+    },
+    {
+      "w": "podium",
+      "m": "연단"
+    },
+    {
+      "w": "background check",
+      "m": "신원 조회"
+    },
+    {
+      "w": "pitch",
+      "m": "제안, 홍보"
+    },
+    {
+      "w": "blockchain",
+      "m": "블록체인"
+    },
+    {
+      "w": "letter of credit",
+      "m": "신용장"
+    },
+    {
+      "w": "commute",
+      "m": "통근"
+    },
+    {
+      "w": "board of directors",
+      "m": "이사회"
+    },
+    {
+      "w": "pushback",
+      "m": "반대, 저항"
+    },
+    {
+      "w": "tariff",
+      "m": "관세"
+    },
+    {
+      "w": "grievance",
+      "m": "고충, 불만"
+    },
+    {
+      "w": "subordinate",
+      "m": "부하 직원"
+    },
+    {
+      "w": "template",
+      "m": "템플릿"
+    },
+    {
+      "w": "briefing",
+      "m": "브리핑, 보고"
+    },
+    {
+      "w": "tenure",
+      "m": "재직 기간"
+    },
+    {
+      "w": "shake hands on",
+      "m": "합의하다"
+    },
+    {
+      "w": "letterhead",
+      "m": "편지지 머리글"
+    },
+    {
+      "w": "big data",
+      "m": "빅데이터"
+    },
+    {
+      "w": "auto-reply",
+      "m": "자동 회신"
+    },
+    {
+      "w": "get the ball rolling",
+      "m": "일을 시작하다"
+    },
+    {
+      "w": "Q&A session",
+      "m": "질의응답 시간"
+    },
+    {
+      "w": "core competency",
+      "m": "핵심 역량"
+    },
+    {
+      "w": "balance sheet",
+      "m": "대차대조표"
+    },
+    {
+      "w": "branch office",
+      "m": "지사"
+    },
+    {
+      "w": "back and forth",
+      "m": "주고받기"
+    },
+    {
+      "w": "transit time",
+      "m": "운송 소요 시간"
+    },
+    {
+      "w": "forwarding agent",
+      "m": "운송 대리점"
+    },
+    {
+      "w": "priority mail",
+      "m": "긴급 메일"
+    },
+    {
+      "w": "DevOps",
+      "m": "데브옵스"
+    },
+    {
+      "w": "disclaimer",
+      "m": "면책 조항"
+    },
+    {
+      "w": "expense report",
+      "m": "경비 보고서"
+    },
+    {
+      "w": "income statement",
+      "m": "손익계산서"
+    },
+    {
+      "w": "employee engagement",
+      "m": "직원 참여도"
+    },
+    {
+      "w": "certificate of origin",
+      "m": "원산지 증명서"
+    },
+    {
+      "w": "adjourn the meeting",
+      "m": "회의를 끝내다"
+    },
+    {
+      "w": "read receipt",
+      "m": "읽음 확인"
+    },
+    {
+      "w": "appropriation",
+      "m": "충당금, 배정"
+    },
+    {
+      "w": "collective bargaining",
+      "m": "단체 교섭"
+    },
+    {
+      "w": "tax return",
+      "m": "세금 신고"
+    },
+    {
+      "w": "attachment",
+      "m": "첨부 파일"
+    },
+    {
+      "w": "bring to the table",
+      "m": "제시하다"
+    },
+    {
+      "w": "SKU",
+      "m": "재고 관리 단위"
+    },
+    {
+      "w": "inventory",
+      "m": "재고"
+    },
+    {
+      "w": "resignation",
+      "m": "사직"
+    },
+    {
+      "w": "productivity",
+      "m": "생산성"
+    },
+    {
+      "w": "raise the bar",
+      "m": "기준을 높이다"
+    },
+    {
+      "w": "bandwidth",
+      "m": "처리 능력"
+    },
+    {
+      "w": "business trip",
+      "m": "출장"
+    },
+    {
+      "w": "market share",
+      "m": "시장 점유율"
+    },
+    {
+      "w": "CEO",
+      "m": "최고경영자"
+    },
+    {
+      "w": "hybrid work",
+      "m": "하이브리드 근무"
+    },
+    {
+      "w": "upsell",
+      "m": "상향 판매"
+    },
+    {
+      "w": "force majeure",
+      "m": "불가항력"
+    },
+    {
+      "w": "cash flow",
+      "m": "현금 흐름"
+    },
+    {
+      "w": "export",
+      "m": "수출"
+    },
+    {
+      "w": "seminar",
+      "m": "세미나"
+    },
+    {
+      "w": "due diligence",
+      "m": "실사"
+    },
+    {
+      "w": "table a discussion",
+      "m": "논의를 보류하다"
+    },
+    {
+      "w": "bonded warehouse",
+      "m": "보세 창고"
+    },
+    {
+      "w": "win-win",
+      "m": "상호 이익"
+    },
+    {
+      "w": "patch",
+      "m": "패치, 수정 프로그램"
+    },
+    {
+      "w": "freight",
+      "m": "화물, 운송비"
+    },
+    {
+      "w": "quorum",
+      "m": "정족수"
+    },
+    {
+      "w": "amortization",
+      "m": "상각"
+    },
+    {
+      "w": "database",
+      "m": "데이터베이스"
+    },
+    {
+      "w": "CRM",
+      "m": "고객 관계 관리"
+    },
+    {
+      "w": "dashboard",
+      "m": "대시보드"
+    },
+    {
+      "w": "sender",
+      "m": "발신자"
+    },
+    {
+      "w": "benefits package",
+      "m": "복리후생"
+    },
+    {
+      "w": "penalty clause",
+      "m": "위약금 조항"
+    },
+    {
+      "w": "termination",
+      "m": "해고, 종료"
+    },
+    {
+      "w": "lean management",
+      "m": "린 경영"
+    },
+    {
+      "w": "migration",
+      "m": "이전, 마이그레이션"
+    },
+    {
+      "w": "gross profit",
+      "m": "매출총이익"
+    },
+    {
+      "w": "signature block",
+      "m": "서명란"
+    },
+    {
+      "w": "synergy",
+      "m": "시너지"
+    },
+    {
+      "w": "UI/UX",
+      "m": "사용자 인터페이스/경험"
+    },
+    {
+      "w": "cybersecurity",
+      "m": "사이버 보안"
+    },
+    {
+      "w": "software",
+      "m": "소프트웨어"
+    },
+    {
+      "w": "IoT",
+      "m": "사물인터넷"
+    },
+    {
+      "w": "to whom it may concern",
+      "m": "관계자에게"
+    },
+    {
+      "w": "fiduciary",
+      "m": "수탁자, 신탁의"
+    },
+    {
+      "w": "leave of absence",
+      "m": "휴직"
+    },
+    {
+      "w": "BCC (blind carbon copy)",
+      "m": "숨은 참조"
+    },
+    {
+      "w": "CC (carbon copy)",
+      "m": "참조"
+    },
+    {
+      "w": "addendum",
+      "m": "부록, 추가 조항"
+    },
+    {
+      "w": "workflow",
+      "m": "업무 흐름"
+    },
+    {
+      "w": "contract",
+      "m": "계약"
+    },
+    {
+      "w": "milestone",
+      "m": "이정표, 주요 단계"
+    },
+    {
+      "w": "procurement",
+      "m": "조달"
+    },
+    {
+      "w": "backend",
+      "m": "백엔드"
+    },
+    {
+      "w": "commission",
+      "m": "수수료, 커미션"
+    },
+    {
+      "w": "take the floor",
+      "m": "발언하다"
+    },
+    {
+      "w": "cross-sell",
+      "m": "교차 판매"
+    },
+    {
+      "w": "revenue",
+      "m": "수익, 매출"
+    },
+    {
+      "w": "legacy system",
+      "m": "레거시 시스템"
+    },
+    {
+      "w": "accelerator",
+      "m": "액셀러레이터"
+    },
+    {
+      "w": "motion",
+      "m": "동의, 제안"
+    },
+    {
+      "w": "clause",
+      "m": "조항"
+    },
+    {
+      "w": "fiscal year",
+      "m": "회계 연도"
+    },
+    {
+      "w": "diversification",
+      "m": "다각화"
+    },
+    {
+      "w": "agenda",
+      "m": "의제, 안건"
+    },
+    {
+      "w": "amendment",
+      "m": "수정, 개정"
+    },
+    {
+      "w": "warranty",
+      "m": "보증"
+    },
+    {
+      "w": "prompt reply",
+      "m": "신속한 답변"
+    },
+    {
+      "w": "reconciliation",
+      "m": "계정 대사"
+    },
+    {
+      "w": "soft sell",
+      "m": "부드러운 판매 전략"
+    },
+    {
+      "w": "port of entry",
+      "m": "입항지"
+    },
+    {
+      "w": "outsourcing",
+      "m": "외주, 아웃소싱"
+    },
+    {
+      "w": "influencer",
+      "m": "인플루언서"
+    },
+    {
+      "w": "put to a vote",
+      "m": "표결에 부치다"
+    },
+    {
+      "w": "litigation",
+      "m": "소송"
+    },
+    {
+      "w": "proofread",
+      "m": "교정하다"
+    },
+    {
+      "w": "patent",
+      "m": "특허"
+    },
+    {
+      "w": "proposal",
+      "m": "제안서"
+    },
+    {
+      "w": "minutes",
+      "m": "회의록"
+    },
+    {
+      "w": "leverage",
+      "m": "영향력, 지렛대"
+    },
+    {
+      "w": "hereby",
+      "m": "이에, 이로써"
+    },
+    {
+      "w": "demotion",
+      "m": "강등"
+    },
+    {
+      "w": "implement",
+      "m": "실행하다, 시행하다"
+    },
+    {
+      "w": "itinerary",
+      "m": "여행 일정"
+    },
+    {
+      "w": "startup",
+      "m": "스타트업"
+    },
+    {
+      "w": "FTA",
+      "m": "자유무역협정"
+    },
+    {
+      "w": "standard operating procedure",
+      "m": "표준 운영 절차"
+    },
+    {
+      "w": "call to order",
+      "m": "개회를 선언하다"
+    },
+    {
+      "w": "brainstorm",
+      "m": "브레인스토밍하다"
+    },
+    {
+      "w": "injunction",
+      "m": "금지 명령"
+    },
+    {
+      "w": "focus group",
+      "m": "포커스 그룹"
+    },
+    {
+      "w": "jurisdiction",
+      "m": "관할권"
+    },
+    {
+      "w": "succession planning",
+      "m": "후계자 양성 계획"
+    },
+    {
+      "w": "dumping",
+      "m": "덤핑"
+    },
+    {
+      "w": "working capital",
+      "m": "운전자본"
+    },
+    {
+      "w": "operating expense",
+      "m": "영업비용"
+    },
+    {
+      "w": "standing meeting",
+      "m": "정례 회의"
+    },
+    {
+      "w": "conglomerate",
+      "m": "대기업, 복합기업"
+    },
+    {
+      "w": "deep dive",
+      "m": "심층 분석"
+    },
+    {
+      "w": "concession",
+      "m": "양보"
+    },
+    {
+      "w": "report",
+      "m": "보고서"
+    },
+    {
+      "w": "as per your request",
+      "m": "요청에 따라"
+    },
+    {
+      "w": "proceedings",
+      "m": "회의 진행, 의사록"
+    },
+    {
+      "w": "closing remarks",
+      "m": "폐회사"
+    },
+    {
+      "w": "slot",
+      "m": "시간대, 할당"
+    },
+    {
+      "w": "binding",
+      "m": "구속력 있는"
+    },
+    {
+      "w": "arbitration",
+      "m": "중재"
+    },
+    {
+      "w": "acknowledge",
+      "m": "수신 확인하다"
+    },
+    {
+      "w": "FOB",
+      "m": "본선 인도 조건"
+    },
+    {
+      "w": "multitasking",
+      "m": "다중 작업"
+    },
+    {
+      "w": "voucher",
+      "m": "전표, 바우처"
+    },
+    {
+      "w": "corporate governance",
+      "m": "기업 지배구조"
+    },
+    {
+      "w": "probation",
+      "m": "수습 기간"
+    },
+    {
+      "w": "restructuring",
+      "m": "구조조정"
+    },
+    {
+      "w": "testimonial",
+      "m": "추천서, 후기"
+    },
+    {
+      "w": "letter of intent",
+      "m": "의향서"
+    },
+    {
+      "w": "take it or leave it",
+      "m": "최종 제안"
+    },
+    {
+      "w": "B2C",
+      "m": "기업-소비자 거래"
+    },
+    {
+      "w": "buy-in",
+      "m": "동의, 지지"
+    },
+    {
+      "w": "coworking space",
+      "m": "공유 사무실"
+    },
+    {
+      "w": "notify",
+      "m": "통보하다"
+    },
+    {
+      "w": "inclusion",
+      "m": "포용성"
+    },
+    {
+      "w": "incubator",
+      "m": "인큐베이터"
+    },
+    {
+      "w": "invoice",
+      "m": "청구서, 송장"
+    },
+    {
+      "w": "intellectual property",
+      "m": "지적 재산권"
+    },
+    {
+      "w": "bottom line",
+      "m": "최종 수익"
+    },
+    {
+      "w": "frontend",
+      "m": "프론트엔드"
+    },
+    {
+      "w": "import",
+      "m": "수입"
+    },
+    {
+      "w": "tech stack",
+      "m": "기술 스택"
+    },
+    {
+      "w": "initiative",
+      "m": "이니셔티브, 계획"
+    },
+    {
+      "w": "target audience",
+      "m": "목표 고객층"
+    },
+    {
+      "w": "workshop",
+      "m": "워크숍, 연수"
+    },
+    {
+      "w": "competitive advantage",
+      "m": "경쟁 우위"
+    },
+    {
+      "w": "remittance",
+      "m": "송금"
+    },
+    {
+      "w": "expenditure",
+      "m": "지출, 경비"
+    },
+    {
+      "w": "touch base",
+      "m": "연락을 취하다"
+    },
+    {
+      "w": "cold call",
+      "m": "콜드콜, 비예약 전화"
+    },
+    {
+      "w": "debrief",
+      "m": "사후 보고하다"
+    },
+    {
+      "w": "quarter",
+      "m": "분기"
+    },
+    {
+      "w": "downtime",
+      "m": "중단 시간"
+    },
+    {
+      "w": "come to terms",
+      "m": "합의에 도달하다"
+    },
+    {
+      "w": "escrow",
+      "m": "에스크로, 조건부 양도"
+    },
+    {
+      "w": "rollout",
+      "m": "출시, 배포"
+    },
+    {
+      "w": "allocate",
+      "m": "할당하다, 배분하다"
+    },
+    {
+      "w": "benchmark",
+      "m": "벤치마크, 기준점"
+    },
+    {
+      "w": "impasse",
+      "m": "난관, 교착"
+    },
+    {
+      "w": "attrition",
+      "m": "자연 감소, 이직"
+    },
+    {
+      "w": "bulk shipment",
+      "m": "대량 선적"
+    },
+    {
+      "w": "drill down",
+      "m": "상세 분석하다"
+    },
+    {
+      "w": "flextime",
+      "m": "유연 근무제"
+    },
+    {
+      "w": "counterpart",
+      "m": "상대방, 대응물"
+    },
+    {
+      "w": "memo",
+      "m": "사내 메모"
+    },
+    {
+      "w": "dock",
+      "m": "부두, 선착장"
+    },
+    {
+      "w": "disruptive innovation",
+      "m": "파괴적 혁신"
+    },
+    {
+      "w": "plenary session",
+      "m": "전체 회의"
+    },
+    {
+      "w": "unicorn",
+      "m": "유니콘 기업"
+    },
+    {
+      "w": "uptime",
+      "m": "가동 시간"
+    },
+    {
+      "w": "walk away from",
+      "m": "협상을 중단하다"
+    },
+    {
+      "w": "go-to-market",
+      "m": "시장 출시 전략"
+    },
+    {
+      "w": "server",
+      "m": "서버"
+    },
+    {
+      "w": "branding",
+      "m": "브랜딩"
+    },
+    {
+      "w": "interest rate",
+      "m": "이자율"
+    },
+    {
+      "w": "principal",
+      "m": "원금"
+    },
+    {
+      "w": "at your earliest convenience",
+      "m": "가급적 빠른 시일 내에"
+    },
+    {
+      "w": "bankruptcy",
+      "m": "파산"
+    },
+    {
+      "w": "IPO",
+      "m": "기업공개"
+    },
+    {
+      "w": "harassment",
+      "m": "괴롭힘"
+    },
+    {
+      "w": "per diem",
+      "m": "일비, 출장 수당"
+    },
+    {
+      "w": "colleague",
+      "m": "동료"
+    },
+    {
+      "w": "unanimously",
+      "m": "만장일치로"
+    },
+    {
+      "w": "cut corners",
+      "m": "편법을 쓰다"
+    },
+    {
+      "w": "intern",
+      "m": "인턴"
+    },
+    {
+      "w": "point of sale",
+      "m": "판매 시점"
+    },
+    {
+      "w": "commodity",
+      "m": "원자재, 상품"
+    },
+    {
+      "w": "sales pipeline",
+      "m": "영업 파이프라인"
+    },
+    {
+      "w": "hardware",
+      "m": "하드웨어"
+    },
+    {
+      "w": "opening remarks",
+      "m": "개회사"
+    },
+    {
+      "w": "symposium",
+      "m": "학술 발표회"
+    },
+    {
+      "w": "artificial intelligence",
+      "m": "인공지능"
+    },
+    {
+      "w": "out-of-office reply",
+      "m": "부재중 자동 응답"
+    },
+    {
+      "w": "CFO",
+      "m": "최고재무책임자"
+    },
+    {
+      "w": "insolvency",
+      "m": "지급 불능"
+    },
+    {
+      "w": "SWOT analysis",
+      "m": "SWOT 분석"
+    },
+    {
+      "w": "economies of scale",
+      "m": "규모의 경제"
+    },
+    {
+      "w": "task management",
+      "m": "업무 관리"
+    },
+    {
+      "w": "loyalty program",
+      "m": "고객 충성도 프로그램"
+    },
+    {
+      "w": "tort",
+      "m": "불법행위"
+    },
+    {
+      "w": "kick-off meeting",
+      "m": "착수 회의"
+    },
+    {
+      "w": "cost of goods sold",
+      "m": "매출원가"
+    },
+    {
+      "w": "forward",
+      "m": "전달하다"
+    },
+    {
+      "w": "memorandum of understanding",
+      "m": "양해각서"
+    },
+    {
+      "w": "headcount",
+      "m": "인원수"
+    },
+    {
+      "w": "prototype",
+      "m": "프로토타입"
+    },
+    {
+      "w": "panel discussion",
+      "m": "패널 토론"
+    },
+    {
+      "w": "inspection",
+      "m": "검사, 검역"
+    },
+    {
+      "w": "value proposition",
+      "m": "가치 제안"
+    },
+    {
+      "w": "sustainability",
+      "m": "지속 가능성"
+    },
+    {
+      "w": "equity",
+      "m": "자본, 지분"
+    },
+    {
+      "w": "documentation",
+      "m": "문서화"
+    },
+    {
+      "w": "tax deduction",
+      "m": "세금 공제"
+    },
+    {
+      "w": "proxy",
+      "m": "대리인"
+    },
+    {
+      "w": "EBITDA",
+      "m": "세전영업이익"
+    },
+    {
+      "w": "think outside the box",
+      "m": "창의적으로 생각하다"
+    },
+    {
+      "w": "takeaway",
+      "m": "핵심 요점"
+    },
+    {
+      "w": "depreciation",
+      "m": "감가상각"
+    },
+    {
+      "w": "quota restriction",
+      "m": "쿼터 제한"
+    },
+    {
+      "w": "campaign",
+      "m": "캠페인"
+    },
+    {
+      "w": "enclosed",
+      "m": "동봉된"
+    },
+    {
+      "w": "deal-breaker",
+      "m": "결렬 요인"
+    },
+    {
+      "w": "audit",
+      "m": "감사"
+    },
+    {
+      "w": "on the same page",
+      "m": "같은 생각이다"
+    },
+    {
+      "w": "integration",
+      "m": "통합"
+    },
+    {
+      "w": "kindly",
+      "m": "부디, 친절히"
+    },
+    {
+      "w": "declaration",
+      "m": "신고서"
+    },
+    {
+      "w": "embargo",
+      "m": "금수 조치"
+    },
+    {
+      "w": "keynote",
+      "m": "기조연설"
+    },
+    {
+      "w": "supervisor",
+      "m": "상사, 감독자"
+    },
+    {
+      "w": "quarantine",
+      "m": "검역"
+    },
+    {
+      "w": "margin",
+      "m": "마진, 이윤"
+    },
+    {
+      "w": "acquisition",
+      "m": "인수"
+    },
+    {
+      "w": "appraisal",
+      "m": "평가"
+    },
+    {
+      "w": "conversion rate",
+      "m": "전환율"
+    },
+    {
+      "w": "interview",
+      "m": "면접"
+    },
+    {
+      "w": "circle back",
+      "m": "다시 논의하다"
+    },
+    {
+      "w": "machine learning",
+      "m": "머신 러닝"
+    },
+    {
+      "w": "bootstrapping",
+      "m": "자체 자금 운영"
+    },
+    {
+      "w": "ERP",
+      "m": "전사적 자원 관리"
+    },
+    {
+      "w": "mailing list",
+      "m": "메일링 리스트"
+    },
+    {
+      "w": "vision",
+      "m": "비전"
+    },
+    {
+      "w": "follow-up",
+      "m": "후속 조치"
+    },
+    {
+      "w": "scalability",
+      "m": "확장성"
+    },
+    {
+      "w": "copyright",
+      "m": "저작권"
+    },
+    {
+      "w": "prospect",
+      "m": "잠재 고객"
+    },
+    {
+      "w": "lead generation",
+      "m": "잠재 고객 발굴"
+    },
+    {
+      "w": "reschedule",
+      "m": "일정 변경하다"
+    },
+    {
+      "w": "attendee",
+      "m": "참석자"
+    },
+    {
+      "w": "conference call",
+      "m": "전화 회의"
+    },
+    {
+      "w": "shortlist",
+      "m": "최종 후보 명단"
+    },
+    {
+      "w": "joint venture",
+      "m": "합작 투자"
+    },
+    {
+      "w": "timeline",
+      "m": "일정표"
+    },
+    {
+      "w": "notarize",
+      "m": "공증하다"
+    },
+    {
+      "w": "negotiate",
+      "m": "협상하다"
+    },
+    {
+      "w": "streamline",
+      "m": "간소화하다"
+    },
+    {
+      "w": "firewall",
+      "m": "방화벽"
+    },
+    {
+      "w": "dissent",
+      "m": "반대 의견"
+    },
+    {
+      "w": "troubleshoot",
+      "m": "문제 해결하다"
+    },
+    {
+      "w": "inquiry",
+      "m": "문의"
+    },
+    {
+      "w": "SEO",
+      "m": "검색 엔진 최적화"
+    },
+    {
+      "w": "B2B",
+      "m": "기업 간 거래"
+    },
+    {
+      "w": "retention",
+      "m": "고객 유지"
+    },
+    {
+      "w": "customs",
+      "m": "세관"
+    },
+    {
+      "w": "recap",
+      "m": "요약, 개요"
+    },
+    {
+      "w": "adjourn sine die",
+      "m": "무기한 휴회하다"
+    },
+    {
+      "w": "angel investor",
+      "m": "엔젤 투자자"
+    }
+  ]
+}

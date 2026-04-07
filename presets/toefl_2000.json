@@ -1,0 +1,8006 @@
+{
+  "name": "토플 필수 영단어 2000",
+  "description": "TOEFL 시험 필수 영단어 2000개",
+  "words": [
+    {
+      "w": "irrigate",
+      "m": "관개하다"
+    },
+    {
+      "w": "valley",
+      "m": "계곡"
+    },
+    {
+      "w": "elaborate",
+      "m": "정교한"
+    },
+    {
+      "w": "kinetic",
+      "m": "운동의"
+    },
+    {
+      "w": "watershed",
+      "m": "분수령"
+    },
+    {
+      "w": "shallow",
+      "m": "얕은"
+    },
+    {
+      "w": "pursue",
+      "m": "추구하다"
+    },
+    {
+      "w": "tsunami",
+      "m": "쓰나미"
+    },
+    {
+      "w": "ancestor",
+      "m": "조상"
+    },
+    {
+      "w": "improvise",
+      "m": "즉흥적으로 하다"
+    },
+    {
+      "w": "arduous",
+      "m": "힘든"
+    },
+    {
+      "w": "stratum",
+      "m": "지층"
+    },
+    {
+      "w": "pertain",
+      "m": "관련되다"
+    },
+    {
+      "w": "monotonous",
+      "m": "단조로운"
+    },
+    {
+      "w": "intense",
+      "m": "강렬한"
+    },
+    {
+      "w": "quantum",
+      "m": "양자"
+    },
+    {
+      "w": "envision",
+      "m": "상상하다"
+    },
+    {
+      "w": "fumigate",
+      "m": "훈증하다"
+    },
+    {
+      "w": "portray",
+      "m": "묘사하다"
+    },
+    {
+      "w": "urban",
+      "m": "도시의"
+    },
+    {
+      "w": "particle",
+      "m": "입자"
+    },
+    {
+      "w": "invoke",
+      "m": "불러일으키다"
+    },
+    {
+      "w": "intellectual",
+      "m": "지적인"
+    },
+    {
+      "w": "scale",
+      "m": "규모"
+    },
+    {
+      "w": "cortex",
+      "m": "피질"
+    },
+    {
+      "w": "commence",
+      "m": "시작하다"
+    },
+    {
+      "w": "conclusive",
+      "m": "결정적인"
+    },
+    {
+      "w": "advocate",
+      "m": "옹호하다"
+    },
+    {
+      "w": "epoch",
+      "m": "시대"
+    },
+    {
+      "w": "antiquity",
+      "m": "고대"
+    },
+    {
+      "w": "precede",
+      "m": "앞서다"
+    },
+    {
+      "w": "extremity",
+      "m": "극단, 말단"
+    },
+    {
+      "w": "peripheral",
+      "m": "주변부의"
+    },
+    {
+      "w": "trajectory",
+      "m": "궤적"
+    },
+    {
+      "w": "anarchy",
+      "m": "무정부 상태"
+    },
+    {
+      "w": "linguistic",
+      "m": "언어학의"
+    },
+    {
+      "w": "lunar",
+      "m": "달의"
+    },
+    {
+      "w": "prospect",
+      "m": "전망"
+    },
+    {
+      "w": "hydrological",
+      "m": "수문학의"
+    },
+    {
+      "w": "cooperate",
+      "m": "협력하다"
+    },
+    {
+      "w": "compatriot",
+      "m": "동포"
+    },
+    {
+      "w": "dosage",
+      "m": "복용량"
+    },
+    {
+      "w": "junction",
+      "m": "접합점"
+    },
+    {
+      "w": "limestone",
+      "m": "석회암"
+    },
+    {
+      "w": "solitary",
+      "m": "고독한"
+    },
+    {
+      "w": "colloquial",
+      "m": "구어체의"
+    },
+    {
+      "w": "blaze",
+      "m": "불꽃, 타오르다"
+    },
+    {
+      "w": "corroborate",
+      "m": "확증하다"
+    },
+    {
+      "w": "complication",
+      "m": "합병증"
+    },
+    {
+      "w": "forerunner",
+      "m": "선구자"
+    },
+    {
+      "w": "atmosphere",
+      "m": "대기"
+    },
+    {
+      "w": "celestial",
+      "m": "천체의"
+    },
+    {
+      "w": "rational",
+      "m": "합리적인"
+    },
+    {
+      "w": "acquisition",
+      "m": "획득, 습득"
+    },
+    {
+      "w": "complexity",
+      "m": "복잡성"
+    },
+    {
+      "w": "bliss",
+      "m": "지복"
+    },
+    {
+      "w": "grudge",
+      "m": "원한"
+    },
+    {
+      "w": "invertebrate",
+      "m": "무척추동물"
+    },
+    {
+      "w": "testimony",
+      "m": "증언"
+    },
+    {
+      "w": "diameter",
+      "m": "지름"
+    },
+    {
+      "w": "combustion",
+      "m": "연소"
+    },
+    {
+      "w": "biodegradable",
+      "m": "생분해성의"
+    },
+    {
+      "w": "constellation",
+      "m": "별자리"
+    },
+    {
+      "w": "incidence",
+      "m": "발생률"
+    },
+    {
+      "w": "coherent",
+      "m": "일관된"
+    },
+    {
+      "w": "ornament",
+      "m": "장식"
+    },
+    {
+      "w": "depict",
+      "m": "묘사하다"
+    },
+    {
+      "w": "downfall",
+      "m": "몰락"
+    },
+    {
+      "w": "reveal",
+      "m": "드러내다"
+    },
+    {
+      "w": "coexist",
+      "m": "공존하다"
+    },
+    {
+      "w": "cosmopolitan",
+      "m": "세계주의적인"
+    },
+    {
+      "w": "inception",
+      "m": "시작"
+    },
+    {
+      "w": "flammable",
+      "m": "가연성의"
+    },
+    {
+      "w": "microorganism",
+      "m": "미생물"
+    },
+    {
+      "w": "ebullient",
+      "m": "열광적인"
+    },
+    {
+      "w": "postulate",
+      "m": "가정하다"
+    },
+    {
+      "w": "supersede",
+      "m": "대체하다"
+    },
+    {
+      "w": "rudimentary",
+      "m": "기초적인"
+    },
+    {
+      "w": "accretion",
+      "m": "증가, 퇴적"
+    },
+    {
+      "w": "matrix",
+      "m": "행렬, 기질"
+    },
+    {
+      "w": "hibernation",
+      "m": "동면"
+    },
+    {
+      "w": "bolster",
+      "m": "강화하다"
+    },
+    {
+      "w": "allegiance",
+      "m": "충성"
+    },
+    {
+      "w": "expand",
+      "m": "확장하다"
+    },
+    {
+      "w": "Antarctic",
+      "m": "남극의"
+    },
+    {
+      "w": "alpine",
+      "m": "고산의"
+    },
+    {
+      "w": "inert",
+      "m": "비활성의"
+    },
+    {
+      "w": "paradigm",
+      "m": "패러다임"
+    },
+    {
+      "w": "integrate",
+      "m": "통합하다"
+    },
+    {
+      "w": "democracy",
+      "m": "민주주의"
+    },
+    {
+      "w": "elemental",
+      "m": "원소의"
+    },
+    {
+      "w": "surveillance",
+      "m": "감시"
+    },
+    {
+      "w": "restrain",
+      "m": "억제하다"
+    },
+    {
+      "w": "astound",
+      "m": "깜짝 놀라게 하다"
+    },
+    {
+      "w": "sacred",
+      "m": "신성한"
+    },
+    {
+      "w": "phenomenon",
+      "m": "현상"
+    },
+    {
+      "w": "nominate",
+      "m": "지명하다"
+    },
+    {
+      "w": "rectify",
+      "m": "시정하다"
+    },
+    {
+      "w": "conduction",
+      "m": "전도"
+    },
+    {
+      "w": "artisan",
+      "m": "장인"
+    },
+    {
+      "w": "demography",
+      "m": "인구통계학"
+    },
+    {
+      "w": "epidemic",
+      "m": "유행병"
+    },
+    {
+      "w": "autonomous",
+      "m": "자율적인"
+    },
+    {
+      "w": "promote",
+      "m": "촉진하다"
+    },
+    {
+      "w": "pathology",
+      "m": "병리학"
+    },
+    {
+      "w": "buoyancy",
+      "m": "부력"
+    },
+    {
+      "w": "torrent",
+      "m": "급류"
+    },
+    {
+      "w": "genotype",
+      "m": "유전자형"
+    },
+    {
+      "w": "subordinate",
+      "m": "종속적인"
+    },
+    {
+      "w": "dominate",
+      "m": "지배하다"
+    },
+    {
+      "w": "regiment",
+      "m": "연대"
+    },
+    {
+      "w": "deploy",
+      "m": "배치하다"
+    },
+    {
+      "w": "sustain",
+      "m": "유지하다"
+    },
+    {
+      "w": "alluvial",
+      "m": "충적의"
+    },
+    {
+      "w": "compulsion",
+      "m": "충동, 강제"
+    },
+    {
+      "w": "cumulative",
+      "m": "누적의"
+    },
+    {
+      "w": "hospitable",
+      "m": "환대하는"
+    },
+    {
+      "w": "alteration",
+      "m": "변경"
+    },
+    {
+      "w": "legacy",
+      "m": "유산"
+    },
+    {
+      "w": "receptor",
+      "m": "수용체"
+    },
+    {
+      "w": "tectonic",
+      "m": "지각의"
+    },
+    {
+      "w": "arboreal",
+      "m": "나무의"
+    },
+    {
+      "w": "extrinsic",
+      "m": "외적인"
+    },
+    {
+      "w": "phase",
+      "m": "단계"
+    },
+    {
+      "w": "dilemma",
+      "m": "딜레마"
+    },
+    {
+      "w": "transition",
+      "m": "전환"
+    },
+    {
+      "w": "igneous",
+      "m": "화성암의"
+    },
+    {
+      "w": "insect",
+      "m": "곤충"
+    },
+    {
+      "w": "fulcrum",
+      "m": "지렛대 받침점"
+    },
+    {
+      "w": "invade",
+      "m": "침략하다"
+    },
+    {
+      "w": "boundary",
+      "m": "경계"
+    },
+    {
+      "w": "esteem",
+      "m": "존경"
+    },
+    {
+      "w": "bloom",
+      "m": "개화"
+    },
+    {
+      "w": "outline",
+      "m": "개요"
+    },
+    {
+      "w": "sequence",
+      "m": "순서"
+    },
+    {
+      "w": "byproduct",
+      "m": "부산물"
+    },
+    {
+      "w": "sole",
+      "m": "유일한"
+    },
+    {
+      "w": "photovoltaic",
+      "m": "광전지의"
+    },
+    {
+      "w": "alkaline",
+      "m": "알칼리성의"
+    },
+    {
+      "w": "illicit",
+      "m": "불법의"
+    },
+    {
+      "w": "volatile",
+      "m": "휘발성의"
+    },
+    {
+      "w": "adept",
+      "m": "숙련된"
+    },
+    {
+      "w": "scarce",
+      "m": "부족한"
+    },
+    {
+      "w": "entomology",
+      "m": "곤충학"
+    },
+    {
+      "w": "helix",
+      "m": "나선"
+    },
+    {
+      "w": "concurrent",
+      "m": "동시의"
+    },
+    {
+      "w": "fetus",
+      "m": "태아"
+    },
+    {
+      "w": "rigid",
+      "m": "엄격한, 단단한"
+    },
+    {
+      "w": "vertebrate",
+      "m": "척추동물"
+    },
+    {
+      "w": "confine",
+      "m": "제한하다"
+    },
+    {
+      "w": "subscribe",
+      "m": "구독하다"
+    },
+    {
+      "w": "restore",
+      "m": "복원하다"
+    },
+    {
+      "w": "incentive",
+      "m": "동기, 장려책"
+    },
+    {
+      "w": "hemoglobin",
+      "m": "헤모글로빈"
+    },
+    {
+      "w": "geology",
+      "m": "지질학"
+    },
+    {
+      "w": "enlightenment",
+      "m": "계몽"
+    },
+    {
+      "w": "prior",
+      "m": "이전의"
+    },
+    {
+      "w": "allure",
+      "m": "매력"
+    },
+    {
+      "w": "reverse",
+      "m": "역전시키다"
+    },
+    {
+      "w": "boreal",
+      "m": "북방의"
+    },
+    {
+      "w": "velocity",
+      "m": "속도"
+    },
+    {
+      "w": "acidic",
+      "m": "산성의"
+    },
+    {
+      "w": "reef",
+      "m": "암초"
+    },
+    {
+      "w": "era",
+      "m": "시대"
+    },
+    {
+      "w": "constituent",
+      "m": "구성요소"
+    },
+    {
+      "w": "dwindle",
+      "m": "줄어들다"
+    },
+    {
+      "w": "efficacious",
+      "m": "효과적인"
+    },
+    {
+      "w": "instigate",
+      "m": "선동하다"
+    },
+    {
+      "w": "project",
+      "m": "예측하다, 사업"
+    },
+    {
+      "w": "jeopardize",
+      "m": "위태롭게 하다"
+    },
+    {
+      "w": "wane",
+      "m": "줄어들다"
+    },
+    {
+      "w": "chromatic",
+      "m": "색채의"
+    },
+    {
+      "w": "brackish",
+      "m": "약간 짠"
+    },
+    {
+      "w": "conifer",
+      "m": "침엽수"
+    },
+    {
+      "w": "arbiter",
+      "m": "중재자"
+    },
+    {
+      "w": "bacteria",
+      "m": "세균"
+    },
+    {
+      "w": "establish",
+      "m": "설립하다"
+    },
+    {
+      "w": "zone",
+      "m": "지역"
+    },
+    {
+      "w": "commemorate",
+      "m": "기념하다"
+    },
+    {
+      "w": "fissure",
+      "m": "균열"
+    },
+    {
+      "w": "republic",
+      "m": "공화국"
+    },
+    {
+      "w": "cavern",
+      "m": "동굴"
+    },
+    {
+      "w": "onset",
+      "m": "시작"
+    },
+    {
+      "w": "symmetry",
+      "m": "대칭"
+    },
+    {
+      "w": "gazette",
+      "m": "관보"
+    },
+    {
+      "w": "conscience",
+      "m": "양심"
+    },
+    {
+      "w": "blight",
+      "m": "황폐, 마름병"
+    },
+    {
+      "w": "conceive",
+      "m": "임신하다, 구상하다"
+    },
+    {
+      "w": "credibility",
+      "m": "신뢰성"
+    },
+    {
+      "w": "calligraphy",
+      "m": "서예"
+    },
+    {
+      "w": "domestic",
+      "m": "국내의, 가정의"
+    },
+    {
+      "w": "porous",
+      "m": "다공성의"
+    },
+    {
+      "w": "larva",
+      "m": "유충"
+    },
+    {
+      "w": "artifact",
+      "m": "유물"
+    },
+    {
+      "w": "plague",
+      "m": "역병, 괴롭히다"
+    },
+    {
+      "w": "immerse",
+      "m": "몰입시키다"
+    },
+    {
+      "w": "indicative",
+      "m": "나타내는"
+    },
+    {
+      "w": "exploit",
+      "m": "이용하다"
+    },
+    {
+      "w": "immigration",
+      "m": "이민"
+    },
+    {
+      "w": "indispensable",
+      "m": "필수불가결한"
+    },
+    {
+      "w": "crucial",
+      "m": "결정적인"
+    },
+    {
+      "w": "simulate",
+      "m": "모의실험하다"
+    },
+    {
+      "w": "recruit",
+      "m": "모집하다"
+    },
+    {
+      "w": "mythology",
+      "m": "신화학"
+    },
+    {
+      "w": "doctrine",
+      "m": "교리, 원칙"
+    },
+    {
+      "w": "apparatus",
+      "m": "장치, 기구"
+    },
+    {
+      "w": "turbine",
+      "m": "터빈"
+    },
+    {
+      "w": "canine",
+      "m": "개의, 송곳니"
+    },
+    {
+      "w": "induce",
+      "m": "유발하다"
+    },
+    {
+      "w": "vulnerable",
+      "m": "취약한"
+    },
+    {
+      "w": "solstice",
+      "m": "지점(하지/동지)"
+    },
+    {
+      "w": "debilitate",
+      "m": "약화시키다"
+    },
+    {
+      "w": "malfunction",
+      "m": "고장"
+    },
+    {
+      "w": "coral",
+      "m": "산호"
+    },
+    {
+      "w": "substitute",
+      "m": "대체하다"
+    },
+    {
+      "w": "fidelity",
+      "m": "충실"
+    },
+    {
+      "w": "impartial",
+      "m": "공정한"
+    },
+    {
+      "w": "thrive",
+      "m": "번성하다"
+    },
+    {
+      "w": "inaugurate",
+      "m": "취임시키다"
+    },
+    {
+      "w": "crater",
+      "m": "분화구"
+    },
+    {
+      "w": "accompaniment",
+      "m": "반주, 부수물"
+    },
+    {
+      "w": "chlorophyll",
+      "m": "엽록소"
+    },
+    {
+      "w": "texture",
+      "m": "질감"
+    },
+    {
+      "w": "bustle",
+      "m": "분주함"
+    },
+    {
+      "w": "greenhouse",
+      "m": "온실"
+    },
+    {
+      "w": "species",
+      "m": "종"
+    },
+    {
+      "w": "granite",
+      "m": "화강암"
+    },
+    {
+      "w": "friction",
+      "m": "마찰"
+    },
+    {
+      "w": "inhibit",
+      "m": "억제하다"
+    },
+    {
+      "w": "competence",
+      "m": "능력"
+    },
+    {
+      "w": "fungus",
+      "m": "곰팡이, 균류"
+    },
+    {
+      "w": "accommodate",
+      "m": "수용하다"
+    },
+    {
+      "w": "amorphous",
+      "m": "무정형의"
+    },
+    {
+      "w": "elite",
+      "m": "엘리트"
+    },
+    {
+      "w": "stationary",
+      "m": "정지한"
+    },
+    {
+      "w": "cognitive",
+      "m": "인지적인"
+    },
+    {
+      "w": "bilingual",
+      "m": "이중언어의"
+    },
+    {
+      "w": "parch",
+      "m": "바싹 말리다"
+    },
+    {
+      "w": "crusade",
+      "m": "십자군, 운동"
+    },
+    {
+      "w": "microbe",
+      "m": "미생물"
+    },
+    {
+      "w": "petrify",
+      "m": "석화시키다"
+    },
+    {
+      "w": "supreme",
+      "m": "최고의"
+    },
+    {
+      "w": "cholesterol",
+      "m": "콜레스테롤"
+    },
+    {
+      "w": "hydrate",
+      "m": "수화시키다"
+    },
+    {
+      "w": "intimacy",
+      "m": "친밀감"
+    },
+    {
+      "w": "oxygen",
+      "m": "산소"
+    },
+    {
+      "w": "configuration",
+      "m": "배치, 구성"
+    },
+    {
+      "w": "represent",
+      "m": "대표하다"
+    },
+    {
+      "w": "entice",
+      "m": "유혹하다"
+    },
+    {
+      "w": "labyrinth",
+      "m": "미궁"
+    },
+    {
+      "w": "faculty",
+      "m": "학부, 능력"
+    },
+    {
+      "w": "aggravate",
+      "m": "악화시키다"
+    },
+    {
+      "w": "agenda",
+      "m": "의제"
+    },
+    {
+      "w": "calcium",
+      "m": "칼슘"
+    },
+    {
+      "w": "erode",
+      "m": "침식하다"
+    },
+    {
+      "w": "negligible",
+      "m": "무시해도 될"
+    },
+    {
+      "w": "tropic",
+      "m": "열대"
+    },
+    {
+      "w": "inertia",
+      "m": "관성"
+    },
+    {
+      "w": "hominid",
+      "m": "인류"
+    },
+    {
+      "w": "provoke",
+      "m": "도발하다"
+    },
+    {
+      "w": "theology",
+      "m": "신학"
+    },
+    {
+      "w": "ambiguous",
+      "m": "모호한"
+    },
+    {
+      "w": "modify",
+      "m": "수정하다"
+    },
+    {
+      "w": "citadel",
+      "m": "성채"
+    },
+    {
+      "w": "vegetation",
+      "m": "초목"
+    },
+    {
+      "w": "verify",
+      "m": "확인하다"
+    },
+    {
+      "w": "tremendous",
+      "m": "엄청난"
+    },
+    {
+      "w": "faction",
+      "m": "파벌"
+    },
+    {
+      "w": "ion",
+      "m": "이온"
+    },
+    {
+      "w": "evocative",
+      "m": "환기시키는"
+    },
+    {
+      "w": "transfer",
+      "m": "이동, 전달"
+    },
+    {
+      "w": "interdisciplinary",
+      "m": "학제간의"
+    },
+    {
+      "w": "annex",
+      "m": "합병하다, 부속물"
+    },
+    {
+      "w": "rebellion",
+      "m": "반란"
+    },
+    {
+      "w": "archipelago",
+      "m": "군도"
+    },
+    {
+      "w": "dilute",
+      "m": "희석하다"
+    },
+    {
+      "w": "decomposition",
+      "m": "분해"
+    },
+    {
+      "w": "demonstrate",
+      "m": "증명하다"
+    },
+    {
+      "w": "germinate",
+      "m": "발아하다"
+    },
+    {
+      "w": "tangible",
+      "m": "실체가 있는"
+    },
+    {
+      "w": "subsequent",
+      "m": "이후의"
+    },
+    {
+      "w": "designate",
+      "m": "지정하다"
+    },
+    {
+      "w": "mimic",
+      "m": "모방하다"
+    },
+    {
+      "w": "insatiable",
+      "m": "만족할 줄 모르는"
+    },
+    {
+      "w": "vertical",
+      "m": "수직의"
+    },
+    {
+      "w": "aesthetic",
+      "m": "미적인"
+    },
+    {
+      "w": "undermine",
+      "m": "약화시키다"
+    },
+    {
+      "w": "subtle",
+      "m": "미묘한"
+    },
+    {
+      "w": "annotate",
+      "m": "주석을 달다"
+    },
+    {
+      "w": "vaccine",
+      "m": "백신"
+    },
+    {
+      "w": "abundant",
+      "m": "풍부한"
+    },
+    {
+      "w": "viscosity",
+      "m": "점성"
+    },
+    {
+      "w": "dimension",
+      "m": "차원"
+    },
+    {
+      "w": "spectrum",
+      "m": "스펙트럼"
+    },
+    {
+      "w": "caustic",
+      "m": "부식성의"
+    },
+    {
+      "w": "carnivore",
+      "m": "육식동물"
+    },
+    {
+      "w": "migrate",
+      "m": "이주하다"
+    },
+    {
+      "w": "deposit",
+      "m": "퇴적물, 예금"
+    },
+    {
+      "w": "persist",
+      "m": "지속하다"
+    },
+    {
+      "w": "populace",
+      "m": "주민"
+    },
+    {
+      "w": "residue",
+      "m": "잔류물"
+    },
+    {
+      "w": "terrestrial",
+      "m": "지구의, 육상의"
+    },
+    {
+      "w": "capitulate",
+      "m": "항복하다"
+    },
+    {
+      "w": "coercion",
+      "m": "강제"
+    },
+    {
+      "w": "exceed",
+      "m": "초과하다"
+    },
+    {
+      "w": "imminent",
+      "m": "임박한"
+    },
+    {
+      "w": "virtual",
+      "m": "가상의"
+    },
+    {
+      "w": "exterior",
+      "m": "외부의"
+    },
+    {
+      "w": "export",
+      "m": "수출"
+    },
+    {
+      "w": "essential",
+      "m": "필수적인"
+    },
+    {
+      "w": "cartilage",
+      "m": "연골"
+    },
+    {
+      "w": "patriarch",
+      "m": "족장, 가장"
+    },
+    {
+      "w": "lateral",
+      "m": "측면의"
+    },
+    {
+      "w": "disparity",
+      "m": "격차"
+    },
+    {
+      "w": "anomaly",
+      "m": "이례적인 것"
+    },
+    {
+      "w": "correspond",
+      "m": "일치하다"
+    },
+    {
+      "w": "cohesion",
+      "m": "결합, 응집력"
+    },
+    {
+      "w": "uplift",
+      "m": "융기, 고양"
+    },
+    {
+      "w": "psychiatric",
+      "m": "정신의학의"
+    },
+    {
+      "w": "resistance",
+      "m": "저항"
+    },
+    {
+      "w": "institute",
+      "m": "연구소, 제정하다"
+    },
+    {
+      "w": "expenditure",
+      "m": "지출"
+    },
+    {
+      "w": "inscribe",
+      "m": "새기다"
+    },
+    {
+      "w": "lacquer",
+      "m": "래커, 옻칠"
+    },
+    {
+      "w": "vivid",
+      "m": "생생한"
+    },
+    {
+      "w": "wield",
+      "m": "휘두르다"
+    },
+    {
+      "w": "decipher",
+      "m": "해독하다"
+    },
+    {
+      "w": "prejudice",
+      "m": "편견"
+    },
+    {
+      "w": "humidity",
+      "m": "습도"
+    },
+    {
+      "w": "ephemeral",
+      "m": "일시적인"
+    },
+    {
+      "w": "deflect",
+      "m": "빗나가게 하다"
+    },
+    {
+      "w": "gullible",
+      "m": "잘 속는"
+    },
+    {
+      "w": "scaffold",
+      "m": "비계, 발판"
+    },
+    {
+      "w": "commodity",
+      "m": "상품, 원자재"
+    },
+    {
+      "w": "fracture",
+      "m": "골절, 균열"
+    },
+    {
+      "w": "vibrant",
+      "m": "활기찬"
+    },
+    {
+      "w": "prosperity",
+      "m": "번영"
+    },
+    {
+      "w": "tribal",
+      "m": "부족의"
+    },
+    {
+      "w": "counterfeit",
+      "m": "위조의"
+    },
+    {
+      "w": "biological",
+      "m": "생물학적인"
+    },
+    {
+      "w": "sonar",
+      "m": "수중음파탐지기"
+    },
+    {
+      "w": "demise",
+      "m": "죽음, 종말"
+    },
+    {
+      "w": "enumerate",
+      "m": "열거하다"
+    },
+    {
+      "w": "concession",
+      "m": "양보"
+    },
+    {
+      "w": "entrepreneur",
+      "m": "기업가"
+    },
+    {
+      "w": "forensic",
+      "m": "법의학의"
+    },
+    {
+      "w": "polarize",
+      "m": "양극화시키다"
+    },
+    {
+      "w": "excise",
+      "m": "소비세"
+    },
+    {
+      "w": "definitive",
+      "m": "최종적인"
+    },
+    {
+      "w": "territory",
+      "m": "영토"
+    },
+    {
+      "w": "maternal",
+      "m": "모성의"
+    },
+    {
+      "w": "deforestation",
+      "m": "삼림 벌채"
+    },
+    {
+      "w": "overt",
+      "m": "공공연한"
+    },
+    {
+      "w": "offspring",
+      "m": "자손"
+    },
+    {
+      "w": "disparage",
+      "m": "폄하하다"
+    },
+    {
+      "w": "geothermal",
+      "m": "지열의"
+    },
+    {
+      "w": "treaty",
+      "m": "조약"
+    },
+    {
+      "w": "impede",
+      "m": "방해하다"
+    },
+    {
+      "w": "brazen",
+      "m": "뻔뻔한"
+    },
+    {
+      "w": "insurgent",
+      "m": "반란군"
+    },
+    {
+      "w": "conspire",
+      "m": "공모하다"
+    },
+    {
+      "w": "conception",
+      "m": "개념, 임신"
+    },
+    {
+      "w": "gorge",
+      "m": "협곡"
+    },
+    {
+      "w": "frond",
+      "m": "잎사귀"
+    },
+    {
+      "w": "wilderness",
+      "m": "황야"
+    },
+    {
+      "w": "imperialism",
+      "m": "제국주의"
+    },
+    {
+      "w": "implicate",
+      "m": "연루시키다"
+    },
+    {
+      "w": "organic",
+      "m": "유기적인"
+    },
+    {
+      "w": "cavity",
+      "m": "충치, 공동"
+    },
+    {
+      "w": "alignment",
+      "m": "정렬"
+    },
+    {
+      "w": "redundant",
+      "m": "불필요한"
+    },
+    {
+      "w": "entity",
+      "m": "실체"
+    },
+    {
+      "w": "efficient",
+      "m": "효율적인"
+    },
+    {
+      "w": "dormancy",
+      "m": "휴면"
+    },
+    {
+      "w": "tract",
+      "m": "넓은 지역"
+    },
+    {
+      "w": "exorbitant",
+      "m": "터무니없는"
+    },
+    {
+      "w": "proportion",
+      "m": "비율"
+    },
+    {
+      "w": "expedient",
+      "m": "편의적인"
+    },
+    {
+      "w": "deplete",
+      "m": "고갈시키다"
+    },
+    {
+      "w": "prompt",
+      "m": "촉발하다"
+    },
+    {
+      "w": "competent",
+      "m": "유능한"
+    },
+    {
+      "w": "biotic",
+      "m": "생물적인"
+    },
+    {
+      "w": "topsoil",
+      "m": "표토"
+    },
+    {
+      "w": "neutron",
+      "m": "중성자"
+    },
+    {
+      "w": "blemish",
+      "m": "흠, 결점"
+    },
+    {
+      "w": "warrant",
+      "m": "정당화하다"
+    },
+    {
+      "w": "fluctuate",
+      "m": "변동하다"
+    },
+    {
+      "w": "lush",
+      "m": "무성한"
+    },
+    {
+      "w": "influx",
+      "m": "유입"
+    },
+    {
+      "w": "superimpose",
+      "m": "겹쳐 놓다"
+    },
+    {
+      "w": "asylum",
+      "m": "망명, 보호소"
+    },
+    {
+      "w": "zoology",
+      "m": "동물학"
+    },
+    {
+      "w": "deteriorate",
+      "m": "악화되다"
+    },
+    {
+      "w": "nutrient",
+      "m": "영양소"
+    },
+    {
+      "w": "incongruous",
+      "m": "부조화의"
+    },
+    {
+      "w": "euphoria",
+      "m": "행복감"
+    },
+    {
+      "w": "permanent",
+      "m": "영구적인"
+    },
+    {
+      "w": "core",
+      "m": "핵심"
+    },
+    {
+      "w": "derivative",
+      "m": "파생의"
+    },
+    {
+      "w": "prohibit",
+      "m": "금지하다"
+    },
+    {
+      "w": "juvenile",
+      "m": "청소년의"
+    },
+    {
+      "w": "abstraction",
+      "m": "추상화"
+    },
+    {
+      "w": "adhesive",
+      "m": "접착성의"
+    },
+    {
+      "w": "Arctic",
+      "m": "북극의"
+    },
+    {
+      "w": "respiration",
+      "m": "호흡"
+    },
+    {
+      "w": "unveil",
+      "m": "공개하다"
+    },
+    {
+      "w": "angular",
+      "m": "각진"
+    },
+    {
+      "w": "nucleus",
+      "m": "핵"
+    },
+    {
+      "w": "bourgeois",
+      "m": "부르주아의"
+    },
+    {
+      "w": "serenity",
+      "m": "평온"
+    },
+    {
+      "w": "recur",
+      "m": "재발하다"
+    },
+    {
+      "w": "monumental",
+      "m": "기념비적인"
+    },
+    {
+      "w": "feeble",
+      "m": "허약한"
+    },
+    {
+      "w": "ozone",
+      "m": "오존"
+    },
+    {
+      "w": "gestation",
+      "m": "임신기"
+    },
+    {
+      "w": "unique",
+      "m": "독특한"
+    },
+    {
+      "w": "aquatic",
+      "m": "수중의"
+    },
+    {
+      "w": "prehistoric",
+      "m": "선사시대의"
+    },
+    {
+      "w": "pharmaceutical",
+      "m": "제약의"
+    },
+    {
+      "w": "retaliate",
+      "m": "보복하다"
+    },
+    {
+      "w": "bipolar",
+      "m": "양극성의"
+    },
+    {
+      "w": "barrier",
+      "m": "장벽"
+    },
+    {
+      "w": "consent",
+      "m": "동의"
+    },
+    {
+      "w": "transform",
+      "m": "변형하다"
+    },
+    {
+      "w": "distillation",
+      "m": "증류"
+    },
+    {
+      "w": "pesticide",
+      "m": "살충제"
+    },
+    {
+      "w": "recession",
+      "m": "경기 침체"
+    },
+    {
+      "w": "decompose",
+      "m": "분해하다"
+    },
+    {
+      "w": "unbiased",
+      "m": "편견 없는"
+    },
+    {
+      "w": "bizarre",
+      "m": "기이한"
+    },
+    {
+      "w": "mortality",
+      "m": "사망률"
+    },
+    {
+      "w": "aspiration",
+      "m": "열망"
+    },
+    {
+      "w": "reluctant",
+      "m": "꺼리는"
+    },
+    {
+      "w": "monetary",
+      "m": "화폐의"
+    },
+    {
+      "w": "peninsula",
+      "m": "반도"
+    },
+    {
+      "w": "clad",
+      "m": "입힌"
+    },
+    {
+      "w": "incubate",
+      "m": "배양하다"
+    },
+    {
+      "w": "cataclysm",
+      "m": "대변동"
+    },
+    {
+      "w": "radical",
+      "m": "급진적인"
+    },
+    {
+      "w": "petition",
+      "m": "청원"
+    },
+    {
+      "w": "detrimental",
+      "m": "해로운"
+    },
+    {
+      "w": "speculate",
+      "m": "추측하다"
+    },
+    {
+      "w": "decade",
+      "m": "10년"
+    },
+    {
+      "w": "deciduous",
+      "m": "낙엽성의"
+    },
+    {
+      "w": "aggregate",
+      "m": "집합체, 모으다"
+    },
+    {
+      "w": "glacier",
+      "m": "빙하"
+    },
+    {
+      "w": "industrialization",
+      "m": "산업화"
+    },
+    {
+      "w": "covenant",
+      "m": "계약, 서약"
+    },
+    {
+      "w": "outcome",
+      "m": "결과"
+    },
+    {
+      "w": "deter",
+      "m": "단념시키다"
+    },
+    {
+      "w": "grotesque",
+      "m": "기괴한"
+    },
+    {
+      "w": "heterogeneous",
+      "m": "이질적인"
+    },
+    {
+      "w": "corrosion",
+      "m": "부식"
+    },
+    {
+      "w": "transmit",
+      "m": "전송하다"
+    },
+    {
+      "w": "sufficient",
+      "m": "충분한"
+    },
+    {
+      "w": "enclave",
+      "m": "고립지"
+    },
+    {
+      "w": "ulterior",
+      "m": "숨겨진"
+    },
+    {
+      "w": "tranquil",
+      "m": "평온한"
+    },
+    {
+      "w": "stratify",
+      "m": "층으로 나누다"
+    },
+    {
+      "w": "basalt",
+      "m": "현무암"
+    },
+    {
+      "w": "gravel",
+      "m": "자갈"
+    },
+    {
+      "w": "ferocious",
+      "m": "사나운"
+    },
+    {
+      "w": "syndrome",
+      "m": "증후군"
+    },
+    {
+      "w": "denounce",
+      "m": "비난하다"
+    },
+    {
+      "w": "repository",
+      "m": "저장소"
+    },
+    {
+      "w": "morality",
+      "m": "도덕성"
+    },
+    {
+      "w": "granular",
+      "m": "알갱이 모양의"
+    },
+    {
+      "w": "category",
+      "m": "범주"
+    },
+    {
+      "w": "coup",
+      "m": "쿠데타"
+    },
+    {
+      "w": "expertise",
+      "m": "전문 지식"
+    },
+    {
+      "w": "framework",
+      "m": "틀, 체계"
+    },
+    {
+      "w": "eliminate",
+      "m": "제거하다"
+    },
+    {
+      "w": "overwhelm",
+      "m": "압도하다"
+    },
+    {
+      "w": "prevalent",
+      "m": "널리 퍼진"
+    },
+    {
+      "w": "curator",
+      "m": "관장, 큐레이터"
+    },
+    {
+      "w": "presume",
+      "m": "추정하다"
+    },
+    {
+      "w": "perception",
+      "m": "인식"
+    },
+    {
+      "w": "paradox",
+      "m": "역설"
+    },
+    {
+      "w": "fugitive",
+      "m": "도망자"
+    },
+    {
+      "w": "biometric",
+      "m": "생체인식의"
+    },
+    {
+      "w": "futile",
+      "m": "헛된"
+    },
+    {
+      "w": "stem",
+      "m": "줄기, 유래하다"
+    },
+    {
+      "w": "criteria",
+      "m": "기준"
+    },
+    {
+      "w": "eternity",
+      "m": "영원"
+    },
+    {
+      "w": "ubiquitous",
+      "m": "어디에나 있는"
+    },
+    {
+      "w": "ceramic",
+      "m": "도자기의"
+    },
+    {
+      "w": "perishable",
+      "m": "부패하기 쉬운"
+    },
+    {
+      "w": "navigate",
+      "m": "항해하다"
+    },
+    {
+      "w": "inherent",
+      "m": "내재된"
+    },
+    {
+      "w": "amendment",
+      "m": "수정안"
+    },
+    {
+      "w": "equinox",
+      "m": "춘추분점"
+    },
+    {
+      "w": "asymmetric",
+      "m": "비대칭의"
+    },
+    {
+      "w": "urbanization",
+      "m": "도시화"
+    },
+    {
+      "w": "textbook",
+      "m": "교과서"
+    },
+    {
+      "w": "mechanism",
+      "m": "메커니즘"
+    },
+    {
+      "w": "composite",
+      "m": "합성의"
+    },
+    {
+      "w": "confront",
+      "m": "직면하다"
+    },
+    {
+      "w": "inspect",
+      "m": "검사하다"
+    },
+    {
+      "w": "consultant",
+      "m": "컨설턴트"
+    },
+    {
+      "w": "quota",
+      "m": "할당량"
+    },
+    {
+      "w": "terminate",
+      "m": "종료시키다"
+    },
+    {
+      "w": "motif",
+      "m": "모티프, 주제"
+    },
+    {
+      "w": "impair",
+      "m": "손상시키다"
+    },
+    {
+      "w": "locomotion",
+      "m": "이동, 운동"
+    },
+    {
+      "w": "norm",
+      "m": "규범"
+    },
+    {
+      "w": "amnesty",
+      "m": "사면"
+    },
+    {
+      "w": "successive",
+      "m": "연속적인"
+    },
+    {
+      "w": "inverse",
+      "m": "반대의"
+    },
+    {
+      "w": "chromosome",
+      "m": "염색체"
+    },
+    {
+      "w": "proposition",
+      "m": "제안"
+    },
+    {
+      "w": "crust",
+      "m": "지각"
+    },
+    {
+      "w": "ethereal",
+      "m": "천상의"
+    },
+    {
+      "w": "outweigh",
+      "m": "~보다 크다"
+    },
+    {
+      "w": "incipient",
+      "m": "초기의"
+    },
+    {
+      "w": "cylindrical",
+      "m": "원통형의"
+    },
+    {
+      "w": "emaciate",
+      "m": "야위게 하다"
+    },
+    {
+      "w": "exert",
+      "m": "발휘하다"
+    },
+    {
+      "w": "additive",
+      "m": "첨가제"
+    },
+    {
+      "w": "fatigue",
+      "m": "피로"
+    },
+    {
+      "w": "shelter",
+      "m": "보호소"
+    },
+    {
+      "w": "judicial",
+      "m": "사법의"
+    },
+    {
+      "w": "bellicose",
+      "m": "호전적인"
+    },
+    {
+      "w": "engrave",
+      "m": "새기다"
+    },
+    {
+      "w": "plumage",
+      "m": "깃털"
+    },
+    {
+      "w": "predator",
+      "m": "포식자"
+    },
+    {
+      "w": "monopoly",
+      "m": "독점"
+    },
+    {
+      "w": "resemble",
+      "m": "닮다"
+    },
+    {
+      "w": "continuity",
+      "m": "연속성"
+    },
+    {
+      "w": "fanatical",
+      "m": "광신적인"
+    },
+    {
+      "w": "auspicious",
+      "m": "길조의"
+    },
+    {
+      "w": "accession",
+      "m": "즉위, 가입"
+    },
+    {
+      "w": "inventory",
+      "m": "재고 목록"
+    },
+    {
+      "w": "akin",
+      "m": "유사한"
+    },
+    {
+      "w": "intercept",
+      "m": "가로채다"
+    },
+    {
+      "w": "referendum",
+      "m": "국민투표"
+    },
+    {
+      "w": "effervescent",
+      "m": "거품이 이는"
+    },
+    {
+      "w": "nationalism",
+      "m": "민족주의"
+    },
+    {
+      "w": "classify",
+      "m": "분류하다"
+    },
+    {
+      "w": "crystallize",
+      "m": "결정화하다"
+    },
+    {
+      "w": "intersection",
+      "m": "교차점"
+    },
+    {
+      "w": "exasperate",
+      "m": "격분시키다"
+    },
+    {
+      "w": "orthodox",
+      "m": "정통의"
+    },
+    {
+      "w": "archaic",
+      "m": "고풍의, 구식의"
+    },
+    {
+      "w": "introspection",
+      "m": "자기 성찰"
+    },
+    {
+      "w": "glucose",
+      "m": "포도당"
+    },
+    {
+      "w": "populate",
+      "m": "거주하다"
+    },
+    {
+      "w": "mandate",
+      "m": "명령, 권한"
+    },
+    {
+      "w": "shift",
+      "m": "변화, 이동"
+    },
+    {
+      "w": "linear",
+      "m": "직선의"
+    },
+    {
+      "w": "fermentation",
+      "m": "발효"
+    },
+    {
+      "w": "disdain",
+      "m": "경멸"
+    },
+    {
+      "w": "civilization",
+      "m": "문명"
+    },
+    {
+      "w": "transplant",
+      "m": "이식하다"
+    },
+    {
+      "w": "adversary",
+      "m": "적"
+    },
+    {
+      "w": "innovation",
+      "m": "혁신"
+    },
+    {
+      "w": "recycle",
+      "m": "재활용하다"
+    },
+    {
+      "w": "assess",
+      "m": "평가하다"
+    },
+    {
+      "w": "causation",
+      "m": "인과관계"
+    },
+    {
+      "w": "subsidy",
+      "m": "보조금"
+    },
+    {
+      "w": "lament",
+      "m": "한탄하다"
+    },
+    {
+      "w": "embryonic",
+      "m": "배아의"
+    },
+    {
+      "w": "divergence",
+      "m": "분기"
+    },
+    {
+      "w": "ancestral",
+      "m": "조상의"
+    },
+    {
+      "w": "connote",
+      "m": "함축하다"
+    },
+    {
+      "w": "ascribe",
+      "m": "~의 탓으로 돌리다"
+    },
+    {
+      "w": "assortment",
+      "m": "모음, 구색"
+    },
+    {
+      "w": "lucid",
+      "m": "명쾌한"
+    },
+    {
+      "w": "regulate",
+      "m": "규제하다"
+    },
+    {
+      "w": "alleviate",
+      "m": "완화하다"
+    },
+    {
+      "w": "ideological",
+      "m": "이념적인"
+    },
+    {
+      "w": "animosity",
+      "m": "적개심"
+    },
+    {
+      "w": "database",
+      "m": "데이터베이스"
+    },
+    {
+      "w": "decadence",
+      "m": "퇴폐"
+    },
+    {
+      "w": "curtail",
+      "m": "축소하다"
+    },
+    {
+      "w": "clarity",
+      "m": "명확성"
+    },
+    {
+      "w": "cornerstone",
+      "m": "초석"
+    },
+    {
+      "w": "infinite",
+      "m": "무한한"
+    },
+    {
+      "w": "translucent",
+      "m": "반투명한"
+    },
+    {
+      "w": "hemisphere",
+      "m": "반구"
+    },
+    {
+      "w": "adequate",
+      "m": "적절한, 충분한"
+    },
+    {
+      "w": "compulsory",
+      "m": "의무적인"
+    },
+    {
+      "w": "jagged",
+      "m": "들쭉날쭉한"
+    },
+    {
+      "w": "lethal",
+      "m": "치명적인"
+    },
+    {
+      "w": "appetite",
+      "m": "식욕, 욕구"
+    },
+    {
+      "w": "sensation",
+      "m": "감각"
+    },
+    {
+      "w": "herald",
+      "m": "예고하다"
+    },
+    {
+      "w": "frivolous",
+      "m": "경솔한"
+    },
+    {
+      "w": "radius",
+      "m": "반지름"
+    },
+    {
+      "w": "primate",
+      "m": "영장류"
+    },
+    {
+      "w": "dormant",
+      "m": "휴면 중인"
+    },
+    {
+      "w": "preserve",
+      "m": "보존하다"
+    },
+    {
+      "w": "convergence",
+      "m": "수렴"
+    },
+    {
+      "w": "ethnic",
+      "m": "민족의"
+    },
+    {
+      "w": "innate",
+      "m": "선천적인"
+    },
+    {
+      "w": "glacial",
+      "m": "빙하의"
+    },
+    {
+      "w": "futility",
+      "m": "무익함"
+    },
+    {
+      "w": "felicity",
+      "m": "행복"
+    },
+    {
+      "w": "paleontology",
+      "m": "고생물학"
+    },
+    {
+      "w": "administer",
+      "m": "관리하다"
+    },
+    {
+      "w": "affiliate",
+      "m": "제휴하다"
+    },
+    {
+      "w": "thermal",
+      "m": "열의"
+    },
+    {
+      "w": "bestow",
+      "m": "수여하다"
+    },
+    {
+      "w": "nuclear",
+      "m": "핵의"
+    },
+    {
+      "w": "magnitude",
+      "m": "크기, 규모"
+    },
+    {
+      "w": "ecosystem",
+      "m": "생태계"
+    },
+    {
+      "w": "contraction",
+      "m": "수축"
+    },
+    {
+      "w": "choreography",
+      "m": "안무"
+    },
+    {
+      "w": "relevant",
+      "m": "관련 있는"
+    },
+    {
+      "w": "expedition",
+      "m": "탐험"
+    },
+    {
+      "w": "precipitate",
+      "m": "촉진시키다"
+    },
+    {
+      "w": "element",
+      "m": "요소, 원소"
+    },
+    {
+      "w": "justify",
+      "m": "정당화하다"
+    },
+    {
+      "w": "compliment",
+      "m": "칭찬"
+    },
+    {
+      "w": "autoimmune",
+      "m": "자가면역의"
+    },
+    {
+      "w": "heritage",
+      "m": "유산"
+    },
+    {
+      "w": "precursor",
+      "m": "선구자"
+    },
+    {
+      "w": "annotated",
+      "m": "주석이 달린"
+    },
+    {
+      "w": "ultraviolet",
+      "m": "자외선의"
+    },
+    {
+      "w": "negotiate",
+      "m": "협상하다"
+    },
+    {
+      "w": "assemble",
+      "m": "조립하다, 모이다"
+    },
+    {
+      "w": "radiant",
+      "m": "빛나는"
+    },
+    {
+      "w": "perpetual",
+      "m": "영원한"
+    },
+    {
+      "w": "meteorite",
+      "m": "운석"
+    },
+    {
+      "w": "deprive",
+      "m": "박탈하다"
+    },
+    {
+      "w": "languish",
+      "m": "시들다"
+    },
+    {
+      "w": "insight",
+      "m": "통찰력"
+    },
+    {
+      "w": "fragile",
+      "m": "깨지기 쉬운"
+    },
+    {
+      "w": "grievance",
+      "m": "불만"
+    },
+    {
+      "w": "circa",
+      "m": "약, 대략"
+    },
+    {
+      "w": "auditory",
+      "m": "청각의"
+    },
+    {
+      "w": "amiable",
+      "m": "상냥한"
+    },
+    {
+      "w": "panorama",
+      "m": "전경"
+    },
+    {
+      "w": "pedagogy",
+      "m": "교육학"
+    },
+    {
+      "w": "interact",
+      "m": "상호작용하다"
+    },
+    {
+      "w": "threshold",
+      "m": "문턱, 임계점"
+    },
+    {
+      "w": "determinant",
+      "m": "결정요인"
+    },
+    {
+      "w": "colossal",
+      "m": "거대한"
+    },
+    {
+      "w": "bilateral",
+      "m": "양측의"
+    },
+    {
+      "w": "inept",
+      "m": "서투른"
+    },
+    {
+      "w": "enforce",
+      "m": "시행하다"
+    },
+    {
+      "w": "impulse",
+      "m": "충동"
+    },
+    {
+      "w": "cytoplasm",
+      "m": "세포질"
+    },
+    {
+      "w": "topography",
+      "m": "지형학"
+    },
+    {
+      "w": "extravagant",
+      "m": "사치스러운"
+    },
+    {
+      "w": "preside",
+      "m": "주재하다"
+    },
+    {
+      "w": "habitable",
+      "m": "거주 가능한"
+    },
+    {
+      "w": "sedimentary",
+      "m": "퇴적의"
+    },
+    {
+      "w": "florid",
+      "m": "화려한"
+    },
+    {
+      "w": "jurisdiction",
+      "m": "관할권"
+    },
+    {
+      "w": "inhabit",
+      "m": "거주하다"
+    },
+    {
+      "w": "ministry",
+      "m": "부처"
+    },
+    {
+      "w": "cycle",
+      "m": "순환"
+    },
+    {
+      "w": "irrevocable",
+      "m": "되돌릴 수 없는"
+    },
+    {
+      "w": "adhere",
+      "m": "고수하다, 부착하다"
+    },
+    {
+      "w": "ailment",
+      "m": "질병"
+    },
+    {
+      "w": "validate",
+      "m": "확인하다"
+    },
+    {
+      "w": "impasse",
+      "m": "교착 상태"
+    },
+    {
+      "w": "theatrical",
+      "m": "연극의"
+    },
+    {
+      "w": "apparent",
+      "m": "명백한"
+    },
+    {
+      "w": "feral",
+      "m": "야생의"
+    },
+    {
+      "w": "intrepid",
+      "m": "대담한"
+    },
+    {
+      "w": "credence",
+      "m": "신뢰"
+    },
+    {
+      "w": "aristocrat",
+      "m": "귀족"
+    },
+    {
+      "w": "bureaucracy",
+      "m": "관료주의"
+    },
+    {
+      "w": "geological",
+      "m": "지질학적인"
+    },
+    {
+      "w": "entail",
+      "m": "수반하다"
+    },
+    {
+      "w": "range",
+      "m": "범위"
+    },
+    {
+      "w": "formulate",
+      "m": "공식화하다"
+    },
+    {
+      "w": "circumvent",
+      "m": "우회하다"
+    },
+    {
+      "w": "condense",
+      "m": "응축하다"
+    },
+    {
+      "w": "plural",
+      "m": "복수의"
+    },
+    {
+      "w": "formula",
+      "m": "공식"
+    },
+    {
+      "w": "expanse",
+      "m": "넓은 지역"
+    },
+    {
+      "w": "spectral",
+      "m": "스펙트럼의"
+    },
+    {
+      "w": "abstract",
+      "m": "추상적인"
+    },
+    {
+      "w": "composition",
+      "m": "구성, 작곡"
+    },
+    {
+      "w": "derive",
+      "m": "유래하다"
+    },
+    {
+      "w": "guild",
+      "m": "길드, 조합"
+    },
+    {
+      "w": "accumulation",
+      "m": "축적"
+    },
+    {
+      "w": "customary",
+      "m": "관례적인"
+    },
+    {
+      "w": "fossilize",
+      "m": "화석화하다"
+    },
+    {
+      "w": "extinct",
+      "m": "멸종된"
+    },
+    {
+      "w": "bonanza",
+      "m": "대박, 노다지"
+    },
+    {
+      "w": "deliberation",
+      "m": "숙의"
+    },
+    {
+      "w": "rotation",
+      "m": "회전"
+    },
+    {
+      "w": "diaphragm",
+      "m": "횡격막"
+    },
+    {
+      "w": "desiccate",
+      "m": "건조시키다"
+    },
+    {
+      "w": "marginal",
+      "m": "주변부의"
+    },
+    {
+      "w": "gregariousness",
+      "m": "사교성"
+    },
+    {
+      "w": "pioneer",
+      "m": "개척자"
+    },
+    {
+      "w": "conservation",
+      "m": "보존"
+    },
+    {
+      "w": "latent",
+      "m": "잠재적인"
+    },
+    {
+      "w": "oscillate",
+      "m": "진동하다"
+    },
+    {
+      "w": "psyche",
+      "m": "정신"
+    },
+    {
+      "w": "enmity",
+      "m": "적의"
+    },
+    {
+      "w": "pledge",
+      "m": "서약"
+    },
+    {
+      "w": "liberate",
+      "m": "해방시키다"
+    },
+    {
+      "w": "cunning",
+      "m": "교활한"
+    },
+    {
+      "w": "pottery",
+      "m": "도자기"
+    },
+    {
+      "w": "ambitious",
+      "m": "야심찬"
+    },
+    {
+      "w": "destitute",
+      "m": "극빈한"
+    },
+    {
+      "w": "excavate",
+      "m": "발굴하다"
+    },
+    {
+      "w": "hub",
+      "m": "중심지"
+    },
+    {
+      "w": "inherit",
+      "m": "상속하다"
+    },
+    {
+      "w": "genial",
+      "m": "상냥한"
+    },
+    {
+      "w": "abundance",
+      "m": "풍부함"
+    },
+    {
+      "w": "herbivore",
+      "m": "초식동물"
+    },
+    {
+      "w": "rigor",
+      "m": "엄격함"
+    },
+    {
+      "w": "dysfunction",
+      "m": "기능 장애"
+    },
+    {
+      "w": "genealogy",
+      "m": "가계도"
+    },
+    {
+      "w": "geometry",
+      "m": "기하학"
+    },
+    {
+      "w": "mentor",
+      "m": "멘토"
+    },
+    {
+      "w": "civic",
+      "m": "시민의"
+    },
+    {
+      "w": "fortitude",
+      "m": "불굴의 정신"
+    },
+    {
+      "w": "famine",
+      "m": "기근"
+    },
+    {
+      "w": "codify",
+      "m": "법전화하다"
+    },
+    {
+      "w": "climatic",
+      "m": "기후의"
+    },
+    {
+      "w": "hydrocarbon",
+      "m": "탄화수소"
+    },
+    {
+      "w": "function",
+      "m": "기능"
+    },
+    {
+      "w": "prototype",
+      "m": "원형"
+    },
+    {
+      "w": "foster",
+      "m": "촉진하다, 양육하다"
+    },
+    {
+      "w": "amplify",
+      "m": "증폭하다"
+    },
+    {
+      "w": "occupy",
+      "m": "점령하다"
+    },
+    {
+      "w": "plurality",
+      "m": "다수"
+    },
+    {
+      "w": "bond",
+      "m": "결합, 유대"
+    },
+    {
+      "w": "reconcile",
+      "m": "화해시키다"
+    },
+    {
+      "w": "pertinent",
+      "m": "적절한"
+    },
+    {
+      "w": "nominal",
+      "m": "명목상의"
+    },
+    {
+      "w": "transparent",
+      "m": "투명한"
+    },
+    {
+      "w": "coerce",
+      "m": "강요하다"
+    },
+    {
+      "w": "subsistence",
+      "m": "생존, 생계"
+    },
+    {
+      "w": "displace",
+      "m": "이동시키다"
+    },
+    {
+      "w": "decline",
+      "m": "감소하다"
+    },
+    {
+      "w": "premise",
+      "m": "전제"
+    },
+    {
+      "w": "congenital",
+      "m": "선천적인"
+    },
+    {
+      "w": "algorithm",
+      "m": "알고리즘"
+    },
+    {
+      "w": "vacuum",
+      "m": "진공"
+    },
+    {
+      "w": "affinity",
+      "m": "친화력"
+    },
+    {
+      "w": "galactic",
+      "m": "은하의"
+    },
+    {
+      "w": "consensus",
+      "m": "합의"
+    },
+    {
+      "w": "critique",
+      "m": "비평"
+    },
+    {
+      "w": "bioavailability",
+      "m": "생체이용률"
+    },
+    {
+      "w": "distribute",
+      "m": "분배하다"
+    },
+    {
+      "w": "transaction",
+      "m": "거래"
+    },
+    {
+      "w": "siege",
+      "m": "포위 공격"
+    },
+    {
+      "w": "genre",
+      "m": "장르"
+    },
+    {
+      "w": "appendix",
+      "m": "부록, 맹장"
+    },
+    {
+      "w": "disrupt",
+      "m": "방해하다"
+    },
+    {
+      "w": "anthology",
+      "m": "선집"
+    },
+    {
+      "w": "circuitry",
+      "m": "회로"
+    },
+    {
+      "w": "fractal",
+      "m": "프랙탈"
+    },
+    {
+      "w": "hydrogen",
+      "m": "수소"
+    },
+    {
+      "w": "inanimate",
+      "m": "무생물의"
+    },
+    {
+      "w": "clan",
+      "m": "씨족"
+    },
+    {
+      "w": "altitude",
+      "m": "고도"
+    },
+    {
+      "w": "frugal",
+      "m": "검소한"
+    },
+    {
+      "w": "adjacent",
+      "m": "인접한"
+    },
+    {
+      "w": "residual",
+      "m": "잔류의"
+    },
+    {
+      "w": "quantify",
+      "m": "수량화하다"
+    },
+    {
+      "w": "hyperbole",
+      "m": "과장법"
+    },
+    {
+      "w": "gastric",
+      "m": "위의"
+    },
+    {
+      "w": "contemporary",
+      "m": "현대의"
+    },
+    {
+      "w": "finite",
+      "m": "유한한"
+    },
+    {
+      "w": "upright",
+      "m": "곧은, 수직의"
+    },
+    {
+      "w": "resilient",
+      "m": "회복력 있는"
+    },
+    {
+      "w": "convene",
+      "m": "소집하다"
+    },
+    {
+      "w": "wade",
+      "m": "걸어서 건너다"
+    },
+    {
+      "w": "publicize",
+      "m": "홍보하다"
+    },
+    {
+      "w": "suburb",
+      "m": "교외"
+    },
+    {
+      "w": "illuminate",
+      "m": "비추다, 설명하다"
+    },
+    {
+      "w": "benthic",
+      "m": "해저의"
+    },
+    {
+      "w": "coronary",
+      "m": "관상동맥의"
+    },
+    {
+      "w": "alternation",
+      "m": "교대"
+    },
+    {
+      "w": "skeptical",
+      "m": "회의적인"
+    },
+    {
+      "w": "amend",
+      "m": "수정하다"
+    },
+    {
+      "w": "solar",
+      "m": "태양의"
+    },
+    {
+      "w": "restrict",
+      "m": "제한하다"
+    },
+    {
+      "w": "devote",
+      "m": "헌신하다"
+    },
+    {
+      "w": "austere",
+      "m": "엄격한, 검소한"
+    },
+    {
+      "w": "premium",
+      "m": "보험료, 프리미엄"
+    },
+    {
+      "w": "acclaim",
+      "m": "환호, 칭찬"
+    },
+    {
+      "w": "manipulate",
+      "m": "조종하다"
+    },
+    {
+      "w": "estuary",
+      "m": "하구"
+    },
+    {
+      "w": "intrude",
+      "m": "침입하다"
+    },
+    {
+      "w": "distinct",
+      "m": "뚜렷한"
+    },
+    {
+      "w": "retard",
+      "m": "지연시키다"
+    },
+    {
+      "w": "conversion",
+      "m": "전환"
+    },
+    {
+      "w": "feudal",
+      "m": "봉건적인"
+    },
+    {
+      "w": "renewable",
+      "m": "재생 가능한"
+    },
+    {
+      "w": "asset",
+      "m": "자산"
+    },
+    {
+      "w": "neural",
+      "m": "신경의"
+    },
+    {
+      "w": "expire",
+      "m": "만료되다"
+    },
+    {
+      "w": "refuge",
+      "m": "피난처"
+    },
+    {
+      "w": "perplex",
+      "m": "당혹하게 하다"
+    },
+    {
+      "w": "hectare",
+      "m": "헥타르"
+    },
+    {
+      "w": "aisle",
+      "m": "통로"
+    },
+    {
+      "w": "deliberate",
+      "m": "신중한, 고의의"
+    },
+    {
+      "w": "marsh",
+      "m": "습지"
+    },
+    {
+      "w": "edible",
+      "m": "먹을 수 있는"
+    },
+    {
+      "w": "instill",
+      "m": "주입하다"
+    },
+    {
+      "w": "specialize",
+      "m": "전문화하다"
+    },
+    {
+      "w": "aerobic",
+      "m": "호기성의"
+    },
+    {
+      "w": "diagnose",
+      "m": "진단하다"
+    },
+    {
+      "w": "ironically",
+      "m": "역설적으로"
+    },
+    {
+      "w": "persecute",
+      "m": "박해하다"
+    },
+    {
+      "w": "therapeutic",
+      "m": "치료의"
+    },
+    {
+      "w": "subside",
+      "m": "가라앉다"
+    },
+    {
+      "w": "primitive",
+      "m": "원시적인"
+    },
+    {
+      "w": "altercation",
+      "m": "말다툼"
+    },
+    {
+      "w": "confederation",
+      "m": "연합"
+    },
+    {
+      "w": "continental",
+      "m": "대륙의"
+    },
+    {
+      "w": "underestimate",
+      "m": "과소평가하다"
+    },
+    {
+      "w": "deduce",
+      "m": "추론하다"
+    },
+    {
+      "w": "hasten",
+      "m": "서두르다"
+    },
+    {
+      "w": "sporadic",
+      "m": "산발적인"
+    },
+    {
+      "w": "metaphor",
+      "m": "은유"
+    },
+    {
+      "w": "carcinogen",
+      "m": "발암물질"
+    },
+    {
+      "w": "cosmic",
+      "m": "우주의"
+    },
+    {
+      "w": "embrace",
+      "m": "받아들이다"
+    },
+    {
+      "w": "ethnicity",
+      "m": "민족성"
+    },
+    {
+      "w": "jovial",
+      "m": "쾌활한"
+    },
+    {
+      "w": "patriotic",
+      "m": "애국적인"
+    },
+    {
+      "w": "sustainable",
+      "m": "지속 가능한"
+    },
+    {
+      "w": "habitat",
+      "m": "서식지"
+    },
+    {
+      "w": "facilitate",
+      "m": "용이하게 하다"
+    },
+    {
+      "w": "ordeal",
+      "m": "시련"
+    },
+    {
+      "w": "polar",
+      "m": "극지의"
+    },
+    {
+      "w": "dichotomy",
+      "m": "이분법"
+    },
+    {
+      "w": "concentrate",
+      "m": "집중하다"
+    },
+    {
+      "w": "aboriginal",
+      "m": "원주민의"
+    },
+    {
+      "w": "mitigation",
+      "m": "완화"
+    },
+    {
+      "w": "enormous",
+      "m": "막대한"
+    },
+    {
+      "w": "permeate",
+      "m": "스며들다"
+    },
+    {
+      "w": "correlate",
+      "m": "상관시키다"
+    },
+    {
+      "w": "diffuse",
+      "m": "확산시키다"
+    },
+    {
+      "w": "kinship",
+      "m": "친족 관계"
+    },
+    {
+      "w": "narrative",
+      "m": "서술, 이야기"
+    },
+    {
+      "w": "compound",
+      "m": "합성물, 복합의"
+    },
+    {
+      "w": "altruism",
+      "m": "이타주의"
+    },
+    {
+      "w": "audacious",
+      "m": "대담한"
+    },
+    {
+      "w": "crux",
+      "m": "핵심"
+    },
+    {
+      "w": "enrich",
+      "m": "풍부하게 하다"
+    },
+    {
+      "w": "affiliation",
+      "m": "제휴"
+    },
+    {
+      "w": "burgeon",
+      "m": "급성장하다"
+    },
+    {
+      "w": "prey",
+      "m": "먹이"
+    },
+    {
+      "w": "analogous",
+      "m": "유사한"
+    },
+    {
+      "w": "strategic",
+      "m": "전략적인"
+    },
+    {
+      "w": "duration",
+      "m": "기간"
+    },
+    {
+      "w": "coarse",
+      "m": "거친"
+    },
+    {
+      "w": "elevate",
+      "m": "높이다"
+    },
+    {
+      "w": "protein",
+      "m": "단백질"
+    },
+    {
+      "w": "pinnacle",
+      "m": "정점"
+    },
+    {
+      "w": "compose",
+      "m": "구성하다"
+    },
+    {
+      "w": "implement",
+      "m": "실행하다"
+    },
+    {
+      "w": "toxin",
+      "m": "독소"
+    },
+    {
+      "w": "conform",
+      "m": "따르다"
+    },
+    {
+      "w": "incorporate",
+      "m": "통합하다"
+    },
+    {
+      "w": "radiate",
+      "m": "방사하다"
+    },
+    {
+      "w": "bandwidth",
+      "m": "대역폭"
+    },
+    {
+      "w": "plummet",
+      "m": "급락하다"
+    },
+    {
+      "w": "precise",
+      "m": "정밀한"
+    },
+    {
+      "w": "calamity",
+      "m": "재난"
+    },
+    {
+      "w": "ambivalent",
+      "m": "양면적인"
+    },
+    {
+      "w": "autopsy",
+      "m": "부검"
+    },
+    {
+      "w": "tendency",
+      "m": "경향"
+    },
+    {
+      "w": "patronage",
+      "m": "후원"
+    },
+    {
+      "w": "antibody",
+      "m": "항체"
+    },
+    {
+      "w": "deviate",
+      "m": "벗어나다"
+    },
+    {
+      "w": "vigor",
+      "m": "활력"
+    },
+    {
+      "w": "corrective",
+      "m": "교정의"
+    },
+    {
+      "w": "exclusive",
+      "m": "독점적인"
+    },
+    {
+      "w": "etymology",
+      "m": "어원학"
+    },
+    {
+      "w": "beacon",
+      "m": "봉화, 신호등"
+    },
+    {
+      "w": "terminal",
+      "m": "말기의, 터미널"
+    },
+    {
+      "w": "assumption",
+      "m": "가정"
+    },
+    {
+      "w": "structural",
+      "m": "구조적인"
+    },
+    {
+      "w": "fossil",
+      "m": "화석"
+    },
+    {
+      "w": "genesis",
+      "m": "기원, 발생"
+    },
+    {
+      "w": "acute",
+      "m": "급성의, 날카로운"
+    },
+    {
+      "w": "belfry",
+      "m": "종탑"
+    },
+    {
+      "w": "embryo",
+      "m": "배아"
+    },
+    {
+      "w": "immunity",
+      "m": "면역"
+    },
+    {
+      "w": "scholar",
+      "m": "학자"
+    },
+    {
+      "w": "conducive",
+      "m": "도움이 되는"
+    },
+    {
+      "w": "astronomer",
+      "m": "천문학자"
+    },
+    {
+      "w": "copious",
+      "m": "풍부한"
+    },
+    {
+      "w": "staple",
+      "m": "주요 산물"
+    },
+    {
+      "w": "reiterate",
+      "m": "반복하다"
+    },
+    {
+      "w": "symbiosis",
+      "m": "공생"
+    },
+    {
+      "w": "clandestine",
+      "m": "비밀의"
+    },
+    {
+      "w": "retrospect",
+      "m": "회고"
+    },
+    {
+      "w": "permafrost",
+      "m": "영구 동토층"
+    },
+    {
+      "w": "stellar",
+      "m": "별의"
+    },
+    {
+      "w": "occurrence",
+      "m": "발생"
+    },
+    {
+      "w": "relegate",
+      "m": "격하시키다"
+    },
+    {
+      "w": "curriculum",
+      "m": "교과과정"
+    },
+    {
+      "w": "widespread",
+      "m": "광범위한"
+    },
+    {
+      "w": "brittle",
+      "m": "잘 부서지는"
+    },
+    {
+      "w": "revise",
+      "m": "수정하다"
+    },
+    {
+      "w": "summit",
+      "m": "정상"
+    },
+    {
+      "w": "dissonance",
+      "m": "불협화음"
+    },
+    {
+      "w": "evolution",
+      "m": "진화"
+    },
+    {
+      "w": "drawback",
+      "m": "결점"
+    },
+    {
+      "w": "groundwater",
+      "m": "지하수"
+    },
+    {
+      "w": "dire",
+      "m": "긴박한"
+    },
+    {
+      "w": "soluble",
+      "m": "용해성의"
+    },
+    {
+      "w": "enzyme",
+      "m": "효소"
+    },
+    {
+      "w": "misconception",
+      "m": "오해"
+    },
+    {
+      "w": "detect",
+      "m": "감지하다"
+    },
+    {
+      "w": "investigate",
+      "m": "조사하다"
+    },
+    {
+      "w": "detour",
+      "m": "우회로"
+    },
+    {
+      "w": "contradict",
+      "m": "모순되다"
+    },
+    {
+      "w": "preclude",
+      "m": "방지하다"
+    },
+    {
+      "w": "avant-garde",
+      "m": "전위적인"
+    },
+    {
+      "w": "aberration",
+      "m": "일탈, 이상"
+    },
+    {
+      "w": "discernible",
+      "m": "식별 가능한"
+    },
+    {
+      "w": "adjunct",
+      "m": "부속물"
+    },
+    {
+      "w": "laborious",
+      "m": "힘든"
+    },
+    {
+      "w": "garrison",
+      "m": "수비대"
+    },
+    {
+      "w": "obsolete",
+      "m": "구식의"
+    },
+    {
+      "w": "desirable",
+      "m": "바람직한"
+    },
+    {
+      "w": "trigger",
+      "m": "유발하다"
+    },
+    {
+      "w": "parallel",
+      "m": "평행의"
+    },
+    {
+      "w": "dissipate",
+      "m": "흩어지다"
+    },
+    {
+      "w": "illustrate",
+      "m": "설명하다"
+    },
+    {
+      "w": "dialect",
+      "m": "방언"
+    },
+    {
+      "w": "cadence",
+      "m": "운율"
+    },
+    {
+      "w": "automation",
+      "m": "자동화"
+    },
+    {
+      "w": "plaintiff",
+      "m": "원고"
+    },
+    {
+      "w": "approximate",
+      "m": "대략적인"
+    },
+    {
+      "w": "engulf",
+      "m": "삼키다"
+    },
+    {
+      "w": "continent",
+      "m": "대륙"
+    },
+    {
+      "w": "conviction",
+      "m": "확신, 유죄판결"
+    },
+    {
+      "w": "appraise",
+      "m": "감정하다"
+    },
+    {
+      "w": "temperate",
+      "m": "온대의"
+    },
+    {
+      "w": "occupation",
+      "m": "직업, 점령"
+    },
+    {
+      "w": "oxide",
+      "m": "산화물"
+    },
+    {
+      "w": "emperor",
+      "m": "황제"
+    },
+    {
+      "w": "confluence",
+      "m": "합류"
+    },
+    {
+      "w": "geographic",
+      "m": "지리적인"
+    },
+    {
+      "w": "escapade",
+      "m": "모험"
+    },
+    {
+      "w": "feasible",
+      "m": "실현 가능한"
+    },
+    {
+      "w": "botanical",
+      "m": "식물학의"
+    },
+    {
+      "w": "compress",
+      "m": "압축하다"
+    },
+    {
+      "w": "docile",
+      "m": "유순한"
+    },
+    {
+      "w": "distinctive",
+      "m": "독특한"
+    },
+    {
+      "w": "graphite",
+      "m": "흑연"
+    },
+    {
+      "w": "equator",
+      "m": "적도"
+    },
+    {
+      "w": "succumb",
+      "m": "굴복하다"
+    },
+    {
+      "w": "biosphere",
+      "m": "생물권"
+    },
+    {
+      "w": "interim",
+      "m": "잠정적인"
+    },
+    {
+      "w": "eminent",
+      "m": "저명한"
+    },
+    {
+      "w": "courtyard",
+      "m": "안뜰"
+    },
+    {
+      "w": "dogma",
+      "m": "교리"
+    },
+    {
+      "w": "bask",
+      "m": "쬐다"
+    },
+    {
+      "w": "concealment",
+      "m": "은폐"
+    },
+    {
+      "w": "purify",
+      "m": "정화하다"
+    },
+    {
+      "w": "universal",
+      "m": "보편적인"
+    },
+    {
+      "w": "accumulate",
+      "m": "축적하다"
+    },
+    {
+      "w": "dwell",
+      "m": "거주하다"
+    },
+    {
+      "w": "extinction",
+      "m": "멸종"
+    },
+    {
+      "w": "mineralogy",
+      "m": "광물학"
+    },
+    {
+      "w": "mature",
+      "m": "성숙한"
+    },
+    {
+      "w": "horizontal",
+      "m": "수평의"
+    },
+    {
+      "w": "violate",
+      "m": "위반하다"
+    },
+    {
+      "w": "predecessor",
+      "m": "전임자"
+    },
+    {
+      "w": "acoustic",
+      "m": "음향의"
+    },
+    {
+      "w": "collaborate",
+      "m": "협력하다"
+    },
+    {
+      "w": "forge",
+      "m": "구축하다"
+    },
+    {
+      "w": "voluntary",
+      "m": "자발적인"
+    },
+    {
+      "w": "initiate",
+      "m": "시작하다"
+    },
+    {
+      "w": "disposition",
+      "m": "기질, 성향"
+    },
+    {
+      "w": "nascent",
+      "m": "초기의"
+    },
+    {
+      "w": "sculpture",
+      "m": "조각"
+    },
+    {
+      "w": "flux",
+      "m": "유동"
+    },
+    {
+      "w": "repudiate",
+      "m": "거부하다"
+    },
+    {
+      "w": "compendium",
+      "m": "요약"
+    },
+    {
+      "w": "eugenics",
+      "m": "우생학"
+    },
+    {
+      "w": "flagrant",
+      "m": "명백한"
+    },
+    {
+      "w": "endure",
+      "m": "견디다"
+    },
+    {
+      "w": "component",
+      "m": "구성 요소"
+    },
+    {
+      "w": "ornithology",
+      "m": "조류학"
+    },
+    {
+      "w": "destabilize",
+      "m": "불안정하게 하다"
+    },
+    {
+      "w": "reservoir",
+      "m": "저수지"
+    },
+    {
+      "w": "considerable",
+      "m": "상당한"
+    },
+    {
+      "w": "iconic",
+      "m": "상징적인"
+    },
+    {
+      "w": "elastic",
+      "m": "탄력 있는"
+    },
+    {
+      "w": "sediment",
+      "m": "퇴적물"
+    },
+    {
+      "w": "saline",
+      "m": "염분이 있는"
+    },
+    {
+      "w": "conduct",
+      "m": "수행하다"
+    },
+    {
+      "w": "observation",
+      "m": "관찰"
+    },
+    {
+      "w": "precedent",
+      "m": "선례"
+    },
+    {
+      "w": "utter",
+      "m": "완전한, 말하다"
+    },
+    {
+      "w": "integral",
+      "m": "필수적인"
+    },
+    {
+      "w": "flourish",
+      "m": "번영하다"
+    },
+    {
+      "w": "conspicuous",
+      "m": "눈에 띄는"
+    },
+    {
+      "w": "landmark",
+      "m": "획기적 사건"
+    },
+    {
+      "w": "binary",
+      "m": "이진의"
+    },
+    {
+      "w": "intercede",
+      "m": "중재하다"
+    },
+    {
+      "w": "virtue",
+      "m": "미덕"
+    },
+    {
+      "w": "contraband",
+      "m": "밀수품"
+    },
+    {
+      "w": "manifest",
+      "m": "명백한, 나타내다"
+    },
+    {
+      "w": "compel",
+      "m": "강요하다"
+    },
+    {
+      "w": "notorious",
+      "m": "악명 높은"
+    },
+    {
+      "w": "avalanche",
+      "m": "눈사태"
+    },
+    {
+      "w": "diligent",
+      "m": "근면한"
+    },
+    {
+      "w": "chronicle",
+      "m": "연대기"
+    },
+    {
+      "w": "acidity",
+      "m": "산성도"
+    },
+    {
+      "w": "bane",
+      "m": "재앙"
+    },
+    {
+      "w": "expatriate",
+      "m": "국외 거주자"
+    },
+    {
+      "w": "capacity",
+      "m": "용량, 능력"
+    },
+    {
+      "w": "computation",
+      "m": "계산"
+    },
+    {
+      "w": "levy",
+      "m": "부과하다"
+    },
+    {
+      "w": "falter",
+      "m": "주저하다"
+    },
+    {
+      "w": "fertilize",
+      "m": "비옥하게 하다"
+    },
+    {
+      "w": "galaxy",
+      "m": "은하"
+    },
+    {
+      "w": "antecedent",
+      "m": "선행사"
+    },
+    {
+      "w": "revolution",
+      "m": "혁명"
+    },
+    {
+      "w": "constrict",
+      "m": "수축시키다"
+    },
+    {
+      "w": "fledgling",
+      "m": "신출내기"
+    },
+    {
+      "w": "clamor",
+      "m": "외치다, 소란"
+    },
+    {
+      "w": "hypothetical",
+      "m": "가정의"
+    },
+    {
+      "w": "amalgamate",
+      "m": "합병하다"
+    },
+    {
+      "w": "procurement",
+      "m": "조달"
+    },
+    {
+      "w": "genocide",
+      "m": "대량학살"
+    },
+    {
+      "w": "extract",
+      "m": "추출하다"
+    },
+    {
+      "w": "ecology",
+      "m": "생태학"
+    },
+    {
+      "w": "allude",
+      "m": "암시하다"
+    },
+    {
+      "w": "fallacy",
+      "m": "오류"
+    },
+    {
+      "w": "orient",
+      "m": "방향을 잡다"
+    },
+    {
+      "w": "plausible",
+      "m": "그럴듯한"
+    },
+    {
+      "w": "territorial",
+      "m": "영토의"
+    },
+    {
+      "w": "absorb",
+      "m": "흡수하다"
+    },
+    {
+      "w": "consumption",
+      "m": "소비"
+    },
+    {
+      "w": "avian",
+      "m": "조류의"
+    },
+    {
+      "w": "cosmos",
+      "m": "우주"
+    },
+    {
+      "w": "embargo",
+      "m": "금수 조치"
+    },
+    {
+      "w": "contagious",
+      "m": "전염성의"
+    },
+    {
+      "w": "benign",
+      "m": "양성의, 온화한"
+    },
+    {
+      "w": "adorn",
+      "m": "장식하다"
+    },
+    {
+      "w": "extant",
+      "m": "현존하는"
+    },
+    {
+      "w": "digest",
+      "m": "소화하다"
+    },
+    {
+      "w": "capitalism",
+      "m": "자본주의"
+    },
+    {
+      "w": "ascend",
+      "m": "오르다"
+    },
+    {
+      "w": "volcano",
+      "m": "화산"
+    },
+    {
+      "w": "millennium",
+      "m": "천년"
+    },
+    {
+      "w": "flora",
+      "m": "식물군"
+    },
+    {
+      "w": "dispensable",
+      "m": "불필요한"
+    },
+    {
+      "w": "nitrogen",
+      "m": "질소"
+    },
+    {
+      "w": "scope",
+      "m": "범위"
+    },
+    {
+      "w": "dominant",
+      "m": "지배적인"
+    },
+    {
+      "w": "maritime",
+      "m": "해상의"
+    },
+    {
+      "w": "classical",
+      "m": "고전적인"
+    },
+    {
+      "w": "uranium",
+      "m": "우라늄"
+    },
+    {
+      "w": "bioethics",
+      "m": "생명 윤리학"
+    },
+    {
+      "w": "contentious",
+      "m": "논쟁적인"
+    },
+    {
+      "w": "visible",
+      "m": "눈에 보이는"
+    },
+    {
+      "w": "conserve",
+      "m": "보존하다"
+    },
+    {
+      "w": "aquifer",
+      "m": "대수층"
+    },
+    {
+      "w": "auxiliary",
+      "m": "보조의"
+    },
+    {
+      "w": "peculiar",
+      "m": "독특한"
+    },
+    {
+      "w": "legislation",
+      "m": "법률, 입법"
+    },
+    {
+      "w": "astrology",
+      "m": "점성술"
+    },
+    {
+      "w": "circumference",
+      "m": "둘레"
+    },
+    {
+      "w": "overthrow",
+      "m": "전복시키다"
+    },
+    {
+      "w": "enigma",
+      "m": "수수께끼"
+    },
+    {
+      "w": "apprentice",
+      "m": "견습생"
+    },
+    {
+      "w": "debris",
+      "m": "잔해"
+    },
+    {
+      "w": "acumen",
+      "m": "통찰력"
+    },
+    {
+      "w": "mosaic",
+      "m": "모자이크"
+    },
+    {
+      "w": "oxidation",
+      "m": "산화"
+    },
+    {
+      "w": "organism",
+      "m": "유기체"
+    },
+    {
+      "w": "expound",
+      "m": "상술하다"
+    },
+    {
+      "w": "reclaim",
+      "m": "되찾다"
+    },
+    {
+      "w": "vascular",
+      "m": "혈관의"
+    },
+    {
+      "w": "proprietor",
+      "m": "소유주"
+    },
+    {
+      "w": "replicate",
+      "m": "복제하다"
+    },
+    {
+      "w": "fauna",
+      "m": "동물군"
+    },
+    {
+      "w": "archaeological",
+      "m": "고고학적인"
+    },
+    {
+      "w": "gratify",
+      "m": "만족시키다"
+    },
+    {
+      "w": "excerpt",
+      "m": "발췌"
+    },
+    {
+      "w": "collide",
+      "m": "충돌하다"
+    },
+    {
+      "w": "activate",
+      "m": "활성화하다"
+    },
+    {
+      "w": "airborne",
+      "m": "공기 중의"
+    },
+    {
+      "w": "utmost",
+      "m": "최대한의"
+    },
+    {
+      "w": "inevitable",
+      "m": "불가피한"
+    },
+    {
+      "w": "drought",
+      "m": "가뭄"
+    },
+    {
+      "w": "fiscal",
+      "m": "재정의"
+    },
+    {
+      "w": "denote",
+      "m": "나타내다"
+    },
+    {
+      "w": "carbon",
+      "m": "탄소"
+    },
+    {
+      "w": "exponential",
+      "m": "기하급수적인"
+    },
+    {
+      "w": "precipitation",
+      "m": "강수"
+    },
+    {
+      "w": "welfare",
+      "m": "복지"
+    },
+    {
+      "w": "paramount",
+      "m": "최고의"
+    },
+    {
+      "w": "disproportionate",
+      "m": "불균형적인"
+    },
+    {
+      "w": "tentative",
+      "m": "잠정적인"
+    },
+    {
+      "w": "decay",
+      "m": "부패하다"
+    },
+    {
+      "w": "clause",
+      "m": "조항"
+    },
+    {
+      "w": "facet",
+      "m": "측면"
+    },
+    {
+      "w": "demographics",
+      "m": "인구 통계"
+    },
+    {
+      "w": "refine",
+      "m": "정제하다"
+    },
+    {
+      "w": "eclipse",
+      "m": "일식, 월식"
+    },
+    {
+      "w": "yield",
+      "m": "산출하다, 양보하다"
+    },
+    {
+      "w": "prominent",
+      "m": "저명한"
+    },
+    {
+      "w": "evaporate",
+      "m": "증발하다"
+    },
+    {
+      "w": "drainage",
+      "m": "배수"
+    },
+    {
+      "w": "scatter",
+      "m": "흩뿌리다"
+    },
+    {
+      "w": "seminar",
+      "m": "세미나"
+    },
+    {
+      "w": "methodology",
+      "m": "방법론"
+    },
+    {
+      "w": "hue",
+      "m": "색조"
+    },
+    {
+      "w": "eclectic",
+      "m": "절충적인"
+    },
+    {
+      "w": "renowned",
+      "m": "유명한"
+    },
+    {
+      "w": "remnant",
+      "m": "잔재"
+    },
+    {
+      "w": "fragment",
+      "m": "조각"
+    },
+    {
+      "w": "emergence",
+      "m": "출현"
+    },
+    {
+      "w": "robust",
+      "m": "견고한"
+    },
+    {
+      "w": "distort",
+      "m": "왜곡하다"
+    },
+    {
+      "w": "fertile",
+      "m": "비옥한"
+    },
+    {
+      "w": "breed",
+      "m": "품종, 번식시키다"
+    },
+    {
+      "w": "adhesion",
+      "m": "접착, 부착"
+    },
+    {
+      "w": "neuron",
+      "m": "뉴런"
+    },
+    {
+      "w": "patron",
+      "m": "후원자"
+    },
+    {
+      "w": "overlap",
+      "m": "겹치다"
+    },
+    {
+      "w": "embark",
+      "m": "착수하다"
+    },
+    {
+      "w": "zenith",
+      "m": "정점"
+    },
+    {
+      "w": "addendum",
+      "m": "부록"
+    },
+    {
+      "w": "embody",
+      "m": "구현하다"
+    },
+    {
+      "w": "desolate",
+      "m": "황량한"
+    },
+    {
+      "w": "delicate",
+      "m": "섬세한"
+    },
+    {
+      "w": "pollen",
+      "m": "꽃가루"
+    },
+    {
+      "w": "accountability",
+      "m": "책임"
+    },
+    {
+      "w": "execute",
+      "m": "실행하다"
+    },
+    {
+      "w": "exotic",
+      "m": "이국적인"
+    },
+    {
+      "w": "hybrid",
+      "m": "혼합의, 잡종"
+    },
+    {
+      "w": "equate",
+      "m": "동등시하다"
+    },
+    {
+      "w": "impose",
+      "m": "부과하다"
+    },
+    {
+      "w": "discrete",
+      "m": "별개의"
+    },
+    {
+      "w": "partition",
+      "m": "분할"
+    },
+    {
+      "w": "retrieve",
+      "m": "되찾다"
+    },
+    {
+      "w": "grandiose",
+      "m": "웅장한"
+    },
+    {
+      "w": "culminate",
+      "m": "절정에 달하다"
+    },
+    {
+      "w": "alien",
+      "m": "외계의, 이질적인"
+    },
+    {
+      "w": "rotate",
+      "m": "회전하다"
+    },
+    {
+      "w": "eminence",
+      "m": "탁월함"
+    },
+    {
+      "w": "tundra",
+      "m": "동토대"
+    },
+    {
+      "w": "stringent",
+      "m": "엄격한"
+    },
+    {
+      "w": "nocturnal",
+      "m": "야행성의"
+    },
+    {
+      "w": "turbulent",
+      "m": "격동의"
+    },
+    {
+      "w": "biomass",
+      "m": "생물량"
+    },
+    {
+      "w": "empathy",
+      "m": "공감"
+    },
+    {
+      "w": "global",
+      "m": "세계적인"
+    },
+    {
+      "w": "ethical",
+      "m": "윤리적인"
+    },
+    {
+      "w": "rural",
+      "m": "시골의"
+    },
+    {
+      "w": "secrete",
+      "m": "분비하다"
+    },
+    {
+      "w": "parameter",
+      "m": "매개변수"
+    },
+    {
+      "w": "savanna",
+      "m": "사바나"
+    },
+    {
+      "w": "evaluate",
+      "m": "평가하다"
+    },
+    {
+      "w": "potential",
+      "m": "잠재적인"
+    },
+    {
+      "w": "stipulate",
+      "m": "규정하다"
+    },
+    {
+      "w": "molecular",
+      "m": "분자의"
+    },
+    {
+      "w": "disenfranchise",
+      "m": "권리를 박탈하다"
+    },
+    {
+      "w": "obligation",
+      "m": "의무"
+    },
+    {
+      "w": "epistemology",
+      "m": "인식론"
+    },
+    {
+      "w": "mobility",
+      "m": "이동성"
+    },
+    {
+      "w": "cell",
+      "m": "세포"
+    },
+    {
+      "w": "patrimony",
+      "m": "세습 재산"
+    },
+    {
+      "w": "secular",
+      "m": "세속의"
+    },
+    {
+      "w": "acknowledge",
+      "m": "인정하다"
+    },
+    {
+      "w": "hydraulic",
+      "m": "수력의"
+    },
+    {
+      "w": "amalgamation",
+      "m": "합병"
+    },
+    {
+      "w": "depository",
+      "m": "보관소"
+    },
+    {
+      "w": "fruition",
+      "m": "결실"
+    },
+    {
+      "w": "insidious",
+      "m": "교활한"
+    },
+    {
+      "w": "presumably",
+      "m": "아마"
+    },
+    {
+      "w": "immense",
+      "m": "막대한"
+    },
+    {
+      "w": "anecdote",
+      "m": "일화"
+    },
+    {
+      "w": "ratify",
+      "m": "비준하다"
+    },
+    {
+      "w": "cryptic",
+      "m": "수수께끼 같은"
+    },
+    {
+      "w": "foremost",
+      "m": "가장 중요한"
+    },
+    {
+      "w": "cascade",
+      "m": "폭포, 연쇄"
+    },
+    {
+      "w": "consecrate",
+      "m": "봉헌하다"
+    },
+    {
+      "w": "backdrop",
+      "m": "배경"
+    },
+    {
+      "w": "desalination",
+      "m": "담수화"
+    },
+    {
+      "w": "landscape",
+      "m": "풍경"
+    },
+    {
+      "w": "integrity",
+      "m": "완전성, 진실성"
+    },
+    {
+      "w": "scrutinize",
+      "m": "면밀히 조사하다"
+    },
+    {
+      "w": "curative",
+      "m": "치료의"
+    },
+    {
+      "w": "agrarian",
+      "m": "농업의"
+    },
+    {
+      "w": "assent",
+      "m": "동의"
+    },
+    {
+      "w": "unprecedented",
+      "m": "전례 없는"
+    },
+    {
+      "w": "furnace",
+      "m": "용광로"
+    },
+    {
+      "w": "controversy",
+      "m": "논쟁"
+    },
+    {
+      "w": "renovate",
+      "m": "개조하다"
+    },
+    {
+      "w": "coordinate",
+      "m": "조정하다"
+    },
+    {
+      "w": "innovative",
+      "m": "혁신적인"
+    },
+    {
+      "w": "entropy",
+      "m": "엔트로피"
+    },
+    {
+      "w": "suspend",
+      "m": "중단하다"
+    },
+    {
+      "w": "disseminate",
+      "m": "보급하다"
+    },
+    {
+      "w": "satellite",
+      "m": "위성"
+    },
+    {
+      "w": "egalitarian",
+      "m": "평등주의의"
+    },
+    {
+      "w": "surge",
+      "m": "급증"
+    },
+    {
+      "w": "collateral",
+      "m": "부수적인"
+    },
+    {
+      "w": "anthropogenic",
+      "m": "인위적인"
+    },
+    {
+      "w": "severe",
+      "m": "심한"
+    },
+    {
+      "w": "adverse",
+      "m": "불리한"
+    },
+    {
+      "w": "undertake",
+      "m": "착수하다"
+    },
+    {
+      "w": "iridescent",
+      "m": "무지갯빛의"
+    },
+    {
+      "w": "alliance",
+      "m": "동맹"
+    },
+    {
+      "w": "anatomy",
+      "m": "해부학"
+    },
+    {
+      "w": "aloft",
+      "m": "높이"
+    },
+    {
+      "w": "document",
+      "m": "기록하다"
+    },
+    {
+      "w": "underlie",
+      "m": "밑에 깔려있다"
+    },
+    {
+      "w": "appropriate",
+      "m": "적절한"
+    },
+    {
+      "w": "consul",
+      "m": "영사"
+    },
+    {
+      "w": "digression",
+      "m": "여담"
+    },
+    {
+      "w": "unify",
+      "m": "통합하다"
+    },
+    {
+      "w": "aromatic",
+      "m": "향기로운"
+    },
+    {
+      "w": "enhance",
+      "m": "향상시키다"
+    },
+    {
+      "w": "mercantile",
+      "m": "상업의"
+    },
+    {
+      "w": "garner",
+      "m": "획득하다"
+    },
+    {
+      "w": "diminutive",
+      "m": "아주 작은"
+    },
+    {
+      "w": "hormone",
+      "m": "호르몬"
+    },
+    {
+      "w": "gravitation",
+      "m": "중력"
+    },
+    {
+      "w": "broach",
+      "m": "꺼내다"
+    },
+    {
+      "w": "decimate",
+      "m": "대량 학살하다"
+    },
+    {
+      "w": "gravity",
+      "m": "중력"
+    },
+    {
+      "w": "temporal",
+      "m": "시간의"
+    },
+    {
+      "w": "equilibrium",
+      "m": "균형"
+    },
+    {
+      "w": "stereotype",
+      "m": "고정관념"
+    },
+    {
+      "w": "cybernetics",
+      "m": "인공두뇌학"
+    },
+    {
+      "w": "obstacle",
+      "m": "장애물"
+    },
+    {
+      "w": "comply",
+      "m": "따르다"
+    },
+    {
+      "w": "erupt",
+      "m": "분출하다"
+    },
+    {
+      "w": "biochemistry",
+      "m": "생화학"
+    },
+    {
+      "w": "accolade",
+      "m": "찬사"
+    },
+    {
+      "w": "radioactive",
+      "m": "방사능의"
+    },
+    {
+      "w": "reside",
+      "m": "거주하다"
+    },
+    {
+      "w": "juxtapose",
+      "m": "나란히 놓다"
+    },
+    {
+      "w": "alchemy",
+      "m": "연금술"
+    },
+    {
+      "w": "forbearance",
+      "m": "관용"
+    },
+    {
+      "w": "vestige",
+      "m": "흔적"
+    },
+    {
+      "w": "optimal",
+      "m": "최적의"
+    },
+    {
+      "w": "deleterious",
+      "m": "해로운"
+    },
+    {
+      "w": "lineage",
+      "m": "혈통"
+    },
+    {
+      "w": "holistic",
+      "m": "전체적인"
+    },
+    {
+      "w": "irrigation",
+      "m": "관개"
+    },
+    {
+      "w": "align",
+      "m": "정렬하다"
+    },
+    {
+      "w": "capsule",
+      "m": "캡슐"
+    },
+    {
+      "w": "momentum",
+      "m": "운동량, 추진력"
+    },
+    {
+      "w": "exacerbate",
+      "m": "악화시키다"
+    },
+    {
+      "w": "equity",
+      "m": "공정성"
+    },
+    {
+      "w": "pastoral",
+      "m": "목가적인"
+    },
+    {
+      "w": "correlation",
+      "m": "상관관계"
+    },
+    {
+      "w": "revive",
+      "m": "되살리다"
+    },
+    {
+      "w": "propel",
+      "m": "추진하다"
+    },
+    {
+      "w": "tolerance",
+      "m": "관용, 내성"
+    },
+    {
+      "w": "glean",
+      "m": "수집하다"
+    },
+    {
+      "w": "isthmus",
+      "m": "지협"
+    },
+    {
+      "w": "dissolution",
+      "m": "해산"
+    },
+    {
+      "w": "imperial",
+      "m": "제국의"
+    },
+    {
+      "w": "accelerate",
+      "m": "가속하다"
+    },
+    {
+      "w": "buffer",
+      "m": "완충"
+    },
+    {
+      "w": "interpret",
+      "m": "해석하다"
+    },
+    {
+      "w": "reform",
+      "m": "개혁"
+    },
+    {
+      "w": "advent",
+      "m": "출현, 도래"
+    },
+    {
+      "w": "conscientious",
+      "m": "성실한"
+    },
+    {
+      "w": "isolate",
+      "m": "분리하다"
+    },
+    {
+      "w": "membrane",
+      "m": "막"
+    },
+    {
+      "w": "dictate",
+      "m": "받아쓰게 하다"
+    },
+    {
+      "w": "assert",
+      "m": "주장하다"
+    },
+    {
+      "w": "marine",
+      "m": "해양의"
+    },
+    {
+      "w": "ongoing",
+      "m": "진행 중인"
+    },
+    {
+      "w": "prolific",
+      "m": "다작의"
+    },
+    {
+      "w": "harvest",
+      "m": "수확하다"
+    },
+    {
+      "w": "lithosphere",
+      "m": "암석권"
+    },
+    {
+      "w": "margin",
+      "m": "여백, 한계"
+    },
+    {
+      "w": "creed",
+      "m": "신조"
+    },
+    {
+      "w": "haven",
+      "m": "안식처"
+    },
+    {
+      "w": "consolidate",
+      "m": "통합하다"
+    },
+    {
+      "w": "intrinsic",
+      "m": "본질적인"
+    },
+    {
+      "w": "ecological",
+      "m": "생태학의"
+    },
+    {
+      "w": "consequent",
+      "m": "결과적인"
+    },
+    {
+      "w": "epidemiology",
+      "m": "역학"
+    },
+    {
+      "w": "benevolent",
+      "m": "자비로운"
+    },
+    {
+      "w": "prodigious",
+      "m": "엄청난"
+    },
+    {
+      "w": "geopolitical",
+      "m": "지정학적인"
+    },
+    {
+      "w": "hinder",
+      "m": "방해하다"
+    },
+    {
+      "w": "evolutionary",
+      "m": "진화의"
+    },
+    {
+      "w": "electromagnetic",
+      "m": "전자기의"
+    },
+    {
+      "w": "extent",
+      "m": "범위"
+    },
+    {
+      "w": "barren",
+      "m": "불모의"
+    },
+    {
+      "w": "morphology",
+      "m": "형태학"
+    },
+    {
+      "w": "excessive",
+      "m": "과도한"
+    },
+    {
+      "w": "elusive",
+      "m": "파악하기 어려운"
+    },
+    {
+      "w": "shrink",
+      "m": "줄어들다"
+    },
+    {
+      "w": "parasite",
+      "m": "기생충"
+    },
+    {
+      "w": "potent",
+      "m": "강력한"
+    },
+    {
+      "w": "exempt",
+      "m": "면제된"
+    },
+    {
+      "w": "encompass",
+      "m": "포함하다"
+    },
+    {
+      "w": "equation",
+      "m": "방정식"
+    },
+    {
+      "w": "niche",
+      "m": "틈새"
+    },
+    {
+      "w": "output",
+      "m": "산출"
+    },
+    {
+      "w": "contend",
+      "m": "주장하다, 경쟁하다"
+    },
+    {
+      "w": "nebula",
+      "m": "성운"
+    },
+    {
+      "w": "fray",
+      "m": "다툼"
+    },
+    {
+      "w": "microbial",
+      "m": "미생물의"
+    },
+    {
+      "w": "philanthropy",
+      "m": "박애, 자선"
+    },
+    {
+      "w": "saturate",
+      "m": "포화시키다"
+    },
+    {
+      "w": "mutation",
+      "m": "돌연변이"
+    },
+    {
+      "w": "genuine",
+      "m": "진짜의"
+    },
+    {
+      "w": "resort",
+      "m": "의지하다, 리조트"
+    },
+    {
+      "w": "qualitative",
+      "m": "질적인"
+    },
+    {
+      "w": "aversion",
+      "m": "혐오"
+    },
+    {
+      "w": "sterile",
+      "m": "살균된, 불임의"
+    },
+    {
+      "w": "compensate",
+      "m": "보상하다"
+    },
+    {
+      "w": "nucleotide",
+      "m": "뉴클레오타이드"
+    },
+    {
+      "w": "coalition",
+      "m": "연합"
+    },
+    {
+      "w": "endemic",
+      "m": "풍토병의"
+    },
+    {
+      "w": "punctual",
+      "m": "시간을 지키는"
+    },
+    {
+      "w": "brood",
+      "m": "곰곰이 생각하다"
+    },
+    {
+      "w": "oceanic",
+      "m": "대양의"
+    },
+    {
+      "w": "pollutant",
+      "m": "오염 물질"
+    },
+    {
+      "w": "criterion",
+      "m": "기준"
+    },
+    {
+      "w": "dissertation",
+      "m": "학위 논문"
+    },
+    {
+      "w": "meteorology",
+      "m": "기상학"
+    },
+    {
+      "w": "census",
+      "m": "인구조사"
+    },
+    {
+      "w": "academia",
+      "m": "학계"
+    },
+    {
+      "w": "conjunction",
+      "m": "결합, 접속사"
+    },
+    {
+      "w": "emigrate",
+      "m": "이민 가다"
+    },
+    {
+      "w": "tropical",
+      "m": "열대의"
+    },
+    {
+      "w": "perennial",
+      "m": "다년생의"
+    },
+    {
+      "w": "intuitive",
+      "m": "직관적인"
+    },
+    {
+      "w": "dense",
+      "m": "밀집한"
+    },
+    {
+      "w": "reflect",
+      "m": "반영하다"
+    },
+    {
+      "w": "skeleton",
+      "m": "골격"
+    },
+    {
+      "w": "manuscript",
+      "m": "원고"
+    },
+    {
+      "w": "novelty",
+      "m": "참신함"
+    },
+    {
+      "w": "authoritarian",
+      "m": "권위주의적인"
+    },
+    {
+      "w": "sanction",
+      "m": "제재"
+    },
+    {
+      "w": "deluge",
+      "m": "대홍수"
+    },
+    {
+      "w": "heresy",
+      "m": "이단"
+    },
+    {
+      "w": "antibiotic",
+      "m": "항생제"
+    },
+    {
+      "w": "utopian",
+      "m": "이상주의적인"
+    },
+    {
+      "w": "congregate",
+      "m": "모이다"
+    },
+    {
+      "w": "increment",
+      "m": "증가분"
+    },
+    {
+      "w": "crevice",
+      "m": "갈라진 틈"
+    },
+    {
+      "w": "fundamental",
+      "m": "근본적인"
+    },
+    {
+      "w": "atrium",
+      "m": "아트리움, 심방"
+    },
+    {
+      "w": "cartography",
+      "m": "지도 제작"
+    },
+    {
+      "w": "hierarchy",
+      "m": "계층 구조"
+    },
+    {
+      "w": "artery",
+      "m": "동맥"
+    },
+    {
+      "w": "solvent",
+      "m": "용매"
+    },
+    {
+      "w": "podium",
+      "m": "연단"
+    },
+    {
+      "w": "expose",
+      "m": "노출시키다"
+    },
+    {
+      "w": "biodiversity",
+      "m": "생물 다양성"
+    },
+    {
+      "w": "fathom",
+      "m": "이해하다"
+    },
+    {
+      "w": "corporate",
+      "m": "기업의"
+    },
+    {
+      "w": "outbreak",
+      "m": "발발"
+    },
+    {
+      "w": "plantation",
+      "m": "농장"
+    },
+    {
+      "w": "cognition",
+      "m": "인지"
+    },
+    {
+      "w": "mural",
+      "m": "벽화"
+    },
+    {
+      "w": "volume",
+      "m": "양, 부피"
+    },
+    {
+      "w": "offset",
+      "m": "상쇄하다"
+    },
+    {
+      "w": "gland",
+      "m": "분비선"
+    },
+    {
+      "w": "substantiate",
+      "m": "입증하다"
+    },
+    {
+      "w": "deficiency",
+      "m": "결핍"
+    },
+    {
+      "w": "reinforce",
+      "m": "강화하다"
+    },
+    {
+      "w": "viable",
+      "m": "실행 가능한"
+    },
+    {
+      "w": "exclaim",
+      "m": "외치다"
+    },
+    {
+      "w": "external",
+      "m": "외부의"
+    },
+    {
+      "w": "fortify",
+      "m": "강화하다"
+    },
+    {
+      "w": "abiotic",
+      "m": "비생물적인"
+    },
+    {
+      "w": "prose",
+      "m": "산문"
+    },
+    {
+      "w": "literacy",
+      "m": "문해력"
+    },
+    {
+      "w": "forecast",
+      "m": "예측하다"
+    },
+    {
+      "w": "recipient",
+      "m": "수령인"
+    },
+    {
+      "w": "scenario",
+      "m": "시나리오"
+    },
+    {
+      "w": "counterpart",
+      "m": "상대, 대응물"
+    },
+    {
+      "w": "cache",
+      "m": "은닉처"
+    },
+    {
+      "w": "susceptible",
+      "m": "영향받기 쉬운"
+    },
+    {
+      "w": "memoir",
+      "m": "회고록"
+    },
+    {
+      "w": "coalesce",
+      "m": "합체하다"
+    },
+    {
+      "w": "collision",
+      "m": "충돌"
+    },
+    {
+      "w": "aftermath",
+      "m": "여파"
+    },
+    {
+      "w": "fiber",
+      "m": "섬유"
+    },
+    {
+      "w": "commensurate",
+      "m": "비례하는"
+    },
+    {
+      "w": "grassland",
+      "m": "초원"
+    },
+    {
+      "w": "longitude",
+      "m": "경도"
+    },
+    {
+      "w": "exposition",
+      "m": "설명, 전시회"
+    },
+    {
+      "w": "fulfill",
+      "m": "이행하다"
+    },
+    {
+      "w": "physical",
+      "m": "물리적인"
+    },
+    {
+      "w": "footprint",
+      "m": "발자국, 영향 범위"
+    },
+    {
+      "w": "hermit",
+      "m": "은둔자"
+    },
+    {
+      "w": "adversity",
+      "m": "역경"
+    },
+    {
+      "w": "transcribe",
+      "m": "전사하다"
+    },
+    {
+      "w": "sequential",
+      "m": "순차적인"
+    },
+    {
+      "w": "contraception",
+      "m": "피임"
+    },
+    {
+      "w": "survey",
+      "m": "조사"
+    },
+    {
+      "w": "atypical",
+      "m": "비전형적인"
+    },
+    {
+      "w": "minimize",
+      "m": "최소화하다"
+    },
+    {
+      "w": "infrastructure",
+      "m": "기반 시설"
+    },
+    {
+      "w": "depression",
+      "m": "우울증, 불황"
+    },
+    {
+      "w": "tactic",
+      "m": "전술"
+    },
+    {
+      "w": "privilege",
+      "m": "특권"
+    },
+    {
+      "w": "portion",
+      "m": "부분"
+    },
+    {
+      "w": "abrasion",
+      "m": "마모, 찰과상"
+    },
+    {
+      "w": "combustible",
+      "m": "가연성의"
+    },
+    {
+      "w": "benefactor",
+      "m": "후원자"
+    },
+    {
+      "w": "enterprise",
+      "m": "기업, 사업"
+    },
+    {
+      "w": "clement",
+      "m": "온화한"
+    },
+    {
+      "w": "consign",
+      "m": "위탁하다"
+    },
+    {
+      "w": "emphatically",
+      "m": "단호히"
+    },
+    {
+      "w": "botany",
+      "m": "식물학"
+    },
+    {
+      "w": "plateau",
+      "m": "고원"
+    },
+    {
+      "w": "ritual",
+      "m": "의식"
+    },
+    {
+      "w": "monarchy",
+      "m": "군주제"
+    },
+    {
+      "w": "barricade",
+      "m": "바리케이드"
+    },
+    {
+      "w": "ideology",
+      "m": "이념"
+    },
+    {
+      "w": "modulate",
+      "m": "조절하다"
+    },
+    {
+      "w": "endocrine",
+      "m": "내분비의"
+    },
+    {
+      "w": "channel",
+      "m": "경로, 수로"
+    },
+    {
+      "w": "amino",
+      "m": "아미노"
+    },
+    {
+      "w": "alternative",
+      "m": "대안"
+    },
+    {
+      "w": "relative",
+      "m": "상대적인"
+    },
+    {
+      "w": "divulge",
+      "m": "누설하다"
+    },
+    {
+      "w": "aqueous",
+      "m": "수용성의"
+    },
+    {
+      "w": "esoteric",
+      "m": "난해한"
+    },
+    {
+      "w": "algae",
+      "m": "조류, 해조류"
+    },
+    {
+      "w": "hazardous",
+      "m": "위험한"
+    },
+    {
+      "w": "cleft",
+      "m": "갈라진 틈"
+    },
+    {
+      "w": "textile",
+      "m": "직물"
+    },
+    {
+      "w": "layer",
+      "m": "층"
+    },
+    {
+      "w": "epicenter",
+      "m": "진원지"
+    },
+    {
+      "w": "stagnant",
+      "m": "정체된"
+    },
+    {
+      "w": "imperative",
+      "m": "필수적인"
+    },
+    {
+      "w": "exile",
+      "m": "추방, 망명"
+    },
+    {
+      "w": "gratuitous",
+      "m": "불필요한"
+    },
+    {
+      "w": "incur",
+      "m": "초래하다"
+    },
+    {
+      "w": "gregarious",
+      "m": "사교적인"
+    },
+    {
+      "w": "latitude",
+      "m": "위도"
+    },
+    {
+      "w": "demolish",
+      "m": "철거하다"
+    },
+    {
+      "w": "demeanor",
+      "m": "태도"
+    },
+    {
+      "w": "affluent",
+      "m": "부유한"
+    },
+    {
+      "w": "diverse",
+      "m": "다양한"
+    },
+    {
+      "w": "gluttony",
+      "m": "폭식"
+    },
+    {
+      "w": "foundation",
+      "m": "기초, 재단"
+    },
+    {
+      "w": "impact",
+      "m": "영향"
+    },
+    {
+      "w": "obscure",
+      "m": "모호한"
+    },
+    {
+      "w": "descendant",
+      "m": "후손"
+    },
+    {
+      "w": "diverge",
+      "m": "갈라지다"
+    },
+    {
+      "w": "orientation",
+      "m": "방향, 오리엔테이션"
+    },
+    {
+      "w": "ample",
+      "m": "충분한"
+    },
+    {
+      "w": "intricate",
+      "m": "복잡한"
+    },
+    {
+      "w": "cerebral",
+      "m": "대뇌의"
+    },
+    {
+      "w": "inflammatory",
+      "m": "염증의"
+    },
+    {
+      "w": "incandescent",
+      "m": "백열의"
+    },
+    {
+      "w": "edifice",
+      "m": "대건물"
+    },
+    {
+      "w": "endanger",
+      "m": "위험에 빠뜨리다"
+    },
+    {
+      "w": "apex",
+      "m": "정점"
+    },
+    {
+      "w": "malnutrition",
+      "m": "영양실조"
+    },
+    {
+      "w": "hegemony",
+      "m": "패권"
+    },
+    {
+      "w": "cultivate",
+      "m": "경작하다, 기르다"
+    },
+    {
+      "w": "aggression",
+      "m": "공격성"
+    },
+    {
+      "w": "mammal",
+      "m": "포유류"
+    },
+    {
+      "w": "crude",
+      "m": "원시적인, 조잡한"
+    },
+    {
+      "w": "contrary",
+      "m": "반대의"
+    },
+    {
+      "w": "cardinal",
+      "m": "주요한"
+    },
+    {
+      "w": "constitute",
+      "m": "구성하다"
+    },
+    {
+      "w": "segment",
+      "m": "부분"
+    },
+    {
+      "w": "carbonate",
+      "m": "탄산염"
+    },
+    {
+      "w": "quantitative",
+      "m": "양적인"
+    },
+    {
+      "w": "implication",
+      "m": "함축, 영향"
+    },
+    {
+      "w": "catastrophe",
+      "m": "대재앙"
+    },
+    {
+      "w": "swamp",
+      "m": "늪"
+    },
+    {
+      "w": "chieftain",
+      "m": "추장"
+    },
+    {
+      "w": "effluent",
+      "m": "방류수"
+    },
+    {
+      "w": "dinosaur",
+      "m": "공룡"
+    },
+    {
+      "w": "incline",
+      "m": "기울이다, 경사"
+    },
+    {
+      "w": "artistry",
+      "m": "예술성"
+    },
+    {
+      "w": "infringe",
+      "m": "침해하다"
+    },
+    {
+      "w": "frontier",
+      "m": "국경, 개척지"
+    },
+    {
+      "w": "animate",
+      "m": "생기를 불어넣다"
+    },
+    {
+      "w": "colonial",
+      "m": "식민지의"
+    },
+    {
+      "w": "mineral",
+      "m": "광물"
+    },
+    {
+      "w": "conquest",
+      "m": "정복"
+    },
+    {
+      "w": "provision",
+      "m": "제공, 조항"
+    },
+    {
+      "w": "relic",
+      "m": "유물"
+    },
+    {
+      "w": "entrench",
+      "m": "확고히 하다"
+    },
+    {
+      "w": "ambiguity",
+      "m": "모호함"
+    },
+    {
+      "w": "propagate",
+      "m": "번식시키다"
+    },
+    {
+      "w": "consecutive",
+      "m": "연속적인"
+    },
+    {
+      "w": "transcend",
+      "m": "초월하다"
+    },
+    {
+      "w": "chasm",
+      "m": "깊은 틈"
+    },
+    {
+      "w": "diffusion",
+      "m": "확산"
+    },
+    {
+      "w": "discretion",
+      "m": "재량"
+    },
+    {
+      "w": "quarantine",
+      "m": "격리"
+    },
+    {
+      "w": "microscopic",
+      "m": "현미경의"
+    },
+    {
+      "w": "undergo",
+      "m": "겪다"
+    },
+    {
+      "w": "protrude",
+      "m": "돌출하다"
+    },
+    {
+      "w": "municipal",
+      "m": "시의, 지방의"
+    },
+    {
+      "w": "discordant",
+      "m": "불협화음의"
+    },
+    {
+      "w": "eradicate",
+      "m": "근절하다"
+    },
+    {
+      "w": "specimen",
+      "m": "표본"
+    },
+    {
+      "w": "commentary",
+      "m": "논평, 해설"
+    },
+    {
+      "w": "hereditary",
+      "m": "유전적인"
+    },
+    {
+      "w": "abstain",
+      "m": "삼가다"
+    },
+    {
+      "w": "anonymous",
+      "m": "익명의"
+    },
+    {
+      "w": "exemplify",
+      "m": "예시하다"
+    },
+    {
+      "w": "concentric",
+      "m": "동심원의"
+    },
+    {
+      "w": "sovereign",
+      "m": "주권의"
+    },
+    {
+      "w": "ignite",
+      "m": "점화하다"
+    },
+    {
+      "w": "apprehend",
+      "m": "이해하다, 체포하다"
+    },
+    {
+      "w": "embankment",
+      "m": "제방"
+    },
+    {
+      "w": "dilate",
+      "m": "팽창시키다"
+    },
+    {
+      "w": "phosphorus",
+      "m": "인"
+    },
+    {
+      "w": "eruption",
+      "m": "분출"
+    },
+    {
+      "w": "sophisticated",
+      "m": "정교한"
+    },
+    {
+      "w": "toxic",
+      "m": "유독한"
+    },
+    {
+      "w": "devastate",
+      "m": "황폐화시키다"
+    },
+    {
+      "w": "hypothesis",
+      "m": "가설"
+    },
+    {
+      "w": "vanish",
+      "m": "사라지다"
+    },
+    {
+      "w": "dioxide",
+      "m": "이산화물"
+    },
+    {
+      "w": "rhetoric",
+      "m": "수사학"
+    },
+    {
+      "w": "explicit",
+      "m": "명시적인"
+    },
+    {
+      "w": "evolve",
+      "m": "진화하다"
+    },
+    {
+      "w": "impending",
+      "m": "임박한"
+    },
+    {
+      "w": "emancipate",
+      "m": "해방시키다"
+    },
+    {
+      "w": "abyss",
+      "m": "심연"
+    },
+    {
+      "w": "centennial",
+      "m": "100주년의"
+    },
+    {
+      "w": "cite",
+      "m": "인용하다"
+    },
+    {
+      "w": "hone",
+      "m": "연마하다"
+    },
+    {
+      "w": "complement",
+      "m": "보충물"
+    },
+    {
+      "w": "causal",
+      "m": "인과의"
+    },
+    {
+      "w": "surplus",
+      "m": "잉여"
+    },
+    {
+      "w": "focal",
+      "m": "초점의"
+    },
+    {
+      "w": "pseudonym",
+      "m": "필명"
+    },
+    {
+      "w": "symbolic",
+      "m": "상징적인"
+    },
+    {
+      "w": "acclimate",
+      "m": "적응시키다"
+    },
+    {
+      "w": "emblematic",
+      "m": "상징적인"
+    },
+    {
+      "w": "substantial",
+      "m": "상당한"
+    },
+    {
+      "w": "sanctuary",
+      "m": "성역, 보호구역"
+    },
+    {
+      "w": "formidable",
+      "m": "강력한"
+    },
+    {
+      "w": "ultimate",
+      "m": "궁극적인"
+    },
+    {
+      "w": "prolong",
+      "m": "연장하다"
+    },
+    {
+      "w": "crucible",
+      "m": "도가니"
+    },
+    {
+      "w": "drastic",
+      "m": "과감한"
+    },
+    {
+      "w": "extend",
+      "m": "확장하다"
+    },
+    {
+      "w": "input",
+      "m": "투입, 입력"
+    },
+    {
+      "w": "emission",
+      "m": "배출"
+    },
+    {
+      "w": "autograph",
+      "m": "자필 서명"
+    },
+    {
+      "w": "immune",
+      "m": "면역의"
+    },
+    {
+      "w": "comparable",
+      "m": "비슷한"
+    },
+    {
+      "w": "anterior",
+      "m": "앞쪽의"
+    },
+    {
+      "w": "photosynthesis",
+      "m": "광합성"
+    },
+    {
+      "w": "discrimination",
+      "m": "차별"
+    },
+    {
+      "w": "pristine",
+      "m": "원래의, 깨끗한"
+    },
+    {
+      "w": "autonomy",
+      "m": "자율성"
+    },
+    {
+      "w": "captivity",
+      "m": "포로 상태"
+    },
+    {
+      "w": "radiation",
+      "m": "방사선"
+    },
+    {
+      "w": "seismic",
+      "m": "지진의"
+    },
+    {
+      "w": "nutrition",
+      "m": "영양"
+    },
+    {
+      "w": "accomplish",
+      "m": "성취하다"
+    },
+    {
+      "w": "authentic",
+      "m": "진짜의"
+    },
+    {
+      "w": "agile",
+      "m": "민첩한"
+    },
+    {
+      "w": "arable",
+      "m": "경작 가능한"
+    },
+    {
+      "w": "nurture",
+      "m": "양육하다"
+    },
+    {
+      "w": "folklore",
+      "m": "민속"
+    },
+    {
+      "w": "stimulus",
+      "m": "자극"
+    },
+    {
+      "w": "culprit",
+      "m": "범인"
+    },
+    {
+      "w": "commission",
+      "m": "위원회, 의뢰"
+    },
+    {
+      "w": "exogenous",
+      "m": "외인성의"
+    },
+    {
+      "w": "bulwark",
+      "m": "방벽"
+    },
+    {
+      "w": "elucidate",
+      "m": "설명하다"
+    },
+    {
+      "w": "generate",
+      "m": "생성하다"
+    },
+    {
+      "w": "infuse",
+      "m": "주입하다"
+    },
+    {
+      "w": "synthetic",
+      "m": "합성의"
+    },
+    {
+      "w": "devise",
+      "m": "고안하다"
+    },
+    {
+      "w": "equivalent",
+      "m": "동등한"
+    },
+    {
+      "w": "genome",
+      "m": "유전체"
+    },
+    {
+      "w": "pragmatic",
+      "m": "실용적인"
+    },
+    {
+      "w": "random",
+      "m": "무작위의"
+    },
+    {
+      "w": "equestrian",
+      "m": "승마의"
+    },
+    {
+      "w": "succinct",
+      "m": "간결한"
+    },
+    {
+      "w": "medieval",
+      "m": "중세의"
+    },
+    {
+      "w": "bias",
+      "m": "편견"
+    },
+    {
+      "w": "sedentary",
+      "m": "좌식의"
+    },
+    {
+      "w": "analogy",
+      "m": "유추"
+    },
+    {
+      "w": "resolve",
+      "m": "해결하다"
+    },
+    {
+      "w": "rehabilitation",
+      "m": "재활"
+    },
+    {
+      "w": "empirical",
+      "m": "경험적인"
+    },
+    {
+      "w": "reciprocal",
+      "m": "상호의"
+    },
+    {
+      "w": "clergy",
+      "m": "성직자"
+    },
+    {
+      "w": "ligament",
+      "m": "인대"
+    },
+    {
+      "w": "electron",
+      "m": "전자"
+    },
+    {
+      "w": "tenure",
+      "m": "재임 기간"
+    },
+    {
+      "w": "atom",
+      "m": "원자"
+    },
+    {
+      "w": "resonance",
+      "m": "공명"
+    },
+    {
+      "w": "atrophy",
+      "m": "위축"
+    },
+    {
+      "w": "decentralize",
+      "m": "분산시키다"
+    },
+    {
+      "w": "behavioral",
+      "m": "행동의"
+    },
+    {
+      "w": "pigment",
+      "m": "색소"
+    },
+    {
+      "w": "arid",
+      "m": "건조한"
+    },
+    {
+      "w": "contaminate",
+      "m": "오염시키다"
+    },
+    {
+      "w": "preservation",
+      "m": "보존"
+    },
+    {
+      "w": "petroleum",
+      "m": "석유"
+    },
+    {
+      "w": "oversee",
+      "m": "감독하다"
+    },
+    {
+      "w": "renaissance",
+      "m": "르네상스"
+    },
+    {
+      "w": "application",
+      "m": "적용, 응용"
+    },
+    {
+      "w": "aristocracy",
+      "m": "귀족 정치"
+    },
+    {
+      "w": "gene",
+      "m": "유전자"
+    },
+    {
+      "w": "adulterate",
+      "m": "불순물을 섞다"
+    },
+    {
+      "w": "derelict",
+      "m": "유기된"
+    },
+    {
+      "w": "proliferate",
+      "m": "급증하다"
+    },
+    {
+      "w": "wavelength",
+      "m": "파장"
+    },
+    {
+      "w": "reign",
+      "m": "통치"
+    },
+    {
+      "w": "arson",
+      "m": "방화"
+    },
+    {
+      "w": "dissect",
+      "m": "해부하다"
+    },
+    {
+      "w": "fission",
+      "m": "핵분열"
+    },
+    {
+      "w": "degrade",
+      "m": "저하시키다"
+    },
+    {
+      "w": "constrain",
+      "m": "제약하다"
+    },
+    {
+      "w": "participate",
+      "m": "참여하다"
+    },
+    {
+      "w": "variation",
+      "m": "변화"
+    },
+    {
+      "w": "suppress",
+      "m": "억압하다"
+    },
+    {
+      "w": "psychology",
+      "m": "심리학"
+    },
+    {
+      "w": "aviation",
+      "m": "항공"
+    },
+    {
+      "w": "volcanic",
+      "m": "화산의"
+    },
+    {
+      "w": "trend",
+      "m": "추세"
+    },
+    {
+      "w": "decree",
+      "m": "법령"
+    },
+    {
+      "w": "extensive",
+      "m": "광범위한"
+    },
+    {
+      "w": "nova",
+      "m": "신성(폭발별)"
+    },
+    {
+      "w": "ballast",
+      "m": "밸러스트"
+    },
+    {
+      "w": "axiom",
+      "m": "공리"
+    },
+    {
+      "w": "essence",
+      "m": "본질"
+    },
+    {
+      "w": "itinerant",
+      "m": "순회하는"
+    },
+    {
+      "w": "abridge",
+      "m": "요약하다"
+    },
+    {
+      "w": "intermediate",
+      "m": "중간의"
+    },
+    {
+      "w": "convention",
+      "m": "관습, 협약"
+    },
+    {
+      "w": "convict",
+      "m": "유죄를 선고하다"
+    },
+    {
+      "w": "exuberant",
+      "m": "열정적인"
+    },
+    {
+      "w": "disintegrate",
+      "m": "분해되다"
+    },
+    {
+      "w": "pandemic",
+      "m": "세계적 유행병"
+    },
+    {
+      "w": "contaminant",
+      "m": "오염물질"
+    },
+    {
+      "w": "literal",
+      "m": "문자 그대로의"
+    },
+    {
+      "w": "convey",
+      "m": "전달하다"
+    },
+    {
+      "w": "elicit",
+      "m": "이끌어 내다"
+    },
+    {
+      "w": "algal",
+      "m": "조류의"
+    },
+    {
+      "w": "intangible",
+      "m": "무형의"
+    },
+    {
+      "w": "adaptation",
+      "m": "적응"
+    },
+    {
+      "w": "profound",
+      "m": "심오한"
+    },
+    {
+      "w": "subsidiary",
+      "m": "부수적인"
+    },
+    {
+      "w": "appraisal",
+      "m": "평가"
+    },
+    {
+      "w": "camouflage",
+      "m": "위장"
+    },
+    {
+      "w": "protocol",
+      "m": "규약"
+    },
+    {
+      "w": "mutual",
+      "m": "상호의"
+    },
+    {
+      "w": "axis",
+      "m": "축"
+    },
+    {
+      "w": "endorse",
+      "m": "지지하다"
+    },
+    {
+      "w": "obvious",
+      "m": "명백한"
+    },
+    {
+      "w": "contingency",
+      "m": "비상사태"
+    },
+    {
+      "w": "dangle",
+      "m": "매달리다"
+    },
+    {
+      "w": "endogenous",
+      "m": "내인성의"
+    },
+    {
+      "w": "conceal",
+      "m": "숨기다"
+    },
+    {
+      "w": "neuroscience",
+      "m": "신경과학"
+    },
+    {
+      "w": "heuristic",
+      "m": "발견적인"
+    },
+    {
+      "w": "confiscate",
+      "m": "몰수하다"
+    },
+    {
+      "w": "delineate",
+      "m": "기술하다, 묘사하다"
+    },
+    {
+      "w": "endeavor",
+      "m": "노력"
+    },
+    {
+      "w": "chaotic",
+      "m": "혼란스러운"
+    },
+    {
+      "w": "canon",
+      "m": "규범, 정전"
+    },
+    {
+      "w": "humanitarian",
+      "m": "인도주의적인"
+    },
+    {
+      "w": "vital",
+      "m": "필수적인"
+    },
+    {
+      "w": "liberal",
+      "m": "자유주의적인"
+    },
+    {
+      "w": "ascertain",
+      "m": "확인하다"
+    },
+    {
+      "w": "canopy",
+      "m": "수관층, 덮개"
+    },
+    {
+      "w": "strata",
+      "m": "지층(복수)"
+    },
+    {
+      "w": "substance",
+      "m": "물질"
+    },
+    {
+      "w": "tenant",
+      "m": "세입자"
+    },
+    {
+      "w": "arbitrary",
+      "m": "임의의"
+    },
+    {
+      "w": "forage",
+      "m": "먹이를 찾다"
+    },
+    {
+      "w": "opaque",
+      "m": "불투명한"
+    },
+    {
+      "w": "mainstream",
+      "m": "주류"
+    },
+    {
+      "w": "metamorphosis",
+      "m": "변태, 변신"
+    },
+    {
+      "w": "implicit",
+      "m": "암시적인"
+    },
+    {
+      "w": "minimal",
+      "m": "최소한의"
+    },
+    {
+      "w": "sulfur",
+      "m": "황"
+    },
+    {
+      "w": "hypertension",
+      "m": "고혈압"
+    },
+    {
+      "w": "bronze",
+      "m": "청동"
+    },
+    {
+      "w": "delegate",
+      "m": "대표, 위임하다"
+    },
+    {
+      "w": "literary",
+      "m": "문학의"
+    },
+    {
+      "w": "cessation",
+      "m": "중단"
+    },
+    {
+      "w": "conservatism",
+      "m": "보수주의"
+    },
+    {
+      "w": "azure",
+      "m": "하늘색의"
+    },
+    {
+      "w": "emerge",
+      "m": "나타나다"
+    },
+    {
+      "w": "osmosis",
+      "m": "삼투"
+    },
+    {
+      "w": "refraction",
+      "m": "굴절"
+    },
+    {
+      "w": "reconstruct",
+      "m": "재건하다"
+    },
+    {
+      "w": "vessel",
+      "m": "혈관, 선박"
+    },
+    {
+      "w": "communal",
+      "m": "공동의"
+    },
+    {
+      "w": "decennial",
+      "m": "10년마다의"
+    },
+    {
+      "w": "dismantle",
+      "m": "분해하다"
+    },
+    {
+      "w": "parliament",
+      "m": "의회"
+    },
+    {
+      "w": "synthesize",
+      "m": "합성하다"
+    },
+    {
+      "w": "exhibit",
+      "m": "전시하다"
+    },
+    {
+      "w": "eloquent",
+      "m": "웅변적인"
+    },
+    {
+      "w": "plunder",
+      "m": "약탈하다"
+    },
+    {
+      "w": "corpse",
+      "m": "시체"
+    },
+    {
+      "w": "hallmark",
+      "m": "특징"
+    },
+    {
+      "w": "allocate",
+      "m": "할당하다"
+    },
+    {
+      "w": "atmospheric",
+      "m": "대기의"
+    },
+    {
+      "w": "dynamic",
+      "m": "역동적인"
+    },
+    {
+      "w": "articulate",
+      "m": "분명히 표현하다"
+    },
+    {
+      "w": "solidarity",
+      "m": "연대"
+    },
+    {
+      "w": "undulate",
+      "m": "파동치다"
+    },
+    {
+      "w": "augment",
+      "m": "증가시키다"
+    },
+    {
+      "w": "accessible",
+      "m": "접근 가능한"
+    },
+    {
+      "w": "induction",
+      "m": "유도, 귀납"
+    },
+    {
+      "w": "reproduce",
+      "m": "번식하다"
+    },
+    {
+      "w": "eccentric",
+      "m": "별난, 편심의"
+    },
+    {
+      "w": "prudent",
+      "m": "신중한"
+    },
+    {
+      "w": "repress",
+      "m": "억압하다"
+    },
+    {
+      "w": "aerial",
+      "m": "공중의"
+    },
+    {
+      "w": "hostile",
+      "m": "적대적인"
+    },
+    {
+      "w": "asteroid",
+      "m": "소행성"
+    },
+    {
+      "w": "domain",
+      "m": "영역"
+    },
+    {
+      "w": "encounter",
+      "m": "마주치다"
+    },
+    {
+      "w": "cluster",
+      "m": "무리, 군집"
+    },
+    {
+      "w": "nomenclature",
+      "m": "명명법"
+    },
+    {
+      "w": "pollinate",
+      "m": "수분하다"
+    },
+    {
+      "w": "monsoon",
+      "m": "몬순, 계절풍"
+    },
+    {
+      "w": "institution",
+      "m": "기관, 제도"
+    },
+    {
+      "w": "inflict",
+      "m": "가하다"
+    },
+    {
+      "w": "taxonomy",
+      "m": "분류학"
+    },
+    {
+      "w": "epitome",
+      "m": "전형"
+    },
+    {
+      "w": "fusion",
+      "m": "융합"
+    },
+    {
+      "w": "utilize",
+      "m": "활용하다"
+    },
+    {
+      "w": "despoil",
+      "m": "약탈하다"
+    },
+    {
+      "w": "trait",
+      "m": "특성"
+    },
+    {
+      "w": "homage",
+      "m": "경의"
+    },
+    {
+      "w": "allegation",
+      "m": "주장, 혐의"
+    },
+    {
+      "w": "disclose",
+      "m": "공개하다"
+    },
+    {
+      "w": "discourse",
+      "m": "담론"
+    },
+    {
+      "w": "metabolism",
+      "m": "신진대사"
+    },
+    {
+      "w": "rival",
+      "m": "경쟁자"
+    },
+    {
+      "w": "predominant",
+      "m": "지배적인"
+    },
+    {
+      "w": "evacuate",
+      "m": "대피시키다"
+    },
+    {
+      "w": "converge",
+      "m": "수렴하다"
+    },
+    {
+      "w": "protagonist",
+      "m": "주인공"
+    },
+    {
+      "w": "outreach",
+      "m": "봉사활동"
+    },
+    {
+      "w": "superficial",
+      "m": "표면적인"
+    },
+    {
+      "w": "colonize",
+      "m": "식민지화하다"
+    },
+    {
+      "w": "collapse",
+      "m": "붕괴"
+    },
+    {
+      "w": "annihilate",
+      "m": "전멸시키다"
+    },
+    {
+      "w": "prestige",
+      "m": "명성"
+    },
+    {
+      "w": "amiability",
+      "m": "상냥함"
+    },
+    {
+      "w": "attain",
+      "m": "달성하다"
+    },
+    {
+      "w": "communism",
+      "m": "공산주의"
+    },
+    {
+      "w": "partial",
+      "m": "부분적인"
+    },
+    {
+      "w": "volition",
+      "m": "의지"
+    },
+    {
+      "w": "biography",
+      "m": "전기"
+    },
+    {
+      "w": "hemorrhage",
+      "m": "출혈"
+    },
+    {
+      "w": "expropriate",
+      "m": "수용하다"
+    },
+    {
+      "w": "embed",
+      "m": "내장하다"
+    },
+    {
+      "w": "array",
+      "m": "배열, 다수"
+    },
+    {
+      "w": "emanate",
+      "m": "방출하다"
+    },
+    {
+      "w": "franchise",
+      "m": "특허권, 가맹점"
+    },
+    {
+      "w": "homologous",
+      "m": "상동의"
+    },
+    {
+      "w": "contour",
+      "m": "윤곽"
+    },
+    {
+      "w": "inflate",
+      "m": "팽창시키다"
+    },
+    {
+      "w": "chronological",
+      "m": "연대순의"
+    },
+    {
+      "w": "adolescent",
+      "m": "청소년의"
+    },
+    {
+      "w": "pathogen",
+      "m": "병원체"
+    },
+    {
+      "w": "governance",
+      "m": "통치"
+    },
+    {
+      "w": "retain",
+      "m": "유지하다"
+    },
+    {
+      "w": "abolition",
+      "m": "폐지"
+    },
+    {
+      "w": "prescribe",
+      "m": "처방하다"
+    },
+    {
+      "w": "attenuate",
+      "m": "약화시키다"
+    },
+    {
+      "w": "proclaim",
+      "m": "선언하다"
+    },
+    {
+      "w": "contingent",
+      "m": "~에 달려 있는"
+    },
+    {
+      "w": "anaerobic",
+      "m": "혐기성의"
+    },
+    {
+      "w": "intact",
+      "m": "온전한"
+    },
+    {
+      "w": "ensue",
+      "m": "뒤따르다"
+    },
+    {
+      "w": "ingenuity",
+      "m": "독창성"
+    },
+    {
+      "w": "forfeit",
+      "m": "몰수당하다"
+    },
+    {
+      "w": "diversion",
+      "m": "전환"
+    },
+    {
+      "w": "sphere",
+      "m": "구, 영역"
+    },
+    {
+      "w": "cripple",
+      "m": "무력하게 하다"
+    },
+    {
+      "w": "fluid",
+      "m": "유체, 유동적인"
+    },
+    {
+      "w": "shatter",
+      "m": "산산조각 내다"
+    },
+    {
+      "w": "dispatch",
+      "m": "발송하다"
+    },
+    {
+      "w": "cellular",
+      "m": "세포의"
+    },
+    {
+      "w": "physiology",
+      "m": "생리학"
+    },
+    {
+      "w": "crystal",
+      "m": "결정체"
+    },
+    {
+      "w": "amplitude",
+      "m": "진폭"
+    },
+    {
+      "w": "pervasive",
+      "m": "만연한"
+    },
+    {
+      "w": "erratic",
+      "m": "불규칙한"
+    },
+    {
+      "w": "vast",
+      "m": "광대한"
+    },
+    {
+      "w": "dominion",
+      "m": "지배권"
+    },
+    {
+      "w": "versatile",
+      "m": "다재다능한"
+    },
+    {
+      "w": "absorption",
+      "m": "흡수"
+    },
+    {
+      "w": "notion",
+      "m": "개념"
+    },
+    {
+      "w": "contemplate",
+      "m": "숙고하다"
+    },
+    {
+      "w": "molecule",
+      "m": "분자"
+    },
+    {
+      "w": "ferment",
+      "m": "발효하다"
+    },
+    {
+      "w": "lancet",
+      "m": "란셋"
+    },
+    {
+      "w": "impinge",
+      "m": "영향을 미치다"
+    },
+    {
+      "w": "stable",
+      "m": "안정적인"
+    },
+    {
+      "w": "apathy",
+      "m": "무관심"
+    },
+    {
+      "w": "fraternal",
+      "m": "형제의"
+    },
+    {
+      "w": "agglomerate",
+      "m": "응집시키다"
+    },
+    {
+      "w": "principle",
+      "m": "원칙"
+    },
+    {
+      "w": "theorem",
+      "m": "정리"
+    },
+    {
+      "w": "circumscribe",
+      "m": "제한하다"
+    },
+    {
+      "w": "venture",
+      "m": "모험사업"
+    },
+    {
+      "w": "engender",
+      "m": "야기하다"
+    },
+    {
+      "w": "accuracy",
+      "m": "정확성"
+    },
+    {
+      "w": "deviant",
+      "m": "일탈한"
+    },
+    {
+      "w": "proximity",
+      "m": "근접"
+    },
+    {
+      "w": "engage",
+      "m": "관여하다"
+    },
+    {
+      "w": "preliminary",
+      "m": "예비의"
+    },
+    {
+      "w": "orbit",
+      "m": "궤도"
+    },
+    {
+      "w": "resource",
+      "m": "자원"
+    },
+    {
+      "w": "intervene",
+      "m": "개입하다"
+    },
+    {
+      "w": "invariably",
+      "m": "변함없이"
+    },
+    {
+      "w": "assimilate",
+      "m": "동화시키다"
+    },
+    {
+      "w": "respective",
+      "m": "각각의"
+    },
+    {
+      "w": "interstellar",
+      "m": "성간의"
+    },
+    {
+      "w": "thaw",
+      "m": "녹다"
+    },
+    {
+      "w": "blockade",
+      "m": "봉쇄"
+    },
+    {
+      "w": "contiguous",
+      "m": "인접한"
+    },
+    {
+      "w": "significance",
+      "m": "중요성"
+    },
+    {
+      "w": "consortium",
+      "m": "컨소시엄"
+    },
+    {
+      "w": "characterize",
+      "m": "특징짓다"
+    },
+    {
+      "w": "devolve",
+      "m": "이양하다"
+    },
+    {
+      "w": "anticipate",
+      "m": "예상하다"
+    },
+    {
+      "w": "allocution",
+      "m": "훈시"
+    },
+    {
+      "w": "boulder",
+      "m": "큰 바위"
+    },
+    {
+      "w": "perceive",
+      "m": "인식하다"
+    },
+    {
+      "w": "pivotal",
+      "m": "중추적인"
+    },
+    {
+      "w": "comprehensive",
+      "m": "포괄적인"
+    },
+    {
+      "w": "fiasco",
+      "m": "대실패"
+    },
+    {
+      "w": "inference",
+      "m": "추론"
+    },
+    {
+      "w": "lava",
+      "m": "용암"
+    },
+    {
+      "w": "remote",
+      "m": "먼, 외진"
+    },
+    {
+      "w": "epilogue",
+      "m": "에필로그"
+    },
+    {
+      "w": "migration",
+      "m": "이주"
+    },
+    {
+      "w": "render",
+      "m": "만들다, 표현하다"
+    },
+    {
+      "w": "adjoining",
+      "m": "인접한"
+    },
+    {
+      "w": "erosion",
+      "m": "침식"
+    },
+    {
+      "w": "probe",
+      "m": "탐사하다"
+    },
+    {
+      "w": "inorganic",
+      "m": "무기의"
+    },
+    {
+      "w": "acoustics",
+      "m": "음향학"
+    },
+    {
+      "w": "emulate",
+      "m": "모방하다"
+    },
+    {
+      "w": "jargon",
+      "m": "전문 용어"
+    },
+    {
+      "w": "espionage",
+      "m": "간첩 활동"
+    },
+    {
+      "w": "condemn",
+      "m": "비난하다"
+    },
+    {
+      "w": "objective",
+      "m": "객관적인, 목표"
+    },
+    {
+      "w": "statute",
+      "m": "법령"
+    },
+    {
+      "w": "elation",
+      "m": "의기양양"
+    },
+    {
+      "w": "lagoon",
+      "m": "석호"
+    },
+    {
+      "w": "perspective",
+      "m": "관점"
+    },
+    {
+      "w": "substrate",
+      "m": "기질"
+    },
+    {
+      "w": "discrepancy",
+      "m": "불일치"
+    },
+    {
+      "w": "generic",
+      "m": "일반적인"
+    },
+    {
+      "w": "variable",
+      "m": "변수, 변하기 쉬운"
+    },
+    {
+      "w": "donor",
+      "m": "기증자"
+    },
+    {
+      "w": "realm",
+      "m": "영역"
+    },
+    {
+      "w": "diplomacy",
+      "m": "외교"
+    },
+    {
+      "w": "astronomy",
+      "m": "천문학"
+    },
+    {
+      "w": "eternal",
+      "m": "영원한"
+    },
+    {
+      "w": "legitimate",
+      "m": "합법적인"
+    },
+    {
+      "w": "genetic",
+      "m": "유전의"
+    },
+    {
+      "w": "catalyze",
+      "m": "촉진시키다"
+    },
+    {
+      "w": "interlude",
+      "m": "막간"
+    },
+    {
+      "w": "condensation",
+      "m": "응축"
+    },
+    {
+      "w": "dynasty",
+      "m": "왕조"
+    },
+    {
+      "w": "architecture",
+      "m": "건축"
+    },
+    {
+      "w": "assertion",
+      "m": "주장"
+    },
+    {
+      "w": "antiquated",
+      "m": "구식의"
+    },
+    {
+      "w": "crossroads",
+      "m": "교차로"
+    },
+    {
+      "w": "gradient",
+      "m": "경사, 기울기"
+    },
+    {
+      "w": "tissue",
+      "m": "조직"
+    },
+    {
+      "w": "dissolve",
+      "m": "녹이다"
+    },
+    {
+      "w": "pulmonary",
+      "m": "폐의"
+    },
+    {
+      "w": "trace",
+      "m": "추적하다, 흔적"
+    },
+    {
+      "w": "spontaneous",
+      "m": "자발적인"
+    },
+    {
+      "w": "ethnography",
+      "m": "민족지학"
+    },
+    {
+      "w": "intermittent",
+      "m": "간헐적인"
+    },
+    {
+      "w": "obtain",
+      "m": "얻다"
+    },
+    {
+      "w": "contribute",
+      "m": "기여하다"
+    },
+    {
+      "w": "juxtaposition",
+      "m": "병치"
+    },
+    {
+      "w": "vocabulary",
+      "m": "어휘"
+    },
+    {
+      "w": "prevail",
+      "m": "우세하다"
+    },
+    {
+      "w": "corrode",
+      "m": "부식시키다"
+    },
+    {
+      "w": "sovereignty",
+      "m": "주권"
+    },
+    {
+      "w": "rupture",
+      "m": "파열"
+    },
+    {
+      "w": "aural",
+      "m": "귀의, 청각의"
+    },
+    {
+      "w": "strenuous",
+      "m": "힘든"
+    },
+    {
+      "w": "thesis",
+      "m": "논문"
+    },
+    {
+      "w": "tyranny",
+      "m": "폭정"
+    },
+    {
+      "w": "estate",
+      "m": "재산, 영지"
+    },
+    {
+      "w": "systematic",
+      "m": "체계적인"
+    },
+    {
+      "w": "diminish",
+      "m": "줄이다"
+    },
+    {
+      "w": "impoverish",
+      "m": "빈곤하게 하다"
+    },
+    {
+      "w": "inscription",
+      "m": "비문, 명문"
+    },
+    {
+      "w": "contrast",
+      "m": "대조"
+    },
+    {
+      "w": "ingenious",
+      "m": "독창적인"
+    },
+    {
+      "w": "convex",
+      "m": "볼록한"
+    },
+    {
+      "w": "spatial",
+      "m": "공간의"
+    },
+    {
+      "w": "notable",
+      "m": "주목할 만한"
+    },
+    {
+      "w": "impetus",
+      "m": "자극, 추진력"
+    },
+    {
+      "w": "iconoclast",
+      "m": "인습 타파자"
+    },
+    {
+      "w": "cardiovascular",
+      "m": "심혈관의"
+    },
+    {
+      "w": "disclaimer",
+      "m": "부인, 면책조항"
+    },
+    {
+      "w": "insular",
+      "m": "섬의, 편협한"
+    },
+    {
+      "w": "denizen",
+      "m": "거주자"
+    },
+    {
+      "w": "bedrock",
+      "m": "기반암"
+    },
+    {
+      "w": "fabricate",
+      "m": "조작하다, 제조하다"
+    },
+    {
+      "w": "armament",
+      "m": "군비"
+    },
+    {
+      "w": "dual",
+      "m": "이중의"
+    },
+    {
+      "w": "supplement",
+      "m": "보충"
+    },
+    {
+      "w": "anthropology",
+      "m": "인류학"
+    },
+    {
+      "w": "attribute",
+      "m": "속성, ~의 탓으로 돌리다"
+    },
+    {
+      "w": "unanimous",
+      "m": "만장일치의"
+    },
+    {
+      "w": "demographic",
+      "m": "인구통계학의"
+    },
+    {
+      "w": "regime",
+      "m": "정권, 체제"
+    },
+    {
+      "w": "infer",
+      "m": "추론하다"
+    },
+    {
+      "w": "dexterity",
+      "m": "손재주"
+    },
+    {
+      "w": "elevation",
+      "m": "높이, 해발"
+    },
+    {
+      "w": "sector",
+      "m": "부문"
+    },
+    {
+      "w": "simultaneous",
+      "m": "동시의"
+    },
+    {
+      "w": "contagion",
+      "m": "전염"
+    },
+    {
+      "w": "federal",
+      "m": "연방의"
+    },
+    {
+      "w": "provenance",
+      "m": "기원, 출처"
+    },
+    {
+      "w": "basin",
+      "m": "분지, 유역"
+    },
+    {
+      "w": "interior",
+      "m": "내부의"
+    },
+    {
+      "w": "foliage",
+      "m": "잎, 나뭇잎"
+    },
+    {
+      "w": "coincide",
+      "m": "일치하다"
+    },
+    {
+      "w": "principal",
+      "m": "주요한"
+    },
+    {
+      "w": "obligate",
+      "m": "의무를 지우다"
+    },
+    {
+      "w": "vocal",
+      "m": "목소리의"
+    },
+    {
+      "w": "annual",
+      "m": "연간의"
+    },
+    {
+      "w": "centrifugal",
+      "m": "원심력의"
+    },
+    {
+      "w": "escalate",
+      "m": "확대되다"
+    },
+    {
+      "w": "revolt",
+      "m": "반란"
+    },
+    {
+      "w": "Ice Age",
+      "m": "빙하기"
+    },
+    {
+      "w": "dearth",
+      "m": "부족"
+    },
+    {
+      "w": "indigenous",
+      "m": "토착의"
+    },
+    {
+      "w": "calibrate",
+      "m": "보정하다"
+    },
+    {
+      "w": "internal",
+      "m": "내부의"
+    },
+    {
+      "w": "breach",
+      "m": "위반, 틈"
+    },
+    {
+      "w": "isotope",
+      "m": "동위원소"
+    },
+    {
+      "w": "homogeneous",
+      "m": "동질적인"
+    },
+    {
+      "w": "analytical",
+      "m": "분석적인"
+    },
+    {
+      "w": "disperse",
+      "m": "분산시키다"
+    },
+    {
+      "w": "construct",
+      "m": "건설하다"
+    },
+    {
+      "w": "indelible",
+      "m": "지울 수 없는"
+    },
+    {
+      "w": "humus",
+      "m": "부식토"
+    },
+    {
+      "w": "meridian",
+      "m": "자오선"
+    },
+    {
+      "w": "trivial",
+      "m": "사소한"
+    },
+    {
+      "w": "context",
+      "m": "맥락"
+    },
+    {
+      "w": "cauterize",
+      "m": "소작하다"
+    },
+    {
+      "w": "ambient",
+      "m": "주변의"
+    },
+    {
+      "w": "accentuate",
+      "m": "강조하다"
+    },
+    {
+      "w": "dismal",
+      "m": "음울한"
+    },
+    {
+      "w": "chore",
+      "m": "잡일"
+    },
+    {
+      "w": "exhaust",
+      "m": "소모하다"
+    },
+    {
+      "w": "reptile",
+      "m": "파충류"
+    },
+    {
+      "w": "neutral",
+      "m": "중립의"
+    },
+    {
+      "w": "distinction",
+      "m": "구별, 차이"
+    },
+    {
+      "w": "medium",
+      "m": "매체, 중간"
+    },
+    {
+      "w": "inundate",
+      "m": "범람시키다"
+    },
+    {
+      "w": "turnover",
+      "m": "이직률"
+    },
+    {
+      "w": "submerge",
+      "m": "잠수시키다"
+    },
+    {
+      "w": "valid",
+      "m": "유효한"
+    },
+    {
+      "w": "descend",
+      "m": "하강하다"
+    },
+    {
+      "w": "quest",
+      "m": "탐구"
+    },
+    {
+      "w": "albeit",
+      "m": "비록 ~일지라도"
+    },
+    {
+      "w": "revenue",
+      "m": "수입"
+    },
+    {
+      "w": "philosophy",
+      "m": "철학"
+    },
+    {
+      "w": "efficacy",
+      "m": "효능"
+    },
+    {
+      "w": "dissent",
+      "m": "반대"
+    },
+    {
+      "w": "brevity",
+      "m": "간결함"
+    },
+    {
+      "w": "allegory",
+      "m": "우화"
+    },
+    {
+      "w": "alloy",
+      "m": "합금"
+    },
+    {
+      "w": "mercury",
+      "m": "수은"
+    },
+    {
+      "w": "requisite",
+      "m": "필요한"
+    },
+    {
+      "w": "biome",
+      "m": "생물 군계"
+    },
+    {
+      "w": "prone",
+      "m": "~하기 쉬운"
+    },
+    {
+      "w": "enigmatic",
+      "m": "수수께끼 같은"
+    },
+    {
+      "w": "abdicate",
+      "m": "퇴위하다"
+    },
+    {
+      "w": "terrain",
+      "m": "지형"
+    },
+    {
+      "w": "catalyst",
+      "m": "촉매"
+    },
+    {
+      "w": "wetland",
+      "m": "습지"
+    },
+    {
+      "w": "comprise",
+      "m": "구성하다"
+    },
+    {
+      "w": "diversity",
+      "m": "다양성"
+    },
+    {
+      "w": "emit",
+      "m": "방출하다"
+    },
+    {
+      "w": "exclude",
+      "m": "제외하다"
+    },
+    {
+      "w": "abode",
+      "m": "거처"
+    },
+    {
+      "w": "agitate",
+      "m": "동요시키다"
+    },
+    {
+      "w": "chronic",
+      "m": "만성적인"
+    },
+    {
+      "w": "spiral",
+      "m": "나선형의"
+    }
+  ]
+}
