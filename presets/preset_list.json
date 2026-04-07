@@ -3,78 +3,91 @@
     "file": "dict_preschool.json",
     "name": "미취학 아동",
     "description": "미취학 아동 영단어 438개",
-    "wordCount": 437
+    "wordCount": 437,
+    "category": "미취학"
   },
   {
     "file": "dict_elem_beginner.json",
     "name": "초등학생 초급",
     "description": "초등학생 초급 영단어 802개",
-    "wordCount": 801
+    "wordCount": 801,
+    "category": "초등학생"
   },
   {
     "file": "dict_elem_intermediate.json",
     "name": "초등학생 중급",
     "description": "초등학생 중급 영단어 1014개",
-    "wordCount": 1013
+    "wordCount": 1013,
+    "category": "초등학생"
   },
   {
     "file": "dict_elem_advanced.json",
     "name": "초등학생 고급",
     "description": "초등학생 고급 영단어 1191개",
-    "wordCount": 1190
+    "wordCount": 1190,
+    "category": "초등학생"
   },
   {
     "file": "dict_middle_beginner.json",
     "name": "중학생 초급",
     "description": "중학생 초급 영단어 1594개",
-    "wordCount": 1593
+    "wordCount": 1593,
+    "category": "중학생"
   },
   {
     "file": "dict_middle_intermediate.json",
     "name": "중학생 중급",
     "description": "중학생 중급 영단어 3281개",
-    "wordCount": 3274
+    "wordCount": 3274,
+    "category": "중학생"
   },
   {
     "file": "dict_middle_advanced.json",
     "name": "중학생 고급",
     "description": "중학생 고급 영단어 3966개",
-    "wordCount": 3956
+    "wordCount": 3956,
+    "category": "중학생"
   },
   {
     "file": "dict_high_beginner.json",
     "name": "고등학생 초급",
     "description": "고등학생 초급 영단어 4549개",
-    "wordCount": 4541
+    "wordCount": 4541,
+    "category": "고등학생"
   },
   {
     "file": "dict_high_intermediate.json",
     "name": "고등학생 중급",
     "description": "고등학생 중급 영단어 4098개",
-    "wordCount": 4077
+    "wordCount": 4077,
+    "category": "고등학생"
   },
   {
     "file": "dict_high_advanced.json",
     "name": "고등학생 고급",
     "description": "고등학생 고급 영단어 4778개",
-    "wordCount": 4753
+    "wordCount": 4753,
+    "category": "고등학생"
   },
   {
     "file": "dict_adult_beginner.json",
     "name": "일반 초급",
     "description": "일반 초급 영단어 4232개",
-    "wordCount": 4210
+    "wordCount": 4210,
+    "category": "일반"
   },
   {
     "file": "dict_adult_intermediate.json",
     "name": "일반 중급",
     "description": "일반 중급 영단어 6150개",
-    "wordCount": 6111
+    "wordCount": 6111,
+    "category": "일반"
   },
   {
     "file": "dict_adult_advanced.json",
     "name": "일반 고급",
     "description": "일반 고급 영단어 18869개",
-    "wordCount": 18644
+    "wordCount": 18644,
+    "category": "일반"
   }
 ]
