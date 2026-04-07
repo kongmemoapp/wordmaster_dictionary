@@ -1,8 +1,80 @@
 [
-	{
-		"file": "sample_words.json",
-		"name": "샘플 단어장",
-		"description": "테스트용 샘플 단어장",
-		"wordCount": 5
-	}
+  {
+    "file": "dict_preschool.json",
+    "name": "미취학 아동",
+    "description": "미취학 아동 영단어 438개",
+    "wordCount": 437
+  },
+  {
+    "file": "dict_elem_beginner.json",
+    "name": "초등학생 초급",
+    "description": "초등학생 초급 영단어 802개",
+    "wordCount": 801
+  },
+  {
+    "file": "dict_elem_intermediate.json",
+    "name": "초등학생 중급",
+    "description": "초등학생 중급 영단어 1014개",
+    "wordCount": 1013
+  },
+  {
+    "file": "dict_elem_advanced.json",
+    "name": "초등학생 고급",
+    "description": "초등학생 고급 영단어 1191개",
+    "wordCount": 1190
+  },
+  {
+    "file": "dict_middle_beginner.json",
+    "name": "중학생 초급",
+    "description": "중학생 초급 영단어 1594개",
+    "wordCount": 1593
+  },
+  {
+    "file": "dict_middle_intermediate.json",
+    "name": "중학생 중급",
+    "description": "중학생 중급 영단어 3281개",
+    "wordCount": 3274
+  },
+  {
+    "file": "dict_middle_advanced.json",
+    "name": "중학생 고급",
+    "description": "중학생 고급 영단어 3966개",
+    "wordCount": 3956
+  },
+  {
+    "file": "dict_high_beginner.json",
+    "name": "고등학생 초급",
+    "description": "고등학생 초급 영단어 4549개",
+    "wordCount": 4541
+  },
+  {
+    "file": "dict_high_intermediate.json",
+    "name": "고등학생 중급",
+    "description": "고등학생 중급 영단어 4098개",
+    "wordCount": 4077
+  },
+  {
+    "file": "dict_high_advanced.json",
+    "name": "고등학생 고급",
+    "description": "고등학생 고급 영단어 4778개",
+    "wordCount": 4753
+  },
+  {
+    "file": "dict_adult_beginner.json",
+    "name": "일반 초급",
+    "description": "일반 초급 영단어 4232개",
+    "wordCount": 4210
+  },
+  {
+    "file": "dict_adult_intermediate.json",
+    "name": "일반 중급",
+    "description": "일반 중급 영단어 6150개",
+    "wordCount": 6111
+  },
+  {
+    "file": "dict_adult_advanced.json",
+    "name": "일반 고급",
+    "description": "일반 고급 영단어 18869개",
+    "wordCount": 18644
+  }
 ]
