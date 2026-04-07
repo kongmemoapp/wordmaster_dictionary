@@ -1,0 +1,8 @@
+[
+	{
+		"file": "sample_words.json",
+		"name": "샘플 단어장",
+		"description": "테스트용 샘플 단어장",
+		"wordCount": 5
+	}
+]
