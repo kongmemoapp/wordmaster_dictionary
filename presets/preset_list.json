@@ -152,5 +152,12 @@
     "description": "대학 편입 시험 영어 필수 영단어 1000개",
     "wordCount": 986,
     "category": "시험대비"
+  },
+  {
+    "file": "edu_2022_3000.json",
+    "name": "2022년 교육부선정3000(내용수정)",
+    "description": "2022년 교육부 지정 필수 영단어 3000개(내용수정)",
+    "wordCount": 3000,
+    "category": "시험대비"
   }
 ]
