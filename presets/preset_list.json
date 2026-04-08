@@ -1,94 +1,24 @@
 [
   {
-    "file": "dict_preschool.json",
-    "name": "미취학 아동",
-    "description": "미취학 아동 영단어 438개",
-    "wordCount": 437,
-    "category": "내장사전 활용"
+    "file": "edu_2022_elementary_800.json",
+    "name": "교육부 기본어휘 2022년 - 초등(800)",
+    "description": "교육부 기본어휘 2022년 - 초등(800) 800개",
+    "wordCount": 800,
+    "category": "교육부 기본어휘(2022년)"
   },
   {
-    "file": "dict_elem_beginner.json",
-    "name": "초등학생 초급",
-    "description": "초등학생 초급 영단어 802개",
-    "wordCount": 801,
-    "category": "내장사전 활용"
+    "file": "edu_2022_middle_high_1800.json",
+    "name": "교육부 기본어휘 2022년 - 중고(1800)",
+    "description": "교육부 기본어휘 2022년 - 중고(1800) 1800개",
+    "wordCount": 1800,
+    "category": "교육부 기본어휘(2022년)"
   },
   {
-    "file": "dict_elem_intermediate.json",
-    "name": "초등학생 중급",
-    "description": "초등학생 중급 영단어 1014개",
-    "wordCount": 1013,
-    "category": "내장사전 활용"
-  },
-  {
-    "file": "dict_elem_advanced.json",
-    "name": "초등학생 고급",
-    "description": "초등학생 고급 영단어 1191개",
-    "wordCount": 1190,
-    "category": "내장사전 활용"
-  },
-  {
-    "file": "dict_middle_beginner.json",
-    "name": "중학생 초급",
-    "description": "중학생 초급 영단어 1594개",
-    "wordCount": 1593,
-    "category": "내장사전 활용"
-  },
-  {
-    "file": "dict_middle_intermediate.json",
-    "name": "중학생 중급",
-    "description": "중학생 중급 영단어 3281개",
-    "wordCount": 3274,
-    "category": "내장사전 활용"
-  },
-  {
-    "file": "dict_middle_advanced.json",
-    "name": "중학생 고급",
-    "description": "중학생 고급 영단어 3966개",
-    "wordCount": 3956,
-    "category": "내장사전 활용"
-  },
-  {
-    "file": "dict_high_beginner.json",
-    "name": "고등학생 초급",
-    "description": "고등학생 초급 영단어 4549개",
-    "wordCount": 4541,
-    "category": "내장사전 활용"
-  },
-  {
-    "file": "dict_high_intermediate.json",
-    "name": "고등학생 중급",
-    "description": "고등학생 중급 영단어 4098개",
-    "wordCount": 4077,
-    "category": "내장사전 활용"
-  },
-  {
-    "file": "dict_high_advanced.json",
-    "name": "고등학생 고급",
-    "description": "고등학생 고급 영단어 4778개",
-    "wordCount": 4753,
-    "category": "내장사전 활용"
-  },
-  {
-    "file": "dict_adult_beginner.json",
-    "name": "일반 초급",
-    "description": "일반 초급 영단어 4232개",
-    "wordCount": 4210,
-    "category": "내장사전 활용"
-  },
-  {
-    "file": "dict_adult_intermediate.json",
-    "name": "일반 중급",
-    "description": "일반 중급 영단어 6150개",
-    "wordCount": 6111,
-    "category": "내장사전 활용"
-  },
-  {
-    "file": "dict_adult_advanced.json",
-    "name": "일반 고급",
-    "description": "일반 고급 영단어 18869개",
-    "wordCount": 18644,
-    "category": "내장사전 활용"
+    "file": "edu_2022_advanced_400.json",
+    "name": "교육부 기본어휘 2022년 - 전문(400)",
+    "description": "교육부 기본어휘 2022년 - 전문(400) 400개",
+    "wordCount": 400,
+    "category": "교육부 기본어휘(2022년)"
   },
   {
     "file": "daily_english_500.json",
@@ -159,26 +89,5 @@
     "description": "2022년 교육부 지정 필수 영단어 3000개(내용수정)",
     "wordCount": 3000,
     "category": "시험대비"
-  },
-  {
-    "file": "edu_2022_elementary_800.json",
-    "name": "교육부 기본어휘 2022년 - 초등(800)",
-    "description": "교육부 기본어휘 2022년 - 초등(800) 800개",
-    "wordCount": 800,
-    "category": "교육부 기본어휘(2022년)"
-  },
-  {
-    "file": "edu_2022_middle_high_1800.json",
-    "name": "교육부 기본어휘 2022년 - 중고(1800)",
-    "description": "교육부 기본어휘 2022년 - 중고(1800) 1800개",
-    "wordCount": 1800,
-    "category": "교육부 기본어휘(2022년)"
-  },
-  {
-    "file": "edu_2022_advanced_400.json",
-    "name": "교육부 기본어휘 2022년 - 전문(400)",
-    "description": "교육부 기본어휘 2022년 - 전문(400) 400개",
-    "wordCount": 400,
-    "category": "교육부 기본어휘(2022년)"
   }
 ]
