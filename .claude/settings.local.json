@@ -6,7 +6,9 @@
       "Bash(python3 -c ':*)",
       "Bash(python3:*)",
       "Bash(python:*)",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "Bash(ls -la /c/myprojects/git/wordmaster/*.gradle.kts)",
+      "Bash(ls -la /c/myprojects/git/wordmaster/app/*.gradle.kts)"
     ]
   }
 }
