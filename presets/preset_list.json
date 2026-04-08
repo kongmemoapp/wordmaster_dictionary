@@ -159,5 +159,26 @@
     "description": "2022년 교육부 지정 필수 영단어 3000개(내용수정)",
     "wordCount": 3000,
     "category": "시험대비"
+  },
+  {
+    "file": "edu_2022_elementary_800.json",
+    "name": "교육부 기본어휘 2022년 - 초등(800)",
+    "description": "교육부 기본어휘 2022년 - 초등(800) 800개",
+    "wordCount": 800,
+    "category": "교육부 기본어휘(2022년)"
+  },
+  {
+    "file": "edu_2022_middle_high_1800.json",
+    "name": "교육부 기본어휘 2022년 - 중고(1800)",
+    "description": "교육부 기본어휘 2022년 - 중고(1800) 1800개",
+    "wordCount": 1800,
+    "category": "교육부 기본어휘(2022년)"
+  },
+  {
+    "file": "edu_2022_advanced_400.json",
+    "name": "교육부 기본어휘 2022년 - 전문(400)",
+    "description": "교육부 기본어휘 2022년 - 전문(400) 400개",
+    "wordCount": 400,
+    "category": "교육부 기본어휘(2022년)"
   }
 ]
