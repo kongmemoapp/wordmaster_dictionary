@@ -89,5 +89,12 @@
     "description": "대학 편입 시험 영어 필수 영단어 1000개",
     "wordCount": 986,
     "category": "시험대비"
+  },
+  {
+    "file": "sentence_patterns_250.json",
+    "name": "영어 문장 5형식 예문 250",
+    "description": "1형식부터 5형식까지 각 50개씩, 총 250개의 샘플 예문 모음",
+    "wordCount": 250,
+    "category": "시험대비"
   }
 ]
