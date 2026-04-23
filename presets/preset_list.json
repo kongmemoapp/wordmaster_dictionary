@@ -96,5 +96,12 @@
     "description": "1형식부터 5형식까지 각 50개씩, 총 250개의 샘플 예문 모음",
     "wordCount": 250,
     "category": "시험대비"
+  },
+  {
+    "file": "articles_200.json",
+    "name": "영어 관사 용법 예문 200",
+    "description": "부정관사(a/an) 100개, 정관사(the) 100개로 관사 사용 이유를 설명하는 예문 모음",
+    "wordCount": 200,
+    "category": "시험대비"
   }
 ]
