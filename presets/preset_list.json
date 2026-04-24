@@ -105,6 +105,62 @@
     "category": "문법공부(초등과정)"
   },
   {
+    "file": "mid_present_perfect_200.json",
+    "name": "1. 중학 현재완료 200",
+    "description": "have/has + p.p.의 4가지 용법(경험/계속/완료/결과), have been to vs have gone to, 부정·의문 예문 200개 (중학 수준)",
+    "wordCount": 200,
+    "category": "문법공부(중학과정)"
+  },
+  {
+    "file": "mid_passive_200.json",
+    "name": "2. 중학 수동태 200",
+    "description": "be + p.p. 시제별, 조동사+수동태, by 외 전치사(be interested in 등), 의문사 수동태, 부정·의문 예문 200개 (중학 수준)",
+    "wordCount": 200,
+    "category": "문법공부(중학과정)"
+  },
+  {
+    "file": "mid_participles_200.json",
+    "name": "3. 중학 분사 200",
+    "description": "현재분사(~ing)/과거분사(p.p.)의 명사수식·보어, 감정형용사 -ing vs -ed, 지각·사역동사+분사 예문 200개 (중학 수준)",
+    "wordCount": 200,
+    "category": "문법공부(중학과정)"
+  },
+  {
+    "file": "mid_relative_pronouns_200.json",
+    "name": "4. 중학 관계대명사 200",
+    "description": "who/whose/whom/which/that/what 관계대명사, 관계대명사 생략, 계속적 용법 예문 200개 (중학 수준)",
+    "wordCount": 200,
+    "category": "문법공부(중학과정)"
+  },
+  {
+    "file": "mid_conjunctions_200.json",
+    "name": "5. 중학 접속사 200",
+    "description": "등위접속사(and/but/or/so), 시간/조건/이유/양보/목적/결과 종속접속사, that 명사절 예문 200개 (중학 수준)",
+    "wordCount": 200,
+    "category": "문법공부(중학과정)"
+  },
+  {
+    "file": "mid_comparison_200.json",
+    "name": "6. 중학 비교 표현 심화 200",
+    "description": "원급 as~as, 비교·최상급 심화, 배수 비교, the 비교급 the 비교급, 비교급 강조(much/far/even), 최상급 대용, 비교 관용 표현 200개 (중학 수준)",
+    "wordCount": 200,
+    "category": "문법공부(중학과정)"
+  },
+  {
+    "file": "mid_causative_perception_150.json",
+    "name": "7. 중학 사역·지각동사 150",
+    "description": "사역동사(make/have/let + 원형, get + 목 + to V), 지각동사(see/hear/feel/smell + 원형·~ing·분사), help + (to) V 예문 150개 (중학 수준)",
+    "wordCount": 150,
+    "category": "문법공부(중학과정)"
+  },
+  {
+    "file": "mid_subjunctive_200.json",
+    "name": "8. 중학 가정법 200",
+    "description": "단순조건 vs 가정법, 가정법 과거/과거완료/혼합, I wish, as if, without/but for, if 도치, It's time + 가정법 예문 200개 (중학 수준)",
+    "wordCount": 200,
+    "category": "문법공부(중학과정)"
+  },
+  {
     "file": "edu_2022_3000.json",
     "name": "2022년 교육부선정3000(내용수정)",
     "description": "2022년 교육부 지정 필수 영단어 3000개(내용수정)",
