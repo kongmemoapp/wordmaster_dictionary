@@ -4,49 +4,70 @@
     "name": "영어 문장 5형식 예문 250",
     "description": "1형식부터 5형식까지 각 50개씩, 총 250개의 샘플 예문 모음",
     "wordCount": 250,
-    "category": "문법공부"
+    "category": "문법공부(주제별)"
   },
   {
     "file": "articles_200.json",
     "name": "영어 관사 용법 예문 200",
     "description": "부정관사(a/an) 100개, 정관사(the) 100개로 관사 사용 이유를 설명하는 예문 모음",
     "wordCount": 200,
-    "category": "문법공부"
+    "category": "문법공부(주제별)"
   },
   {
     "file": "modals_200.json",
     "name": "영어 조동사 용법 예문 200",
     "description": "주요 조동사 10종(can, could, may, might, will, would, shall, should, must, ought to) 각 20개씩, 총 200개의 예문 모음",
     "wordCount": 200,
-    "category": "문법공부"
+    "category": "문법공부(주제별)"
   },
   {
     "file": "prepositions_200.json",
     "name": "영어 전치사 용법 예문 200",
     "description": "주요 전치사 20종(in, on, at, to, from, of, for, with, by, about, over, under, between, among, through, across, against, before, after, during) 각 10개씩, 총 200개의 예문 모음",
     "wordCount": 200,
-    "category": "문법공부"
+    "category": "문법공부(주제별)"
   },
   {
     "file": "tenses_200.json",
     "name": "영어 시제 용법 예문 200",
     "description": "주요 10시제(현재, 현재진행, 현재완료, 현재완료진행, 과거, 과거진행, 과거완료, 미래, 미래진행, 미래완료) 각 20개씩, 총 200개의 예문 모음",
     "wordCount": 200,
-    "category": "문법공부"
+    "category": "문법공부(주제별)"
   },
   {
     "file": "interrogatives_200.json",
     "name": "영어 의문사 의문문 예문 200",
     "description": "주요 의문사 10종(what, who, whose, where, when, why, how, which, how many, how much) 각 20개씩, 총 200개의 의문문 예문 모음",
     "wordCount": 200,
-    "category": "문법공부"
+    "category": "문법공부(주제별)"
   },
   {
     "file": "to_infinitive_gerund_250.json",
     "name": "to부정사 용법 + 동명사 비교 250",
     "description": "to부정사의 명사적·형용사적·부사적 용법과 동명사와의 비교를 포함한 예문 250개",
     "wordCount": 250,
-    "category": "문법공부"
+    "category": "문법공부(주제별)"
+  },
+  {
+    "file": "phrasal_verbs_300.json",
+    "name": "영어 구동사 예문 300",
+    "description": "get/put/take/look/give/turn/go/come/make/break/bring/keep/run/set 등 주요 동사에 부사·전치사가 결합된 구동사(Phrasal Verbs) 300개",
+    "wordCount": 300,
+    "category": "문법공부(주제별)"
+  },
+  {
+    "file": "adverbs_200.json",
+    "name": "영어 부사 용법 예문 200",
+    "description": "빈도/양태/장소/시간/정도/접속/부정/의문·관계부사 + 부사의 위치 규칙 예문 200개",
+    "wordCount": 200,
+    "category": "문법공부(주제별)"
+  },
+  {
+    "file": "adjectives_200.json",
+    "name": "영어 형용사 용법 예문 200",
+    "description": "한정/서술 용법, 수량형용사, 감정형용사 심화, 분사형용사, 형용사 어순(의견→크기→나이→색·재료 등), 복합형용사, something+형용사 특수 어순 200개",
+    "wordCount": 200,
+    "category": "문법공부(주제별)"
   },
   {
     "file": "elem_be_verb_200.json",
