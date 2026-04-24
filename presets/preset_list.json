@@ -42,6 +42,69 @@
     "category": "문법공부"
   },
   {
+    "file": "to_infinitive_gerund_250.json",
+    "name": "to부정사 용법 + 동명사 비교 250",
+    "description": "to부정사의 명사적·형용사적·부사적 용법과 동명사와의 비교를 포함한 예문 250개",
+    "wordCount": 250,
+    "category": "문법공부"
+  },
+  {
+    "file": "elem_be_verb_200.json",
+    "name": "1. 초등 be동사 기초 200",
+    "description": "be동사(am/is/are/was/were)의 긍정·부정·의문 예문 200개 (초등 수준)",
+    "wordCount": 200,
+    "category": "문법공부(초등과정)"
+  },
+  {
+    "file": "elem_general_verb_200.json",
+    "name": "2. 초등 일반동사 기초 200",
+    "description": "일반동사의 현재형(3인칭 단수 변화), 과거형(규칙/불규칙), 부정·의문 예문 200개 (초등 수준)",
+    "wordCount": 200,
+    "category": "문법공부(초등과정)"
+  },
+  {
+    "file": "elem_pronouns_200.json",
+    "name": "3. 초등 대명사와 소유격 200",
+    "description": "인칭대명사 주격/목적격, 소유격·소유대명사, 재귀대명사, 지시대명사(this/that/these/those) 예문 200개 (초등 수준)",
+    "wordCount": 200,
+    "category": "문법공부(초등과정)"
+  },
+  {
+    "file": "elem_nouns_articles_200.json",
+    "name": "4. 초등 명사·관사 기초 200",
+    "description": "명사 단수/복수(규칙·불규칙), 셀 수 없는 명사, 관사 a/an/the 예문 200개 (초등 수준)",
+    "wordCount": 200,
+    "category": "문법공부(초등과정)"
+  },
+  {
+    "file": "elem_tenses_4_200.json",
+    "name": "5. 초등 시제 4종 기초 200",
+    "description": "현재/현재진행/과거/미래(will, be going to) 4시제 예문 200개 (초등 수준)",
+    "wordCount": 200,
+    "category": "문법공부(초등과정)"
+  },
+  {
+    "file": "elem_modals_basic_150.json",
+    "name": "6. 초등 조동사 기초 150",
+    "description": "can, may, must, should 조동사 4종의 긍정·부정·의문 예문 150개 (초등 수준)",
+    "wordCount": 150,
+    "category": "문법공부(초등과정)"
+  },
+  {
+    "file": "elem_questions_200.json",
+    "name": "7. 초등 의문문 기초 200",
+    "description": "Yes/No 의문문(be동사/일반동사/조동사) + wh-의문문(What/Who/Where/When/Why/How/How many·much/Which) 예문 200개 (초등 수준)",
+    "wordCount": 200,
+    "category": "문법공부(초등과정)"
+  },
+  {
+    "file": "elem_prepositions_comparison_200.json",
+    "name": "8. 초등 전치사·비교급 기초 200",
+    "description": "전치사(장소/시간/방향 in·on·at·under·to·from 등) + 비교급·최상급(규칙 -er/-est, more/most, 불규칙) 예문 200개 (초등 수준)",
+    "wordCount": 200,
+    "category": "문법공부(초등과정)"
+  },
+  {
     "file": "edu_2022_3000.json",
     "name": "2022년 교육부선정3000(내용수정)",
     "description": "2022년 교육부 지정 필수 영단어 3000개(내용수정)",
