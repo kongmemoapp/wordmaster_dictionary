@@ -131,5 +131,19 @@
     "description": "대학 편입 시험 영어 필수 영단어 1000개",
     "wordCount": 986,
     "category": "시험대비"
+  },
+  {
+    "file": "hiragana_104.json",
+    "name": "히라가나 104",
+    "description": "히라가나 기본 청음 46자, 탁음 20자, 반탁음 5자, 요음 33자 총 104자",
+    "wordCount": 104,
+    "category": "기타"
+  },
+  {
+    "file": "katakana_104.json",
+    "name": "카타카나 104",
+    "description": "카타카나 기본 청음 46자, 탁음 20자, 반탁음 5자, 요음 33자 총 104자",
+    "wordCount": 104,
+    "category": "기타"
   }
 ]
