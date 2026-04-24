@@ -161,6 +161,62 @@
     "category": "문법공부(중학과정)"
   },
   {
+    "file": "high_participial_constructions_200.json",
+    "name": "1. 고등 분사구문 200",
+    "description": "분사구문 단순/완료(Having p.p.)/수동(Being p.p.)/부정(Not ~ing), with 부대상황, Being 생략, 비인칭 독립분사구문(Generally speaking 등) 200개 (고등 수준)",
+    "wordCount": 200,
+    "category": "문법공부(고등과정)"
+  },
+  {
+    "file": "high_emphasis_inversion_200.json",
+    "name": "2. 고등 강조·도치 200",
+    "description": "It is ~ that 강조구문, do/does/did 동사 강조, 부정어 도치, Only 도치, So/Neither 도치, 장소·방향 부사구 도치, 양보·조건 도치 200개 (고등 수준)",
+    "wordCount": 200,
+    "category": "문법공부(고등과정)"
+  },
+  {
+    "file": "high_relative_adverbs_200.json",
+    "name": "3. 고등 관계부사·복합관계사 200",
+    "description": "관계부사 when/where/why/how, 복합관계사 whoever/whatever/whenever/wherever/however + 양보절 용법 200개 (고등 수준)",
+    "wordCount": 200,
+    "category": "문법공부(고등과정)"
+  },
+  {
+    "file": "high_formal_subject_object_200.json",
+    "name": "4. 고등 가주어·가목적어 200",
+    "description": "가주어 It ~ to V/that절, 가목적어 It(5형식), 의미상 주어 for/of + 목적격, There is/are 구문, It seems/appears that 200개 (고등 수준)",
+    "wordCount": 200,
+    "category": "문법공부(고등과정)"
+  },
+  {
+    "file": "high_parallel_correlative_200.json",
+    "name": "5. 고등 병렬구조·상관접속사 200",
+    "description": "both A and B, either/neither A or/nor B, not only A but (also) B, B as well as A, not A but B, 병렬 원칙, 상관접속사 수일치, 대등한 비교·반복 200개 (고등 수준)",
+    "wordCount": 200,
+    "category": "문법공부(고등과정)"
+  },
+  {
+    "file": "high_reported_speech_150.json",
+    "name": "6. 고등 화법 전환 150",
+    "description": "평서문/의문문(Yes-No·wh-)/명령문 간접화법, 시제 일치 규칙, 인칭·부사 변화(today→that day 등), 특수 화법(감탄·기원·제안) 150개 (고등 수준)",
+    "wordCount": 150,
+    "category": "문법공부(고등과정)"
+  },
+  {
+    "file": "high_apposition_ellipsis_150.json",
+    "name": "7. 고등 삽입·동격·생략 150",
+    "description": "동격의 of, 동격의 that, 콤마 동격, 관계사 생략, 접속사 that 생략, 분사구문·부사절 생략, 삽입구/삽입절 150개 (고등 수준)",
+    "wordCount": 150,
+    "category": "문법공부(고등과정)"
+  },
+  {
+    "file": "high_negation_comparison_150.json",
+    "name": "8. 고등 부정·특수 비교구문 150",
+    "description": "부분부정/완전부정, 부정어 관용(hardly/seldom/no longer), 이중부정(cannot but/never ~ without), not/no more/less than, at most/least/best, as ~ as any/the last ~ to V 150개 (고등 수준)",
+    "wordCount": 150,
+    "category": "문법공부(고등과정)"
+  },
+  {
     "file": "edu_2022_3000.json",
     "name": "2022년 교육부선정3000(내용수정)",
     "description": "2022년 교육부 지정 필수 영단어 3000개(내용수정)",
