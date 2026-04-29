@@ -1,5 +1,117 @@
 [
   {
+    "file": "edu_2022_3000.json",
+    "name": "2022년 교육부선정3000(내용수정)",
+    "description": "2022년 교육부 지정 필수 영단어 3000개(내용수정)",
+    "wordCount": 3000,
+    "category": "교육부 기본어휘(2022년)"
+  },
+  {
+    "file": "edu_2022_elementary_800.json",
+    "name": "교육부 기본어휘 2022년 - 초등(800)",
+    "description": "교육부 기본어휘 2022년 - 초등(800) 800개",
+    "wordCount": 800,
+    "category": "교육부 기본어휘(2022년)"
+  },
+  {
+    "file": "edu_2022_middle_high_1800.json",
+    "name": "교육부 기본어휘 2022년 - 중고(1800)",
+    "description": "교육부 기본어휘 2022년 - 중고(1800) 1800개",
+    "wordCount": 1800,
+    "category": "교육부 기본어휘(2022년)"
+  },
+  {
+    "file": "edu_2022_advanced_400.json",
+    "name": "교육부 기본어휘 2022년 - 전문(400)",
+    "description": "교육부 기본어휘 2022년 - 전문(400) 400개",
+    "wordCount": 400,
+    "category": "교육부 기본어휘(2022년)"
+  },
+  {
+    "file": "preschool_1_100.json",
+    "name": "1. 미취학 1단계 입문 100",
+    "description": "미취학 아동(만 3~4세)을 위한 영어 입문 단어 100개 - 인사, 숫자, 색깔, 가족, 동물, 과일, 신체, 기본 사물",
+    "wordCount": 100,
+    "category": "미취학 아동"
+  },
+  {
+    "file": "preschool_2_200.json",
+    "name": "2. 미취학 2단계 기초 200",
+    "description": "미취학 아동(만 4~5세)을 위한 영어 기초 단어 200개 - 음식, 동물, 의류, 학용품, 집/가구, 자연, 교통, 직업, 장소, 시간, 동사, 형용사 등",
+    "wordCount": 200,
+    "category": "미취학 아동"
+  },
+  {
+    "file": "preschool_3_300.json",
+    "name": "3. 미취학 3단계 확장 300",
+    "description": "미취학 아동(만 5~6세, 초등 입학 전)을 위한 영어 확장 단어 300개 - 동사·형용사 확장, 위치, 자연·날씨, 감정, 학교, 요일/달, 색·모양, 운동, 인사 표현 등",
+    "wordCount": 300,
+    "category": "미취학 아동"
+  },
+  {
+    "file": "daily_english_500.json",
+    "name": "일상생활 필수 영단어 500",
+    "description": "일상생활에서 자주 사용하는 필수 영단어 500개",
+    "wordCount": 500,
+    "category": "일상/실용"
+  },
+  {
+    "file": "travel_english_300.json",
+    "name": "여행 영어 300",
+    "description": "해외여행에서 꼭 필요한 영단어 및 표현 300개",
+    "wordCount": 300,
+    "category": "일상/실용"
+  },
+  {
+    "file": "business_english_500.json",
+    "name": "비즈니스 영어 500",
+    "description": "비즈니스 환경에서 필수적인 영단어 및 표현 500개",
+    "wordCount": 497,
+    "category": "일상/실용"
+  },
+  {
+    "file": "sat_2000.json",
+    "name": "수능 필수 영단어 2000",
+    "description": "대학수학능력시험 필수 영단어 2000개",
+    "wordCount": 2000,
+    "category": "시험대비"
+  },
+  {
+    "file": "toeic_2000.json",
+    "name": "토익 필수 영단어 2000",
+    "description": "TOEIC 시험 필수 영단어 2000개",
+    "wordCount": 2000,
+    "category": "시험대비"
+  },
+  {
+    "file": "toefl_2000.json",
+    "name": "토플 필수 영단어 2000",
+    "description": "TOEFL 시험 필수 영단어 2000개",
+    "wordCount": 2000,
+    "category": "시험대비"
+  },
+  {
+    "file": "ielts_2000.json",
+    "name": "IELTS 필수 영단어 2000",
+    "description": "IELTS 시험 대비 필수 영단어 2000개",
+    "wordCount": 2000,
+    "category": "시험대비"
+  },
+  {
+    "file": "civil_service_1000.json",
+    "name": "공무원 영어 필수 영단어 1000",
+    "description": "공무원 시험 영어 과목 필수 영단어 1000개",
+    "wordCount": 988,
+    "category": "시험대비"
+  },
+  {
+    "file": "transfer_exam_1000.json",
+    "name": "편입 영어 필수 영단어 1000",
+    "description": "대학 편입 시험 영어 필수 영단어 1000개",
+    "wordCount": 986,
+    "category": "시험대비"
+  },
+  {
     "file": "sentence_patterns_250.json",
     "name": "영어 문장 5형식 예문 250",
     "description": "1형식부터 5형식까지 각 50개씩, 총 250개의 샘플 예문 모음",
@@ -236,97 +348,6 @@
     "description": "부분부정/완전부정, 부정어 관용(hardly/seldom/no longer), 이중부정(cannot but/never ~ without), not/no more/less than, at most/least/best, as ~ as any/the last ~ to V 150개 (고등 수준)",
     "wordCount": 150,
     "category": "문법공부(고등과정)"
-  },
-  {
-    "file": "edu_2022_3000.json",
-    "name": "2022년 교육부선정3000(내용수정)",
-    "description": "2022년 교육부 지정 필수 영단어 3000개(내용수정)",
-    "wordCount": 3000,
-    "category": "교육부 기본어휘(2022년)"
-  },
-  {
-    "file": "edu_2022_elementary_800.json",
-    "name": "교육부 기본어휘 2022년 - 초등(800)",
-    "description": "교육부 기본어휘 2022년 - 초등(800) 800개",
-    "wordCount": 800,
-    "category": "교육부 기본어휘(2022년)"
-  },
-  {
-    "file": "edu_2022_middle_high_1800.json",
-    "name": "교육부 기본어휘 2022년 - 중고(1800)",
-    "description": "교육부 기본어휘 2022년 - 중고(1800) 1800개",
-    "wordCount": 1800,
-    "category": "교육부 기본어휘(2022년)"
-  },
-  {
-    "file": "edu_2022_advanced_400.json",
-    "name": "교육부 기본어휘 2022년 - 전문(400)",
-    "description": "교육부 기본어휘 2022년 - 전문(400) 400개",
-    "wordCount": 400,
-    "category": "교육부 기본어휘(2022년)"
-  },
-  {
-    "file": "daily_english_500.json",
-    "name": "일상생활 필수 영단어 500",
-    "description": "일상생활에서 자주 사용하는 필수 영단어 500개",
-    "wordCount": 500,
-    "category": "일상/실용"
-  },
-  {
-    "file": "travel_english_300.json",
-    "name": "여행 영어 300",
-    "description": "해외여행에서 꼭 필요한 영단어 및 표현 300개",
-    "wordCount": 300,
-    "category": "일상/실용"
-  },
-  {
-    "file": "business_english_500.json",
-    "name": "비즈니스 영어 500",
-    "description": "비즈니스 환경에서 필수적인 영단어 및 표현 500개",
-    "wordCount": 497,
-    "category": "일상/실용"
-  },
-  {
-    "file": "sat_2000.json",
-    "name": "수능 필수 영단어 2000",
-    "description": "대학수학능력시험 필수 영단어 2000개",
-    "wordCount": 2000,
-    "category": "시험대비"
-  },
-  {
-    "file": "toeic_2000.json",
-    "name": "토익 필수 영단어 2000",
-    "description": "TOEIC 시험 필수 영단어 2000개",
-    "wordCount": 2000,
-    "category": "시험대비"
-  },
-  {
-    "file": "toefl_2000.json",
-    "name": "토플 필수 영단어 2000",
-    "description": "TOEFL 시험 필수 영단어 2000개",
-    "wordCount": 2000,
-    "category": "시험대비"
-  },
-  {
-    "file": "ielts_2000.json",
-    "name": "IELTS 필수 영단어 2000",
-    "description": "IELTS 시험 대비 필수 영단어 2000개",
-    "wordCount": 2000,
-    "category": "시험대비"
-  },
-  {
-    "file": "civil_service_1000.json",
-    "name": "공무원 영어 필수 영단어 1000",
-    "description": "공무원 시험 영어 과목 필수 영단어 1000개",
-    "wordCount": 988,
-    "category": "시험대비"
-  },
-  {
-    "file": "transfer_exam_1000.json",
-    "name": "편입 영어 필수 영단어 1000",
-    "description": "대학 편입 시험 영어 필수 영단어 1000개",
-    "wordCount": 986,
-    "category": "시험대비"
   },
   {
     "file": "hiragana_104_v2.json",
