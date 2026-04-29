@@ -350,6 +350,13 @@
     "category": "문법공부(고등과정)"
   },
   {
+    "file": "fill_in_blank_be_general_progressive_200.json",
+    "name": "be동사·일반동사·현재진행형 빈칸 200",
+    "description": "쉬운 예문으로 be동사, 일반동사, 현재진행형의 긍정문·부정문·의문문을 익히는 빈칸 채우기 200문제",
+    "wordCount": 200,
+    "category": "빈칸단어장"
+  },
+  {
     "file": "hiragana_104_v2.json",
     "name": "히라가나 104",
     "description": "히라가나 기본 청음 46자, 탁음 20자, 반탁음 5자, 요음 33자 총 104자",
