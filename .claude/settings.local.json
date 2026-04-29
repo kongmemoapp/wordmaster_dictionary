@@ -12,7 +12,8 @@
       "Bash(ls:*)",
       "Bash(mv C:/myprojects/git/wordmaster_dictionary/temp/hiragana_104.json C:/myprojects/git/wordmaster_dictionary/presets/hiragana_104.json)",
       "Bash(mv C:/myprojects/git/wordmaster_dictionary/temp/katakana_104.json C:/myprojects/git/wordmaster_dictionary/presets/katakana_104.json)",
-      "Bash(git mv *)"
+      "Bash(git mv *)",
+      "Bash(git ls-remote *)"
     ]
   }
 }

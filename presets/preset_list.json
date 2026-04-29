@@ -351,7 +351,7 @@
   },
   {
     "file": "fill_in_blank_be_general_progressive_200.json",
-    "name": "be동사·일반동사·현재진행형 빈칸 200",
+    "name": "be동사·일반동사·현재진행형 빈칸 200 - 의문문, 부정문 포함",
     "description": "쉬운 예문으로 be동사, 일반동사, 현재진행형의 긍정문·부정문·의문문을 익히는 빈칸 채우기 200문제",
     "wordCount": 200,
     "category": "빈칸단어장"
