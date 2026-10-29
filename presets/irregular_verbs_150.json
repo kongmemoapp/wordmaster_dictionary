@@ -1,0 +1,606 @@
+{
+  "name": "불규칙동사 3단 변화 150",
+  "description": "영어 필수 불규칙동사 150개의 원형-과거-과거분사 변화형. A-A-A(22)·A-A-B(1)·A-B-A(4)·A-B-B(67)·A-B-C(56) 유형별 분류, 혼동하기 쉬운 형태는 비고 포함",
+  "words": [
+    {
+      "w": "cut - cut - cut",
+      "m": "[A-A-A] 자르다"
+    },
+    {
+      "w": "put - put - put",
+      "m": "[A-A-A] 놓다, 두다"
+    },
+    {
+      "w": "let - let - let",
+      "m": "[A-A-A] ~하게 하다, 허락하다"
+    },
+    {
+      "w": "set - set - set",
+      "m": "[A-A-A] 놓다, 설정하다"
+    },
+    {
+      "w": "shut - shut - shut",
+      "m": "[A-A-A] 닫다"
+    },
+    {
+      "w": "hit - hit - hit",
+      "m": "[A-A-A] 치다, 때리다"
+    },
+    {
+      "w": "hurt - hurt - hurt",
+      "m": "[A-A-A] 다치게 하다, 아프다"
+    },
+    {
+      "w": "cost - cost - cost",
+      "m": "[A-A-A] 비용이 들다"
+    },
+    {
+      "w": "read - read - read",
+      "m": "[A-A-A] 읽다 (과거·과거분사 발음은 [red])"
+    },
+    {
+      "w": "spread - spread - spread",
+      "m": "[A-A-A] 펼치다, 퍼지다"
+    },
+    {
+      "w": "burst - burst - burst",
+      "m": "[A-A-A] 터지다, 터뜨리다"
+    },
+    {
+      "w": "cast - cast - cast",
+      "m": "[A-A-A] 던지다, 배역을 맡기다"
+    },
+    {
+      "w": "split - split - split",
+      "m": "[A-A-A] 쪼개다, 나누다"
+    },
+    {
+      "w": "quit - quit - quit",
+      "m": "[A-A-A] 그만두다"
+    },
+    {
+      "w": "bet - bet - bet",
+      "m": "[A-A-A] 내기하다, 장담하다"
+    },
+    {
+      "w": "shed - shed - shed",
+      "m": "[A-A-A] (눈물·피를) 흘리다, (잎·껍질을) 벗다"
+    },
+    {
+      "w": "rid - rid - rid",
+      "m": "[A-A-A] 없애다, 제거하다"
+    },
+    {
+      "w": "bid - bid - bid",
+      "m": "[A-A-A] 입찰하다, 값을 부르다"
+    },
+    {
+      "w": "thrust - thrust - thrust",
+      "m": "[A-A-A] 밀치다, 찌르다"
+    },
+    {
+      "w": "broadcast - broadcast - broadcast",
+      "m": "[A-A-A] 방송하다"
+    },
+    {
+      "w": "forecast - forecast - forecast",
+      "m": "[A-A-A] 예보하다, 예측하다"
+    },
+    {
+      "w": "upset - upset - upset",
+      "m": "[A-A-A] 속상하게 하다, 뒤엎다"
+    },
+    {
+      "w": "beat - beat - beaten",
+      "m": "[A-A-B] 치다, 이기다"
+    },
+    {
+      "w": "come - came - come",
+      "m": "[A-B-A] 오다"
+    },
+    {
+      "w": "become - became - become",
+      "m": "[A-B-A] ~이 되다"
+    },
+    {
+      "w": "overcome - overcame - overcome",
+      "m": "[A-B-A] 극복하다"
+    },
+    {
+      "w": "run - ran - run",
+      "m": "[A-B-A] 달리다, 운영하다"
+    },
+    {
+      "w": "buy - bought - bought",
+      "m": "[A-B-B] 사다"
+    },
+    {
+      "w": "bring - brought - brought",
+      "m": "[A-B-B] 가져오다, 데려오다"
+    },
+    {
+      "w": "think - thought - thought",
+      "m": "[A-B-B] 생각하다"
+    },
+    {
+      "w": "fight - fought - fought",
+      "m": "[A-B-B] 싸우다"
+    },
+    {
+      "w": "seek - sought - sought",
+      "m": "[A-B-B] 찾다, 추구하다"
+    },
+    {
+      "w": "catch - caught - caught",
+      "m": "[A-B-B] 잡다, (감기에) 걸리다"
+    },
+    {
+      "w": "teach - taught - taught",
+      "m": "[A-B-B] 가르치다"
+    },
+    {
+      "w": "sell - sold - sold",
+      "m": "[A-B-B] 팔다"
+    },
+    {
+      "w": "tell - told - told",
+      "m": "[A-B-B] 말하다, 알리다"
+    },
+    {
+      "w": "feel - felt - felt",
+      "m": "[A-B-B] 느끼다"
+    },
+    {
+      "w": "keep - kept - kept",
+      "m": "[A-B-B] 유지하다, 지키다"
+    },
+    {
+      "w": "sleep - slept - slept",
+      "m": "[A-B-B] 자다"
+    },
+    {
+      "w": "sweep - swept - swept",
+      "m": "[A-B-B] 쓸다, 휩쓸다"
+    },
+    {
+      "w": "weep - wept - wept",
+      "m": "[A-B-B] 울다, 눈물을 흘리다"
+    },
+    {
+      "w": "creep - crept - crept",
+      "m": "[A-B-B] 기다, 살금살금 움직이다"
+    },
+    {
+      "w": "kneel - knelt - knelt",
+      "m": "[A-B-B] 무릎을 꿇다 (kneeled도 가능)"
+    },
+    {
+      "w": "leap - leapt - leapt",
+      "m": "[A-B-B] 뛰어오르다 (leaped도 가능)"
+    },
+    {
+      "w": "dwell - dwelt - dwelt",
+      "m": "[A-B-B] 살다, 거주하다"
+    },
+    {
+      "w": "leave - left - left",
+      "m": "[A-B-B] 떠나다, 남기다"
+    },
+    {
+      "w": "send - sent - sent",
+      "m": "[A-B-B] 보내다"
+    },
+    {
+      "w": "spend - spent - spent",
+      "m": "[A-B-B] (돈·시간을) 쓰다"
+    },
+    {
+      "w": "lend - lent - lent",
+      "m": "[A-B-B] 빌려주다"
+    },
+    {
+      "w": "bend - bent - bent",
+      "m": "[A-B-B] 구부리다"
+    },
+    {
+      "w": "build - built - built",
+      "m": "[A-B-B] 짓다, 건설하다"
+    },
+    {
+      "w": "mean - meant - meant",
+      "m": "[A-B-B] 의미하다, 의도하다"
+    },
+    {
+      "w": "deal - dealt - dealt",
+      "m": "[A-B-B] 다루다, 거래하다"
+    },
+    {
+      "w": "dream - dreamt - dreamt",
+      "m": "[A-B-B] 꿈꾸다 (dreamed도 가능)"
+    },
+    {
+      "w": "burn - burnt - burnt",
+      "m": "[A-B-B] 타다, 태우다 (burned도 가능)"
+    },
+    {
+      "w": "meet - met - met",
+      "m": "[A-B-B] 만나다"
+    },
+    {
+      "w": "feed - fed - fed",
+      "m": "[A-B-B] 먹이다, 먹이를 주다"
+    },
+    {
+      "w": "lead - led - led",
+      "m": "[A-B-B] 이끌다, 안내하다"
+    },
+    {
+      "w": "bleed - bled - bled",
+      "m": "[A-B-B] 피를 흘리다"
+    },
+    {
+      "w": "breed - bred - bred",
+      "m": "[A-B-B] 기르다, 번식하다"
+    },
+    {
+      "w": "speed - sped - sped",
+      "m": "[A-B-B] 질주하다 (speeded도 가능)"
+    },
+    {
+      "w": "flee - fled - fled",
+      "m": "[A-B-B] 달아나다, 도망치다"
+    },
+    {
+      "w": "hold - held - held",
+      "m": "[A-B-B] 잡다, 들다, 개최하다"
+    },
+    {
+      "w": "find - found - found",
+      "m": "[A-B-B] 찾다, 발견하다"
+    },
+    {
+      "w": "bind - bound - bound",
+      "m": "[A-B-B] 묶다, 결속하다"
+    },
+    {
+      "w": "grind - ground - ground",
+      "m": "[A-B-B] 갈다, 빻다"
+    },
+    {
+      "w": "wind - wound - wound",
+      "m": "[A-B-B] 감다, 구불구불하다 (발음 [waɪnd])"
+    },
+    {
+      "w": "have - had - had",
+      "m": "[A-B-B] 가지다, 먹다"
+    },
+    {
+      "w": "make - made - made",
+      "m": "[A-B-B] 만들다"
+    },
+    {
+      "w": "say - said - said",
+      "m": "[A-B-B] 말하다"
+    },
+    {
+      "w": "pay - paid - paid",
+      "m": "[A-B-B] 지불하다"
+    },
+    {
+      "w": "lay - laid - laid",
+      "m": "[A-B-B] 놓다, 눕히다, (알을) 낳다"
+    },
+    {
+      "w": "hear - heard - heard",
+      "m": "[A-B-B] 듣다"
+    },
+    {
+      "w": "stand - stood - stood",
+      "m": "[A-B-B] 서다, 참다"
+    },
+    {
+      "w": "understand - understood - understood",
+      "m": "[A-B-B] 이해하다"
+    },
+    {
+      "w": "sit - sat - sat",
+      "m": "[A-B-B] 앉다"
+    },
+    {
+      "w": "spit - spat - spat",
+      "m": "[A-B-B] 침을 뱉다"
+    },
+    {
+      "w": "get - got - got/gotten",
+      "m": "[A-B-B] 얻다, 받다 (gotten은 미국식 과거분사)"
+    },
+    {
+      "w": "shoot - shot - shot",
+      "m": "[A-B-B] 쏘다, 촬영하다"
+    },
+    {
+      "w": "lose - lost - lost",
+      "m": "[A-B-B] 잃다, 지다"
+    },
+    {
+      "w": "light - lit - lit",
+      "m": "[A-B-B] 불을 붙이다, 비추다 (lighted도 가능)"
+    },
+    {
+      "w": "slide - slid - slid",
+      "m": "[A-B-B] 미끄러지다"
+    },
+    {
+      "w": "win - won - won",
+      "m": "[A-B-B] 이기다, 얻다"
+    },
+    {
+      "w": "shine - shone - shone",
+      "m": "[A-B-B] 빛나다 (타동사 '닦다'는 shined)"
+    },
+    {
+      "w": "dig - dug - dug",
+      "m": "[A-B-B] 파다"
+    },
+    {
+      "w": "stick - stuck - stuck",
+      "m": "[A-B-B] 붙이다, 찌르다, 꼼짝 못하다"
+    },
+    {
+      "w": "strike - struck - struck",
+      "m": "[A-B-B] 치다, 부딪치다, 파업하다"
+    },
+    {
+      "w": "hang - hung - hung",
+      "m": "[A-B-B] 걸다, 매달다 ('교수형에 처하다'는 hanged)"
+    },
+    {
+      "w": "swing - swung - swung",
+      "m": "[A-B-B] 흔들다, 흔들리다"
+    },
+    {
+      "w": "sting - stung - stung",
+      "m": "[A-B-B] 쏘다, 찌르다"
+    },
+    {
+      "w": "cling - clung - clung",
+      "m": "[A-B-B] 매달리다, 달라붙다"
+    },
+    {
+      "w": "fling - flung - flung",
+      "m": "[A-B-B] 내던지다"
+    },
+    {
+      "w": "wring - wrung - wrung",
+      "m": "[A-B-B] (물기를) 짜다, 비틀다"
+    },
+    {
+      "w": "spin - spun - spun",
+      "m": "[A-B-B] 돌다, 돌리다, (실을) 잣다"
+    },
+    {
+      "w": "begin - began - begun",
+      "m": "[A-B-C] 시작하다"
+    },
+    {
+      "w": "drink - drank - drunk",
+      "m": "[A-B-C] 마시다"
+    },
+    {
+      "w": "sing - sang - sung",
+      "m": "[A-B-C] 노래하다"
+    },
+    {
+      "w": "swim - swam - swum",
+      "m": "[A-B-C] 수영하다"
+    },
+    {
+      "w": "ring - rang - rung",
+      "m": "[A-B-C] (종·전화가) 울리다"
+    },
+    {
+      "w": "sink - sank - sunk",
+      "m": "[A-B-C] 가라앉다"
+    },
+    {
+      "w": "shrink - shrank - shrunk",
+      "m": "[A-B-C] 줄어들다, 오그라들다"
+    },
+    {
+      "w": "spring - sprang - sprung",
+      "m": "[A-B-C] 튀어오르다, 솟아나다"
+    },
+    {
+      "w": "stink - stank - stunk",
+      "m": "[A-B-C] 악취가 나다"
+    },
+    {
+      "w": "be - was/were - been",
+      "m": "[A-B-C] ~이다, 있다"
+    },
+    {
+      "w": "go - went - gone",
+      "m": "[A-B-C] 가다"
+    },
+    {
+      "w": "do - did - done",
+      "m": "[A-B-C] 하다"
+    },
+    {
+      "w": "see - saw - seen",
+      "m": "[A-B-C] 보다"
+    },
+    {
+      "w": "foresee - foresaw - foreseen",
+      "m": "[A-B-C] 예견하다"
+    },
+    {
+      "w": "eat - ate - eaten",
+      "m": "[A-B-C] 먹다"
+    },
+    {
+      "w": "give - gave - given",
+      "m": "[A-B-C] 주다"
+    },
+    {
+      "w": "forgive - forgave - forgiven",
+      "m": "[A-B-C] 용서하다"
+    },
+    {
+      "w": "take - took - taken",
+      "m": "[A-B-C] 가져가다, 잡다, (시간이) 걸리다"
+    },
+    {
+      "w": "mistake - mistook - mistaken",
+      "m": "[A-B-C] 오해하다, 착각하다"
+    },
+    {
+      "w": "undertake - undertook - undertaken",
+      "m": "[A-B-C] 떠맡다, 착수하다"
+    },
+    {
+      "w": "shake - shook - shaken",
+      "m": "[A-B-C] 흔들다, 떨다"
+    },
+    {
+      "w": "forget - forgot - forgotten",
+      "m": "[A-B-C] 잊다"
+    },
+    {
+      "w": "undergo - underwent - undergone",
+      "m": "[A-B-C] 겪다, (수술 등을) 받다"
+    },
+    {
+      "w": "write - wrote - written",
+      "m": "[A-B-C] 쓰다"
+    },
+    {
+      "w": "bite - bit - bitten",
+      "m": "[A-B-C] 물다"
+    },
+    {
+      "w": "hide - hid - hidden",
+      "m": "[A-B-C] 숨기다, 숨다"
+    },
+    {
+      "w": "ride - rode - ridden",
+      "m": "[A-B-C] (말·자전거를) 타다"
+    },
+    {
+      "w": "drive - drove - driven",
+      "m": "[A-B-C] 운전하다, 몰다"
+    },
+    {
+      "w": "rise - rose - risen",
+      "m": "[A-B-C] 오르다, 일어나다"
+    },
+    {
+      "w": "arise - arose - arisen",
+      "m": "[A-B-C] 발생하다, 생기다"
+    },
+    {
+      "w": "strive - strove - striven",
+      "m": "[A-B-C] 노력하다, 분투하다"
+    },
+    {
+      "w": "speak - spoke - spoken",
+      "m": "[A-B-C] 말하다"
+    },
+    {
+      "w": "break - broke - broken",
+      "m": "[A-B-C] 깨다, 부수다"
+    },
+    {
+      "w": "steal - stole - stolen",
+      "m": "[A-B-C] 훔치다"
+    },
+    {
+      "w": "choose - chose - chosen",
+      "m": "[A-B-C] 선택하다"
+    },
+    {
+      "w": "freeze - froze - frozen",
+      "m": "[A-B-C] 얼다, 얼리다"
+    },
+    {
+      "w": "wake - woke - woken",
+      "m": "[A-B-C] 깨다, 깨우다"
+    },
+    {
+      "w": "awake - awoke - awoken",
+      "m": "[A-B-C] 깨다, 깨우다, 자각하다"
+    },
+    {
+      "w": "weave - wove - woven",
+      "m": "[A-B-C] (천을) 짜다, 엮다"
+    },
+    {
+      "w": "know - knew - known",
+      "m": "[A-B-C] 알다"
+    },
+    {
+      "w": "grow - grew - grown",
+      "m": "[A-B-C] 자라다, 기르다"
+    },
+    {
+      "w": "throw - threw - thrown",
+      "m": "[A-B-C] 던지다"
+    },
+    {
+      "w": "blow - blew - blown",
+      "m": "[A-B-C] (바람이) 불다"
+    },
+    {
+      "w": "fly - flew - flown",
+      "m": "[A-B-C] 날다"
+    },
+    {
+      "w": "draw - drew - drawn",
+      "m": "[A-B-C] 그리다, 끌다"
+    },
+    {
+      "w": "withdraw - withdrew - withdrawn",
+      "m": "[A-B-C] 인출하다, 철회하다"
+    },
+    {
+      "w": "show - showed - shown",
+      "m": "[A-B-C] 보여주다 (showed도 가능)"
+    },
+    {
+      "w": "sew - sewed - sewn",
+      "m": "[A-B-C] 바느질하다 (sewed도 가능)"
+    },
+    {
+      "w": "prove - proved - proven",
+      "m": "[A-B-C] 증명하다 (proved도 가능)"
+    },
+    {
+      "w": "wear - wore - worn",
+      "m": "[A-B-C] 입다, 착용하다"
+    },
+    {
+      "w": "tear - tore - torn",
+      "m": "[A-B-C] 찢다"
+    },
+    {
+      "w": "swear - swore - sworn",
+      "m": "[A-B-C] 맹세하다, 욕하다"
+    },
+    {
+      "w": "bear - bore - born/borne",
+      "m": "[A-B-C] 참다, 낳다 ('태어나다'는 born, 그 외는 borne)"
+    },
+    {
+      "w": "fall - fell - fallen",
+      "m": "[A-B-C] 떨어지다, 넘어지다"
+    },
+    {
+      "w": "lie - lay - lain",
+      "m": "[A-B-C] 눕다, 놓여 있다 ('거짓말하다'는 lied-lied 규칙변화)"
+    },
+    {
+      "w": "forbid - forbade - forbidden",
+      "m": "[A-B-C] 금지하다"
+    }
+  ]
+}

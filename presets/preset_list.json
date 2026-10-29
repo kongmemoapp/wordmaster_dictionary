@@ -182,6 +182,13 @@
     "category": "문법공부(주제별)"
   },
   {
+    "file": "irregular_verbs_150.json",
+    "name": "불규칙동사 3단 변화 150",
+    "description": "영어 필수 불규칙동사 150개의 원형-과거-과거분사 변화형. A-A-A(22)·A-A-B(1)·A-B-A(4)·A-B-B(67)·A-B-C(56) 유형별 분류, 혼동하기 쉬운 형태는 비고 포함",
+    "wordCount": 150,
+    "category": "문법공부(주제별)"
+  },
+  {
     "file": "elem_be_verb_200.json",
     "name": "1. 초등 be동사 기초 200",
     "description": "be동사(am/is/are/was/were)의 긍정·부정·의문 예문 200개 (초등 수준)",
