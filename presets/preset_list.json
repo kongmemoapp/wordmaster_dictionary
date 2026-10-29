@@ -371,6 +371,27 @@
     "category": "빈칸단어장"
   },
   {
+    "file": "fill_in_blank_modals_150.json",
+    "name": "조동사 빈칸 150 - 의문문, 부정문 포함",
+    "description": "can/could/may/might/will/would/shall/should/must/have to/ought to/had better/used to의 긍정문·부정문·의문문 용법을 쉬운 예문으로 익히는 빈칸 채우기 150문제",
+    "wordCount": 150,
+    "category": "빈칸단어장"
+  },
+  {
+    "file": "fill_in_blank_tenses_200.json",
+    "name": "시제 빈칸 200 - 의문문, 부정문 포함",
+    "description": "현재·현재진행·과거·과거진행·미래(will/be going to)·현재완료·과거완료·미래진행·미래완료·현재완료진행 10개 시제의 긍정문·부정문·의문문을 쉬운 예문으로 익히는 빈칸 채우기 200문제",
+    "wordCount": 200,
+    "category": "빈칸단어장"
+  },
+  {
+    "file": "fill_in_blank_prepositions_200.json",
+    "name": "전치사 빈칸 200 - 장소, 시간, 방향, 숙어 포함",
+    "description": "장소(in/on/at/under/behind 등)·시간(in/on/at/for/since/until/by 등)·방향(to/from/into/across/through 등)·기타(with/about/of/by/like/as 등) 전치사와 전치사 숙어를 쉬운 예문으로 익히는 빈칸 채우기 200문제",
+    "wordCount": 200,
+    "category": "빈칸단어장"
+  },
+  {
     "file": "hiragana_104_v2.json",
     "name": "히라가나 104",
     "description": "히라가나 기본 청음 46자, 탁음 20자, 반탁음 5자, 요음 33자 총 104자",
