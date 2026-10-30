@@ -399,6 +399,13 @@
     "category": "빈칸단어장"
   },
   {
+    "file": "fill_in_blank_irregular_verbs_150.json",
+    "name": "불규칙동사 빈칸 150 - 과거형·과거분사 문맥 고르기",
+    "description": "문맥(과거 시간 표현, Did/didn't, have/had + p.p., 수동태, 형용사적 과거분사)에 맞는 불규칙동사의 형태를 고르는 빈칸 채우기 150문제. 보기에는 원형·3인칭 단수·-ing형과 자주 틀리는 규칙화 오답(goed, taked 등) 포함",
+    "wordCount": 150,
+    "category": "빈칸단어장"
+  },
+  {
     "file": "hiragana_104_v2.json",
     "name": "히라가나 104",
     "description": "히라가나 기본 청음 46자, 탁음 20자, 반탁음 5자, 요음 33자 총 104자",
