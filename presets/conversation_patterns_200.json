@@ -1,0 +1,806 @@
+{
+  "name": "영어 회화 필수 패턴 200",
+  "description": "일상 회화에서 바로 쓰는 영어 문장 패턴 200개 (I'd like to ~, Would you mind ~ing?, How about ~? 등). 인사, 요청, 허락, 제안, 의견, 동의·반대, 감사·사과, 희망·계획, 능력, 의무·조언, 감정, 질문, 쇼핑·식당, 길·교통, 전화·약속, 경험·습관, 추측, 비교·선호, 맞장구, 시간·일정 상황별 분류. 예문은 패턴 부분을 □로 가려 퀴즈에 활용",
+  "words": [
+    {
+      "w": "Nice to meet ~",
+      "m": "[인사·소개] 만나서 반갑습니다 · 예) □ you, Mr. Kim. 만나서 반갑습니다, 김 선생님."
+    },
+    {
+      "w": "How's ~ going?",
+      "m": "[인사·소개] ~은 어떻게 되어 가요? · 예) □ work □? 일은 잘 되어 가요?"
+    },
+    {
+      "w": "Let me introduce ~",
+      "m": "[인사·소개] ~을 소개할게요 · 예) □ my colleague, Jane. 제 동료 제인을 소개할게요."
+    },
+    {
+      "w": "I'm from ~",
+      "m": "[인사·소개] 저는 ~ 출신이에요 · 예) □ Busan, Korea. 저는 한국 부산 출신이에요."
+    },
+    {
+      "w": "I work as ~",
+      "m": "[인사·소개] 저는 ~로 일해요 · 예) □ a graphic designer. 저는 그래픽 디자이너로 일해요."
+    },
+    {
+      "w": "It's been a while since ~",
+      "m": "[인사·소개] ~한 지 오래됐네요 · 예) □ we last met. 우리 마지막으로 본 지 오래됐네요."
+    },
+    {
+      "w": "Long time no ~",
+      "m": "[인사·소개] 오랜만이에요 · 예) □ see! 오랜만이야!"
+    },
+    {
+      "w": "Say hello to ~",
+      "m": "[인사·소개] ~에게 안부 전해 주세요 · 예) □ your parents for me. 부모님께 안부 전해 주세요."
+    },
+    {
+      "w": "Have a ~",
+      "m": "[인사·소개] 좋은 ~ 보내세요 · 예) □ nice weekend! 좋은 주말 보내세요!"
+    },
+    {
+      "w": "See you ~",
+      "m": "[인사·소개] ~에 봐요 · 예) □ next Monday. 다음 주 월요일에 봐요."
+    },
+    {
+      "w": "Could you ~?",
+      "m": "[요청·부탁] ~해 주시겠어요? · 예) □ open the window? 창문 좀 열어 주시겠어요?"
+    },
+    {
+      "w": "Would you mind ~ing?",
+      "m": "[요청·부탁] ~해 주시겠어요? (정중) · 예) □ turning down the music? 음악 소리 좀 줄여 주시겠어요?"
+    },
+    {
+      "w": "Can I have ~?",
+      "m": "[요청·부탁] ~ 주시겠어요? · 예) □ the menu, please? 메뉴판 좀 주시겠어요?"
+    },
+    {
+      "w": "I was wondering if you could ~",
+      "m": "[요청·부탁] ~해 주실 수 있을까 해서요 · 예) □ help me. 저 좀 도와주실 수 있을까 해서요."
+    },
+    {
+      "w": "Do you mind if I ~?",
+      "m": "[요청·부탁] 제가 ~해도 괜찮을까요? · 예) □ sit here? 여기 앉아도 괜찮을까요?"
+    },
+    {
+      "w": "Is it okay if I ~?",
+      "m": "[요청·부탁] 제가 ~해도 될까요? · 예) □ leave early today? 오늘 일찍 가도 될까요?"
+    },
+    {
+      "w": "Please let me ~",
+      "m": "[요청·부탁] 제가 ~하게 해 주세요 · 예) □ explain. 제가 설명하게 해 주세요."
+    },
+    {
+      "w": "I'd appreciate it if you could ~",
+      "m": "[요청·부탁] ~해 주시면 감사하겠습니다 · 예) □ reply soon. 곧 답장해 주시면 감사하겠습니다."
+    },
+    {
+      "w": "Would it be possible to ~?",
+      "m": "[요청·부탁] ~하는 것이 가능할까요? · 예) □ change my seat? 자리를 바꾸는 것이 가능할까요?"
+    },
+    {
+      "w": "Can you give me a hand with ~?",
+      "m": "[요청·부탁] ~ 좀 도와줄래요? · 예) □ these boxes? 이 상자들 좀 도와줄래요?"
+    },
+    {
+      "w": "May I ~?",
+      "m": "[허락·허가] ~해도 될까요? (정중) · 예) □ come in? 들어가도 될까요?"
+    },
+    {
+      "w": "Can I ~?",
+      "m": "[허락·허가] ~해도 돼요? · 예) □ borrow your pen? 펜 좀 빌려도 돼요?"
+    },
+    {
+      "w": "Is it all right to ~?",
+      "m": "[허락·허가] ~해도 괜찮아요? · 예) □ park here? 여기 주차해도 괜찮아요?"
+    },
+    {
+      "w": "You're allowed to ~",
+      "m": "[허락·허가] ~해도 됩니다 · 예) □ bring a guest. 손님 한 명 데려와도 됩니다."
+    },
+    {
+      "w": "You're not supposed to ~",
+      "m": "[허락·허가] ~하면 안 돼요 · 예) □ smoke here. 여기서 담배 피우면 안 돼요."
+    },
+    {
+      "w": "Feel free to ~",
+      "m": "[허락·허가] 편하게 ~하세요 · 예) □ ask any questions. 질문 있으면 편하게 하세요."
+    },
+    {
+      "w": "Go ahead and ~",
+      "m": "[허락·허가] 어서 ~하세요 · 예) □ take a seat. 어서 앉으세요."
+    },
+    {
+      "w": "Help yourself to ~",
+      "m": "[허락·허가] ~ 마음껏 드세요 · 예) □ the snacks. 간식 마음껏 드세요."
+    },
+    {
+      "w": "How about ~?",
+      "m": "[제안·권유] ~ 어때요? · 예) □ going for a walk? 산책 가는 거 어때요?"
+    },
+    {
+      "w": "What about ~?",
+      "m": "[제안·권유] ~은 어때요? · 예) □ Friday night? 금요일 밤은 어때요?"
+    },
+    {
+      "w": "Why don't we ~?",
+      "m": "[제안·권유] 우리 ~하는 게 어때요? · 예) □ order pizza? 우리 피자 시키는 게 어때요?"
+    },
+    {
+      "w": "Why don't you ~?",
+      "m": "[제안·권유] ~하는 게 어때요? · 예) □ take a break? 좀 쉬는 게 어때요?"
+    },
+    {
+      "w": "Let's ~",
+      "m": "[제안·권유] ~하자 · 예) □ get started. 시작하자."
+    },
+    {
+      "w": "Shall we ~?",
+      "m": "[제안·권유] 우리 ~할까요? · 예) □ take a taxi? 택시 탈까요?"
+    },
+    {
+      "w": "Would you like to ~?",
+      "m": "[제안·권유] ~하시겠어요? · 예) □ join us for dinner? 저희와 저녁 함께 하시겠어요?"
+    },
+    {
+      "w": "Do you want to ~?",
+      "m": "[제안·권유] ~할래? · 예) □ watch a movie tonight? 오늘 밤 영화 볼래?"
+    },
+    {
+      "w": "I suggest ~ing",
+      "m": "[제안·권유] ~하는 것을 제안해요 · 예) □ booking in advance. 미리 예약하는 걸 제안해요."
+    },
+    {
+      "w": "You might want to ~",
+      "m": "[제안·권유] ~하는 게 좋을 것 같아요 · 예) □ check the schedule first. 먼저 일정을 확인하는 게 좋을 것 같아요."
+    },
+    {
+      "w": "I think ~",
+      "m": "[의견·생각] ~라고 생각해요 · 예) □ this plan will work. 이 계획이 효과 있을 거라고 생각해요."
+    },
+    {
+      "w": "I don't think ~",
+      "m": "[의견·생각] ~라고 생각하지 않아요 · 예) □ it's a good idea. 좋은 생각 같지 않아요."
+    },
+    {
+      "w": "In my opinion, ~",
+      "m": "[의견·생각] 제 생각에는 ~ · 예) □, the price is too high. 제 생각에는 가격이 너무 비싸요."
+    },
+    {
+      "w": "It seems to me that ~",
+      "m": "[의견·생각] 제가 보기엔 ~ · 예) □ he's tired. 제가 보기엔 그가 피곤한 것 같아요."
+    },
+    {
+      "w": "As far as I know, ~",
+      "m": "[의견·생각] 제가 알기로는 ~ · 예) □, the store closes at nine. 제가 알기로는 그 가게는 9시에 닫아요."
+    },
+    {
+      "w": "I'm not sure ~",
+      "m": "[의견·생각] ~인지 잘 모르겠어요 · 예) □ if he'll come. 그가 올지 잘 모르겠어요."
+    },
+    {
+      "w": "I feel like ~",
+      "m": "[의견·생각] ~인 것 같아요, ~하고 싶어요 · 예) □ eating something sweet. 뭔가 단 게 먹고 싶어요."
+    },
+    {
+      "w": "I bet ~",
+      "m": "[의견·생각] 틀림없이 ~일 거예요 · 예) □ she'll be late again. 틀림없이 그녀는 또 늦을 거예요."
+    },
+    {
+      "w": "If you ask me, ~",
+      "m": "[의견·생각] 제 의견을 묻는다면 ~ · 예) □, we should wait. 제 의견을 묻는다면 기다려야 해요."
+    },
+    {
+      "w": "What do you think of ~?",
+      "m": "[의견·생각] ~에 대해 어떻게 생각해요? · 예) □ the new design? 새 디자인에 대해 어떻게 생각해요?"
+    },
+    {
+      "w": "I agree with ~",
+      "m": "[동의·반대] ~에 동의해요 · 예) □ your point. 당신 의견에 동의해요."
+    },
+    {
+      "w": "I couldn't agree more ~",
+      "m": "[동의·반대] 전적으로 동의해요 · 예) □ with you. 당신 말에 전적으로 동의해요."
+    },
+    {
+      "w": "That's exactly what ~",
+      "m": "[동의·반대] 그게 바로 ~예요 · 예) □ I mean. 그게 바로 제가 말하려는 거예요."
+    },
+    {
+      "w": "I'm afraid I ~",
+      "m": "[동의·반대] 죄송하지만 저는 ~ · 예) □ disagree. 죄송하지만 저는 생각이 달라요."
+    },
+    {
+      "w": "I see your point, but ~",
+      "m": "[동의·반대] 무슨 말인지 알지만 ~ · 예) □ it's too expensive. 무슨 말인지 알지만 너무 비싸요."
+    },
+    {
+      "w": "That's not how ~",
+      "m": "[동의·반대] 그건 ~한 방식이 아니에요 · 예) □ I see it. 저는 그렇게 보지 않아요."
+    },
+    {
+      "w": "I'm with you on ~",
+      "m": "[동의·반대] ~에 대해 당신 편이에요 · 예) □ this one. 이 건은 당신 편이에요."
+    },
+    {
+      "w": "You can say that again ~",
+      "m": "[동의·반대] 정말 그래요 (강한 동의) · 예) □! 정말 그래요!"
+    },
+    {
+      "w": "Thank you for ~ing",
+      "m": "[감사·사과] ~해 줘서 고마워요 · 예) □ helping me. 도와줘서 고마워요."
+    },
+    {
+      "w": "I really appreciate ~",
+      "m": "[감사·사과] ~에 정말 감사해요 · 예) □ your support. 당신의 지원에 정말 감사해요."
+    },
+    {
+      "w": "I can't thank you enough for ~",
+      "m": "[감사·사과] ~에 대해 뭐라 감사해야 할지 · 예) □ your kindness. 당신의 친절에 뭐라 감사해야 할지 모르겠어요."
+    },
+    {
+      "w": "Sorry for ~ing",
+      "m": "[감사·사과] ~해서 미안해요 · 예) □ being late. 늦어서 미안해요."
+    },
+    {
+      "w": "I apologize for ~",
+      "m": "[감사·사과] ~에 대해 사과드립니다 · 예) □ the mistake. 실수에 대해 사과드립니다."
+    },
+    {
+      "w": "I didn't mean to ~",
+      "m": "[감사·사과] ~하려던 건 아니었어요 · 예) □ hurt your feelings. 네 기분을 상하게 하려던 건 아니었어."
+    },
+    {
+      "w": "It's my fault that ~",
+      "m": "[감사·사과] ~한 건 제 잘못이에요 · 예) □ we missed the bus. 우리가 버스를 놓친 건 제 잘못이에요."
+    },
+    {
+      "w": "No worries ~",
+      "m": "[감사·사과] 괜찮아요, 걱정 마세요 · 예) □, it happens. 괜찮아요, 그럴 수 있죠."
+    },
+    {
+      "w": "Don't mention ~",
+      "m": "[감사·사과] 별말씀을요 · 예) □ it. 별말씀을요."
+    },
+    {
+      "w": "It's very kind of you to ~",
+      "m": "[감사·사과] ~해 주시다니 정말 친절하시네요 · 예) □ say so. 그렇게 말씀해 주시다니 정말 친절하시네요."
+    },
+    {
+      "w": "I'd like to ~",
+      "m": "[희망·계획·의도] ~하고 싶어요 (정중) · 예) □ book a table for two. 두 명 자리를 예약하고 싶어요."
+    },
+    {
+      "w": "I want to ~",
+      "m": "[희망·계획·의도] ~하고 싶어요 · 예) □ learn Spanish. 스페인어를 배우고 싶어요."
+    },
+    {
+      "w": "I'm planning to ~",
+      "m": "[희망·계획·의도] ~할 계획이에요 · 예) □ visit Jeju next month. 다음 달에 제주에 갈 계획이에요."
+    },
+    {
+      "w": "I'm going to ~",
+      "m": "[희망·계획·의도] ~할 거예요 · 예) □ start a new job. 새 직장을 시작할 거예요."
+    },
+    {
+      "w": "I'm thinking of ~ing",
+      "m": "[희망·계획·의도] ~할까 생각 중이에요 · 예) □ moving to Seoul. 서울로 이사할까 생각 중이에요."
+    },
+    {
+      "w": "I hope ~",
+      "m": "[희망·계획·의도] ~하길 바라요 · 예) □ you get well soon. 빨리 낫길 바라요."
+    },
+    {
+      "w": "I wish I could ~",
+      "m": "[희망·계획·의도] ~할 수 있으면 좋을 텐데 · 예) □ stay longer. 더 오래 머물 수 있으면 좋을 텐데."
+    },
+    {
+      "w": "I can't wait to ~",
+      "m": "[희망·계획·의도] 빨리 ~하고 싶어요 · 예) □ see you. 빨리 보고 싶어요."
+    },
+    {
+      "w": "I'm looking forward to ~ing",
+      "m": "[희망·계획·의도] ~하기를 고대해요 · 예) □ meeting you. 만나 뵙기를 고대해요."
+    },
+    {
+      "w": "I'm about to ~",
+      "m": "[희망·계획·의도] 막 ~하려던 참이에요 · 예) □ leave the office. 막 사무실을 나서려던 참이에요."
+    },
+    {
+      "w": "I can ~",
+      "m": "[능력·가능·불가능] 저는 ~할 수 있어요 · 예) □ speak three languages. 저는 세 가지 언어를 할 수 있어요."
+    },
+    {
+      "w": "I'm able to ~",
+      "m": "[능력·가능·불가능] 저는 ~할 수 있어요 · 예) □ work on weekends. 저는 주말에 일할 수 있어요."
+    },
+    {
+      "w": "I'm good at ~ing",
+      "m": "[능력·가능·불가능] 저는 ~을 잘해요 · 예) □ solving problems. 저는 문제 해결을 잘해요."
+    },
+    {
+      "w": "I'm not good at ~ing",
+      "m": "[능력·가능·불가능] 저는 ~을 잘 못해요 · 예) □ remembering names. 저는 이름을 잘 기억 못해요."
+    },
+    {
+      "w": "I'm afraid I can't ~",
+      "m": "[능력·가능·불가능] 죄송하지만 ~할 수 없어요 · 예) □ make it tomorrow. 죄송하지만 내일은 못 갈 것 같아요."
+    },
+    {
+      "w": "There's no way ~",
+      "m": "[능력·가능·불가능] ~할 리가 없어요, 절대 ~ 못 해요 · 예) □ I can finish by five. 5시까지는 절대 못 끝내요."
+    },
+    {
+      "w": "It's hard for me to ~",
+      "m": "[능력·가능·불가능] 저는 ~하기 어려워요 · 예) □ wake up early. 저는 일찍 일어나기 어려워요."
+    },
+    {
+      "w": "I have no idea ~",
+      "m": "[능력·가능·불가능] ~을 전혀 모르겠어요 · 예) □ where he went. 그가 어디 갔는지 전혀 모르겠어요."
+    },
+    {
+      "w": "I'm used to ~ing",
+      "m": "[능력·가능·불가능] 저는 ~에 익숙해요 · 예) □ working late. 저는 늦게까지 일하는 데 익숙해요."
+    },
+    {
+      "w": "I managed to ~",
+      "m": "[능력·가능·불가능] 가까스로 ~했어요 · 예) □ catch the last train. 가까스로 막차를 탔어요."
+    },
+    {
+      "w": "You should ~",
+      "m": "[의무·조언·필요] ~하는 게 좋아요 · 예) □ see a doctor. 병원에 가 보는 게 좋아요."
+    },
+    {
+      "w": "You'd better ~",
+      "m": "[의무·조언·필요] ~하는 게 좋을 거예요 (경고) · 예) □ hurry up. 서두르는 게 좋을 거예요."
+    },
+    {
+      "w": "You have to ~",
+      "m": "[의무·조언·필요] ~해야 해요 · 예) □ show your ID. 신분증을 보여 줘야 해요."
+    },
+    {
+      "w": "You don't have to ~",
+      "m": "[의무·조언·필요] ~할 필요 없어요 · 예) □ pay now. 지금 낼 필요 없어요."
+    },
+    {
+      "w": "You must ~",
+      "m": "[의무·조언·필요] 반드시 ~해야 해요 · 예) □ wear a seat belt. 반드시 안전벨트를 매야 해요."
+    },
+    {
+      "w": "I have to ~",
+      "m": "[의무·조언·필요] 저는 ~해야 해요 · 예) □ finish this report. 저는 이 보고서를 끝내야 해요."
+    },
+    {
+      "w": "It's time to ~",
+      "m": "[의무·조언·필요] ~할 시간이에요 · 예) □ go home. 집에 갈 시간이에요."
+    },
+    {
+      "w": "Make sure to ~",
+      "m": "[의무·조언·필요] 반드시 ~하세요 · 예) □ lock the door. 반드시 문을 잠그세요."
+    },
+    {
+      "w": "Don't forget to ~",
+      "m": "[의무·조언·필요] ~하는 거 잊지 마세요 · 예) □ call me. 전화하는 거 잊지 마세요."
+    },
+    {
+      "w": "It's worth ~ing",
+      "m": "[의무·조언·필요] ~할 가치가 있어요 · 예) □ visiting the museum. 그 박물관은 가 볼 가치가 있어요."
+    },
+    {
+      "w": "I'm happy to ~",
+      "m": "[감정·기분] ~해서 기뻐요 · 예) □ hear that. 그 소식을 들으니 기뻐요."
+    },
+    {
+      "w": "I'm sorry to hear ~",
+      "m": "[감정·기분] ~라니 유감이에요 · 예) □ about your loss. 상심이 크시겠어요."
+    },
+    {
+      "w": "I'm worried about ~",
+      "m": "[감정·기분] ~이 걱정돼요 · 예) □ the exam. 시험이 걱정돼요."
+    },
+    {
+      "w": "I'm excited about ~",
+      "m": "[감정·기분] ~ 때문에 설레요 · 예) □ the trip. 여행 때문에 설레요."
+    },
+    {
+      "w": "I'm tired of ~ing",
+      "m": "[감정·기분] ~하는 데 지쳤어요 · 예) □ waiting. 기다리는 데 지쳤어요."
+    },
+    {
+      "w": "I'm sick of ~",
+      "m": "[감정·기분] ~에 질렸어요 · 예) □ this weather. 이 날씨에 질렸어요."
+    },
+    {
+      "w": "I'm proud of ~",
+      "m": "[감정·기분] ~이 자랑스러워요 · 예) □ you. 네가 자랑스러워."
+    },
+    {
+      "w": "I'm nervous about ~",
+      "m": "[감정·기분] ~ 때문에 긴장돼요 · 예) □ the interview. 면접 때문에 긴장돼요."
+    },
+    {
+      "w": "It's a shame that ~",
+      "m": "[감정·기분] ~라니 아쉽네요 · 예) □ you can't come. 네가 못 온다니 아쉽네."
+    },
+    {
+      "w": "I'm glad ~",
+      "m": "[감정·기분] ~해서 다행이에요 · 예) □ you like it. 마음에 든다니 다행이에요."
+    },
+    {
+      "w": "I can't stand ~",
+      "m": "[감정·기분] ~을 참을 수 없어요 · 예) □ the noise. 그 소음을 참을 수 없어요."
+    },
+    {
+      "w": "It drives me crazy when ~",
+      "m": "[감정·기분] ~할 때 미치겠어요 · 예) □ people are late. 사람들이 늦을 때 미치겠어요."
+    },
+    {
+      "w": "Do you know ~?",
+      "m": "[확인·질문] ~을 아세요? · 예) □ where the station is? 역이 어디 있는지 아세요?"
+    },
+    {
+      "w": "Could you tell me ~?",
+      "m": "[확인·질문] ~을 알려 주시겠어요? · 예) □ how to get there? 거기 어떻게 가는지 알려 주시겠어요?"
+    },
+    {
+      "w": "What does ~ mean?",
+      "m": "[확인·질문] ~은 무슨 뜻이에요? · 예) □ this word □? 이 단어는 무슨 뜻이에요?"
+    },
+    {
+      "w": "How do you say ~ in English?",
+      "m": "[확인·질문] ~을 영어로 뭐라고 해요? · 예) □ '감사합니다' □? '감사합니다'를 영어로 뭐라고 해요?"
+    },
+    {
+      "w": "Is there ~ near here?",
+      "m": "[확인·질문] 이 근처에 ~이 있나요? · 예) □ a pharmacy □? 이 근처에 약국이 있나요?"
+    },
+    {
+      "w": "What time does ~?",
+      "m": "[확인·질문] ~은 몇 시에 ~해요? · 예) □ the store open? 가게는 몇 시에 열어요?"
+    },
+    {
+      "w": "How long does it take to ~?",
+      "m": "[확인·질문] ~하는 데 얼마나 걸려요? · 예) □ get to the airport? 공항까지 가는 데 얼마나 걸려요?"
+    },
+    {
+      "w": "How often do you ~?",
+      "m": "[확인·질문] 얼마나 자주 ~해요? · 예) □ exercise? 얼마나 자주 운동해요?"
+    },
+    {
+      "w": "What kind of ~?",
+      "m": "[확인·질문] 어떤 종류의 ~? · 예) □ music do you like? 어떤 음악을 좋아해요?"
+    },
+    {
+      "w": "Are you sure ~?",
+      "m": "[확인·질문] ~이 확실해요? · 예) □ this is the right way? 이 길이 맞는 게 확실해요?"
+    },
+    {
+      "w": "Did you say ~?",
+      "m": "[확인·질문] ~라고 하셨어요? · 예) □ ten o'clock? 10시라고 하셨어요?"
+    },
+    {
+      "w": "What do you mean by ~?",
+      "m": "[확인·질문] ~은 무슨 뜻이에요? · 예) □ that? 그게 무슨 뜻이에요?"
+    },
+    {
+      "w": "I'm looking for ~",
+      "m": "[쇼핑·식당·주문] ~을 찾고 있어요 · 예) □ a winter coat. 겨울 코트를 찾고 있어요."
+    },
+    {
+      "w": "Do you have ~ in a smaller size?",
+      "m": "[쇼핑·식당·주문] ~ 더 작은 사이즈 있어요? · 예) □ this □? 이거 더 작은 사이즈 있어요?"
+    },
+    {
+      "w": "How much is ~?",
+      "m": "[쇼핑·식당·주문] ~은 얼마예요? · 예) □ this bag? 이 가방은 얼마예요?"
+    },
+    {
+      "w": "Can I try ~ on?",
+      "m": "[쇼핑·식당·주문] ~ 입어 봐도 돼요? · 예) □ this jacket □? 이 재킷 입어 봐도 돼요?"
+    },
+    {
+      "w": "I'll take ~",
+      "m": "[쇼핑·식당·주문] ~로 할게요 (구매) · 예) □ this one. 이걸로 할게요."
+    },
+    {
+      "w": "I'll have ~",
+      "m": "[쇼핑·식당·주문] ~로 주세요 (주문) · 예) □ the steak, please. 스테이크로 주세요."
+    },
+    {
+      "w": "Can I get ~ to go?",
+      "m": "[쇼핑·식당·주문] ~ 포장해 주시겠어요? · 예) □ this □? 이거 포장해 주시겠어요?"
+    },
+    {
+      "w": "Could we have the ~, please?",
+      "m": "[쇼핑·식당·주문] ~ 좀 주시겠어요? · 예) □ bill, □? 계산서 좀 주시겠어요?"
+    },
+    {
+      "w": "Is this ~ on sale?",
+      "m": "[쇼핑·식당·주문] 이 ~ 세일 중이에요? · 예) □ jacket □? 이 재킷 세일 중이에요?"
+    },
+    {
+      "w": "I'd like to return ~",
+      "m": "[쇼핑·식당·주문] ~을 반품하고 싶어요 · 예) □ this item. 이 물건을 반품하고 싶어요."
+    },
+    {
+      "w": "Does it come with ~?",
+      "m": "[쇼핑·식당·주문] ~이 포함되어 있나요? · 예) □ a drink? 음료가 포함되어 있나요?"
+    },
+    {
+      "w": "Can I pay by ~?",
+      "m": "[쇼핑·식당·주문] ~로 결제해도 돼요? · 예) □ card? 카드로 결제해도 돼요?"
+    },
+    {
+      "w": "How do I get to ~?",
+      "m": "[길·교통·여행] ~에 어떻게 가요? · 예) □ the museum? 박물관에 어떻게 가요?"
+    },
+    {
+      "w": "Which bus goes to ~?",
+      "m": "[길·교통·여행] 어느 버스가 ~에 가요? · 예) □ the airport? 어느 버스가 공항에 가요?"
+    },
+    {
+      "w": "Is this the right ~ for ~?",
+      "m": "[길·교통·여행] 이게 ~로 가는 ~ 맞아요? · 예) □ train □ Seoul Station? 이게 서울역 가는 기차 맞아요?"
+    },
+    {
+      "w": "Where can I ~?",
+      "m": "[길·교통·여행] 어디서 ~할 수 있어요? · 예) □ buy a ticket? 어디서 표를 살 수 있어요?"
+    },
+    {
+      "w": "I'd like a ticket to ~",
+      "m": "[길·교통·여행] ~행 표 한 장 주세요 · 예) □ Busan. 부산행 표 한 장 주세요."
+    },
+    {
+      "w": "Could you drop me off at ~?",
+      "m": "[길·교통·여행] ~에서 내려 주시겠어요? · 예) □ the hotel? 호텔에서 내려 주시겠어요?"
+    },
+    {
+      "w": "I'm lost. ~",
+      "m": "[길·교통·여행] 길을 잃었어요 · 예) □. Can you help me? 길을 잃었어요. 도와주시겠어요?"
+    },
+    {
+      "w": "Is it far from ~?",
+      "m": "[길·교통·여행] ~에서 멀어요? · 예) □ here? 여기서 멀어요?"
+    },
+    {
+      "w": "I have a reservation under ~",
+      "m": "[길·교통·여행] ~ 이름으로 예약했어요 · 예) □ the name Lee. 이 씨 이름으로 예약했어요."
+    },
+    {
+      "w": "What time is check-~?",
+      "m": "[길·교통·여행] 체크~ 시간이 몇 시예요? · 예) □out? 체크아웃 시간이 몇 시예요?"
+    },
+    {
+      "w": "May I speak to ~?",
+      "m": "[전화·약속] ~와 통화할 수 있을까요? · 예) □ Ms. Park? 박 선생님과 통화할 수 있을까요?"
+    },
+    {
+      "w": "This is ~ speaking",
+      "m": "[전화·약속] ~입니다 (전화) · 예) □ John □. 존입니다."
+    },
+    {
+      "w": "I'm calling about ~",
+      "m": "[전화·약속] ~ 때문에 전화드렸어요 · 예) □ the job opening. 채용 공고 때문에 전화드렸어요."
+    },
+    {
+      "w": "Can I leave a message for ~?",
+      "m": "[전화·약속] ~에게 메시지를 남겨도 될까요? · 예) □ her? 그녀에게 메시지를 남겨도 될까요?"
+    },
+    {
+      "w": "Could you call me back at ~?",
+      "m": "[전화·약속] ~로 다시 전화 주시겠어요? · 예) □ this number? 이 번호로 다시 전화 주시겠어요?"
+    },
+    {
+      "w": "Are you free ~?",
+      "m": "[전화·약속] ~에 시간 있어요? · 예) □ this Saturday? 이번 토요일에 시간 있어요?"
+    },
+    {
+      "w": "Does ~ work for you?",
+      "m": "[전화·약속] ~ 괜찮으세요? · 예) □ three o'clock □? 3시 괜찮으세요?"
+    },
+    {
+      "w": "Can we reschedule ~?",
+      "m": "[전화·약속] ~을 다시 잡을 수 있을까요? · 예) □ our meeting? 회의를 다시 잡을 수 있을까요?"
+    },
+    {
+      "w": "I'm running late ~",
+      "m": "[전화·약속] 좀 늦을 것 같아요 · 예) □. Sorry! 좀 늦을 것 같아요. 미안해요!"
+    },
+    {
+      "w": "Let's meet at ~",
+      "m": "[전화·약속] ~에서 만나요 · 예) □ the station. 역에서 만나요."
+    },
+    {
+      "w": "Have you ever ~?",
+      "m": "[경험·습관·빈도] ~해 본 적 있어요? · 예) □ been to Japan? 일본에 가 본 적 있어요?"
+    },
+    {
+      "w": "I've never ~",
+      "m": "[경험·습관·빈도] 저는 ~해 본 적 없어요 · 예) □ tried sushi. 저는 초밥을 먹어 본 적 없어요."
+    },
+    {
+      "w": "I used to ~",
+      "m": "[경험·습관·빈도] 예전에 ~하곤 했어요 · 예) □ play the piano. 예전에 피아노를 치곤 했어요."
+    },
+    {
+      "w": "I usually ~",
+      "m": "[경험·습관·빈도] 저는 보통 ~해요 · 예) □ get up at seven. 저는 보통 7시에 일어나요."
+    },
+    {
+      "w": "Every now and then, I ~",
+      "m": "[경험·습관·빈도] 가끔 저는 ~해요 · 예) □ go hiking. 가끔 저는 등산을 가요."
+    },
+    {
+      "w": "It's the first time I've ~",
+      "m": "[경험·습관·빈도] ~한 건 처음이에요 · 예) □ seen snow. 눈을 본 건 처음이에요."
+    },
+    {
+      "w": "I've been ~ing for ~",
+      "m": "[경험·습관·빈도] ~한 지 ~ 됐어요 · 예) □ studying English □ two years. 영어 공부한 지 2년 됐어요."
+    },
+    {
+      "w": "I'm in the habit of ~ing",
+      "m": "[경험·습관·빈도] 저는 ~하는 습관이 있어요 · 예) □ reading before bed. 저는 자기 전에 책 읽는 습관이 있어요."
+    },
+    {
+      "w": "It looks like ~",
+      "m": "[추측·가능성] ~인 것 같아요 · 예) □ it's going to rain. 비가 올 것 같아요."
+    },
+    {
+      "w": "It sounds like ~",
+      "m": "[추측·가능성] ~인 것처럼 들려요 · 예) □ you had a great time. 즐거운 시간을 보낸 것 같네요."
+    },
+    {
+      "w": "Maybe ~",
+      "m": "[추측·가능성] 아마 ~일 거예요 · 예) □ he forgot about it. 아마 그가 잊어버렸을 거예요."
+    },
+    {
+      "w": "I guess ~",
+      "m": "[추측·가능성] ~인 것 같아요 · 예) □ we should leave now. 지금 떠나야 할 것 같아요."
+    },
+    {
+      "w": "It must be ~",
+      "m": "[추측·가능성] ~임에 틀림없어요 · 예) □ expensive. 비싼 게 틀림없어요."
+    },
+    {
+      "w": "It can't be ~",
+      "m": "[추측·가능성] ~일 리가 없어요 · 예) □ true. 사실일 리가 없어요."
+    },
+    {
+      "w": "Chances are ~",
+      "m": "[추측·가능성] 아마 ~일 거예요 · 예) □ he's already home. 아마 그는 이미 집에 있을 거예요."
+    },
+    {
+      "w": "There's a good chance that ~",
+      "m": "[추측·가능성] ~할 가능성이 커요 · 예) □ we'll win. 우리가 이길 가능성이 커요."
+    },
+    {
+      "w": "It's likely that ~",
+      "m": "[추측·가능성] ~할 것 같아요 · 예) □ the flight will be delayed. 비행기가 지연될 것 같아요."
+    },
+    {
+      "w": "I doubt ~",
+      "m": "[추측·가능성] ~일지 의심스러워요 · 예) □ he'll show up. 그가 나타날지 의심스러워요."
+    },
+    {
+      "w": "I prefer ~ to ~",
+      "m": "[비교·선호] ~보다 ~을 더 좋아해요 · 예) □ tea □ coffee. 커피보다 차를 더 좋아해요."
+    },
+    {
+      "w": "I'd rather ~ than ~",
+      "m": "[비교·선호] ~하느니 ~하겠어요 · 예) □ walk □ drive. 운전하느니 걷겠어요."
+    },
+    {
+      "w": "~ is my favorite",
+      "m": "[비교·선호] ~이 제가 가장 좋아하는 거예요 · 예) Summer □ season. 여름은 제가 가장 좋아하는 계절이에요."
+    },
+    {
+      "w": "I'm a big fan of ~",
+      "m": "[비교·선호] 저는 ~을 아주 좋아해요 · 예) □ jazz. 저는 재즈를 아주 좋아해요."
+    },
+    {
+      "w": "I'm not into ~",
+      "m": "[비교·선호] 저는 ~에 관심 없어요 · 예) □ sports. 저는 운동에 관심 없어요."
+    },
+    {
+      "w": "Nothing beats ~",
+      "m": "[비교·선호] ~만 한 게 없어요 · 예) □ a cold drink on a hot day. 더운 날엔 시원한 음료만 한 게 없어요."
+    },
+    {
+      "w": "It's not as ~ as ~",
+      "m": "[비교·선호] ~만큼 ~하지 않아요 · 예) □ hard □ it looks. 보기만큼 어렵지 않아요."
+    },
+    {
+      "w": "The more ~, the ~",
+      "m": "[비교·선호] ~할수록 더 ~ · 예) □ I practice, □ better I get. 연습할수록 더 잘하게 돼요."
+    },
+    {
+      "w": "That sounds ~",
+      "m": "[맞장구·반응] ~하게 들리네요 · 예) □ great! 좋은 생각이네요!"
+    },
+    {
+      "w": "That's too bad ~",
+      "m": "[맞장구·반응] 안됐네요 · 예) □. I hope it gets better. 안됐네요. 나아지길 바라요."
+    },
+    {
+      "w": "No wonder ~",
+      "m": "[맞장구·반응] 어쩐지 ~하더라 · 예) □ you're tired. 어쩐지 피곤해 보이더라."
+    },
+    {
+      "w": "I know what you mean ~",
+      "m": "[맞장구·반응] 무슨 말인지 알아요 · 예) □. It's frustrating. 무슨 말인지 알아요. 답답하죠."
+    },
+    {
+      "w": "Tell me about ~",
+      "m": "[맞장구·반응] 말도 마세요 (공감) / ~에 대해 말해 줘 · 예) □ it! 말도 마세요!"
+    },
+    {
+      "w": "You've got to be ~",
+      "m": "[맞장구·반응] 농담이죠? (믿기 어려움) · 예) □ kidding! 농담이죠!"
+    },
+    {
+      "w": "Good for ~",
+      "m": "[맞장구·반응] 잘됐네요 · 예) □ you! 잘됐네요!"
+    },
+    {
+      "w": "What a ~!",
+      "m": "[맞장구·반응] 정말 ~이네요! · 예) □ surprise! 정말 놀랍네요!"
+    },
+    {
+      "w": "It's up to ~",
+      "m": "[맞장구·반응] ~에게 달려 있어요 · 예) □ you. 당신에게 달려 있어요."
+    },
+    {
+      "w": "That makes ~",
+      "m": "[맞장구·반응] 말이 되네요, 이해돼요 · 예) □ sense. 말이 되네요."
+    },
+    {
+      "w": "I'll be back in ~",
+      "m": "[시간·일정] ~ 후에 돌아올게요 · 예) □ ten minutes. 10분 후에 돌아올게요."
+    },
+    {
+      "w": "It takes ~ to ~",
+      "m": "[시간·일정] ~하는 데 ~이 걸려요 · 예) □ an hour □ get there. 거기 가는 데 한 시간 걸려요."
+    },
+    {
+      "w": "I'm on my way to ~",
+      "m": "[시간·일정] ~로 가는 중이에요 · 예) □ the office. 사무실로 가는 중이에요."
+    },
+    {
+      "w": "I'm in the middle of ~",
+      "m": "[시간·일정] 지금 ~하는 중이에요 · 예) □ a meeting. 지금 회의 중이에요."
+    },
+    {
+      "w": "as soon as ~",
+      "m": "[시간·일정] ~하자마자 · 예) I'll call you □ I arrive. 도착하자마자 전화할게요."
+    },
+    {
+      "w": "by the time ~",
+      "m": "[시간·일정] ~할 때쯤이면 · 예) □ you get here, I'll be done. 네가 여기 올 때쯤이면 나는 끝나 있을 거야."
+    },
+    {
+      "w": "It's been ~ since ~",
+      "m": "[시간·일정] ~한 지 ~이 됐어요 · 예) □ three years □ I moved here. 여기로 이사 온 지 3년 됐어요."
+    },
+    {
+      "w": "I'm running out of ~",
+      "m": "[시간·일정] ~이 떨어져 가요 · 예) □ time. 시간이 떨어져 가요."
+    },
+    {
+      "w": "Let me know when ~",
+      "m": "[시간·일정] ~하면 알려 주세요 · 예) □ you're ready. 준비되면 알려 주세요."
+    },
+    {
+      "w": "How soon can you ~?",
+      "m": "[시간·일정] 얼마나 빨리 ~할 수 있어요? · 예) □ deliver it? 얼마나 빨리 배달해 줄 수 있어요?"
+    },
+    {
+      "w": "I'm free after ~",
+      "m": "[시간·일정] ~ 이후에는 시간 있어요 · 예) □ six. 6시 이후에는 시간 있어요."
+    },
+    {
+      "w": "Take your time ~",
+      "m": "[시간·일정] 천천히 하세요 · 예) □. There's no rush. 천천히 하세요. 급할 거 없어요."
+    }
+  ]
+}

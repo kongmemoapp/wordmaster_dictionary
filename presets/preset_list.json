@@ -182,6 +182,13 @@
     "category": "영단어 - 일상/실용"
   },
   {
+    "file": "conversation_patterns_200.json",
+    "name": "영어 회화 필수 패턴 200",
+    "description": "일상 회화에서 바로 쓰는 영어 문장 패턴 200개 (I'd like to ~, Would you mind ~ing?, How about ~? 등). 인사, 요청, 허락, 제안, 의견, 동의·반대, 감사·사과, 희망·계획, 능력, 의무·조언, 감정, 질문, 쇼핑·식당, 길·교통, 전화·약속, 경험·습관, 추측, 비교·선호, 맞장구, 시간·일정 상황별 분류. 예문은 패턴 부분을 □로 가려 퀴즈에 활용",
+    "wordCount": 200,
+    "category": "영단어 - 일상/실용"
+  },
+  {
     "file": "elem_be_verb_200.json",
     "name": "1. 초등 be동사 기초 200",
     "description": "be동사(am/is/are/was/were)의 긍정·부정·의문 예문 200개 (초등 수준)",
