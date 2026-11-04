@@ -1,0 +1,794 @@
+{
+  "name": "세계 수도 197",
+  "description": "UN 회원국 193개국과 바티칸·대만·코소보·팔레스타인을 포함한 197개 나라의 수도. 나라 영어명·한글명을 보고 수도를 익히며, 지역(대륙)별 분류와 최대 도시·행정수도 등 비고 포함",
+  "words": [
+    {
+      "w": "South Korea 대한민국",
+      "m": "[동아시아·동남아시아] 서울 Seoul"
+    },
+    {
+      "w": "North Korea 북한",
+      "m": "[동아시아·동남아시아] 평양 Pyongyang"
+    },
+    {
+      "w": "Japan 일본",
+      "m": "[동아시아·동남아시아] 도쿄 Tokyo"
+    },
+    {
+      "w": "China 중국",
+      "m": "[동아시아·동남아시아] 베이징 Beijing"
+    },
+    {
+      "w": "Mongolia 몽골",
+      "m": "[동아시아·동남아시아] 울란바토르 Ulaanbaatar"
+    },
+    {
+      "w": "Taiwan 대만",
+      "m": "[동아시아·동남아시아] 타이베이 Taipei · UN 비회원"
+    },
+    {
+      "w": "Vietnam 베트남",
+      "m": "[동아시아·동남아시아] 하노이 Hanoi · 최대 도시는 호찌민"
+    },
+    {
+      "w": "Thailand 태국",
+      "m": "[동아시아·동남아시아] 방콕 Bangkok"
+    },
+    {
+      "w": "Laos 라오스",
+      "m": "[동아시아·동남아시아] 비엔티안 Vientiane"
+    },
+    {
+      "w": "Cambodia 캄보디아",
+      "m": "[동아시아·동남아시아] 프놈펜 Phnom Penh"
+    },
+    {
+      "w": "Myanmar 미얀마",
+      "m": "[동아시아·동남아시아] 네피도 Naypyidaw · 최대 도시는 양곤"
+    },
+    {
+      "w": "Malaysia 말레이시아",
+      "m": "[동아시아·동남아시아] 쿠알라룸푸르 Kuala Lumpur · 행정 중심지는 푸트라자야"
+    },
+    {
+      "w": "Singapore 싱가포르",
+      "m": "[동아시아·동남아시아] 수도 이름이 나라 이름과 같음 · 도시국가"
+    },
+    {
+      "w": "Indonesia 인도네시아",
+      "m": "[동아시아·동남아시아] 자카르타 Jakarta · 신수도 누산타라 건설 중"
+    },
+    {
+      "w": "Philippines 필리핀",
+      "m": "[동아시아·동남아시아] 마닐라 Manila"
+    },
+    {
+      "w": "Brunei 브루나이",
+      "m": "[동아시아·동남아시아] 반다르스리브가완 Bandar Seri Begawan"
+    },
+    {
+      "w": "East Timor 동티모르",
+      "m": "[동아시아·동남아시아] 딜리 Dili"
+    },
+    {
+      "w": "India 인도",
+      "m": "[남아시아·중앙아시아] 뉴델리 New Delhi · 최대 도시는 뭄바이"
+    },
+    {
+      "w": "Pakistan 파키스탄",
+      "m": "[남아시아·중앙아시아] 이슬라마바드 Islamabad · 최대 도시는 카라치"
+    },
+    {
+      "w": "Bangladesh 방글라데시",
+      "m": "[남아시아·중앙아시아] 다카 Dhaka"
+    },
+    {
+      "w": "Nepal 네팔",
+      "m": "[남아시아·중앙아시아] 카트만두 Kathmandu"
+    },
+    {
+      "w": "Bhutan 부탄",
+      "m": "[남아시아·중앙아시아] 팀부 Thimphu"
+    },
+    {
+      "w": "Sri Lanka 스리랑카",
+      "m": "[남아시아·중앙아시아] 스리자야와르데네푸라코테 Sri Jayawardenepura Kotte · 최대 도시·경제 중심은 콜롬보"
+    },
+    {
+      "w": "Maldives 몰디브",
+      "m": "[남아시아·중앙아시아] 말레 Malé"
+    },
+    {
+      "w": "Afghanistan 아프가니스탄",
+      "m": "[남아시아·중앙아시아] 카불 Kabul"
+    },
+    {
+      "w": "Kazakhstan 카자흐스탄",
+      "m": "[남아시아·중앙아시아] 아스타나 Astana · 최대 도시는 알마티"
+    },
+    {
+      "w": "Uzbekistan 우즈베키스탄",
+      "m": "[남아시아·중앙아시아] 타슈켄트 Tashkent"
+    },
+    {
+      "w": "Turkmenistan 투르크메니스탄",
+      "m": "[남아시아·중앙아시아] 아시가바트 Ashgabat"
+    },
+    {
+      "w": "Kyrgyzstan 키르기스스탄",
+      "m": "[남아시아·중앙아시아] 비슈케크 Bishkek"
+    },
+    {
+      "w": "Tajikistan 타지키스탄",
+      "m": "[남아시아·중앙아시아] 두샨베 Dushanbe"
+    },
+    {
+      "w": "Turkey 튀르키예(터키)",
+      "m": "[서아시아(중동)] 앙카라 Ankara · 최대 도시는 이스탄불"
+    },
+    {
+      "w": "Iran 이란",
+      "m": "[서아시아(중동)] 테헤란 Tehran"
+    },
+    {
+      "w": "Iraq 이라크",
+      "m": "[서아시아(중동)] 바그다드 Baghdad"
+    },
+    {
+      "w": "Syria 시리아",
+      "m": "[서아시아(중동)] 다마스쿠스 Damascus"
+    },
+    {
+      "w": "Lebanon 레바논",
+      "m": "[서아시아(중동)] 베이루트 Beirut"
+    },
+    {
+      "w": "Israel 이스라엘",
+      "m": "[서아시아(중동)] 예루살렘 Jerusalem · 국제적으로 논쟁 중, 대사관 다수는 텔아비브"
+    },
+    {
+      "w": "Palestine 팔레스타인",
+      "m": "[서아시아(중동)] 라말라 Ramallah · 행정 중심지, UN 옵서버"
+    },
+    {
+      "w": "Jordan 요르단",
+      "m": "[서아시아(중동)] 암만 Amman"
+    },
+    {
+      "w": "Saudi Arabia 사우디아라비아",
+      "m": "[서아시아(중동)] 리야드 Riyadh"
+    },
+    {
+      "w": "Yemen 예멘",
+      "m": "[서아시아(중동)] 사나 Sanaa"
+    },
+    {
+      "w": "Oman 오만",
+      "m": "[서아시아(중동)] 무스카트 Muscat"
+    },
+    {
+      "w": "United Arab Emirates 아랍에미리트",
+      "m": "[서아시아(중동)] 아부다비 Abu Dhabi · 최대 도시는 두바이"
+    },
+    {
+      "w": "Qatar 카타르",
+      "m": "[서아시아(중동)] 도하 Doha"
+    },
+    {
+      "w": "Bahrain 바레인",
+      "m": "[서아시아(중동)] 마나마 Manama"
+    },
+    {
+      "w": "Kuwait 쿠웨이트",
+      "m": "[서아시아(중동)] □시티 □ City"
+    },
+    {
+      "w": "Georgia 조지아",
+      "m": "[서아시아(중동)] 트빌리시 Tbilisi"
+    },
+    {
+      "w": "Armenia 아르메니아",
+      "m": "[서아시아(중동)] 예레반 Yerevan"
+    },
+    {
+      "w": "Azerbaijan 아제르바이잔",
+      "m": "[서아시아(중동)] 바쿠 Baku"
+    },
+    {
+      "w": "Cyprus 키프로스",
+      "m": "[서아시아(중동)] 니코시아 Nicosia"
+    },
+    {
+      "w": "United Kingdom 영국",
+      "m": "[서유럽·북유럽] 런던 London"
+    },
+    {
+      "w": "Ireland 아일랜드",
+      "m": "[서유럽·북유럽] 더블린 Dublin"
+    },
+    {
+      "w": "France 프랑스",
+      "m": "[서유럽·북유럽] 파리 Paris"
+    },
+    {
+      "w": "Germany 독일",
+      "m": "[서유럽·북유럽] 베를린 Berlin"
+    },
+    {
+      "w": "Netherlands 네덜란드",
+      "m": "[서유럽·북유럽] 암스테르담 Amsterdam · 정부·의회는 헤이그"
+    },
+    {
+      "w": "Belgium 벨기에",
+      "m": "[서유럽·북유럽] 브뤼셀 Brussels · EU 본부 소재"
+    },
+    {
+      "w": "Luxembourg 룩셈부르크",
+      "m": "[서유럽·북유럽] 수도 이름이 나라 이름과 같음"
+    },
+    {
+      "w": "Switzerland 스위스",
+      "m": "[서유럽·북유럽] 베른 Bern · 최대 도시는 취리히"
+    },
+    {
+      "w": "Austria 오스트리아",
+      "m": "[서유럽·북유럽] 빈 Vienna"
+    },
+    {
+      "w": "Liechtenstein 리히텐슈타인",
+      "m": "[서유럽·북유럽] 파두츠 Vaduz"
+    },
+    {
+      "w": "Monaco 모나코",
+      "m": "[서유럽·북유럽] 수도 이름이 나라 이름과 같음 · 도시국가"
+    },
+    {
+      "w": "Denmark 덴마크",
+      "m": "[서유럽·북유럽] 코펜하겐 Copenhagen"
+    },
+    {
+      "w": "Norway 노르웨이",
+      "m": "[서유럽·북유럽] 오슬로 Oslo"
+    },
+    {
+      "w": "Sweden 스웨덴",
+      "m": "[서유럽·북유럽] 스톡홀름 Stockholm"
+    },
+    {
+      "w": "Finland 핀란드",
+      "m": "[서유럽·북유럽] 헬싱키 Helsinki"
+    },
+    {
+      "w": "Iceland 아이슬란드",
+      "m": "[서유럽·북유럽] 레이캬비크 Reykjavik · 세계 최북단 수도"
+    },
+    {
+      "w": "Spain 스페인",
+      "m": "[남유럽] 마드리드 Madrid"
+    },
+    {
+      "w": "Portugal 포르투갈",
+      "m": "[남유럽] 리스본 Lisbon"
+    },
+    {
+      "w": "Italy 이탈리아",
+      "m": "[남유럽] 로마 Rome"
+    },
+    {
+      "w": "Vatican City 바티칸 시국",
+      "m": "[남유럽] 바티칸 Vatican · 세계 최소 국가, UN 옵서버"
+    },
+    {
+      "w": "San Marino 산마리노",
+      "m": "[남유럽] 수도 이름이 나라 이름과 같음"
+    },
+    {
+      "w": "Malta 몰타",
+      "m": "[남유럽] 발레타 Valletta"
+    },
+    {
+      "w": "Andorra 안도라",
+      "m": "[남유럽] □라베야 □ la Vella"
+    },
+    {
+      "w": "Greece 그리스",
+      "m": "[남유럽] 아테네 Athens"
+    },
+    {
+      "w": "Slovenia 슬로베니아",
+      "m": "[남유럽] 류블랴나 Ljubljana"
+    },
+    {
+      "w": "Croatia 크로아티아",
+      "m": "[남유럽] 자그레브 Zagreb"
+    },
+    {
+      "w": "Bosnia and Herzegovina 보스니아 헤르체고비나",
+      "m": "[남유럽] 사라예보 Sarajevo"
+    },
+    {
+      "w": "Serbia 세르비아",
+      "m": "[남유럽] 베오그라드 Belgrade"
+    },
+    {
+      "w": "Montenegro 몬테네그로",
+      "m": "[남유럽] 포드고리차 Podgorica"
+    },
+    {
+      "w": "Kosovo 코소보",
+      "m": "[남유럽] 프리슈티나 Pristina · UN 비회원"
+    },
+    {
+      "w": "North Macedonia 북마케도니아",
+      "m": "[남유럽] 스코페 Skopje"
+    },
+    {
+      "w": "Albania 알바니아",
+      "m": "[남유럽] 티라나 Tirana"
+    },
+    {
+      "w": "Bulgaria 불가리아",
+      "m": "[남유럽] 소피아 Sofia"
+    },
+    {
+      "w": "Russia 러시아",
+      "m": "[동유럽] 모스크바 Moscow"
+    },
+    {
+      "w": "Ukraine 우크라이나",
+      "m": "[동유럽] 키이우(키예프) Kyiv"
+    },
+    {
+      "w": "Belarus 벨라루스",
+      "m": "[동유럽] 민스크 Minsk"
+    },
+    {
+      "w": "Poland 폴란드",
+      "m": "[동유럽] 바르샤바 Warsaw"
+    },
+    {
+      "w": "Czech Republic 체코",
+      "m": "[동유럽] 프라하 Prague"
+    },
+    {
+      "w": "Slovakia 슬로바키아",
+      "m": "[동유럽] 브라티슬라바 Bratislava"
+    },
+    {
+      "w": "Hungary 헝가리",
+      "m": "[동유럽] 부다페스트 Budapest"
+    },
+    {
+      "w": "Romania 루마니아",
+      "m": "[동유럽] 부쿠레슈티 Bucharest"
+    },
+    {
+      "w": "Moldova 몰도바",
+      "m": "[동유럽] 키시너우 Chișinău"
+    },
+    {
+      "w": "Lithuania 리투아니아",
+      "m": "[동유럽] 빌뉴스 Vilnius"
+    },
+    {
+      "w": "Latvia 라트비아",
+      "m": "[동유럽] 리가 Riga"
+    },
+    {
+      "w": "Estonia 에스토니아",
+      "m": "[동유럽] 탈린 Tallinn"
+    },
+    {
+      "w": "Egypt 이집트",
+      "m": "[북아프리카·서아프리카] 카이로 Cairo"
+    },
+    {
+      "w": "Libya 리비아",
+      "m": "[북아프리카·서아프리카] 트리폴리 Tripoli"
+    },
+    {
+      "w": "Tunisia 튀니지",
+      "m": "[북아프리카·서아프리카] 튀니스 Tunis"
+    },
+    {
+      "w": "Algeria 알제리",
+      "m": "[북아프리카·서아프리카] 알제 Algiers"
+    },
+    {
+      "w": "Morocco 모로코",
+      "m": "[북아프리카·서아프리카] 라바트 Rabat · 최대 도시는 카사블랑카"
+    },
+    {
+      "w": "Sudan 수단",
+      "m": "[북아프리카·서아프리카] 하르툼 Khartoum"
+    },
+    {
+      "w": "Mauritania 모리타니",
+      "m": "[북아프리카·서아프리카] 누악쇼트 Nouakchott"
+    },
+    {
+      "w": "Mali 말리",
+      "m": "[북아프리카·서아프리카] 바마코 Bamako"
+    },
+    {
+      "w": "Niger 니제르",
+      "m": "[북아프리카·서아프리카] 니아메 Niamey"
+    },
+    {
+      "w": "Senegal 세네갈",
+      "m": "[북아프리카·서아프리카] 다카르 Dakar"
+    },
+    {
+      "w": "Gambia 감비아",
+      "m": "[북아프리카·서아프리카] 반줄 Banjul"
+    },
+    {
+      "w": "Guinea-Bissau 기니비사우",
+      "m": "[북아프리카·서아프리카] 비사우 Bissau"
+    },
+    {
+      "w": "Guinea 기니",
+      "m": "[북아프리카·서아프리카] 코나크리 Conakry"
+    },
+    {
+      "w": "Sierra Leone 시에라리온",
+      "m": "[북아프리카·서아프리카] 프리타운 Freetown"
+    },
+    {
+      "w": "Liberia 라이베리아",
+      "m": "[북아프리카·서아프리카] 몬로비아 Monrovia"
+    },
+    {
+      "w": "Ivory Coast 코트디부아르",
+      "m": "[북아프리카·서아프리카] 야무수크로 Yamoussoukro · 최대 도시·경제 중심은 아비장"
+    },
+    {
+      "w": "Ghana 가나",
+      "m": "[북아프리카·서아프리카] 아크라 Accra"
+    },
+    {
+      "w": "Togo 토고",
+      "m": "[북아프리카·서아프리카] 로메 Lomé"
+    },
+    {
+      "w": "Benin 베냉",
+      "m": "[북아프리카·서아프리카] 포르토노보 Porto-Novo · 정부 소재지는 코토누"
+    },
+    {
+      "w": "Burkina Faso 부르키나파소",
+      "m": "[북아프리카·서아프리카] 와가두구 Ouagadougou"
+    },
+    {
+      "w": "Nigeria 나이지리아",
+      "m": "[북아프리카·서아프리카] 아부자 Abuja · 최대 도시는 라고스"
+    },
+    {
+      "w": "Cape Verde 카보베르데",
+      "m": "[북아프리카·서아프리카] 프라이아 Praia"
+    },
+    {
+      "w": "Chad 차드",
+      "m": "[중앙아프리카·동아프리카] 은자메나 N'Djamena"
+    },
+    {
+      "w": "Cameroon 카메룬",
+      "m": "[중앙아프리카·동아프리카] 야운데 Yaoundé · 최대 도시는 두알라"
+    },
+    {
+      "w": "Central African Republic 중앙아프리카공화국",
+      "m": "[중앙아프리카·동아프리카] 방기 Bangui"
+    },
+    {
+      "w": "Equatorial Guinea 적도 기니",
+      "m": "[중앙아프리카·동아프리카] 말라보 Malabo"
+    },
+    {
+      "w": "Gabon 가봉",
+      "m": "[중앙아프리카·동아프리카] 리브르빌 Libreville"
+    },
+    {
+      "w": "Republic of the Congo 콩고 공화국",
+      "m": "[중앙아프리카·동아프리카] 브라자빌 Brazzaville"
+    },
+    {
+      "w": "Democratic Republic of the Congo 콩고 민주공화국",
+      "m": "[중앙아프리카·동아프리카] 킨샤사 Kinshasa · 아프리카 최대 도시권 중 하나"
+    },
+    {
+      "w": "São Tomé and Príncipe 상투메 프린시페",
+      "m": "[중앙아프리카·동아프리카] 상투메 São Tomé"
+    },
+    {
+      "w": "South Sudan 남수단",
+      "m": "[중앙아프리카·동아프리카] 주바 Juba · 2011년 독립"
+    },
+    {
+      "w": "Ethiopia 에티오피아",
+      "m": "[중앙아프리카·동아프리카] 아디스아바바 Addis Ababa · 아프리카연합 본부 소재"
+    },
+    {
+      "w": "Eritrea 에리트레아",
+      "m": "[중앙아프리카·동아프리카] 아스마라 Asmara"
+    },
+    {
+      "w": "Djibouti 지부티",
+      "m": "[중앙아프리카·동아프리카] 수도 이름이 나라 이름과 같음"
+    },
+    {
+      "w": "Somalia 소말리아",
+      "m": "[중앙아프리카·동아프리카] 모가디슈 Mogadishu"
+    },
+    {
+      "w": "Kenya 케냐",
+      "m": "[중앙아프리카·동아프리카] 나이로비 Nairobi"
+    },
+    {
+      "w": "Uganda 우간다",
+      "m": "[중앙아프리카·동아프리카] 캄팔라 Kampala"
+    },
+    {
+      "w": "Rwanda 르완다",
+      "m": "[중앙아프리카·동아프리카] 키갈리 Kigali"
+    },
+    {
+      "w": "Burundi 부룬디",
+      "m": "[중앙아프리카·동아프리카] 기테가 Gitega · 2019년 부줌부라에서 이전"
+    },
+    {
+      "w": "Tanzania 탄자니아",
+      "m": "[중앙아프리카·동아프리카] 도도마 Dodoma · 최대 도시는 다르에스살람"
+    },
+    {
+      "w": "Seychelles 세이셸",
+      "m": "[중앙아프리카·동아프리카] 빅토리아 Victoria"
+    },
+    {
+      "w": "Comoros 코모로",
+      "m": "[중앙아프리카·동아프리카] 모로니 Moroni"
+    },
+    {
+      "w": "Madagascar 마다가스카르",
+      "m": "[중앙아프리카·동아프리카] 안타나나리보 Antananarivo"
+    },
+    {
+      "w": "Mauritius 모리셔스",
+      "m": "[중앙아프리카·동아프리카] 포트루이스 Port Louis"
+    },
+    {
+      "w": "South Africa 남아프리카공화국",
+      "m": "[남부 아프리카] 프리토리아 Pretoria · 행정수도 / 입법수도 케이프타운, 사법수도 블룸폰테인"
+    },
+    {
+      "w": "Namibia 나미비아",
+      "m": "[남부 아프리카] 빈트후크 Windhoek"
+    },
+    {
+      "w": "Botswana 보츠와나",
+      "m": "[남부 아프리카] 가보로네 Gaborone"
+    },
+    {
+      "w": "Zimbabwe 짐바브웨",
+      "m": "[남부 아프리카] 하라레 Harare"
+    },
+    {
+      "w": "Zambia 잠비아",
+      "m": "[남부 아프리카] 루사카 Lusaka"
+    },
+    {
+      "w": "Malawi 말라위",
+      "m": "[남부 아프리카] 릴롱궤 Lilongwe"
+    },
+    {
+      "w": "Mozambique 모잠비크",
+      "m": "[남부 아프리카] 마푸투 Maputo"
+    },
+    {
+      "w": "Angola 앙골라",
+      "m": "[남부 아프리카] 루안다 Luanda"
+    },
+    {
+      "w": "Eswatini 에스와티니(스와질란드)",
+      "m": "[남부 아프리카] 음바바네 Mbabane · 행정수도 / 입법수도 로밤바"
+    },
+    {
+      "w": "Lesotho 레소토",
+      "m": "[남부 아프리카] 마세루 Maseru"
+    },
+    {
+      "w": "United States 미국",
+      "m": "[북아메리카·중앙아메리카] 워싱턴 D.C. Washington, D.C. · 최대 도시는 뉴욕"
+    },
+    {
+      "w": "Canada 캐나다",
+      "m": "[북아메리카·중앙아메리카] 오타와 Ottawa · 최대 도시는 토론토"
+    },
+    {
+      "w": "Mexico 멕시코",
+      "m": "[북아메리카·중앙아메리카] □시티 □ City"
+    },
+    {
+      "w": "Guatemala 과테말라",
+      "m": "[북아메리카·중앙아메리카] □시티 □ City"
+    },
+    {
+      "w": "Belize 벨리즈",
+      "m": "[북아메리카·중앙아메리카] 벨모판 Belmopan"
+    },
+    {
+      "w": "Honduras 온두라스",
+      "m": "[북아메리카·중앙아메리카] 테구시갈파 Tegucigalpa"
+    },
+    {
+      "w": "El Salvador 엘살바도르",
+      "m": "[북아메리카·중앙아메리카] 산살바도르 San Salvador"
+    },
+    {
+      "w": "Nicaragua 니카라과",
+      "m": "[북아메리카·중앙아메리카] 마나과 Managua"
+    },
+    {
+      "w": "Costa Rica 코스타리카",
+      "m": "[북아메리카·중앙아메리카] 산호세 San José"
+    },
+    {
+      "w": "Panama 파나마",
+      "m": "[북아메리카·중앙아메리카] □시티 □ City"
+    },
+    {
+      "w": "Cuba 쿠바",
+      "m": "[카리브해] 아바나 Havana"
+    },
+    {
+      "w": "Jamaica 자메이카",
+      "m": "[카리브해] 킹스턴 Kingston"
+    },
+    {
+      "w": "Haiti 아이티",
+      "m": "[카리브해] 포르토프랭스 Port-au-Prince"
+    },
+    {
+      "w": "Dominican Republic 도미니카 공화국",
+      "m": "[카리브해] 산토도밍고 Santo Domingo"
+    },
+    {
+      "w": "Bahamas 바하마",
+      "m": "[카리브해] 나소 Nassau"
+    },
+    {
+      "w": "Barbados 바베이도스",
+      "m": "[카리브해] 브리지타운 Bridgetown"
+    },
+    {
+      "w": "Trinidad and Tobago 트리니다드 토바고",
+      "m": "[카리브해] 포트오브스페인 Port of Spain"
+    },
+    {
+      "w": "Saint Lucia 세인트루시아",
+      "m": "[카리브해] 캐스트리스 Castries"
+    },
+    {
+      "w": "Grenada 그레나다",
+      "m": "[카리브해] 세인트조지스 St. George's"
+    },
+    {
+      "w": "Saint Vincent and the Grenadines 세인트빈센트 그레나딘",
+      "m": "[카리브해] 킹스타운 Kingstown"
+    },
+    {
+      "w": "Antigua and Barbuda 앤티가 바부다",
+      "m": "[카리브해] 세인트존스 St. John's"
+    },
+    {
+      "w": "Saint Kitts and Nevis 세인트키츠 네비스",
+      "m": "[카리브해] 바스테르 Basseterre"
+    },
+    {
+      "w": "Dominica 도미니카 연방",
+      "m": "[카리브해] 로조 Roseau"
+    },
+    {
+      "w": "Brazil 브라질",
+      "m": "[남아메리카] □리아 Brasília · 최대 도시는 상파울루"
+    },
+    {
+      "w": "Argentina 아르헨티나",
+      "m": "[남아메리카] 부에노스아이레스 Buenos Aires"
+    },
+    {
+      "w": "Chile 칠레",
+      "m": "[남아메리카] 산티아고 Santiago · 입법부는 발파라이소"
+    },
+    {
+      "w": "Peru 페루",
+      "m": "[남아메리카] 리마 Lima"
+    },
+    {
+      "w": "Colombia 콜롬비아",
+      "m": "[남아메리카] 보고타 Bogotá"
+    },
+    {
+      "w": "Venezuela 베네수엘라",
+      "m": "[남아메리카] 카라카스 Caracas"
+    },
+    {
+      "w": "Ecuador 에콰도르",
+      "m": "[남아메리카] 키토 Quito · 최대 도시는 과야킬"
+    },
+    {
+      "w": "Bolivia 볼리비아",
+      "m": "[남아메리카] 수크레 Sucre · 헌법상 수도 / 정부 소재지는 라파스"
+    },
+    {
+      "w": "Paraguay 파라과이",
+      "m": "[남아메리카] 아순시온 Asunción"
+    },
+    {
+      "w": "Uruguay 우루과이",
+      "m": "[남아메리카] 몬테비데오 Montevideo"
+    },
+    {
+      "w": "Guyana 가이아나",
+      "m": "[남아메리카] 조지타운 Georgetown"
+    },
+    {
+      "w": "Suriname 수리남",
+      "m": "[남아메리카] 파라마리보 Paramaribo"
+    },
+    {
+      "w": "Australia 호주",
+      "m": "[오세아니아] 캔버라 Canberra · 최대 도시는 시드니"
+    },
+    {
+      "w": "New Zealand 뉴질랜드",
+      "m": "[오세아니아] 웰링턴 Wellington · 최대 도시는 오클랜드"
+    },
+    {
+      "w": "Papua New Guinea 파푸아뉴기니",
+      "m": "[오세아니아] 포트모르즈비 Port Moresby"
+    },
+    {
+      "w": "Fiji 피지",
+      "m": "[오세아니아] 수바 Suva"
+    },
+    {
+      "w": "Solomon Islands 솔로몬 제도",
+      "m": "[오세아니아] 호니아라 Honiara"
+    },
+    {
+      "w": "Vanuatu 바누아투",
+      "m": "[오세아니아] 포트빌라 Port Vila"
+    },
+    {
+      "w": "Samoa 사모아",
+      "m": "[오세아니아] 아피아 Apia"
+    },
+    {
+      "w": "Tonga 통가",
+      "m": "[오세아니아] 누쿠알로파 Nuku'alofa"
+    },
+    {
+      "w": "Kiribati 키리바시",
+      "m": "[오세아니아] 타라와 Tarawa"
+    },
+    {
+      "w": "Tuvalu 투발루",
+      "m": "[오세아니아] 푸나푸티 Funafuti"
+    },
+    {
+      "w": "Nauru 나우루",
+      "m": "[오세아니아] 야렌 Yaren · 공식 수도 없음, 야렌이 행정 중심지"
+    },
+    {
+      "w": "Marshall Islands 마셜 제도",
+      "m": "[오세아니아] 마주로 Majuro"
+    },
+    {
+      "w": "Micronesia 미크로네시아 연방",
+      "m": "[오세아니아] 팔리키르 Palikir"
+    },
+    {
+      "w": "Palau 팔라우",
+      "m": "[오세아니아] 응게룰무드 Ngerulmud"
+    }
+  ]
+}
