@@ -112,6 +112,13 @@
     "category": "영단어 - 시험대비"
   },
   {
+    "file": "fill_in_blank_sat_grammar_150.json",
+    "name": "수능 어법 빈칸 150",
+    "description": "수능 영어 어법 유형의 빈칸 150문제. 수일치, 능동·수동, 시제, 관계사, 분사·분사구문, to부정사·동명사, 병렬구조, 가정법, 접속사 vs 전치사, 형용사·부사, 대명사, 도치·강조, 사역·지각동사. 해설과 핵심 단서 포함",
+    "wordCount": 150,
+    "category": "영단어 - 시험대비"
+  },
+  {
     "file": "toeic_2000.json",
     "name": "토익 필수 영단어 2000",
     "description": "TOEIC 시험 필수 영단어 2000개",
