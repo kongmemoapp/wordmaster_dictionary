@@ -1,0 +1,1206 @@
+{
+  "name": "어원으로 외우는 영단어 300",
+  "description": "접두사 20종(un-, dis-, re-, pre-, ex-, inter-, trans-, sub-, over-, auto- 등), 접미사 14종(-er, -tion, -ment, -ness, -ful/-less, -able, -ous/-ive, -ize 등), 어근 24종(spect, vis, dict, port, duct, ject, mit, struct, form, cept, tract, cred, fact, gen, vit 등)별로 묶은 영단어 300개. 뜻과 함께 어원 분해(un 아닌 + happy 행복한)를 제시해 모르는 단어도 추론할 수 있게 함",
+  "words": [
+    {
+      "w": "unhappy",
+      "m": "[접두사 un- 부정·반대] 불행한 · un(아닌) + happy(행복한)"
+    },
+    {
+      "w": "unknown",
+      "m": "[접두사 un- 부정·반대] 알려지지 않은 · un + known(알려진)"
+    },
+    {
+      "w": "unusual",
+      "m": "[접두사 un- 부정·반대] 흔치 않은, 특이한 · un + usual(보통의)"
+    },
+    {
+      "w": "unlock",
+      "m": "[접두사 un- 부정·반대] 잠금을 풀다 · un(반대로) + lock(잠그다)"
+    },
+    {
+      "w": "unable",
+      "m": "[접두사 un- 부정·반대] 할 수 없는 · un + able(할 수 있는)"
+    },
+    {
+      "w": "unfair",
+      "m": "[접두사 un- 부정·반대] 불공평한 · un + fair(공평한)"
+    },
+    {
+      "w": "invisible",
+      "m": "[접두사 in-/im-/il-/ir- 부정] 보이지 않는 · in(아닌) + visible(보이는)"
+    },
+    {
+      "w": "incorrect",
+      "m": "[접두사 in-/im-/il-/ir- 부정] 틀린 · in + correct(옳은)"
+    },
+    {
+      "w": "impossible",
+      "m": "[접두사 in-/im-/il-/ir- 부정] 불가능한 · im + possible(가능한)"
+    },
+    {
+      "w": "impolite",
+      "m": "[접두사 in-/im-/il-/ir- 부정] 무례한 · im + polite(예의 바른)"
+    },
+    {
+      "w": "illegal",
+      "m": "[접두사 in-/im-/il-/ir- 부정] 불법의 · il + legal(합법의)"
+    },
+    {
+      "w": "irregular",
+      "m": "[접두사 in-/im-/il-/ir- 부정] 불규칙한 · ir + regular(규칙적인)"
+    },
+    {
+      "w": "independent",
+      "m": "[접두사 in-/im-/il-/ir- 부정] 독립적인 · in + dependent(의존하는)"
+    },
+    {
+      "w": "informal",
+      "m": "[접두사 in-/im-/il-/ir- 부정] 격식 없는 · in + formal(격식의)"
+    },
+    {
+      "w": "disagree",
+      "m": "[접두사 dis- 부정·분리] 동의하지 않다 · dis(아닌) + agree(동의하다)"
+    },
+    {
+      "w": "dislike",
+      "m": "[접두사 dis- 부정·분리] 싫어하다 · dis + like(좋아하다)"
+    },
+    {
+      "w": "disappear",
+      "m": "[접두사 dis- 부정·분리] 사라지다 · dis(반대) + appear(나타나다)"
+    },
+    {
+      "w": "dishonest",
+      "m": "[접두사 dis- 부정·분리] 정직하지 않은 · dis + honest(정직한)"
+    },
+    {
+      "w": "discover",
+      "m": "[접두사 dis- 부정·분리] 발견하다 · dis(벗기다) + cover(덮다)"
+    },
+    {
+      "w": "disconnect",
+      "m": "[접두사 dis- 부정·분리] 연결을 끊다 · dis + connect(연결하다)"
+    },
+    {
+      "w": "nonsense",
+      "m": "[접두사 non- 아님] 말도 안 되는 소리 · non(아닌) + sense(의미)"
+    },
+    {
+      "w": "nonstop",
+      "m": "[접두사 non- 아님] 쉬지 않는, 직행의 · non + stop(멈춤)"
+    },
+    {
+      "w": "nonfiction",
+      "m": "[접두사 non- 아님] 논픽션, 실화 문학 · non + fiction(허구)"
+    },
+    {
+      "w": "nonprofit",
+      "m": "[접두사 non- 아님] 비영리의 · non + profit(이익)"
+    },
+    {
+      "w": "mistake",
+      "m": "[접두사 mis- 잘못] 실수 · mis(잘못) + take(취하다)"
+    },
+    {
+      "w": "misunderstand",
+      "m": "[접두사 mis- 잘못] 오해하다 · mis + understand(이해하다)"
+    },
+    {
+      "w": "mislead",
+      "m": "[접두사 mis- 잘못] 잘못 이끌다, 오도하다 · mis + lead(이끌다)"
+    },
+    {
+      "w": "misspell",
+      "m": "[접두사 mis- 잘못] 철자를 잘못 쓰다 · mis + spell(철자를 쓰다)"
+    },
+    {
+      "w": "misuse",
+      "m": "[접두사 mis- 잘못] 오용하다 · mis + use(사용하다)"
+    },
+    {
+      "w": "return",
+      "m": "[접두사 re- 다시·뒤로] 돌아오다 · re(뒤로) + turn(돌다)"
+    },
+    {
+      "w": "rebuild",
+      "m": "[접두사 re- 다시·뒤로] 다시 짓다 · re(다시) + build(짓다)"
+    },
+    {
+      "w": "review",
+      "m": "[접두사 re- 다시·뒤로] 복습하다, 검토하다 · re + view(보다)"
+    },
+    {
+      "w": "recycle",
+      "m": "[접두사 re- 다시·뒤로] 재활용하다 · re + cycle(순환)"
+    },
+    {
+      "w": "replay",
+      "m": "[접두사 re- 다시·뒤로] 다시 재생하다 · re + play(재생하다)"
+    },
+    {
+      "w": "rewrite",
+      "m": "[접두사 re- 다시·뒤로] 다시 쓰다 · re + write(쓰다)"
+    },
+    {
+      "w": "recover",
+      "m": "[접두사 re- 다시·뒤로] 회복하다 · re(다시) + cover(덮다, 얻다)"
+    },
+    {
+      "w": "refresh",
+      "m": "[접두사 re- 다시·뒤로] 새롭게 하다, 상쾌하게 하다 · re + fresh(신선한)"
+    },
+    {
+      "w": "preview",
+      "m": "[접두사 pre- 미리·앞] 미리 보기 · pre(미리) + view(보다)"
+    },
+    {
+      "w": "predict",
+      "m": "[접두사 pre- 미리·앞] 예측하다 · pre + dict(말하다)"
+    },
+    {
+      "w": "prepare",
+      "m": "[접두사 pre- 미리·앞] 준비하다 · pre + pare(정돈하다)"
+    },
+    {
+      "w": "prevent",
+      "m": "[접두사 pre- 미리·앞] 막다, 예방하다 · pre(앞서) + vent(오다)"
+    },
+    {
+      "w": "prehistoric",
+      "m": "[접두사 pre- 미리·앞] 선사 시대의 · pre + historic(역사의)"
+    },
+    {
+      "w": "preschool",
+      "m": "[접두사 pre- 미리·앞] 유치원, 취학 전의 · pre + school(학교)"
+    },
+    {
+      "w": "postpone",
+      "m": "[접두사 post- 뒤·후] 연기하다 · post(뒤에) + pone(놓다)"
+    },
+    {
+      "w": "postwar",
+      "m": "[접두사 post- 뒤·후] 전후의 · post + war(전쟁)"
+    },
+    {
+      "w": "postscript",
+      "m": "[접두사 post- 뒤·후] 추신(P.S.) · post + script(쓴 것)"
+    },
+    {
+      "w": "postgraduate",
+      "m": "[접두사 post- 뒤·후] 대학원생, 대학원의 · post + graduate(졸업)"
+    },
+    {
+      "w": "antibody",
+      "m": "[접두사 anti- 반대·대항] 항체 · anti(대항) + body(몸, 물질)"
+    },
+    {
+      "w": "antisocial",
+      "m": "[접두사 anti- 반대·대항] 반사회적인 · anti + social(사회의)"
+    },
+    {
+      "w": "antiwar",
+      "m": "[접두사 anti- 반대·대항] 반전의 · anti + war(전쟁)"
+    },
+    {
+      "w": "antibiotic",
+      "m": "[접두사 anti- 반대·대항] 항생제 · anti + bio(생명) + tic"
+    },
+    {
+      "w": "cooperate",
+      "m": "[접두사 co-/com-/con- 함께] 협력하다 · co(함께) + operate(일하다)"
+    },
+    {
+      "w": "coworker",
+      "m": "[접두사 co-/com-/con- 함께] 동료 · co + worker(일하는 사람)"
+    },
+    {
+      "w": "combine",
+      "m": "[접두사 co-/com-/con- 함께] 결합하다 · com(함께) + bine(둘)"
+    },
+    {
+      "w": "compose",
+      "m": "[접두사 co-/com-/con- 함께] 구성하다, 작곡하다 · com + pose(놓다)"
+    },
+    {
+      "w": "connect",
+      "m": "[접두사 co-/com-/con- 함께] 연결하다 · con(함께) + nect(묶다)"
+    },
+    {
+      "w": "contact",
+      "m": "[접두사 co-/com-/con- 함께] 접촉, 연락 · con + tact(만지다)"
+    },
+    {
+      "w": "collect",
+      "m": "[접두사 co-/com-/con- 함께] 모으다 · col(함께) + lect(모으다)"
+    },
+    {
+      "w": "company",
+      "m": "[접두사 co-/com-/con- 함께] 회사, 동료 · com(함께) + pany(빵)"
+    },
+    {
+      "w": "exit",
+      "m": "[접두사 ex- 밖으로·이전의] 출구 · ex(밖으로) + it(가다)"
+    },
+    {
+      "w": "export",
+      "m": "[접두사 ex- 밖으로·이전의] 수출하다 · ex + port(운반하다)"
+    },
+    {
+      "w": "exclude",
+      "m": "[접두사 ex- 밖으로·이전의] 제외하다 · ex + clude(닫다)"
+    },
+    {
+      "w": "expand",
+      "m": "[접두사 ex- 밖으로·이전의] 확장하다 · ex + pand(펴다)"
+    },
+    {
+      "w": "explain",
+      "m": "[접두사 ex- 밖으로·이전의] 설명하다 · ex + plain(평평하게 하다)"
+    },
+    {
+      "w": "exhale",
+      "m": "[접두사 ex- 밖으로·이전의] 숨을 내쉬다 · ex + hale(숨 쉬다)"
+    },
+    {
+      "w": "import",
+      "m": "[접두사 in-/im- 안으로] 수입하다 · im(안으로) + port(운반하다)"
+    },
+    {
+      "w": "include",
+      "m": "[접두사 in-/im- 안으로] 포함하다 · in + clude(닫다)"
+    },
+    {
+      "w": "income",
+      "m": "[접두사 in-/im- 안으로] 수입, 소득 · in + come(들어오다)"
+    },
+    {
+      "w": "inhale",
+      "m": "[접두사 in-/im- 안으로] 숨을 들이쉬다 · in + hale(숨 쉬다)"
+    },
+    {
+      "w": "insert",
+      "m": "[접두사 in-/im- 안으로] 끼워 넣다 · in + sert(놓다)"
+    },
+    {
+      "w": "input",
+      "m": "[접두사 in-/im- 안으로] 입력 · in + put(놓다)"
+    },
+    {
+      "w": "international",
+      "m": "[접두사 inter- 사이·상호] 국제적인 · inter(사이) + national(국가의)"
+    },
+    {
+      "w": "internet",
+      "m": "[접두사 inter- 사이·상호] 인터넷 · inter + net(망)"
+    },
+    {
+      "w": "interview",
+      "m": "[접두사 inter- 사이·상호] 면접, 인터뷰 · inter + view(보다)"
+    },
+    {
+      "w": "interact",
+      "m": "[접두사 inter- 사이·상호] 상호 작용하다 · inter + act(행동하다)"
+    },
+    {
+      "w": "interrupt",
+      "m": "[접두사 inter- 사이·상호] 방해하다, 끼어들다 · inter + rupt(깨다)"
+    },
+    {
+      "w": "transport",
+      "m": "[접두사 trans- 가로질러·변화] 운송하다 · trans(건너) + port(운반하다)"
+    },
+    {
+      "w": "translate",
+      "m": "[접두사 trans- 가로질러·변화] 번역하다 · trans + late(옮기다)"
+    },
+    {
+      "w": "transform",
+      "m": "[접두사 trans- 가로질러·변화] 변형시키다 · trans + form(형태)"
+    },
+    {
+      "w": "transfer",
+      "m": "[접두사 trans- 가로질러·변화] 옮기다, 환승하다 · trans + fer(운반하다)"
+    },
+    {
+      "w": "subway",
+      "m": "[접두사 sub- 아래] 지하철 · sub(아래) + way(길)"
+    },
+    {
+      "w": "submarine",
+      "m": "[접두사 sub- 아래] 잠수함 · sub + marine(바다의)"
+    },
+    {
+      "w": "subtitle",
+      "m": "[접두사 sub- 아래] 자막, 부제 · sub + title(제목)"
+    },
+    {
+      "w": "submit",
+      "m": "[접두사 sub- 아래] 제출하다 · sub + mit(보내다)"
+    },
+    {
+      "w": "superman",
+      "m": "[접두사 super- 위·초월] 초인 · super(위에) + man(사람)"
+    },
+    {
+      "w": "supermarket",
+      "m": "[접두사 super- 위·초월] 슈퍼마켓 · super + market(시장)"
+    },
+    {
+      "w": "superior",
+      "m": "[접두사 super- 위·초월] 우수한, 상급의 · super + ior(더)"
+    },
+    {
+      "w": "supernatural",
+      "m": "[접두사 super- 위·초월] 초자연적인 · super + natural(자연의)"
+    },
+    {
+      "w": "overeat",
+      "m": "[접두사 over- 과도·위] 과식하다 · over(과도하게) + eat(먹다)"
+    },
+    {
+      "w": "oversleep",
+      "m": "[접두사 over- 과도·위] 늦잠 자다 · over + sleep(자다)"
+    },
+    {
+      "w": "overcome",
+      "m": "[접두사 over- 과도·위] 극복하다 · over(넘어) + come(오다)"
+    },
+    {
+      "w": "overseas",
+      "m": "[접두사 over- 과도·위] 해외의 · over + seas(바다)"
+    },
+    {
+      "w": "overlook",
+      "m": "[접두사 over- 과도·위] 간과하다, 내려다보다 · over + look(보다)"
+    },
+    {
+      "w": "underground",
+      "m": "[접두사 under- 아래·부족] 지하의 · under(아래) + ground(땅)"
+    },
+    {
+      "w": "underwater",
+      "m": "[접두사 under- 아래·부족] 수중의 · under + water(물)"
+    },
+    {
+      "w": "underline",
+      "m": "[접두사 under- 아래·부족] 밑줄을 치다 · under + line(선)"
+    },
+    {
+      "w": "understand",
+      "m": "[접두사 under- 아래·부족] 이해하다 · under(사이에) + stand(서다)"
+    },
+    {
+      "w": "automatic",
+      "m": "[접두사 auto- 스스로] 자동의 · auto(스스로) + matic(움직이는)"
+    },
+    {
+      "w": "autograph",
+      "m": "[접두사 auto- 스스로] 서명, 사인 · auto + graph(쓰다)"
+    },
+    {
+      "w": "autobiography",
+      "m": "[접두사 auto- 스스로] 자서전 · auto + bio(삶) + graphy(기록)"
+    },
+    {
+      "w": "automobile",
+      "m": "[접두사 auto- 스스로] 자동차 · auto + mobile(움직이는)"
+    },
+    {
+      "w": "enable",
+      "m": "[접두사 en-/em- ~하게 만들다] 할 수 있게 하다 · en(만들다) + able(할 수 있는)"
+    },
+    {
+      "w": "enrich",
+      "m": "[접두사 en-/em- ~하게 만들다] 풍부하게 하다 · en + rich(풍부한)"
+    },
+    {
+      "w": "enlarge",
+      "m": "[접두사 en-/em- ~하게 만들다] 확대하다 · en + large(큰)"
+    },
+    {
+      "w": "encourage",
+      "m": "[접두사 en-/em- ~하게 만들다] 격려하다 · en + courage(용기)"
+    },
+    {
+      "w": "empower",
+      "m": "[접두사 en-/em- ~하게 만들다] 권한을 주다 · em + power(힘)"
+    },
+    {
+      "w": "teacher",
+      "m": "[접미사 -er/-or 사람·도구] 선생님 · teach(가르치다) + er(사람)"
+    },
+    {
+      "w": "writer",
+      "m": "[접미사 -er/-or 사람·도구] 작가 · write(쓰다) + er"
+    },
+    {
+      "w": "actor",
+      "m": "[접미사 -er/-or 사람·도구] 배우 · act(연기하다) + or(사람)"
+    },
+    {
+      "w": "visitor",
+      "m": "[접미사 -er/-or 사람·도구] 방문객 · visit(방문하다) + or"
+    },
+    {
+      "w": "heater",
+      "m": "[접미사 -er/-or 사람·도구] 난방기 · heat(열) + er(도구)"
+    },
+    {
+      "w": "printer",
+      "m": "[접미사 -er/-or 사람·도구] 프린터 · print(인쇄하다) + er"
+    },
+    {
+      "w": "artist",
+      "m": "[접미사 -ist 사람·주의자] 예술가 · art(예술) + ist(사람)"
+    },
+    {
+      "w": "scientist",
+      "m": "[접미사 -ist 사람·주의자] 과학자 · science(과학) + ist"
+    },
+    {
+      "w": "pianist",
+      "m": "[접미사 -ist 사람·주의자] 피아니스트 · piano + ist"
+    },
+    {
+      "w": "tourist",
+      "m": "[접미사 -ist 사람·주의자] 관광객 · tour(여행) + ist"
+    },
+    {
+      "w": "dentist",
+      "m": "[접미사 -ist 사람·주의자] 치과의사 · dent(이) + ist"
+    },
+    {
+      "w": "action",
+      "m": "[접미사 -tion/-sion 명사(행위·상태)] 행동 · act(행동하다) + tion"
+    },
+    {
+      "w": "education",
+      "m": "[접미사 -tion/-sion 명사(행위·상태)] 교육 · educate(교육하다) + tion"
+    },
+    {
+      "w": "invention",
+      "m": "[접미사 -tion/-sion 명사(행위·상태)] 발명 · invent(발명하다) + tion"
+    },
+    {
+      "w": "decision",
+      "m": "[접미사 -tion/-sion 명사(행위·상태)] 결정 · decide(결정하다) + sion"
+    },
+    {
+      "w": "discussion",
+      "m": "[접미사 -tion/-sion 명사(행위·상태)] 토론 · discuss(토론하다) + sion"
+    },
+    {
+      "w": "celebration",
+      "m": "[접미사 -tion/-sion 명사(행위·상태)] 축하 · celebrate(축하하다) + tion"
+    },
+    {
+      "w": "pollution",
+      "m": "[접미사 -tion/-sion 명사(행위·상태)] 오염 · pollute(오염시키다) + tion"
+    },
+    {
+      "w": "collection",
+      "m": "[접미사 -tion/-sion 명사(행위·상태)] 수집, 소장품 · collect(모으다) + tion"
+    },
+    {
+      "w": "movement",
+      "m": "[접미사 -ment 명사(결과·상태)] 움직임 · move(움직이다) + ment"
+    },
+    {
+      "w": "agreement",
+      "m": "[접미사 -ment 명사(결과·상태)] 동의, 협정 · agree(동의하다) + ment"
+    },
+    {
+      "w": "development",
+      "m": "[접미사 -ment 명사(결과·상태)] 발달, 개발 · develop(발달하다) + ment"
+    },
+    {
+      "w": "government",
+      "m": "[접미사 -ment 명사(결과·상태)] 정부 · govern(통치하다) + ment"
+    },
+    {
+      "w": "excitement",
+      "m": "[접미사 -ment 명사(결과·상태)] 흥분 · excite(흥분시키다) + ment"
+    },
+    {
+      "w": "treatment",
+      "m": "[접미사 -ment 명사(결과·상태)] 치료, 대우 · treat(다루다) + ment"
+    },
+    {
+      "w": "happiness",
+      "m": "[접미사 -ness 명사(성질)] 행복 · happy(행복한) + ness"
+    },
+    {
+      "w": "kindness",
+      "m": "[접미사 -ness 명사(성질)] 친절 · kind(친절한) + ness"
+    },
+    {
+      "w": "darkness",
+      "m": "[접미사 -ness 명사(성질)] 어둠 · dark(어두운) + ness"
+    },
+    {
+      "w": "illness",
+      "m": "[접미사 -ness 명사(성질)] 질병 · ill(아픈) + ness"
+    },
+    {
+      "w": "weakness",
+      "m": "[접미사 -ness 명사(성질)] 약점 · weak(약한) + ness"
+    },
+    {
+      "w": "sadness",
+      "m": "[접미사 -ness 명사(성질)] 슬픔 · sad(슬픈) + ness"
+    },
+    {
+      "w": "ability",
+      "m": "[접미사 -ity/-ty 명사(성질)] 능력 · able(할 수 있는) + ity"
+    },
+    {
+      "w": "activity",
+      "m": "[접미사 -ity/-ty 명사(성질)] 활동 · active(활동적인) + ity"
+    },
+    {
+      "w": "reality",
+      "m": "[접미사 -ity/-ty 명사(성질)] 현실 · real(실제의) + ity"
+    },
+    {
+      "w": "safety",
+      "m": "[접미사 -ity/-ty 명사(성질)] 안전 · safe(안전한) + ty"
+    },
+    {
+      "w": "honesty",
+      "m": "[접미사 -ity/-ty 명사(성질)] 정직 · honest(정직한) + y"
+    },
+    {
+      "w": "responsibility",
+      "m": "[접미사 -ity/-ty 명사(성질)] 책임 · responsible(책임 있는) + ity"
+    },
+    {
+      "w": "importance",
+      "m": "[접미사 -ance/-ence 명사] 중요성 · important(중요한) + ance"
+    },
+    {
+      "w": "performance",
+      "m": "[접미사 -ance/-ence 명사] 공연, 수행 · perform(수행하다) + ance"
+    },
+    {
+      "w": "difference",
+      "m": "[접미사 -ance/-ence 명사] 차이 · differ(다르다) + ence"
+    },
+    {
+      "w": "existence",
+      "m": "[접미사 -ance/-ence 명사] 존재 · exist(존재하다) + ence"
+    },
+    {
+      "w": "confidence",
+      "m": "[접미사 -ance/-ence 명사] 자신감 · confide(믿다) + ence"
+    },
+    {
+      "w": "friendship",
+      "m": "[접미사 -ship/-hood/-dom 명사(상태·집단)] 우정 · friend(친구) + ship(관계)"
+    },
+    {
+      "w": "leadership",
+      "m": "[접미사 -ship/-hood/-dom 명사(상태·집단)] 지도력 · leader(지도자) + ship"
+    },
+    {
+      "w": "childhood",
+      "m": "[접미사 -ship/-hood/-dom 명사(상태·집단)] 어린 시절 · child(아이) + hood(시기)"
+    },
+    {
+      "w": "neighborhood",
+      "m": "[접미사 -ship/-hood/-dom 명사(상태·집단)] 이웃, 동네 · neighbor(이웃) + hood"
+    },
+    {
+      "w": "freedom",
+      "m": "[접미사 -ship/-hood/-dom 명사(상태·집단)] 자유 · free(자유로운) + dom(상태)"
+    },
+    {
+      "w": "kingdom",
+      "m": "[접미사 -ship/-hood/-dom 명사(상태·집단)] 왕국 · king(왕) + dom(영역)"
+    },
+    {
+      "w": "national",
+      "m": "[접미사 -al/-ial 형용사] 국가의 · nation(국가) + al"
+    },
+    {
+      "w": "natural",
+      "m": "[접미사 -al/-ial 형용사] 자연의 · nature(자연) + al"
+    },
+    {
+      "w": "musical",
+      "m": "[접미사 -al/-ial 형용사] 음악의 · music(음악) + al"
+    },
+    {
+      "w": "personal",
+      "m": "[접미사 -al/-ial 형용사] 개인의 · person(사람) + al"
+    },
+    {
+      "w": "official",
+      "m": "[접미사 -al/-ial 형용사] 공식적인 · office(관직) + ial"
+    },
+    {
+      "w": "financial",
+      "m": "[접미사 -al/-ial 형용사] 재정의 · finance(재정) + ial"
+    },
+    {
+      "w": "careful",
+      "m": "[접미사 -ful/-less 형용사(가득·없음)] 조심하는 · care(주의) + ful(가득한)"
+    },
+    {
+      "w": "useful",
+      "m": "[접미사 -ful/-less 형용사(가득·없음)] 유용한 · use(쓰임) + ful"
+    },
+    {
+      "w": "beautiful",
+      "m": "[접미사 -ful/-less 형용사(가득·없음)] 아름다운 · beauty(아름다움) + ful"
+    },
+    {
+      "w": "hopeful",
+      "m": "[접미사 -ful/-less 형용사(가득·없음)] 희망에 찬 · hope(희망) + ful"
+    },
+    {
+      "w": "careless",
+      "m": "[접미사 -ful/-less 형용사(가득·없음)] 부주의한 · care + less(없는)"
+    },
+    {
+      "w": "useless",
+      "m": "[접미사 -ful/-less 형용사(가득·없음)] 쓸모없는 · use + less"
+    },
+    {
+      "w": "hopeless",
+      "m": "[접미사 -ful/-less 형용사(가득·없음)] 희망 없는 · hope + less"
+    },
+    {
+      "w": "homeless",
+      "m": "[접미사 -ful/-less 형용사(가득·없음)] 집 없는 · home(집) + less"
+    },
+    {
+      "w": "comfortable",
+      "m": "[접미사 -able/-ible 형용사(할 수 있는)] 편안한 · comfort(위안) + able"
+    },
+    {
+      "w": "enjoyable",
+      "m": "[접미사 -able/-ible 형용사(할 수 있는)] 즐거운 · enjoy(즐기다) + able"
+    },
+    {
+      "w": "readable",
+      "m": "[접미사 -able/-ible 형용사(할 수 있는)] 읽기 쉬운 · read(읽다) + able"
+    },
+    {
+      "w": "flexible",
+      "m": "[접미사 -able/-ible 형용사(할 수 있는)] 유연한 · flex(구부리다) + ible"
+    },
+    {
+      "w": "visible",
+      "m": "[접미사 -able/-ible 형용사(할 수 있는)] 보이는 · vis(보다) + ible"
+    },
+    {
+      "w": "reliable",
+      "m": "[접미사 -able/-ible 형용사(할 수 있는)] 믿을 수 있는 · rely(의지하다) + able"
+    },
+    {
+      "w": "dangerous",
+      "m": "[접미사 -ous/-ive 형용사] 위험한 · danger(위험) + ous"
+    },
+    {
+      "w": "famous",
+      "m": "[접미사 -ous/-ive 형용사] 유명한 · fame(명성) + ous"
+    },
+    {
+      "w": "nervous",
+      "m": "[접미사 -ous/-ive 형용사] 불안한 · nerve(신경) + ous"
+    },
+    {
+      "w": "curious",
+      "m": "[접미사 -ous/-ive 형용사] 호기심 많은 · cure(관심) + ous"
+    },
+    {
+      "w": "active",
+      "m": "[접미사 -ous/-ive 형용사] 활동적인 · act(행동하다) + ive"
+    },
+    {
+      "w": "creative",
+      "m": "[접미사 -ous/-ive 형용사] 창의적인 · create(창조하다) + ive"
+    },
+    {
+      "w": "expensive",
+      "m": "[접미사 -ous/-ive 형용사] 값비싼 · expense(비용) + ive"
+    },
+    {
+      "w": "attractive",
+      "m": "[접미사 -ous/-ive 형용사] 매력적인 · attract(끌다) + ive"
+    },
+    {
+      "w": "quickly",
+      "m": "[접미사 -ly 부사] 빨리 · quick(빠른) + ly"
+    },
+    {
+      "w": "carefully",
+      "m": "[접미사 -ly 부사] 조심스럽게 · careful(조심하는) + ly"
+    },
+    {
+      "w": "happily",
+      "m": "[접미사 -ly 부사] 행복하게 · happy(행복한) + ly"
+    },
+    {
+      "w": "finally",
+      "m": "[접미사 -ly 부사] 마침내 · final(마지막의) + ly"
+    },
+    {
+      "w": "suddenly",
+      "m": "[접미사 -ly 부사] 갑자기 · sudden(갑작스러운) + ly"
+    },
+    {
+      "w": "realize",
+      "m": "[접미사 -ize/-ify/-en 동사(~하게 하다)] 깨닫다, 실현하다 · real(실제의) + ize"
+    },
+    {
+      "w": "memorize",
+      "m": "[접미사 -ize/-ify/-en 동사(~하게 하다)] 암기하다 · memory(기억) + ize"
+    },
+    {
+      "w": "apologize",
+      "m": "[접미사 -ize/-ify/-en 동사(~하게 하다)] 사과하다 · apology(사과) + ize"
+    },
+    {
+      "w": "simplify",
+      "m": "[접미사 -ize/-ify/-en 동사(~하게 하다)] 단순화하다 · simple(단순한) + ify"
+    },
+    {
+      "w": "classify",
+      "m": "[접미사 -ize/-ify/-en 동사(~하게 하다)] 분류하다 · class(부류) + ify"
+    },
+    {
+      "w": "widen",
+      "m": "[접미사 -ize/-ify/-en 동사(~하게 하다)] 넓히다 · wide(넓은) + en"
+    },
+    {
+      "w": "shorten",
+      "m": "[접미사 -ize/-ify/-en 동사(~하게 하다)] 짧게 하다 · short(짧은) + en"
+    },
+    {
+      "w": "strengthen",
+      "m": "[접미사 -ize/-ify/-en 동사(~하게 하다)] 강화하다 · strength(힘) + en"
+    },
+    {
+      "w": "inspect",
+      "m": "[어근 spect 보다] 조사하다 · in(안을) + spect(보다)"
+    },
+    {
+      "w": "respect",
+      "m": "[어근 spect 보다] 존경하다 · re(다시) + spect"
+    },
+    {
+      "w": "expect",
+      "m": "[어근 spect 보다] 기대하다 · ex(밖을) + spect"
+    },
+    {
+      "w": "spectator",
+      "m": "[어근 spect 보다] 관중 · spect + ator(사람)"
+    },
+    {
+      "w": "prospect",
+      "m": "[어근 spect 보다] 전망 · pro(앞을) + spect"
+    },
+    {
+      "w": "vision",
+      "m": "[어근 vis/vid 보다] 시력, 시야 · vis(보다) + ion"
+    },
+    {
+      "w": "visit",
+      "m": "[어근 vis/vid 보다] 방문하다 · vis + it(가다)"
+    },
+    {
+      "w": "evidence",
+      "m": "[어근 vis/vid 보다] 증거 · e(밖으로) + vid(보이다) + ence"
+    },
+    {
+      "w": "video",
+      "m": "[어근 vis/vid 보다] 영상 · vid + eo"
+    },
+    {
+      "w": "provide",
+      "m": "[어근 vis/vid 보다] 제공하다 · pro(앞서) + vide(보다)"
+    },
+    {
+      "w": "dictionary",
+      "m": "[어근 dict 말하다] 사전 · dict(말) + ionary"
+    },
+    {
+      "w": "dictate",
+      "m": "[어근 dict 말하다] 받아쓰게 하다, 지시하다 · dict + ate"
+    },
+    {
+      "w": "contradict",
+      "m": "[어근 dict 말하다] 반박하다 · contra(반대) + dict"
+    },
+    {
+      "w": "verdict",
+      "m": "[어근 dict 말하다] 판결 · ver(진실) + dict"
+    },
+    {
+      "w": "portable",
+      "m": "[어근 port 운반하다] 휴대할 수 있는 · port(운반) + able"
+    },
+    {
+      "w": "report",
+      "m": "[어근 port 운반하다] 보고하다 · re(뒤로) + port"
+    },
+    {
+      "w": "support",
+      "m": "[어근 port 운반하다] 지지하다 · sup(아래서) + port"
+    },
+    {
+      "w": "passport",
+      "m": "[어근 port 운반하다] 여권 · pass(통과) + port(항구)"
+    },
+    {
+      "w": "conduct",
+      "m": "[어근 duct/duce 이끌다] 수행하다, 지휘하다 · con(함께) + duct(이끌다)"
+    },
+    {
+      "w": "product",
+      "m": "[어근 duct/duce 이끌다] 제품 · pro(앞으로) + duct"
+    },
+    {
+      "w": "introduce",
+      "m": "[어근 duct/duce 이끌다] 소개하다 · intro(안으로) + duce"
+    },
+    {
+      "w": "reduce",
+      "m": "[어근 duct/duce 이끌다] 줄이다 · re(뒤로) + duce"
+    },
+    {
+      "w": "educate",
+      "m": "[어근 duct/duce 이끌다] 교육하다 · e(밖으로) + duc(이끌다)"
+    },
+    {
+      "w": "describe",
+      "m": "[어근 scrib/script 쓰다] 묘사하다 · de(아래로) + scribe(쓰다)"
+    },
+    {
+      "w": "subscribe",
+      "m": "[어근 scrib/script 쓰다] 구독하다 · sub(아래에) + scribe"
+    },
+    {
+      "w": "manuscript",
+      "m": "[어근 scrib/script 쓰다] 원고 · manu(손) + script"
+    },
+    {
+      "w": "prescription",
+      "m": "[어근 scrib/script 쓰다] 처방 · pre(미리) + script + ion"
+    },
+    {
+      "w": "photograph",
+      "m": "[어근 graph 쓰다·그리다] 사진 · photo(빛) + graph"
+    },
+    {
+      "w": "paragraph",
+      "m": "[어근 graph 쓰다·그리다] 단락 · para(옆에) + graph"
+    },
+    {
+      "w": "biography",
+      "m": "[어근 graph 쓰다·그리다] 전기 · bio(삶) + graphy"
+    },
+    {
+      "w": "graphic",
+      "m": "[어근 graph 쓰다·그리다] 그림의, 생생한 · graph + ic"
+    },
+    {
+      "w": "project",
+      "m": "[어근 ject 던지다] 계획, 과제 · pro(앞으로) + ject(던지다)"
+    },
+    {
+      "w": "reject",
+      "m": "[어근 ject 던지다] 거절하다 · re(뒤로) + ject"
+    },
+    {
+      "w": "inject",
+      "m": "[어근 ject 던지다] 주사하다 · in(안으로) + ject"
+    },
+    {
+      "w": "object",
+      "m": "[어근 ject 던지다] 물체, 반대하다 · ob(맞서) + ject"
+    },
+    {
+      "w": "subject",
+      "m": "[어근 ject 던지다] 주제, 과목 · sub(아래에) + ject"
+    },
+    {
+      "w": "permit",
+      "m": "[어근 mit/miss 보내다] 허락하다 · per(통과) + mit(보내다)"
+    },
+    {
+      "w": "admit",
+      "m": "[어근 mit/miss 보내다] 인정하다, 입장을 허락하다 · ad(향해) + mit"
+    },
+    {
+      "w": "transmit",
+      "m": "[어근 mit/miss 보내다] 전송하다 · trans(건너) + mit"
+    },
+    {
+      "w": "mission",
+      "m": "[어근 mit/miss 보내다] 임무 · miss(보내다) + ion"
+    },
+    {
+      "w": "dismiss",
+      "m": "[어근 mit/miss 보내다] 해산하다, 묵살하다 · dis(떨어져) + miss"
+    },
+    {
+      "w": "prefer",
+      "m": "[어근 fer 운반하다] 선호하다 · pre(앞에) + fer(두다)"
+    },
+    {
+      "w": "offer",
+      "m": "[어근 fer 운반하다] 제공하다 · of(향해) + fer"
+    },
+    {
+      "w": "differ",
+      "m": "[어근 fer 운반하다] 다르다 · dif(떨어져) + fer"
+    },
+    {
+      "w": "conference",
+      "m": "[어근 fer 운반하다] 회의 · con(함께) + fer + ence"
+    },
+    {
+      "w": "position",
+      "m": "[어근 pos/pon 놓다] 위치 · pos(놓다) + ition"
+    },
+    {
+      "w": "oppose",
+      "m": "[어근 pos/pon 놓다] 반대하다 · op(맞서) + pose"
+    },
+    {
+      "w": "propose",
+      "m": "[어근 pos/pon 놓다] 제안하다 · pro(앞에) + pose"
+    },
+    {
+      "w": "component",
+      "m": "[어근 pos/pon 놓다] 구성 요소 · com(함께) + pon + ent"
+    },
+    {
+      "w": "structure",
+      "m": "[어근 struct 세우다] 구조 · struct(세우다) + ure"
+    },
+    {
+      "w": "construct",
+      "m": "[어근 struct 세우다] 건설하다 · con(함께) + struct"
+    },
+    {
+      "w": "instruct",
+      "m": "[어근 struct 세우다] 지시하다, 가르치다 · in(안에) + struct"
+    },
+    {
+      "w": "destroy",
+      "m": "[어근 struct 세우다] 파괴하다 · de(반대) + stroy(세우다)"
+    },
+    {
+      "w": "inform",
+      "m": "[어근 form 형태] 알리다 · in(안에) + form(형태를 만들다)"
+    },
+    {
+      "w": "reform",
+      "m": "[어근 form 형태] 개혁하다 · re(다시) + form"
+    },
+    {
+      "w": "perform",
+      "m": "[어근 form 형태] 수행하다, 공연하다 · per(완전히) + form"
+    },
+    {
+      "w": "formula",
+      "m": "[어근 form 형태] 공식 · form + ula"
+    },
+    {
+      "w": "capture",
+      "m": "[어근 cap/cept 잡다] 포획하다 · cap(잡다) + ture"
+    },
+    {
+      "w": "accept",
+      "m": "[어근 cap/cept 잡다] 받아들이다 · ac(향해) + cept"
+    },
+    {
+      "w": "except",
+      "m": "[어근 cap/cept 잡다] 제외하고 · ex(밖으로) + cept"
+    },
+    {
+      "w": "concept",
+      "m": "[어근 cap/cept 잡다] 개념 · con(함께) + cept"
+    },
+    {
+      "w": "receive",
+      "m": "[어근 cap/cept 잡다] 받다 · re(뒤로) + ceive(잡다)"
+    },
+    {
+      "w": "attract",
+      "m": "[어근 tract 끌다] 끌어당기다 · at(향해) + tract(끌다)"
+    },
+    {
+      "w": "contract",
+      "m": "[어근 tract 끌다] 계약 · con(함께) + tract"
+    },
+    {
+      "w": "extract",
+      "m": "[어근 tract 끌다] 추출하다 · ex(밖으로) + tract"
+    },
+    {
+      "w": "tractor",
+      "m": "[어근 tract 끌다] 트랙터 · tract + or(기계)"
+    },
+    {
+      "w": "event",
+      "m": "[어근 vent/ven 오다] 사건, 행사 · e(밖으로) + vent(오다)"
+    },
+    {
+      "w": "invent",
+      "m": "[어근 vent/ven 오다] 발명하다 · in(안으로) + vent"
+    },
+    {
+      "w": "adventure",
+      "m": "[어근 vent/ven 오다] 모험 · ad(향해) + vent + ure"
+    },
+    {
+      "w": "convention",
+      "m": "[어근 vent/ven 오다] 관습, 대회 · con(함께) + vent + ion"
+    },
+    {
+      "w": "proceed",
+      "m": "[어근 cede/ceed/cess 가다] 진행하다 · pro(앞으로) + ceed(가다)"
+    },
+    {
+      "w": "succeed",
+      "m": "[어근 cede/ceed/cess 가다] 성공하다, 뒤를 잇다 · suc(아래로) + ceed"
+    },
+    {
+      "w": "exceed",
+      "m": "[어근 cede/ceed/cess 가다] 초과하다 · ex(밖으로) + ceed"
+    },
+    {
+      "w": "access",
+      "m": "[어근 cede/ceed/cess 가다] 접근 · ac(향해) + cess"
+    },
+    {
+      "w": "process",
+      "m": "[어근 cede/ceed/cess 가다] 과정 · pro(앞으로) + cess"
+    },
+    {
+      "w": "credit",
+      "m": "[어근 cred 믿다] 신용 · cred(믿다) + it"
+    },
+    {
+      "w": "incredible",
+      "m": "[어근 cred 믿다] 믿을 수 없는 · in(아닌) + cred + ible"
+    },
+    {
+      "w": "factory",
+      "m": "[어근 fac/fact/fect 만들다] 공장 · fact(만들다) + ory(장소)"
+    },
+    {
+      "w": "manufacture",
+      "m": "[어근 fac/fact/fect 만들다] 제조하다 · manu(손) + facture"
+    },
+    {
+      "w": "effect",
+      "m": "[어근 fac/fact/fect 만들다] 효과, 결과 · ef(밖으로) + fect"
+    },
+    {
+      "w": "perfect",
+      "m": "[어근 fac/fact/fect 만들다] 완벽한 · per(완전히) + fect"
+    },
+    {
+      "w": "affect",
+      "m": "[어근 fac/fact/fect 만들다] 영향을 미치다 · af(향해) + fect"
+    },
+    {
+      "w": "generate",
+      "m": "[어근 gen 태어남·종류] 생성하다 · gen(낳다) + erate"
+    },
+    {
+      "w": "generation",
+      "m": "[어근 gen 태어남·종류] 세대 · gen + eration"
+    },
+    {
+      "w": "gene",
+      "m": "[어근 gen 태어남·종류] 유전자 · gen(태어남)"
+    },
+    {
+      "w": "genuine",
+      "m": "[어근 gen 태어남·종류] 진짜의 · gen(타고난) + uine"
+    },
+    {
+      "w": "vital",
+      "m": "[어근 bio/vit/viv 생명] 생명의, 필수적인 · vit(생명) + al"
+    },
+    {
+      "w": "vitamin",
+      "m": "[어근 bio/vit/viv 생명] 비타민 · vita(생명) + amine"
+    },
+    {
+      "w": "survive",
+      "m": "[어근 bio/vit/viv 생명] 생존하다 · sur(넘어) + vive(살다)"
+    },
+    {
+      "w": "revive",
+      "m": "[어근 bio/vit/viv 생명] 되살리다 · re(다시) + vive"
+    },
+    {
+      "w": "audience",
+      "m": "[어근 aud 듣다 / voc 부르다] 청중 · aud(듣다) + ience"
+    },
+    {
+      "w": "audio",
+      "m": "[어근 aud 듣다 / voc 부르다] 음향 · aud + io"
+    },
+    {
+      "w": "auditorium",
+      "m": "[어근 aud 듣다 / voc 부르다] 강당 · aud + itorium(장소)"
+    },
+    {
+      "w": "vocabulary",
+      "m": "[어근 aud 듣다 / voc 부르다] 어휘 · voc(부르다) + abulary"
+    },
+    {
+      "w": "vocal",
+      "m": "[어근 aud 듣다 / voc 부르다] 목소리의 · voc + al"
+    },
+    {
+      "w": "advocate",
+      "m": "[어근 aud 듣다 / voc 부르다] 옹호하다 · ad(향해) + voc + ate"
+    },
+    {
+      "w": "pedal",
+      "m": "[어근 ped/man 발·손] 페달 · ped(발) + al"
+    },
+    {
+      "w": "pedestrian",
+      "m": "[어근 ped/man 발·손] 보행자 · ped + estrian"
+    },
+    {
+      "w": "manual",
+      "m": "[어근 ped/man 발·손] 수동의, 설명서 · man(손) + ual"
+    },
+    {
+      "w": "manage",
+      "m": "[어근 ped/man 발·손] 관리하다 · man + age"
+    },
+    {
+      "w": "manicure",
+      "m": "[어근 ped/man 발·손] 매니큐어 · man + cure(돌보다)"
+    },
+    {
+      "w": "chronic",
+      "m": "[어근 chron/temp 시간] 만성의 · chron(시간) + ic"
+    },
+    {
+      "w": "synchronize",
+      "m": "[어근 chron/temp 시간] 동시에 맞추다 · syn(함께) + chron + ize"
+    },
+    {
+      "w": "temporary",
+      "m": "[어근 chron/temp 시간] 일시적인 · tempor(시간) + ary"
+    },
+    {
+      "w": "contemporary",
+      "m": "[어근 chron/temp 시간] 동시대의, 현대의 · con(함께) + tempor + ary"
+    }
+  ]
+}
