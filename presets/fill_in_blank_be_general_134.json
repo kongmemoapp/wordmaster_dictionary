@@ -1,7 +1,7 @@
 {
   "name": "be동사·일반동사 빈칸 134 - 의문문, 부정문 포함 (진행형제외)",
   "type": "fill_in_blank",
-  "description": "쉬운 예문으로 be동사, 일반동사, 현재진행형의 긍정문·부정문·의문문을 익히는 빈칸 채우기 200문제",
+  "description": "쉬운 예문으로 be동사, 일반동사의 긍정문·부정문·의문문을 익히는 빈칸 채우기 134문제 (현재진행형 제외)",
   "words": [
     {"w": "I [] a student.", "m": "am", "t": "나는 학생이다.", "explanation": "주어가 'I'일 때는 항상 be동사 'am'을 씁니다.", "choices": ["am", "is", "are", "was", "were", "be", "do", "have", "has", "being"]},
     {"w": "I [] hungry.", "m": "am", "t": "나는 배고프다.", "explanation": "주어가 'I'일 때는 항상 be동사 'am'을 씁니다.", "choices": ["am", "is", "are", "was", "were", "be", "do", "have", "has", "being"]},

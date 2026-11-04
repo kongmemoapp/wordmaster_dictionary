@@ -1,472 +1,479 @@
 [
   {
-    "file": "edu_2022_3000.json",
-    "name": "2022년 교육부선정3000(내용수정)",
-    "description": "2022년 교육부 지정 필수 영단어 3000개(내용수정)",
-    "wordCount": 3000,
-    "category": "교육부 기본어휘(2022년)"
-  },
-  {
-    "file": "edu_2022_elementary_800.json",
-    "name": "교육부 기본어휘 2022년 - 초등(800)",
-    "description": "교육부 기본어휘 2022년 - 초등(800) 800개",
-    "wordCount": 800,
-    "category": "교육부 기본어휘(2022년)"
-  },
-  {
-    "file": "edu_2022_middle_high_1800.json",
-    "name": "교육부 기본어휘 2022년 - 중고(1800)",
-    "description": "교육부 기본어휘 2022년 - 중고(1800) 1800개",
-    "wordCount": 1800,
-    "category": "교육부 기본어휘(2022년)"
-  },
-  {
-    "file": "middle_grade1_500.json",
-    "name": "중학 1학년 필수 영단어 500",
-    "description": "교육부 기본어휘 2022 중고등 1800 중 가장 쉬운 500개. 초등 800과 겹치지 않는 중1 수준의 기본 어휘 (짧고 구체적인 일상 단어 중심), 알파벳순",
-    "wordCount": 500,
-    "category": "교육부 기본어휘(2022년)"
-  },
-  {
-    "file": "middle_grade2_500.json",
-    "name": "중학 2학년 필수 영단어 500",
-    "description": "교육부 기본어휘 2022 중고등 1800 중 중2 수준 500개. 중1 500 다음 단계의 어휘, 알파벳순",
-    "wordCount": 500,
-    "category": "교육부 기본어휘(2022년)"
-  },
-  {
-    "file": "middle_grade3_500.json",
-    "name": "중학 3학년 필수 영단어 500",
-    "description": "교육부 기본어휘 2022 중고등 1800 중 중3 수준 500개. 추상·학술 어휘가 늘어나는 단계로 고등 입문 어휘 일부 포함, 알파벳순 (가장 어려운 300개는 고등 범위로 제외)",
-    "wordCount": 500,
-    "category": "교육부 기본어휘(2022년)"
-  },
-  {
-    "file": "high_intro_300.json",
-    "name": "고등 입문 영단어 300",
-    "description": "교육부 기본어휘 2022 중고등 1800 중 중학 1·2·3학년 500씩을 제외한 가장 어려운 300개. 추상·학술 어휘 중심의 고1 수준, 알파벳순. 중3 500 다음 단계",
-    "wordCount": 300,
-    "category": "교육부 기본어휘(2022년)"
-  },
-  {
-    "file": "edu_2022_advanced_400.json",
-    "name": "교육부 기본어휘 2022년 - 전문(400)",
-    "description": "교육부 기본어휘 2022년 - 전문(400) 400개",
-    "wordCount": 400,
-    "category": "교육부 기본어휘(2022년)"
-  },
-  {
     "file": "preschool_1_100.json",
     "name": "1. 초급 1단계 입문 100",
     "description": "미취학 아동(만 3~4세)을 위한 영어 입문 단어 100개 - 인사, 숫자, 색깔, 가족, 동물, 과일, 신체, 기본 사물",
     "wordCount": 100,
-    "category": "초급 영단어"
+    "category": "영단어 - 수준별"
   },
   {
     "file": "preschool_2_200.json",
     "name": "2. 초급 2단계 기초 200",
     "description": "미취학 아동(만 4~5세)을 위한 영어 기초 단어 200개 - 음식, 동물, 의류, 학용품, 집/가구, 자연, 교통, 직업, 장소, 시간, 동사, 형용사 등",
     "wordCount": 200,
-    "category": "초급 영단어"
+    "category": "영단어 - 수준별"
   },
   {
     "file": "preschool_3_300.json",
     "name": "3. 초급 3단계 확장 300",
     "description": "미취학 아동(만 5~6세, 초등 입학 전)을 위한 영어 확장 단어 300개 - 동사·형용사 확장, 위치, 자연·날씨, 감정, 학교, 요일/달, 색·모양, 운동, 인사 표현 등",
     "wordCount": 300,
-    "category": "초급 영단어"
+    "category": "영단어 - 수준별"
   },
   {
-    "file": "daily_english_500.json",
-    "name": "일상생활 필수 영단어 500",
-    "description": "일상생활에서 자주 사용하는 필수 영단어 500개",
+    "file": "edu_2022_elementary_800.json",
+    "name": "교육부 기본어휘 2022년 - 초등(800)",
+    "description": "교육부 기본어휘 2022년 - 초등(800) 800개",
+    "wordCount": 800,
+    "category": "영단어 - 수준별"
+  },
+  {
+    "file": "middle_grade1_500.json",
+    "name": "중학 1학년 필수 영단어 500",
+    "description": "교육부 기본어휘 2022 중고등 1800 중 가장 쉬운 500개. 초등 800과 겹치지 않는 중1 수준의 기본 어휘 (짧고 구체적인 일상 단어 중심), 알파벳순",
     "wordCount": 500,
-    "category": "일상/실용"
+    "category": "영단어 - 수준별"
   },
   {
-    "file": "travel_english_300.json",
-    "name": "여행 영어 300",
-    "description": "해외여행에서 꼭 필요한 영단어 및 표현 300개",
+    "file": "middle_grade2_500.json",
+    "name": "중학 2학년 필수 영단어 500",
+    "description": "교육부 기본어휘 2022 중고등 1800 중 중2 수준 500개. 중1 500 다음 단계의 어휘, 알파벳순",
+    "wordCount": 500,
+    "category": "영단어 - 수준별"
+  },
+  {
+    "file": "middle_grade3_500.json",
+    "name": "중학 3학년 필수 영단어 500",
+    "description": "교육부 기본어휘 2022 중고등 1800 중 중3 수준 500개. 추상·학술 어휘가 늘어나는 단계로 고등 입문 어휘 일부 포함, 알파벳순 (가장 어려운 300개는 고등 범위로 제외)",
+    "wordCount": 500,
+    "category": "영단어 - 수준별"
+  },
+  {
+    "file": "high_intro_300.json",
+    "name": "고등 입문 영단어 300",
+    "description": "교육부 기본어휘 2022 중고등 1800 중 중학 1·2·3학년 500씩을 제외한 가장 어려운 300개. 추상·학술 어휘 중심의 고1 수준, 알파벳순. 중3 500 다음 단계",
     "wordCount": 300,
-    "category": "일상/실용"
+    "category": "영단어 - 수준별"
   },
   {
-    "file": "business_english_500.json",
-    "name": "비즈니스 영어 500",
-    "description": "비즈니스 환경에서 필수적인 영단어 및 표현 500개",
-    "wordCount": 497,
-    "category": "일상/실용"
+    "file": "edu_2022_middle_high_1800.json",
+    "name": "교육부 기본어휘 2022년 - 중고(1800)",
+    "description": "교육부 기본어휘 2022년 - 중고(1800) 1800개",
+    "wordCount": 1800,
+    "category": "영단어 - 수준별"
+  },
+  {
+    "file": "edu_2022_advanced_400.json",
+    "name": "교육부 기본어휘 2022년 - 전문(400)",
+    "description": "교육부 기본어휘 2022년 - 전문(400) 400개",
+    "wordCount": 400,
+    "category": "영단어 - 수준별"
+  },
+  {
+    "file": "edu_2022_3000.json",
+    "name": "교육부 기본어휘 2022년 - 전체(3000)",
+    "description": "교육부 기본어휘 2022년 전체 3000개 (초등 800 + 중고 1800 + 전문 400)",
+    "wordCount": 3000,
+    "category": "영단어 - 수준별"
   },
   {
     "file": "sat_2000.json",
     "name": "수능 필수 영단어 2000",
     "description": "대학수학능력시험 필수 영단어 2000개",
     "wordCount": 2000,
-    "category": "시험대비"
+    "category": "영단어 - 시험대비"
   },
   {
     "file": "toeic_2000.json",
     "name": "토익 필수 영단어 2000",
     "description": "TOEIC 시험 필수 영단어 2000개",
     "wordCount": 2000,
-    "category": "시험대비"
+    "category": "영단어 - 시험대비"
   },
   {
     "file": "toefl_2000.json",
     "name": "토플 필수 영단어 2000",
     "description": "TOEFL 시험 필수 영단어 2000개",
     "wordCount": 2000,
-    "category": "시험대비"
+    "category": "영단어 - 시험대비"
   },
   {
     "file": "ielts_2000.json",
     "name": "IELTS 필수 영단어 2000",
     "description": "IELTS 시험 대비 필수 영단어 2000개",
     "wordCount": 2000,
-    "category": "시험대비"
+    "category": "영단어 - 시험대비"
   },
   {
     "file": "civil_service_1000.json",
     "name": "공무원 영어 필수 영단어 1000",
     "description": "공무원 시험 영어 과목 필수 영단어 1000개",
     "wordCount": 988,
-    "category": "시험대비"
+    "category": "영단어 - 시험대비"
   },
   {
     "file": "transfer_exam_1000.json",
     "name": "편입 영어 필수 영단어 1000",
     "description": "대학 편입 시험 영어 필수 영단어 1000개",
     "wordCount": 986,
-    "category": "시험대비"
+    "category": "영단어 - 시험대비"
   },
   {
-    "file": "sentence_patterns_250.json",
-    "name": "영어 문장 5형식 예문 250",
-    "description": "1형식부터 5형식까지 각 50개씩, 총 250개의 샘플 예문 모음",
-    "wordCount": 250,
-    "category": "문법공부(주제별)"
+    "file": "daily_english_500.json",
+    "name": "일상생활 필수 영단어 500",
+    "description": "일상생활에서 자주 사용하는 필수 영단어 500개",
+    "wordCount": 500,
+    "category": "영단어 - 일상/실용"
   },
   {
-    "file": "articles_200.json",
-    "name": "영어 관사 용법 예문 200",
-    "description": "부정관사(a/an) 100개, 정관사(the) 100개로 관사 사용 이유를 설명하는 예문 모음",
-    "wordCount": 200,
-    "category": "문법공부(주제별)"
-  },
-  {
-    "file": "modals_200.json",
-    "name": "영어 조동사 용법 예문 200",
-    "description": "주요 조동사 10종(can, could, may, might, will, would, shall, should, must, ought to) 각 20개씩, 총 200개의 예문 모음",
-    "wordCount": 200,
-    "category": "문법공부(주제별)"
-  },
-  {
-    "file": "prepositions_200.json",
-    "name": "영어 전치사 용법 예문 200",
-    "description": "주요 전치사 20종(in, on, at, to, from, of, for, with, by, about, over, under, between, among, through, across, against, before, after, during) 각 10개씩, 총 200개의 예문 모음",
-    "wordCount": 200,
-    "category": "문법공부(주제별)"
-  },
-  {
-    "file": "tenses_200.json",
-    "name": "영어 시제 용법 예문 200",
-    "description": "주요 10시제(현재, 현재진행, 현재완료, 현재완료진행, 과거, 과거진행, 과거완료, 미래, 미래진행, 미래완료) 각 20개씩, 총 200개의 예문 모음",
-    "wordCount": 200,
-    "category": "문법공부(주제별)"
-  },
-  {
-    "file": "interrogatives_200.json",
-    "name": "영어 의문사 의문문 예문 200",
-    "description": "주요 의문사 10종(what, who, whose, where, when, why, how, which, how many, how much) 각 20개씩, 총 200개의 의문문 예문 모음",
-    "wordCount": 200,
-    "category": "문법공부(주제별)"
-  },
-  {
-    "file": "to_infinitive_gerund_250.json",
-    "name": "to부정사 용법 + 동명사 비교 250",
-    "description": "to부정사의 명사적·형용사적·부사적 용법과 동명사와의 비교를 포함한 예문 250개",
-    "wordCount": 250,
-    "category": "문법공부(주제별)"
-  },
-  {
-    "file": "phrasal_verbs_300.json",
-    "name": "영어 구동사 예문 300",
-    "description": "get/put/take/look/give/turn/go/come/make/break/bring/keep/run/set 등 주요 동사에 부사·전치사가 결합된 구동사(Phrasal Verbs) 300개",
+    "file": "travel_english_300.json",
+    "name": "여행 영어 300",
+    "description": "해외여행에서 꼭 필요한 영단어 및 표현 300개",
     "wordCount": 300,
-    "category": "문법공부(주제별)"
+    "category": "영단어 - 일상/실용"
   },
   {
-    "file": "adverbs_200.json",
-    "name": "영어 부사 용법 예문 200",
-    "description": "빈도/양태/장소/시간/정도/접속/부정/의문·관계부사 + 부사의 위치 규칙 예문 200개",
-    "wordCount": 200,
-    "category": "문법공부(주제별)"
-  },
-  {
-    "file": "adjectives_200.json",
-    "name": "영어 형용사 용법 예문 200",
-    "description": "한정/서술 용법, 수량형용사, 감정형용사 심화, 분사형용사, 형용사 어순(의견→크기→나이→색·재료 등), 복합형용사, something+형용사 특수 어순 200개",
-    "wordCount": 200,
-    "category": "문법공부(주제별)"
-  },
-  {
-    "file": "irregular_verbs_150.json",
-    "name": "불규칙동사 3단 변화 150",
-    "description": "영어 필수 불규칙동사 150개의 원형-과거-과거분사 변화형. A-A-A(22)·A-A-B(1)·A-B-A(4)·A-B-B(67)·A-B-C(56) 유형별 분류, 혼동하기 쉬운 형태는 비고 포함",
-    "wordCount": 150,
-    "category": "문법공부(주제별)"
-  },
-  {
-    "file": "nouns_200.json",
-    "name": "영어 명사 용법 예문 200",
-    "description": "가산명사(규칙·불규칙 복수), 불가산명사(물질·추상·집합)와 수량 표현(a cup of 등), 가산·불가산 양용 명사, 집합명사, 항상 복수형 명사, -s로 끝나는 단수 명사, 고유명사, 소유격, 명사의 역할, 복합명사 예문 200개",
-    "wordCount": 200,
-    "category": "문법공부(주제별)"
-  },
-  {
-    "file": "quantifiers_200.json",
-    "name": "영어 수량 표현 예문 200",
-    "description": "some/any, many/much, a lot of/plenty of, a few/few, a little/little, enough, all/most/none of, both/either/neither, each/every, no/nothing/nobody, several/various, another/other/others와 수량 표현 비교(a number of vs the number of, half of, one of 등) 예문 200개",
-    "wordCount": 200,
-    "category": "문법공부(주제별)"
-  },
-  {
-    "file": "sentence_types_200.json",
-    "name": "영어 문장의 종류 예문 200",
-    "description": "평서문, 부정문(be동사·조동사·일반동사), Yes/No 의문문, 의문사 의문문, 부정의문문, 부가의문문, 간접의문문, 명령문(Let's·Don't·명령문+and/or), 감탄문(What/How), There is/are, 문장 종류 변환, 제안·기원·동의 표현 예문 200개",
-    "wordCount": 200,
-    "category": "문법공부(주제별)"
-  },
-  {
-    "file": "subject_verb_agreement_200.json",
-    "name": "영어 주어·동사 수일치 예문 200",
-    "description": "단수·복수 주어, and/or/nor/not only로 연결된 주어, every/each/-one, one of/none of, 부분 표현(some/most/half of), a number of vs the number of, 동명사·to부정사·절 주어, 수식어구가 끼어든 주어, 집합명사·학문명·금액·기간, There is/are·도치, 관계사절, the + 형용사 등 수일치 예문 200개",
-    "wordCount": 200,
-    "category": "문법공부(주제별)"
-  },
-  {
-    "file": "connectors_200.json",
-    "name": "영어 접속부사·연결어 예문 200",
-    "description": "대조·양보(however, nevertheless, on the other hand), 원인·결과(therefore, as a result, due to), 추가(moreover, in addition, besides), 예시·강조(for example, in fact, above all), 순서·시간(first, meanwhile, finally), 요약·결론(in conclusion, to sum up), 조건(unless, otherwise, in case), 바꿔 말하기(in other words, by the way), 비교(unlike, just as), 담화 표지(well, honestly, luckily), 목적·수단(so that, by -ing) 예문 200개",
-    "wordCount": 200,
-    "category": "문법공부(주제별)"
+    "file": "business_english_500.json",
+    "name": "비즈니스 영어 500",
+    "description": "비즈니스 환경에서 필수적인 영단어 및 표현 500개",
+    "wordCount": 497,
+    "category": "영단어 - 일상/실용"
   },
   {
     "file": "elem_be_verb_200.json",
     "name": "1. 초등 be동사 기초 200",
     "description": "be동사(am/is/are/was/were)의 긍정·부정·의문 예문 200개 (초등 수준)",
     "wordCount": 200,
-    "category": "문법공부(초등과정)"
+    "category": "영문법 예문 - 초등"
   },
   {
     "file": "elem_general_verb_200.json",
     "name": "2. 초등 일반동사 기초 200",
     "description": "일반동사의 현재형(3인칭 단수 변화), 과거형(규칙/불규칙), 부정·의문 예문 200개 (초등 수준)",
     "wordCount": 200,
-    "category": "문법공부(초등과정)"
+    "category": "영문법 예문 - 초등"
   },
   {
     "file": "elem_pronouns_200.json",
     "name": "3. 초등 대명사와 소유격 200",
     "description": "인칭대명사 주격/목적격, 소유격·소유대명사, 재귀대명사, 지시대명사(this/that/these/those) 예문 200개 (초등 수준)",
     "wordCount": 200,
-    "category": "문법공부(초등과정)"
+    "category": "영문법 예문 - 초등"
   },
   {
     "file": "elem_nouns_articles_200.json",
     "name": "4. 초등 명사·관사 기초 200",
     "description": "명사 단수/복수(규칙·불규칙), 셀 수 없는 명사, 관사 a/an/the 예문 200개 (초등 수준)",
     "wordCount": 200,
-    "category": "문법공부(초등과정)"
+    "category": "영문법 예문 - 초등"
   },
   {
     "file": "elem_tenses_4_200.json",
     "name": "5. 초등 시제 4종 기초 200",
     "description": "현재/현재진행/과거/미래(will, be going to) 4시제 예문 200개 (초등 수준)",
     "wordCount": 200,
-    "category": "문법공부(초등과정)"
+    "category": "영문법 예문 - 초등"
   },
   {
     "file": "elem_modals_basic_150.json",
     "name": "6. 초등 조동사 기초 150",
     "description": "can, may, must, should 조동사 4종의 긍정·부정·의문 예문 150개 (초등 수준)",
     "wordCount": 150,
-    "category": "문법공부(초등과정)"
+    "category": "영문법 예문 - 초등"
   },
   {
     "file": "elem_questions_200.json",
     "name": "7. 초등 의문문 기초 200",
     "description": "Yes/No 의문문(be동사/일반동사/조동사) + wh-의문문(What/Who/Where/When/Why/How/How many·much/Which) 예문 200개 (초등 수준)",
     "wordCount": 200,
-    "category": "문법공부(초등과정)"
+    "category": "영문법 예문 - 초등"
   },
   {
     "file": "elem_prepositions_comparison_200.json",
     "name": "8. 초등 전치사·비교급 기초 200",
     "description": "전치사(장소/시간/방향 in·on·at·under·to·from 등) + 비교급·최상급(규칙 -er/-est, more/most, 불규칙) 예문 200개 (초등 수준)",
     "wordCount": 200,
-    "category": "문법공부(초등과정)"
+    "category": "영문법 예문 - 초등"
   },
   {
     "file": "mid_present_perfect_200.json",
     "name": "1. 중학 현재완료 200",
     "description": "have/has + p.p.의 4가지 용법(경험/계속/완료/결과), have been to vs have gone to, 부정·의문 예문 200개 (중학 수준)",
     "wordCount": 200,
-    "category": "문법공부(중학과정)"
+    "category": "영문법 예문 - 중학"
   },
   {
     "file": "mid_passive_200.json",
     "name": "2. 중학 수동태 200",
     "description": "be + p.p. 시제별, 조동사+수동태, by 외 전치사(be interested in 등), 의문사 수동태, 부정·의문 예문 200개 (중학 수준)",
     "wordCount": 200,
-    "category": "문법공부(중학과정)"
+    "category": "영문법 예문 - 중학"
   },
   {
     "file": "mid_participles_200.json",
     "name": "3. 중학 분사 200",
     "description": "현재분사(~ing)/과거분사(p.p.)의 명사수식·보어, 감정형용사 -ing vs -ed, 지각·사역동사+분사 예문 200개 (중학 수준)",
     "wordCount": 200,
-    "category": "문법공부(중학과정)"
+    "category": "영문법 예문 - 중학"
   },
   {
     "file": "mid_relative_pronouns_200.json",
     "name": "4. 중학 관계대명사 200",
     "description": "who/whose/whom/which/that/what 관계대명사, 관계대명사 생략, 계속적 용법 예문 200개 (중학 수준)",
     "wordCount": 200,
-    "category": "문법공부(중학과정)"
+    "category": "영문법 예문 - 중학"
   },
   {
     "file": "mid_conjunctions_200.json",
     "name": "5. 중학 접속사 200",
     "description": "등위접속사(and/but/or/so), 시간/조건/이유/양보/목적/결과 종속접속사, that 명사절 예문 200개 (중학 수준)",
     "wordCount": 200,
-    "category": "문법공부(중학과정)"
+    "category": "영문법 예문 - 중학"
   },
   {
     "file": "mid_comparison_200.json",
     "name": "6. 중학 비교 표현 심화 200",
     "description": "원급 as~as, 비교·최상급 심화, 배수 비교, the 비교급 the 비교급, 비교급 강조(much/far/even), 최상급 대용, 비교 관용 표현 200개 (중학 수준)",
     "wordCount": 200,
-    "category": "문법공부(중학과정)"
+    "category": "영문법 예문 - 중학"
   },
   {
     "file": "mid_causative_perception_150.json",
     "name": "7. 중학 사역·지각동사 150",
     "description": "사역동사(make/have/let + 원형, get + 목 + to V), 지각동사(see/hear/feel/smell + 원형·~ing·분사), help + (to) V 예문 150개 (중학 수준)",
     "wordCount": 150,
-    "category": "문법공부(중학과정)"
+    "category": "영문법 예문 - 중학"
   },
   {
     "file": "mid_subjunctive_200.json",
     "name": "8. 중학 가정법 200",
     "description": "단순조건 vs 가정법, 가정법 과거/과거완료/혼합, I wish, as if, without/but for, if 도치, It's time + 가정법 예문 200개 (중학 수준)",
     "wordCount": 200,
-    "category": "문법공부(중학과정)"
+    "category": "영문법 예문 - 중학"
   },
   {
     "file": "high_participial_constructions_200.json",
     "name": "1. 고등 분사구문 200",
     "description": "분사구문 단순/완료(Having p.p.)/수동(Being p.p.)/부정(Not ~ing), with 부대상황, Being 생략, 비인칭 독립분사구문(Generally speaking 등) 200개 (고등 수준)",
     "wordCount": 200,
-    "category": "문법공부(고등과정)"
+    "category": "영문법 예문 - 고등"
   },
   {
     "file": "high_emphasis_inversion_200.json",
     "name": "2. 고등 강조·도치 200",
     "description": "It is ~ that 강조구문, do/does/did 동사 강조, 부정어 도치, Only 도치, So/Neither 도치, 장소·방향 부사구 도치, 양보·조건 도치 200개 (고등 수준)",
     "wordCount": 200,
-    "category": "문법공부(고등과정)"
+    "category": "영문법 예문 - 고등"
   },
   {
     "file": "high_relative_adverbs_200.json",
     "name": "3. 고등 관계부사·복합관계사 200",
     "description": "관계부사 when/where/why/how, 복합관계사 whoever/whatever/whenever/wherever/however + 양보절 용법 200개 (고등 수준)",
     "wordCount": 200,
-    "category": "문법공부(고등과정)"
+    "category": "영문법 예문 - 고등"
   },
   {
     "file": "high_formal_subject_object_200.json",
     "name": "4. 고등 가주어·가목적어 200",
     "description": "가주어 It ~ to V/that절, 가목적어 It(5형식), 의미상 주어 for/of + 목적격, There is/are 구문, It seems/appears that 200개 (고등 수준)",
     "wordCount": 200,
-    "category": "문법공부(고등과정)"
+    "category": "영문법 예문 - 고등"
   },
   {
     "file": "high_parallel_correlative_200.json",
     "name": "5. 고등 병렬구조·상관접속사 200",
     "description": "both A and B, either/neither A or/nor B, not only A but (also) B, B as well as A, not A but B, 병렬 원칙, 상관접속사 수일치, 대등한 비교·반복 200개 (고등 수준)",
     "wordCount": 200,
-    "category": "문법공부(고등과정)"
+    "category": "영문법 예문 - 고등"
   },
   {
     "file": "high_reported_speech_150.json",
     "name": "6. 고등 화법 전환 150",
     "description": "평서문/의문문(Yes-No·wh-)/명령문 간접화법, 시제 일치 규칙, 인칭·부사 변화(today→that day 등), 특수 화법(감탄·기원·제안) 150개 (고등 수준)",
     "wordCount": 150,
-    "category": "문법공부(고등과정)"
+    "category": "영문법 예문 - 고등"
   },
   {
     "file": "high_apposition_ellipsis_150.json",
     "name": "7. 고등 삽입·동격·생략 150",
     "description": "동격의 of, 동격의 that, 콤마 동격, 관계사 생략, 접속사 that 생략, 분사구문·부사절 생략, 삽입구/삽입절 150개 (고등 수준)",
     "wordCount": 150,
-    "category": "문법공부(고등과정)"
+    "category": "영문법 예문 - 고등"
   },
   {
     "file": "high_negation_comparison_150.json",
     "name": "8. 고등 부정·특수 비교구문 150",
     "description": "부분부정/완전부정, 부정어 관용(hardly/seldom/no longer), 이중부정(cannot but/never ~ without), not/no more/less than, at most/least/best, as ~ as any/the last ~ to V 150개 (고등 수준)",
     "wordCount": 150,
-    "category": "문법공부(고등과정)"
+    "category": "영문법 예문 - 고등"
+  },
+  {
+    "file": "sentence_patterns_250.json",
+    "name": "영어 문장 5형식 예문 250",
+    "description": "1형식부터 5형식까지 각 50개씩, 총 250개의 샘플 예문 모음",
+    "wordCount": 250,
+    "category": "영문법 예문 - 주제별"
+  },
+  {
+    "file": "articles_200.json",
+    "name": "영어 관사 용법 예문 200",
+    "description": "부정관사(a/an) 100개, 정관사(the) 100개로 관사 사용 이유를 설명하는 예문 모음",
+    "wordCount": 200,
+    "category": "영문법 예문 - 주제별"
+  },
+  {
+    "file": "modals_200.json",
+    "name": "영어 조동사 용법 예문 200",
+    "description": "주요 조동사 10종(can, could, may, might, will, would, shall, should, must, ought to) 각 20개씩, 총 200개의 예문 모음",
+    "wordCount": 200,
+    "category": "영문법 예문 - 주제별"
+  },
+  {
+    "file": "prepositions_200.json",
+    "name": "영어 전치사 용법 예문 200",
+    "description": "주요 전치사 20종(in, on, at, to, from, of, for, with, by, about, over, under, between, among, through, across, against, before, after, during) 각 10개씩, 총 200개의 예문 모음",
+    "wordCount": 200,
+    "category": "영문법 예문 - 주제별"
+  },
+  {
+    "file": "tenses_200.json",
+    "name": "영어 시제 용법 예문 200",
+    "description": "주요 10시제(현재, 현재진행, 현재완료, 현재완료진행, 과거, 과거진행, 과거완료, 미래, 미래진행, 미래완료) 각 20개씩, 총 200개의 예문 모음",
+    "wordCount": 200,
+    "category": "영문법 예문 - 주제별"
+  },
+  {
+    "file": "interrogatives_200.json",
+    "name": "영어 의문사 의문문 예문 200",
+    "description": "주요 의문사 10종(what, who, whose, where, when, why, how, which, how many, how much) 각 20개씩, 총 200개의 의문문 예문 모음",
+    "wordCount": 200,
+    "category": "영문법 예문 - 주제별"
+  },
+  {
+    "file": "to_infinitive_gerund_250.json",
+    "name": "to부정사 용법 + 동명사 비교 250",
+    "description": "to부정사의 명사적·형용사적·부사적 용법과 동명사와의 비교를 포함한 예문 250개",
+    "wordCount": 250,
+    "category": "영문법 예문 - 주제별"
+  },
+  {
+    "file": "phrasal_verbs_300.json",
+    "name": "영어 구동사 예문 300",
+    "description": "get/put/take/look/give/turn/go/come/make/break/bring/keep/run/set 등 주요 동사에 부사·전치사가 결합된 구동사(Phrasal Verbs) 300개",
+    "wordCount": 300,
+    "category": "영문법 예문 - 주제별"
+  },
+  {
+    "file": "adverbs_200.json",
+    "name": "영어 부사 용법 예문 200",
+    "description": "빈도/양태/장소/시간/정도/접속/부정/의문·관계부사 + 부사의 위치 규칙 예문 200개",
+    "wordCount": 200,
+    "category": "영문법 예문 - 주제별"
+  },
+  {
+    "file": "adjectives_200.json",
+    "name": "영어 형용사 용법 예문 200",
+    "description": "한정/서술 용법, 수량형용사, 감정형용사 심화, 분사형용사, 형용사 어순(의견→크기→나이→색·재료 등), 복합형용사, something+형용사 특수 어순 200개",
+    "wordCount": 200,
+    "category": "영문법 예문 - 주제별"
+  },
+  {
+    "file": "irregular_verbs_150.json",
+    "name": "불규칙동사 3단 변화 150",
+    "description": "영어 필수 불규칙동사 150개의 원형-과거-과거분사 변화형. A-A-A(22)·A-A-B(1)·A-B-A(4)·A-B-B(67)·A-B-C(56) 유형별 분류, 혼동하기 쉬운 형태는 비고 포함",
+    "wordCount": 150,
+    "category": "영문법 예문 - 주제별"
+  },
+  {
+    "file": "nouns_200.json",
+    "name": "영어 명사 용법 예문 200",
+    "description": "가산명사(규칙·불규칙 복수), 불가산명사(물질·추상·집합)와 수량 표현(a cup of 등), 가산·불가산 양용 명사, 집합명사, 항상 복수형 명사, -s로 끝나는 단수 명사, 고유명사, 소유격, 명사의 역할, 복합명사 예문 200개",
+    "wordCount": 200,
+    "category": "영문법 예문 - 주제별"
+  },
+  {
+    "file": "quantifiers_200.json",
+    "name": "영어 수량 표현 예문 200",
+    "description": "some/any, many/much, a lot of/plenty of, a few/few, a little/little, enough, all/most/none of, both/either/neither, each/every, no/nothing/nobody, several/various, another/other/others와 수량 표현 비교(a number of vs the number of, half of, one of 등) 예문 200개",
+    "wordCount": 200,
+    "category": "영문법 예문 - 주제별"
+  },
+  {
+    "file": "sentence_types_200.json",
+    "name": "영어 문장의 종류 예문 200",
+    "description": "평서문, 부정문(be동사·조동사·일반동사), Yes/No 의문문, 의문사 의문문, 부정의문문, 부가의문문, 간접의문문, 명령문(Let's·Don't·명령문+and/or), 감탄문(What/How), There is/are, 문장 종류 변환, 제안·기원·동의 표현 예문 200개",
+    "wordCount": 200,
+    "category": "영문법 예문 - 주제별"
+  },
+  {
+    "file": "subject_verb_agreement_200.json",
+    "name": "영어 주어·동사 수일치 예문 200",
+    "description": "단수·복수 주어, and/or/nor/not only로 연결된 주어, every/each/-one, one of/none of, 부분 표현(some/most/half of), a number of vs the number of, 동명사·to부정사·절 주어, 수식어구가 끼어든 주어, 집합명사·학문명·금액·기간, There is/are·도치, 관계사절, the + 형용사 등 수일치 예문 200개",
+    "wordCount": 200,
+    "category": "영문법 예문 - 주제별"
+  },
+  {
+    "file": "connectors_200.json",
+    "name": "영어 접속부사·연결어 예문 200",
+    "description": "대조·양보(however, nevertheless, on the other hand), 원인·결과(therefore, as a result, due to), 추가(moreover, in addition, besides), 예시·강조(for example, in fact, above all), 순서·시간(first, meanwhile, finally), 요약·결론(in conclusion, to sum up), 조건(unless, otherwise, in case), 바꿔 말하기(in other words, by the way), 비교(unlike, just as), 담화 표지(well, honestly, luckily), 목적·수단(so that, by -ing) 예문 200개",
+    "wordCount": 200,
+    "category": "영문법 예문 - 주제별"
   },
   {
     "file": "fill_in_blank_be_general_progressive_200.json",
     "name": "be동사·일반동사·현재진행형 빈칸 200 - 의문문, 부정문 포함",
     "description": "쉬운 예문으로 be동사, 일반동사, 현재진행형의 긍정문·부정문·의문문을 익히는 빈칸 채우기 200문제",
     "wordCount": 200,
-    "category": "빈칸단어장"
+    "category": "영문법 빈칸연습"
   },
   {
     "file": "fill_in_blank_be_general_134.json",
     "name": "be동사·일반동사 빈칸 134 - 의문문, 부정문 포함 (진행형제외)",
-    "description": "쉬운 예문으로 be동사, 일반동사, 현재진행형의 긍정문·부정문·의문문을 익히는 빈칸 채우기 200문제",
+    "description": "쉬운 예문으로 be동사, 일반동사의 긍정문·부정문·의문문을 익히는 빈칸 채우기 134문제 (현재진행형 제외)",
     "wordCount": 134,
-    "category": "빈칸단어장"
+    "category": "영문법 빈칸연습"
   },
   {
     "file": "fill_in_blank_modals_150.json",
     "name": "조동사 빈칸 150 - 의문문, 부정문 포함",
     "description": "can/could/may/might/will/would/shall/should/must/have to/ought to/had better/used to의 긍정문·부정문·의문문 용법을 쉬운 예문으로 익히는 빈칸 채우기 150문제",
     "wordCount": 150,
-    "category": "빈칸단어장"
+    "category": "영문법 빈칸연습"
   },
   {
     "file": "fill_in_blank_tenses_200.json",
     "name": "시제 빈칸 200 - 의문문, 부정문 포함",
     "description": "현재·현재진행·과거·과거진행·미래(will/be going to)·현재완료·과거완료·미래진행·미래완료·현재완료진행 10개 시제의 긍정문·부정문·의문문을 쉬운 예문으로 익히는 빈칸 채우기 200문제",
     "wordCount": 200,
-    "category": "빈칸단어장"
+    "category": "영문법 빈칸연습"
   },
   {
     "file": "fill_in_blank_prepositions_200.json",
     "name": "전치사 빈칸 200 - 장소, 시간, 방향, 숙어 포함",
     "description": "장소(in/on/at/under/behind 등)·시간(in/on/at/for/since/until/by 등)·방향(to/from/into/across/through 등)·기타(with/about/of/by/like/as 등) 전치사와 전치사 숙어를 쉬운 예문으로 익히는 빈칸 채우기 200문제",
     "wordCount": 200,
-    "category": "빈칸단어장"
+    "category": "영문법 빈칸연습"
   },
   {
     "file": "fill_in_blank_articles_150.json",
     "name": "관사 빈칸 150 - a/an/the/무관사",
     "description": "부정관사 a/an, 정관사 the, 무관사(보기 '없음')를 문맥에 따라 고르는 빈칸 채우기 150문제 - 첫 언급/재언급, 유일한 것, 최상급·서수, 악기·지명, 식사·운동·과목, by 교통수단, 관용 표현, 발음 함정(an hour, a university) 포함",
     "wordCount": 150,
-    "category": "빈칸단어장"
+    "category": "영문법 빈칸연습"
   },
   {
     "file": "fill_in_blank_irregular_verbs_150.json",
     "name": "불규칙동사 빈칸 150 - 과거형·과거분사 문맥 고르기",
     "description": "문맥(과거 시간 표현, Did/didn't, have/had + p.p., 수동태, 형용사적 과거분사)에 맞는 불규칙동사의 형태를 고르는 빈칸 채우기 150문제. 보기에는 원형·3인칭 단수·-ing형과 자주 틀리는 규칙화 오답(goed, taked 등) 포함",
     "wordCount": 150,
-    "category": "빈칸단어장"
+    "category": "영문법 빈칸연습"
+  },
+  {
+    "file": "korean_native_words_150.json",
+    "name": "순우리말 150",
+    "description": "뜻이 고운 순우리말 150개. 하늘·날씨, 땅·물·길, 시간, 사람·관계, 마음·성품, 모양·상태, 부사, 동작, 생활·사물 주제별 분류",
+    "wordCount": 150,
+    "category": "국어"
   },
   {
     "file": "hanja_grade8_50.json",
@@ -525,13 +532,6 @@
     "category": "한자/사자성어"
   },
   {
-    "file": "korean_native_words_150.json",
-    "name": "순우리말 150",
-    "description": "뜻이 고운 순우리말 150개. 하늘·날씨, 땅·물·길, 시간, 사람·관계, 마음·성품, 모양·상태, 부사, 동작, 생활·사물 주제별 분류",
-    "wordCount": 150,
-    "category": "국어"
-  },
-  {
     "file": "elements_1_36.json",
     "name": "주기율표 원소 1~36번",
     "description": "수소(1번)부터 크립톤(36번)까지 4주기 원소 36개. 기호를 보고 이름·원자번호·주기·족·분류·대표 성질과 용도를 익힘. 중등 과학·고등 화학 핵심 범위, 새 명칭(소듐·포타슘 등)에 옛 이름 병기",
@@ -557,13 +557,13 @@
     "name": "히라가나 104",
     "description": "히라가나 기본 청음 46자, 탁음 20자, 반탁음 5자, 요음 33자 총 104자",
     "wordCount": 104,
-    "category": "기타"
+    "category": "일본어"
   },
   {
     "file": "katakana_104_v2.json",
     "name": "카타카나 104",
     "description": "카타카나 기본 청음 46자, 탁음 20자, 반탁음 5자, 요음 33자 총 104자",
     "wordCount": 104,
-    "category": "기타"
+    "category": "일본어"
   }
 ]
