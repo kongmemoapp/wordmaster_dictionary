@@ -77,10 +77,10 @@
     "category": "영단어 - 수준별"
   },
   {
-    "file": "etymology_300.json",
-    "name": "어원으로 외우는 영단어 300",
-    "description": "접두사 20종(un-, dis-, re-, pre-, ex-, inter-, trans-, sub-, over-, auto- 등), 접미사 14종(-er, -tion, -ment, -ness, -ful/-less, -able, -ous/-ive, -ize 등), 어근 24종(spect, vis, dict, port, duct, ject, mit, struct, form, cept, tract, cred, fact, gen, vit 등)별로 묶은 영단어 300개. 뜻과 함께 어원 분해(un 아닌 + happy 행복한)를 제시해 모르는 단어도 추론할 수 있게 함",
-    "wordCount": 300,
+    "file": "etymology_200.json",
+    "name": "영어 어원 200 - 접두사·접미사·어근",
+    "description": "접두사 60개(un-, re-, pre-, trans-, auto- 등), 접미사 50개(-tion, -ness, -able, -ize 등), 어근 90개(spect, port, ject, struct, bio 등)의 뜻과 기능. 예시 단어 3개씩(어원 부분은 □로 가림)을 붙여 모르는 단어의 뜻을 추론하는 힘을 기름",
+    "wordCount": 200,
     "category": "영단어 - 수준별"
   },
   {

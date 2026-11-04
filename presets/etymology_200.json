@@ -1,0 +1,806 @@
+{
+  "name": "영어 어원 200 - 접두사·접미사·어근",
+  "description": "접두사 60개(un-, re-, pre-, trans-, auto- 등), 접미사 50개(-tion, -ness, -able, -ize 등), 어근 90개(spect, port, ject, struct, bio 등)의 뜻과 기능. 예시 단어 3개씩(어원 부분은 □로 가림)을 붙여 모르는 단어의 뜻을 추론하는 힘을 기름",
+  "words": [
+    {
+      "w": "un-",
+      "m": "[접두사 · 부정·반대: ~이 아닌, ~을 되돌려] 예) □happy 불행한, □known 알려지지 않은, □lock 잠금을 풀다"
+    },
+    {
+      "w": "in-/im-/il-/ir-",
+      "m": "[접두사 · 부정: ~이 아닌 (뒤에 오는 소리에 따라 형태가 바뀜)] 예) □visible 보이지 않는, □possible 불가능한, □legal 불법의, □regular 불규칙한"
+    },
+    {
+      "w": "dis-",
+      "m": "[접두사 · 부정·분리: ~이 아닌, 떨어져] 예) □agree 동의하지 않다, □appear 사라지다, □connect 연결을 끊다"
+    },
+    {
+      "w": "non-",
+      "m": "[접두사 · 아님: ~이 아닌] 예) □sense 말도 안 되는 소리, □stop 쉬지 않는, □fiction 실화 문학"
+    },
+    {
+      "w": "mis-",
+      "m": "[접두사 · 잘못: 잘못된, 나쁘게] 예) □take 실수, □understand 오해하다, □lead 오도하다"
+    },
+    {
+      "w": "anti-",
+      "m": "[접두사 · 반대·대항: ~에 맞서는] 예) □body 항체, □social 반사회적인, □war 반전의"
+    },
+    {
+      "w": "counter-",
+      "m": "[접두사 · 반대·대응: 맞서서] 예) □attack 반격, □part 상대방, 대응물, □clockwise 시계 반대 방향으로"
+    },
+    {
+      "w": "de-",
+      "m": "[접두사 · 제거·아래로·반대] 예) □frost 해동하다, □crease 줄다, □part 출발하다"
+    },
+    {
+      "w": "re-",
+      "m": "[접두사 · 다시·뒤로] 예) □turn 돌아오다, □build 다시 짓다, □cycle 재활용하다"
+    },
+    {
+      "w": "pre-",
+      "m": "[접두사 · 미리·앞] 예) □view 미리 보기, □dict 예측하다, □vent 예방하다"
+    },
+    {
+      "w": "post-",
+      "m": "[접두사 · 뒤·후] 예) □pone 연기하다, □war 전후의, □script 추신"
+    },
+    {
+      "w": "fore-",
+      "m": "[접두사 · 앞·미리] 예) □cast 예보, □head 이마, □see 예견하다"
+    },
+    {
+      "w": "ante-",
+      "m": "[접두사 · 앞·이전] 예) □cedent 선행하는 것, □rior 앞쪽의"
+    },
+    {
+      "w": "ex-",
+      "m": "[접두사 · 밖으로·이전의] 예) □it 출구, □port 수출하다, □clude 제외하다"
+    },
+    {
+      "w": "e-/ef-",
+      "m": "[접두사 · 밖으로 (ex-의 변형)] 예) □merge 나타나다, □vaporate 증발하다, □fect 결과, 효과"
+    },
+    {
+      "w": "in-/im- (안으로)",
+      "m": "[접두사 · 안으로 (같은 형태의 부정 접두사와 구별)] 예) □port 수입하다, □clude 포함하다, □come 소득"
+    },
+    {
+      "w": "en-/em-",
+      "m": "[접두사 · ~하게 만들다, 안에 넣다] 예) □able 할 수 있게 하다, □rich 풍부하게 하다, □power 권한을 주다"
+    },
+    {
+      "w": "inter-",
+      "m": "[접두사 · 사이·상호] 예) □national 국제적인, □view 면접, □act 상호 작용하다"
+    },
+    {
+      "w": "intra-/intro-",
+      "m": "[접두사 · 안쪽으로] 예) □net 내부 통신망, □duce 소개하다, □vert 내향적인 사람"
+    },
+    {
+      "w": "trans-",
+      "m": "[접두사 · 가로질러·변화] 예) □port 운송하다, □late 번역하다, □form 변형시키다"
+    },
+    {
+      "w": "sub-",
+      "m": "[접두사 · 아래] 예) □way 지하철, □marine 잠수함, □title 자막"
+    },
+    {
+      "w": "super-",
+      "m": "[접두사 · 위·초월] 예) □man 초인, □market 슈퍼마켓, □ior 우수한"
+    },
+    {
+      "w": "sur-",
+      "m": "[접두사 · 위·넘어 (super-의 변형)] 예) □face 표면, □pass 능가하다, □vive 생존하다"
+    },
+    {
+      "w": "over-",
+      "m": "[접두사 · 과도·위] 예) □eat 과식하다, □sleep 늦잠 자다, □come 극복하다"
+    },
+    {
+      "w": "under-",
+      "m": "[접두사 · 아래·부족] 예) □ground 지하의, □line 밑줄을 치다, □estimate 과소평가하다"
+    },
+    {
+      "w": "hyper-",
+      "m": "[접두사 · 과도·초] 예) □active 지나치게 활동적인, □tension 고혈압, □link 하이퍼링크"
+    },
+    {
+      "w": "hypo-",
+      "m": "[접두사 · 아래·부족] 예) □thesis 가설, □thermia 저체온증"
+    },
+    {
+      "w": "auto-",
+      "m": "[접두사 · 스스로] 예) □matic 자동의, □graph 서명, □biography 자서전"
+    },
+    {
+      "w": "self-",
+      "m": "[접두사 · 자기 자신의] 예) □-confidence 자신감, □-control 자제력, □ish 이기적인"
+    },
+    {
+      "w": "co-/com-/con-/col-",
+      "m": "[접두사 · 함께] 예) □operate 협력하다, □bine 결합하다, □nect 연결하다, □lect 모으다"
+    },
+    {
+      "w": "syn-/sym-",
+      "m": "[접두사 · 함께·동시에] 예) □chronize 동시에 맞추다, □pathy 동정, □phony 교향곡"
+    },
+    {
+      "w": "uni-/mono-",
+      "m": "[접두사 · 하나] 예) □form 제복, □verse 우주, □logue 독백"
+    },
+    {
+      "w": "bi-/di-",
+      "m": "[접두사 · 둘] 예) □cycle 자전거, □lingual 2개 언어를 하는, □oxide 이산화물"
+    },
+    {
+      "w": "tri-",
+      "m": "[접두사 · 셋] 예) □angle 삼각형, □cycle 세발자전거, □logy 3부작"
+    },
+    {
+      "w": "multi-/poly-",
+      "m": "[접두사 · 많은] 예) □ply 곱하다, □media 멀티미디어, □gon 다각형"
+    },
+    {
+      "w": "semi-/hemi-",
+      "m": "[접두사 · 절반] 예) □circle 반원, □final 준결승, □sphere 반구"
+    },
+    {
+      "w": "omni-/pan-",
+      "m": "[접두사 · 모든] 예) □vore 잡식 동물, □potent 전능한, □demic 전 세계적 유행병"
+    },
+    {
+      "w": "tele-",
+      "m": "[접두사 · 멀리] 예) □phone 전화, □vision 텔레비전, □scope 망원경"
+    },
+    {
+      "w": "micro-",
+      "m": "[접두사 · 작은] 예) □scope 현미경, □wave 전자레인지, □phone 마이크"
+    },
+    {
+      "w": "macro-/mega-",
+      "m": "[접두사 · 큰] 예) □economics 거시경제학, □phone 메가폰, □city 거대 도시"
+    },
+    {
+      "w": "mini-",
+      "m": "[접두사 · 작은] 예) □bus 소형 버스, □ature 축소 모형, □mum 최소"
+    },
+    {
+      "w": "ab-/abs-",
+      "m": "[접두사 · 떨어져·벗어나] 예) □normal 비정상의, □ent 결석한, □tract 추상적인"
+    },
+    {
+      "w": "ad-/ac-/at-",
+      "m": "[접두사 · ~을 향하여] 예) □vance 전진하다, □cept 받아들이다, □tract 끌어당기다"
+    },
+    {
+      "w": "pro-",
+      "m": "[접두사 · 앞으로·찬성] 예) □gress 진보, □mote 승진시키다, □ject 계획"
+    },
+    {
+      "w": "per-",
+      "m": "[접두사 · 완전히·통과하여] 예) □fect 완벽한, □mit 허락하다, □sist 지속하다"
+    },
+    {
+      "w": "ob-/op-",
+      "m": "[접두사 · 맞서·향하여] 예) □ject 반대하다, □stacle 장애물, □pose 반대하다"
+    },
+    {
+      "w": "contra-/contro-",
+      "m": "[접두사 · 반대] 예) □st 대조, □dict 반박하다, □versy 논쟁"
+    },
+    {
+      "w": "se-",
+      "m": "[접두사 · 떨어져·분리] 예) □parate 분리하다, □lect 선택하다, □cure 안전한"
+    },
+    {
+      "w": "dia-",
+      "m": "[접두사 · 가로질러·사이] 예) □logue 대화, □meter 지름, □gram 도표"
+    },
+    {
+      "w": "para-",
+      "m": "[접두사 · 옆에·너머] 예) □llel 평행한, □graph 단락, □dox 역설"
+    },
+    {
+      "w": "peri-/circum-",
+      "m": "[접두사 · 둘레] 예) □meter 둘레, □od 기간, □stance 상황"
+    },
+    {
+      "w": "ambi-/amphi-",
+      "m": "[접두사 · 양쪽] 예) □guous 애매한, □tion 야망, □bian 양서류"
+    },
+    {
+      "w": "bene-/bon-",
+      "m": "[접두사 · 좋은] 예) □fit 이익, □volent 자비로운, □us 보너스"
+    },
+    {
+      "w": "mal-",
+      "m": "[접두사 · 나쁜] 예) □function 고장, □nutrition 영양실조, □icious 악의적인"
+    },
+    {
+      "w": "eu-/dys-",
+      "m": "[접두사 · 좋은 / 나쁜] 예) □phemism 완곡어법, □logy 찬사, □lexia 난독증"
+    },
+    {
+      "w": "neo-/paleo-",
+      "m": "[접두사 · 새로운 / 오래된] 예) □classical 신고전주의의, □logism 신조어, □lithic 구석기의"
+    },
+    {
+      "w": "extra-/ultra-",
+      "m": "[접두사 · 밖·넘어] 예) □ordinary 비범한, □curricular 교과 외의, □violet 자외선의"
+    },
+    {
+      "w": "out-",
+      "m": "[접두사 · 밖으로·능가] 예) □door 야외의, □put 산출, □number 수적으로 우세하다"
+    },
+    {
+      "w": "with-",
+      "m": "[접두사 · 뒤로·거슬러] 예) □draw 인출하다, 철회하다, □hold 보류하다, □stand 견디다"
+    },
+    {
+      "w": "vice-",
+      "m": "[접두사 · 대리·부] 예) □-president 부통령, 부사장, □roy 총독"
+    },
+    {
+      "w": "-er/-or",
+      "m": "[접미사 · ~하는 사람·도구 (명사)] 예) teach□ 선생님, act□ 배우, heat□ 난방기"
+    },
+    {
+      "w": "-ist",
+      "m": "[접미사 · ~하는 사람, ~주의자 (명사)] 예) art□ 예술가, scient□ 과학자, tour□ 관광객"
+    },
+    {
+      "w": "-ian",
+      "m": "[접미사 · ~하는 사람, ~의 (명사·형용사)] 예) music□ 음악가, librar□ 사서, histor□ 역사가"
+    },
+    {
+      "w": "-ee",
+      "m": "[접미사 · ~을 받는 사람 (명사)] 예) employ□ 직원, interview□ 면접 받는 사람, train□ 훈련받는 사람"
+    },
+    {
+      "w": "-ant/-ent (사람)",
+      "m": "[접미사 · ~하는 사람 (명사)] 예) assist□ 조수, applic□ 지원자, stud□ 학생"
+    },
+    {
+      "w": "-ess",
+      "m": "[접미사 · 여성 (명사)] 예) actr□ 여배우, princ□ 공주, waitr□ 여종업원"
+    },
+    {
+      "w": "-tion/-sion",
+      "m": "[접미사 · 행위·상태 (동사 → 명사)] 예) ac□ 행동, educa□ 교육, deci□ 결정"
+    },
+    {
+      "w": "-ment",
+      "m": "[접미사 · 결과·상태 (동사 → 명사)] 예) move□ 움직임, agree□ 동의, develop□ 발달"
+    },
+    {
+      "w": "-ness",
+      "m": "[접미사 · 성질·상태 (형용사 → 명사)] 예) happi□ 행복, kind□ 친절, dark□ 어둠"
+    },
+    {
+      "w": "-ity/-ty",
+      "m": "[접미사 · 성질·상태 (형용사 → 명사)] 예) abil□ 능력, real□ 현실, safe□ 안전"
+    },
+    {
+      "w": "-ance/-ence",
+      "m": "[접미사 · 행위·상태 (명사)] 예) import□ 중요성, perform□ 공연, differ□ 차이"
+    },
+    {
+      "w": "-ancy/-ency",
+      "m": "[접미사 · 상태·성질 (명사)] 예) pregn□ 임신, frequ□ 빈도, emerg□ 긴급 상황"
+    },
+    {
+      "w": "-ship",
+      "m": "[접미사 · 관계·자격·상태 (명사)] 예) friend□ 우정, leader□ 지도력, member□ 회원 자격"
+    },
+    {
+      "w": "-hood",
+      "m": "[접미사 · 시기·상태·집단 (명사)] 예) child□ 어린 시절, neighbor□ 이웃, brother□ 형제애"
+    },
+    {
+      "w": "-dom",
+      "m": "[접미사 · 상태·영역 (명사)] 예) free□ 자유, king□ 왕국, wis□ 지혜"
+    },
+    {
+      "w": "-th",
+      "m": "[접미사 · 상태·성질 (형용사 → 명사)] 예) warm□ 따뜻함, streng□ 힘, grow□ 성장"
+    },
+    {
+      "w": "-age",
+      "m": "[접미사 · 행위·집합·상태 (명사)] 예) marri□ 결혼, pack□ 소포, short□ 부족"
+    },
+    {
+      "w": "-ure",
+      "m": "[접미사 · 행위·결과 (명사)] 예) fail□ 실패, pleas□ 즐거움, depart□ 출발"
+    },
+    {
+      "w": "-al (명사)",
+      "m": "[접미사 · 행위 (동사 → 명사)] 예) arriv□ 도착, refus□ 거절, propos□ 제안"
+    },
+    {
+      "w": "-ism",
+      "m": "[접미사 · 주의·사상·행위 (명사)] 예) capital□ 자본주의, tour□ 관광 산업, critic□ 비판"
+    },
+    {
+      "w": "-logy",
+      "m": "[접미사 · 학문 (명사)] 예) bio□ 생물학, psycho□ 심리학, techno□ 기술"
+    },
+    {
+      "w": "-graphy",
+      "m": "[접미사 · 기록·기술 (명사)] 예) geo□ 지리학, photo□ 사진술, bio□ 전기"
+    },
+    {
+      "w": "-ics",
+      "m": "[접미사 · 학문·기술 (명사)] 예) econom□ 경제학, phys□ 물리학, polit□ 정치"
+    },
+    {
+      "w": "-let/-ette",
+      "m": "[접미사 · 작은 것 (명사)] 예) book□ 소책자, pig□ 새끼 돼지, cigar□ 담배"
+    },
+    {
+      "w": "-al/-ial (형용사)",
+      "m": "[접미사 · ~의, ~에 관한] 예) nation□ 국가의, natur□ 자연의, offic□ 공식적인"
+    },
+    {
+      "w": "-ful",
+      "m": "[접미사 · ~이 가득한, ~한 (형용사)] 예) care□ 조심하는, use□ 유용한, beauti□ 아름다운"
+    },
+    {
+      "w": "-less",
+      "m": "[접미사 · ~이 없는 (형용사)] 예) care□ 부주의한, use□ 쓸모없는, home□ 집 없는"
+    },
+    {
+      "w": "-able/-ible",
+      "m": "[접미사 · ~할 수 있는, ~하기 쉬운 (형용사)] 예) comfort□ 편안한, read□ 읽기 쉬운, flex□ 유연한"
+    },
+    {
+      "w": "-ous/-ious",
+      "m": "[접미사 · ~이 많은, ~의 성질을 가진 (형용사)] 예) danger□ 위험한, fam□ 유명한, cur□ 호기심 많은"
+    },
+    {
+      "w": "-ive",
+      "m": "[접미사 · ~하는 성질의 (형용사)] 예) act□ 활동적인, creat□ 창의적인, expens□ 값비싼"
+    },
+    {
+      "w": "-ic/-ical",
+      "m": "[접미사 · ~의, ~적인 (형용사)] 예) bas□ 기본적인, histor□ 역사적인, mus□ 음악의"
+    },
+    {
+      "w": "-y",
+      "m": "[접미사 · ~이 많은, ~한 (형용사)] 예) rain□ 비 오는, health□ 건강한, sleep□ 졸린"
+    },
+    {
+      "w": "-ly (형용사)",
+      "m": "[접미사 · ~같은, ~의 성질을 가진] 예) friend□ 친근한, love□ 사랑스러운, cost□ 값비싼"
+    },
+    {
+      "w": "-ish",
+      "m": "[접미사 · ~같은, 약간 ~한 (형용사)] 예) child□ 어린애 같은, fool□ 어리석은, redd□ 붉은빛을 띤"
+    },
+    {
+      "w": "-ant/-ent (형용사)",
+      "m": "[접미사 · ~하는 성질의] 예) import□ 중요한, differ□ 다른, pleas□ 즐거운"
+    },
+    {
+      "w": "-ory/-ary",
+      "m": "[접미사 · ~의, ~에 관한 (형용사·명사)] 예) compuls□ 의무적인, necess□ 필요한, libr□ 도서관"
+    },
+    {
+      "w": "-some",
+      "m": "[접미사 · ~하기 쉬운, ~한 (형용사)] 예) hand□ 잘생긴, tire□ 지루한, trouble□ 골치 아픈"
+    },
+    {
+      "w": "-en (형용사)",
+      "m": "[접미사 · ~로 만든] 예) wood□ 나무로 된, gold□ 금빛의, wool□ 양모의"
+    },
+    {
+      "w": "-ward(s)",
+      "m": "[접미사 · ~쪽으로 (부사·형용사)] 예) for□ 앞으로, back□ 뒤로, to□ ~을 향하여"
+    },
+    {
+      "w": "-wise",
+      "m": "[접미사 · ~방식으로, ~에 관해 (부사)] 예) clock□ 시계 방향으로, like□ 마찬가지로, other□ 그렇지 않으면"
+    },
+    {
+      "w": "-ly (부사)",
+      "m": "[접미사 · ~하게 (형용사 → 부사)] 예) quick□ 빨리, careful□ 조심스럽게, final□ 마침내"
+    },
+    {
+      "w": "-ize/-ise",
+      "m": "[접미사 · ~화하다, ~하게 만들다 (동사)] 예) real□ 깨닫다, memor□ 암기하다, apolog□ 사과하다"
+    },
+    {
+      "w": "-ify/-fy",
+      "m": "[접미사 · ~하게 만들다 (동사)] 예) simpl□ 단순화하다, class□ 분류하다, satis□ 만족시키다"
+    },
+    {
+      "w": "-en (동사)",
+      "m": "[접미사 · ~하게 만들다, ~이 되다] 예) wid□ 넓히다, short□ 짧게 하다, strength□ 강화하다"
+    },
+    {
+      "w": "-ate",
+      "m": "[접미사 · ~하게 하다 (동사) / ~의 (형용사)] 예) activ□ 활성화하다, educ□ 교육하다, fortun□ 운 좋은"
+    },
+    {
+      "w": "-er (비교급)",
+      "m": "[접미사 · 더 ~한 (비교급)] 예) tall□ 더 키 큰, fast□ 더 빠른, bigg□ 더 큰"
+    },
+    {
+      "w": "-est",
+      "m": "[접미사 · 가장 ~한 (최상급)] 예) tall□ 가장 키 큰, fast□ 가장 빠른, bigg□ 가장 큰"
+    },
+    {
+      "w": "-ing",
+      "m": "[접미사 · ~하는 중인, ~하는 것 (현재분사·동명사)] 예) swimm□ 수영(하는), interest□ 흥미로운, build□ 건물"
+    },
+    {
+      "w": "-ed",
+      "m": "[접미사 · ~된, ~한 (과거분사) / 과거형] 예) excit□ 흥분한, tir□ 피곤한, talent□ 재능 있는"
+    },
+    {
+      "w": "-s/-es",
+      "m": "[접미사 · 복수형 / 3인칭 단수 현재] 예) book□ 책들, box□ 상자들, go□ 간다"
+    },
+    {
+      "w": "spect/spec",
+      "m": "[어근 · 보다] 예) in□ 조사하다, re□ 존경하다, □ator 관중"
+    },
+    {
+      "w": "vis/vid",
+      "m": "[어근 · 보다] 예) □ion 시야, □ible 보이는, e□ence 증거"
+    },
+    {
+      "w": "scop",
+      "m": "[어근 · 보다, 살피다] 예) tele□e 망원경, micro□e 현미경, □e 범위"
+    },
+    {
+      "w": "aud",
+      "m": "[어근 · 듣다] 예) □ience 청중, □io 음향, □itorium 강당"
+    },
+    {
+      "w": "dict",
+      "m": "[어근 · 말하다] 예) □ionary 사전, pre□ 예측하다, contra□ 반박하다"
+    },
+    {
+      "w": "voc/vok",
+      "m": "[어근 · 부르다, 목소리] 예) □abulary 어휘, □al 목소리의, pro□e 유발하다"
+    },
+    {
+      "w": "log/logue",
+      "m": "[어근 · 말, 이성, 학문] 예) dia□ 대화, □ic 논리, apo□y 사과"
+    },
+    {
+      "w": "scrib/script",
+      "m": "[어근 · 쓰다] 예) de□e 묘사하다, manu□ 원고, sub□e 구독하다"
+    },
+    {
+      "w": "graph/gram",
+      "m": "[어근 · 쓰다, 그리다] 예) photo□ 사진, para□ 단락, tele□ 전보"
+    },
+    {
+      "w": "port",
+      "m": "[어근 · 운반하다, 항구] 예) □able 휴대할 수 있는, re□ 보고하다, sup□ 지지하다"
+    },
+    {
+      "w": "fer",
+      "m": "[어근 · 운반하다, 나르다] 예) pre□ 선호하다, of□ 제공하다, trans□ 옮기다"
+    },
+    {
+      "w": "lat",
+      "m": "[어근 · 운반하다, 옮기다] 예) trans□e 번역하다, re□e 관련시키다, col□eral 담보"
+    },
+    {
+      "w": "duc/duct",
+      "m": "[어근 · 이끌다] 예) con□ 수행하다, pro□e 생산하다, e□ate 교육하다"
+    },
+    {
+      "w": "mit/miss",
+      "m": "[어근 · 보내다] 예) per□ 허락하다, trans□ 전송하다, □ion 임무"
+    },
+    {
+      "w": "ject",
+      "m": "[어근 · 던지다] 예) pro□ 계획, re□ 거절하다, in□ 주사하다"
+    },
+    {
+      "w": "tract",
+      "m": "[어근 · 끌다] 예) at□ 끌어당기다, con□ 계약, ex□ 추출하다"
+    },
+    {
+      "w": "pel/puls",
+      "m": "[어근 · 밀다, 몰다] 예) pro□ 추진하다, ex□ 추방하다, □e 맥박"
+    },
+    {
+      "w": "pos/pon",
+      "m": "[어근 · 놓다] 예) □ition 위치, op□e 반대하다, com□ent 구성 요소"
+    },
+    {
+      "w": "struct",
+      "m": "[어근 · 세우다] 예) □ure 구조, con□ 건설하다, in□ 지시하다"
+    },
+    {
+      "w": "form",
+      "m": "[어근 · 형태] 예) in□ 알리다, re□ 개혁하다, □ula 공식"
+    },
+    {
+      "w": "fac/fact/fect/fic",
+      "m": "[어근 · 만들다, 하다] 예) □ory 공장, ef□ 효과, ef□ient 효율적인"
+    },
+    {
+      "w": "cap/cept/ceive",
+      "m": "[어근 · 잡다, 받다] 예) □ture 포획하다, ac□ 받아들이다, re□ 받다"
+    },
+    {
+      "w": "ten/tain/tin",
+      "m": "[어근 · 잡다, 유지하다] 예) con□ 담다, main□ 유지하다, con□ue 계속하다"
+    },
+    {
+      "w": "pre(hend)/pris",
+      "m": "[어근 · 잡다] 예) com□hend 이해하다, sur□e 놀라게 하다, im□on 투옥하다"
+    },
+    {
+      "w": "ven/vent",
+      "m": "[어근 · 오다] 예) e□ 사건, in□ 발명하다, ad□ure 모험"
+    },
+    {
+      "w": "ced/ceed/cess",
+      "m": "[어근 · 가다] 예) pro□ 진행하다, suc□ 성공하다, ac□ 접근"
+    },
+    {
+      "w": "grad/gress",
+      "m": "[어근 · 걷다, 단계] 예) □ual 점진적인, pro□ 진보, □uate 졸업하다"
+    },
+    {
+      "w": "cur/curs/cours",
+      "m": "[어근 · 달리다, 흐르다] 예) □rent 현재의, 흐름, oc□ 일어나다, □e 과정"
+    },
+    {
+      "w": "mov/mot/mob",
+      "m": "[어근 · 움직이다] 예) □ement 움직임, □ion 운동, □ile 이동하는"
+    },
+    {
+      "w": "vert/vers",
+      "m": "[어근 · 돌다, 바꾸다] 예) con□ 전환하다, re□e 뒤집다, □ion 판"
+    },
+    {
+      "w": "volv/volu",
+      "m": "[어근 · 굴리다, 돌다] 예) re□e 회전하다, e□e 진화하다, □me 부피, 책"
+    },
+    {
+      "w": "rupt",
+      "m": "[어근 · 깨다] 예) inter□ 방해하다, e□ 폭발하다, bank□ 파산한"
+    },
+    {
+      "w": "frag/fract",
+      "m": "[어근 · 부서지다] 예) □ile 깨지기 쉬운, □ment 조각, □ure 골절"
+    },
+    {
+      "w": "cis/cid",
+      "m": "[어근 · 자르다, 죽이다] 예) de□e 결정하다, pre□e 정확한, s□sors 가위"
+    },
+    {
+      "w": "sect/seg",
+      "m": "[어근 · 자르다] 예) □ion 부분, in□ 곤충, □ment 조각"
+    },
+    {
+      "w": "clud/clus/clos",
+      "m": "[어근 · 닫다] 예) in□e 포함하다, con□e 결론 내리다, □e 닫다"
+    },
+    {
+      "w": "tend/tens/tent",
+      "m": "[어근 · 뻗다, 당기다] 예) ex□ 연장하다, □ion 긴장, at□ion 주의"
+    },
+    {
+      "w": "press",
+      "m": "[어근 · 누르다] 예) □ure 압력, ex□ 표현하다, im□ 감동시키다"
+    },
+    {
+      "w": "pend/pens",
+      "m": "[어근 · 매달다, 무게를 달다] 예) de□ 의존하다, sus□ 중단하다, ex□e 비용"
+    },
+    {
+      "w": "sist/sta/stat",
+      "m": "[어근 · 서다] 예) in□ 주장하다, re□ 저항하다, □ble 안정된"
+    },
+    {
+      "w": "sed/sid/sess",
+      "m": "[어근 · 앉다] 예) re□e 거주하다, pre□ent 대통령, □ion 회의"
+    },
+    {
+      "w": "cred",
+      "m": "[어근 · 믿다] 예) □it 신용, in□ible 믿을 수 없는, □ible 믿을 만한"
+    },
+    {
+      "w": "fid",
+      "m": "[어근 · 믿다, 신뢰] 예) con□ent 자신 있는, □elity 충실, con□e 비밀을 털어놓다"
+    },
+    {
+      "w": "sci",
+      "m": "[어근 · 알다] 예) □ence 과학, con□ous 의식하는, con□ence 양심"
+    },
+    {
+      "w": "cogn/gnos",
+      "m": "[어근 · 알다] 예) re□ize 알아보다, □itive 인지의, dia□is 진단"
+    },
+    {
+      "w": "sent/sens",
+      "m": "[어근 · 느끼다] 예) □e 감각, □iment 감정, con□ 동의하다"
+    },
+    {
+      "w": "path",
+      "m": "[어근 · 느낌, 고통] 예) sym□y 동정, em□y 공감, □etic 불쌍한"
+    },
+    {
+      "w": "mem/ment",
+      "m": "[어근 · 마음, 기억] 예) □ory 기억, □al 정신의, □orial 기념물"
+    },
+    {
+      "w": "psych",
+      "m": "[어근 · 마음, 정신] 예) □ology 심리학, □iatrist 정신과 의사, □ic 초자연적인"
+    },
+    {
+      "w": "anim",
+      "m": "[어근 · 생명, 영혼] 예) □al 동물, □ation 애니메이션, un□ous 만장일치의"
+    },
+    {
+      "w": "vit/viv",
+      "m": "[어근 · 생명, 살다] 예) □al 필수적인, □amin 비타민, sur□e 생존하다"
+    },
+    {
+      "w": "bio",
+      "m": "[어근 · 생명] 예) □logy 생물학, □graphy 전기, anti□tic 항생제"
+    },
+    {
+      "w": "gen",
+      "m": "[어근 · 태어남, 종류] 예) □erate 생성하다, □eration 세대, □uine 진짜의"
+    },
+    {
+      "w": "nat",
+      "m": "[어근 · 태어나다] 예) □ure 자연, □ive 타고난, □ion 국가"
+    },
+    {
+      "w": "mort",
+      "m": "[어근 · 죽음] 예) □al 죽을 운명의, im□al 불멸의, □gage 담보 대출"
+    },
+    {
+      "w": "corp",
+      "m": "[어근 · 몸] 예) □oration 기업, □se 시체, in□orate 통합하다"
+    },
+    {
+      "w": "man/manu",
+      "m": "[어근 · 손] 예) □al 수동의, □age 관리하다, □facture 제조하다"
+    },
+    {
+      "w": "ped/pod",
+      "m": "[어근 · 발] 예) □al 페달, □estrian 보행자, tri□ 삼각대"
+    },
+    {
+      "w": "cap/capit",
+      "m": "[어근 · 머리] 예) □tain 선장, □al 수도, 자본, de□ate 목을 베다"
+    },
+    {
+      "w": "cord/cour",
+      "m": "[어근 · 마음, 심장] 예) ac□ 일치, □age 용기, dis□ 불화"
+    },
+    {
+      "w": "dent/dont",
+      "m": "[어근 · 이(치아)] 예) □ist 치과의사, □al 치아의, ortho□ist 치과 교정 전문의"
+    },
+    {
+      "w": "chron",
+      "m": "[어근 · 시간] 예) □ic 만성의, □ological 연대순의, syn□ize 동시에 맞추다"
+    },
+    {
+      "w": "temp",
+      "m": "[어근 · 시간] 예) □orary 일시적인, con□orary 동시대의, □o 속도"
+    },
+    {
+      "w": "ann/enn",
+      "m": "[어근 · 해(年)] 예) □ual 연간의, □iversary 기념일, mill□ium 천년"
+    },
+    {
+      "w": "geo",
+      "m": "[어근 · 땅, 지구] 예) □graphy 지리학, □logy 지질학, □metry 기하학"
+    },
+    {
+      "w": "terr",
+      "m": "[어근 · 땅] 예) □itory 영토, □ain 지형, □ace 테라스"
+    },
+    {
+      "w": "aqua/hydr",
+      "m": "[어근 · 물] 예) □rium 수족관, □ogen 수소, □ate 수분을 공급하다"
+    },
+    {
+      "w": "mar",
+      "m": "[어근 · 바다] 예) □ine 바다의, sub□ine 잠수함, □itime 해양의"
+    },
+    {
+      "w": "astro/aster",
+      "m": "[어근 · 별] 예) □naut 우주 비행사, □nomy 천문학, □isk 별표"
+    },
+    {
+      "w": "sol",
+      "m": "[어근 · 태양 / 혼자] 예) □ar 태양의, □o 독주, □itude 고독"
+    },
+    {
+      "w": "lun",
+      "m": "[어근 · 달] 예) □ar 달의, □atic 미친 사람"
+    },
+    {
+      "w": "photo/phos",
+      "m": "[어근 · 빛] 예) □graph 사진, □synthesis 광합성, □phorus 인(원소)"
+    },
+    {
+      "w": "luc/lum",
+      "m": "[어근 · 빛] 예) □id 명쾌한, il□inate 비추다, □inous 빛나는"
+    },
+    {
+      "w": "therm",
+      "m": "[어근 · 열] 예) □ometer 온도계, □al 열의, □ostat 온도 조절 장치"
+    },
+    {
+      "w": "pyr",
+      "m": "[어근 · 불] 예) □amid 피라미드, □otechnics 불꽃 제조술"
+    },
+    {
+      "w": "phon",
+      "m": "[어근 · 소리] 예) tele□e 전화, sym□y 교향곡, □ics 파닉스"
+    },
+    {
+      "w": "son",
+      "m": "[어근 · 소리] 예) □ic 음속의, re□ance 공명, con□ant 자음"
+    },
+    {
+      "w": "meter/metr",
+      "m": "[어근 · 측정] 예) thermo□ 온도계, dia□ 지름, sym□y 대칭"
+    },
+    {
+      "w": "mon/monit",
+      "m": "[어근 · 경고하다, 보여 주다] 예) □or 감시하다, □ument 기념물, ad□ish 훈계하다"
+    },
+    {
+      "w": "nom/nym",
+      "m": "[어근 · 이름] 예) □inate 지명하다, syno□ 동의어, ano□ous 익명의"
+    },
+    {
+      "w": "ver",
+      "m": "[어근 · 진실] 예) □ify 확인하다, □dict 판결, □acity 진실성"
+    },
+    {
+      "w": "jur/jus/jud",
+      "m": "[어근 · 법, 정의] 예) □tice 정의, □y 배심원, □ge 판사"
+    },
+    {
+      "w": "leg/lect",
+      "m": "[어근 · 법 / 읽다, 모으다] 예) □al 합법의, □ure 강의, col□ 모으다"
+    },
+    {
+      "w": "liber",
+      "m": "[어근 · 자유] 예) □ty 자유, □al 자유주의의, □ate 해방하다"
+    },
+    {
+      "w": "pop/dem",
+      "m": "[어근 · 사람들] 예) □ulation 인구, □ular 인기 있는, □ocracy 민주주의"
+    },
+    {
+      "w": "civ/polit",
+      "m": "[어근 · 시민, 도시] 예) □il 시민의, □ilization 문명, □ics 정치"
+    },
+    {
+      "w": "urb",
+      "m": "[어근 · 도시] 예) □an 도시의, sub□ 교외, □anize 도시화하다"
+    },
+    {
+      "w": "agri/agro",
+      "m": "[어근 · 밭, 농업] 예) □culture 농업, □nomy 농학"
+    },
+    {
+      "w": "pater/patri",
+      "m": "[어근 · 아버지] 예) □nal 아버지의, □ot 애국자, □ron 후원자"
+    },
+    {
+      "w": "cult",
+      "m": "[어근 · 경작하다, 기르다] 예) □ure 문화, agri□ure 농업, □ivate 재배하다"
+    }
+  ]
+}
