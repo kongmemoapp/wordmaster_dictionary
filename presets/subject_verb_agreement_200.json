@@ -1,0 +1,806 @@
+{
+  "name": "영어 주어·동사 수일치 예문 200",
+  "description": "단수·복수 주어, and/or/nor/not only로 연결된 주어, every/each/-one, one of/none of, 부분 표현(some/most/half of), a number of vs the number of, 동명사·to부정사·절 주어, 수식어구가 끼어든 주어, 집합명사·학문명·금액·기간, There is/are·도치, 관계사절, the + 형용사 등 수일치 예문 200개",
+  "words": [
+    {
+      "w": "The boy plays soccer every day.",
+      "m": "[기본-단수 주어] 그 소년은 매일 축구를 한다. (3인칭 단수 → 동사 -s)"
+    },
+    {
+      "w": "My mother cooks dinner.",
+      "m": "[기본-단수 주어] 우리 엄마가 저녁을 요리하신다."
+    },
+    {
+      "w": "The cat sleeps on the sofa.",
+      "m": "[기본-단수 주어] 고양이는 소파에서 잔다."
+    },
+    {
+      "w": "She has two brothers.",
+      "m": "[기본-단수 주어] 그녀는 남동생이 둘 있다. (have → has)"
+    },
+    {
+      "w": "He goes to work by bus.",
+      "m": "[기본-단수 주어] 그는 버스로 출근한다. (go → goes)"
+    },
+    {
+      "w": "The store opens at nine.",
+      "m": "[기본-단수 주어] 가게는 9시에 연다."
+    },
+    {
+      "w": "Water boils at 100 degrees.",
+      "m": "[기본-단수 주어] 물은 100도에서 끓는다. (불가산 주어 → 단수)"
+    },
+    {
+      "w": "Time flies.",
+      "m": "[기본-단수 주어] 시간은 쏜살같이 지나간다."
+    },
+    {
+      "w": "The news is on at nine.",
+      "m": "[기본-단수 주어] 뉴스는 9시에 한다. (news 단수)"
+    },
+    {
+      "w": "This book is interesting.",
+      "m": "[기본-단수 주어] 이 책은 재미있다."
+    },
+    {
+      "w": "The boys play soccer every day.",
+      "m": "[기본-복수 주어] 그 소년들은 매일 축구를 한다. (복수 주어 → 동사원형)"
+    },
+    {
+      "w": "My parents live in Busan.",
+      "m": "[기본-복수 주어] 우리 부모님은 부산에 사신다."
+    },
+    {
+      "w": "The cats are sleeping.",
+      "m": "[기본-복수 주어] 고양이들이 자고 있다."
+    },
+    {
+      "w": "Children like candy.",
+      "m": "[기본-복수 주어] 아이들은 사탕을 좋아한다. (children 복수)"
+    },
+    {
+      "w": "The students have a test today.",
+      "m": "[기본-복수 주어] 학생들은 오늘 시험이 있다."
+    },
+    {
+      "w": "Those shoes are too big.",
+      "m": "[기본-복수 주어] 저 신발은 너무 크다."
+    },
+    {
+      "w": "People say he is kind.",
+      "m": "[기본-복수 주어] 사람들은 그가 친절하다고 말한다. (people 복수)"
+    },
+    {
+      "w": "The police are here.",
+      "m": "[기본-복수 주어] 경찰이 와 있다. (police 복수 취급)"
+    },
+    {
+      "w": "My glasses are broken.",
+      "m": "[기본-복수 주어] 내 안경이 부러졌다. (항상 복수 명사)"
+    },
+    {
+      "w": "These apples taste sweet.",
+      "m": "[기본-복수 주어] 이 사과들은 달다."
+    },
+    {
+      "w": "Tom and Jerry are good friends.",
+      "m": "[and로 연결된 주어] 톰과 제리는 좋은 친구다. (A and B → 복수)"
+    },
+    {
+      "w": "My brother and I play games together.",
+      "m": "[and로 연결된 주어] 형과 나는 함께 게임을 한다."
+    },
+    {
+      "w": "The cat and the dog are fighting.",
+      "m": "[and로 연결된 주어] 고양이와 개가 싸우고 있다."
+    },
+    {
+      "w": "Bread and butter is my usual breakfast.",
+      "m": "[and로 연결된 주어] 버터 바른 빵은 내 평소 아침이다. (한 덩어리 개념이면 단수)"
+    },
+    {
+      "w": "The singer and actor is very famous.",
+      "m": "[and로 연결된 주어] 그 가수 겸 배우는 매우 유명하다. (한 사람(관사 하나) → 단수)"
+    },
+    {
+      "w": "The singer and the actor are famous.",
+      "m": "[and로 연결된 주어] 그 가수와 그 배우는 유명하다. (두 사람(관사 둘) → 복수)"
+    },
+    {
+      "w": "Salt and pepper are on the table.",
+      "m": "[and로 연결된 주어] 소금과 후추가 탁자 위에 있다."
+    },
+    {
+      "w": "Early to bed and early to rise makes a man healthy.",
+      "m": "[and로 연결된 주어] 일찍 자고 일찍 일어나면 건강해진다. (하나의 습관 → 단수)"
+    },
+    {
+      "w": "Reading and writing are important skills.",
+      "m": "[and로 연결된 주어] 읽기와 쓰기는 중요한 기술이다. (두 가지 활동 → 복수)"
+    },
+    {
+      "w": "Each boy and girl has a book.",
+      "m": "[and로 연결된 주어] 소년 소녀 각자 책을 갖고 있다. (each/every A and B → 단수)"
+    },
+    {
+      "w": "Either you or I am wrong.",
+      "m": "[or / nor / not only로 연결된 주어] 너 아니면 내가 틀렸다. (either A or B → B에 일치)"
+    },
+    {
+      "w": "Either Tom or his friends are coming.",
+      "m": "[or / nor / not only로 연결된 주어] 톰이나 그의 친구들이 온다. (가까운 주어(friends)에 일치)"
+    },
+    {
+      "w": "Neither he nor I was there.",
+      "m": "[or / nor / not only로 연결된 주어] 그도 나도 거기 없었다. (neither A nor B → B에 일치)"
+    },
+    {
+      "w": "Neither the teacher nor the students were ready.",
+      "m": "[or / nor / not only로 연결된 주어] 선생님도 학생들도 준비되지 않았다."
+    },
+    {
+      "w": "Not only you but also she is invited.",
+      "m": "[or / nor / not only로 연결된 주어] 너뿐만 아니라 그녀도 초대받았다. (not only A but also B → B에 일치)"
+    },
+    {
+      "w": "Not only the students but also the teacher was surprised.",
+      "m": "[or / nor / not only로 연결된 주어] 학생들뿐 아니라 선생님도 놀랐다."
+    },
+    {
+      "w": "Tom or Mary has the key.",
+      "m": "[or / nor / not only로 연결된 주어] 톰이나 메리가 열쇠를 갖고 있다. (A or B → B에 일치)"
+    },
+    {
+      "w": "Either the bus or the trains are late.",
+      "m": "[or / nor / not only로 연결된 주어] 버스나 기차가 늦는다."
+    },
+    {
+      "w": "You, as well as he, are responsible.",
+      "m": "[or / nor / not only로 연결된 주어] 그뿐만 아니라 너도 책임이 있다. (B as well as A → B(앞)에 일치)"
+    },
+    {
+      "w": "The teacher, as well as the students, is excited.",
+      "m": "[or / nor / not only로 연결된 주어] 학생들뿐 아니라 선생님도 신이 났다. (as well as 앞 주어에 일치)"
+    },
+    {
+      "w": "Every student has a locker.",
+      "m": "[every / each / -one / -body] 모든 학생이 사물함을 갖고 있다. (every + 단수명사 → 단수)"
+    },
+    {
+      "w": "Each of the boys has a bike.",
+      "m": "[every / each / -one / -body] 소년들 각자 자전거가 있다. (each of + 복수 → 단수)"
+    },
+    {
+      "w": "Everyone is here.",
+      "m": "[every / each / -one / -body] 모두 여기 있다. (everyone 단수)"
+    },
+    {
+      "w": "Everybody loves a holiday.",
+      "m": "[every / each / -one / -body] 누구나 휴일을 좋아한다."
+    },
+    {
+      "w": "Nobody knows the answer.",
+      "m": "[every / each / -one / -body] 아무도 답을 모른다. (nobody 단수)"
+    },
+    {
+      "w": "Someone is knocking at the door.",
+      "m": "[every / each / -one / -body] 누군가 문을 두드리고 있다."
+    },
+    {
+      "w": "Everything is ready for the party.",
+      "m": "[every / each / -one / -body] 파티 준비가 다 되었다. (everything 단수)"
+    },
+    {
+      "w": "Each child was given a gift.",
+      "m": "[every / each / -one / -body] 아이마다 선물을 받았다."
+    },
+    {
+      "w": "No one has arrived yet.",
+      "m": "[every / each / -one / -body] 아직 아무도 도착하지 않았다."
+    },
+    {
+      "w": "Anything is possible.",
+      "m": "[every / each / -one / -body] 무엇이든 가능하다."
+    },
+    {
+      "w": "One of my friends is a pilot.",
+      "m": "[one of / each of / none of] 내 친구 중 한 명은 조종사다. (one of + 복수 → 단수)"
+    },
+    {
+      "w": "One of the windows is broken.",
+      "m": "[one of / each of / none of] 창문 중 하나가 깨졌다."
+    },
+    {
+      "w": "Each of the students has a dream.",
+      "m": "[one of / each of / none of] 학생들 각자 꿈이 있다. (each of → 단수)"
+    },
+    {
+      "w": "None of the food was wasted.",
+      "m": "[one of / each of / none of] 음식이 하나도 낭비되지 않았다. (none of + 불가산 → 단수)"
+    },
+    {
+      "w": "None of the students were late.",
+      "m": "[one of / each of / none of] 지각한 학생은 아무도 없었다. (none of + 복수 → 복수(구어) 또는 단수)"
+    },
+    {
+      "w": "Neither of the answers is correct.",
+      "m": "[one of / each of / none of] 두 답 모두 맞지 않다. (neither of → 단수)"
+    },
+    {
+      "w": "Either of the plans is fine.",
+      "m": "[one of / each of / none of] 두 계획 중 어느 것이든 좋다. (either of → 단수)"
+    },
+    {
+      "w": "Every one of the books was sold.",
+      "m": "[one of / each of / none of] 책이 한 권도 남김없이 팔렸다."
+    },
+    {
+      "w": "Both of the boys are tall.",
+      "m": "[one of / each of / none of] 두 소년 모두 키가 크다. (both of → 복수)"
+    },
+    {
+      "w": "Several of the students were absent.",
+      "m": "[one of / each of / none of] 학생 중 몇 명이 결석했다. (several of → 복수)"
+    },
+    {
+      "w": "Some of the water is dirty.",
+      "m": "[some / most / all / half of (부분 표현)] 그 물 중 일부는 더럽다. (of 뒤 명사에 일치 (불가산 → 단수))"
+    },
+    {
+      "w": "Some of the students are absent.",
+      "m": "[some / most / all / half of (부분 표현)] 학생 중 일부는 결석했다. (of 뒤 복수 → 복수)"
+    },
+    {
+      "w": "Most of the cake was eaten.",
+      "m": "[some / most / all / half of (부분 표현)] 케이크 대부분이 먹혔다."
+    },
+    {
+      "w": "Most of the cookies were eaten.",
+      "m": "[some / most / all / half of (부분 표현)] 쿠키 대부분이 먹혔다."
+    },
+    {
+      "w": "All of the money is gone.",
+      "m": "[some / most / all / half of (부분 표현)] 돈이 다 없어졌다."
+    },
+    {
+      "w": "All of the children are asleep.",
+      "m": "[some / most / all / half of (부분 표현)] 아이들 모두 잠들었다."
+    },
+    {
+      "w": "Half of the pie is left.",
+      "m": "[some / most / all / half of (부분 표현)] 파이 절반이 남았다."
+    },
+    {
+      "w": "Half of the apples are rotten.",
+      "m": "[some / most / all / half of (부분 표현)] 사과 절반이 썩었다."
+    },
+    {
+      "w": "Two thirds of the land is desert.",
+      "m": "[some / most / all / half of (부분 표현)] 땅의 3분의 2는 사막이다. (분수 of + 불가산 → 단수)"
+    },
+    {
+      "w": "Two thirds of the members are women.",
+      "m": "[some / most / all / half of (부분 표현)] 회원의 3분의 2가 여성이다. (분수 of + 복수 → 복수)"
+    },
+    {
+      "w": "The rest of the story is boring.",
+      "m": "[some / most / all / half of (부분 표현)] 이야기의 나머지는 지루하다. (the rest of)"
+    },
+    {
+      "w": "The rest of the students are waiting.",
+      "m": "[some / most / all / half of (부분 표현)] 나머지 학생들은 기다리고 있다."
+    },
+    {
+      "w": "Ten percent of the budget was cut.",
+      "m": "[some / most / all / half of (부분 표현)] 예산의 10퍼센트가 삭감되었다. (percent of + 불가산 → 단수)"
+    },
+    {
+      "w": "Twenty percent of the students have cars.",
+      "m": "[some / most / all / half of (부분 표현)] 학생의 20퍼센트가 차를 갖고 있다."
+    },
+    {
+      "w": "A lot of time has passed.",
+      "m": "[some / most / all / half of (부분 표현)] 많은 시간이 흘렀다. (a lot of + 불가산 → 단수)"
+    },
+    {
+      "w": "A number of students were late.",
+      "m": "[a number of / the number of] 많은 학생이 늦었다. (a number of = 많은 → 복수)"
+    },
+    {
+      "w": "The number of students is increasing.",
+      "m": "[a number of / the number of] 학생 수가 늘고 있다. (the number of = ~의 수 → 단수)"
+    },
+    {
+      "w": "A number of people have complained.",
+      "m": "[a number of / the number of] 많은 사람이 불평했다."
+    },
+    {
+      "w": "The number of cars has doubled.",
+      "m": "[a number of / the number of] 자동차 수가 두 배가 되었다."
+    },
+    {
+      "w": "A large number of books were donated.",
+      "m": "[a number of / the number of] 많은 책이 기부되었다."
+    },
+    {
+      "w": "The number of accidents is decreasing.",
+      "m": "[a number of / the number of] 사고 수가 줄고 있다."
+    },
+    {
+      "w": "A great deal of money was spent.",
+      "m": "[a number of / the number of] 많은 돈이 쓰였다. (a great deal of + 불가산 → 단수)"
+    },
+    {
+      "w": "A variety of dishes are served.",
+      "m": "[a number of / the number of] 다양한 요리가 제공된다. (a variety of → 복수)"
+    },
+    {
+      "w": "The variety of choices is amazing.",
+      "m": "[a number of / the number of] 선택지의 다양함이 놀랍다. (the variety of → 단수)"
+    },
+    {
+      "w": "A majority of voters support the plan.",
+      "m": "[a number of / the number of] 유권자 대다수가 그 계획을 지지한다. (a majority of + 복수 → 복수)"
+    },
+    {
+      "w": "Swimming is good for your health.",
+      "m": "[동명사·to부정사·절 주어] 수영은 건강에 좋다. (동명사 주어 → 단수)"
+    },
+    {
+      "w": "Reading books makes me happy.",
+      "m": "[동명사·to부정사·절 주어] 책을 읽는 것은 나를 행복하게 한다. (동명사구 → 단수)"
+    },
+    {
+      "w": "Eating vegetables is important.",
+      "m": "[동명사·to부정사·절 주어] 채소를 먹는 것은 중요하다."
+    },
+    {
+      "w": "To learn a language takes time.",
+      "m": "[동명사·to부정사·절 주어] 언어를 배우는 것은 시간이 걸린다. (to부정사 주어 → 단수)"
+    },
+    {
+      "w": "To see is to believe.",
+      "m": "[동명사·to부정사·절 주어] 보는 것이 믿는 것이다."
+    },
+    {
+      "w": "What he said is true.",
+      "m": "[동명사·to부정사·절 주어] 그가 말한 것은 사실이다. (what절 주어 → 단수)"
+    },
+    {
+      "w": "What I need is some rest.",
+      "m": "[동명사·to부정사·절 주어] 내게 필요한 것은 휴식이다."
+    },
+    {
+      "w": "That she passed the exam is surprising.",
+      "m": "[동명사·to부정사·절 주어] 그녀가 시험에 합격했다는 것은 놀랍다. (that절 주어 → 단수)"
+    },
+    {
+      "w": "Whether he comes or not doesn't matter.",
+      "m": "[동명사·to부정사·절 주어] 그가 오든 말든 상관없다. (whether절 → 단수)"
+    },
+    {
+      "w": "Playing games and watching TV are his hobbies.",
+      "m": "[동명사·to부정사·절 주어] 게임하기와 TV 보기가 그의 취미다. (동명사 두 개 → 복수)"
+    },
+    {
+      "w": "How we spend our time matters.",
+      "m": "[동명사·to부정사·절 주어] 시간을 어떻게 쓰느냐가 중요하다. (의문사절 → 단수)"
+    },
+    {
+      "w": "Where to go is still undecided.",
+      "m": "[동명사·to부정사·절 주어] 어디로 갈지는 아직 정해지지 않았다. (의문사 + to부정사 → 단수)"
+    },
+    {
+      "w": "The book on the desk is mine.",
+      "m": "[수식어구가 끼어든 주어] 책상 위의 책은 내 것이다. (주어는 book (desk ×))"
+    },
+    {
+      "w": "The books on the desk are mine.",
+      "m": "[수식어구가 끼어든 주어] 책상 위의 책들은 내 것이다."
+    },
+    {
+      "w": "The boy with two dogs lives next door.",
+      "m": "[수식어구가 끼어든 주어] 개 두 마리를 키우는 소년은 옆집에 산다. (주어는 boy (dogs ×))"
+    },
+    {
+      "w": "The students in my class are friendly.",
+      "m": "[수식어구가 끼어든 주어] 우리 반 학생들은 친절하다."
+    },
+    {
+      "w": "The color of the walls is white.",
+      "m": "[수식어구가 끼어든 주어] 벽의 색은 흰색이다. (주어는 color (walls ×))"
+    },
+    {
+      "w": "The price of these shoes is high.",
+      "m": "[수식어구가 끼어든 주어] 이 신발의 가격은 높다."
+    },
+    {
+      "w": "The girl who is wearing a hat is my sister.",
+      "m": "[수식어구가 끼어든 주어] 모자를 쓴 소녀는 내 여동생이다. (관계사절은 수에 영향 없음)"
+    },
+    {
+      "w": "The people who live here are nice.",
+      "m": "[수식어구가 끼어든 주어] 여기 사는 사람들은 친절하다."
+    },
+    {
+      "w": "The man standing over there is my uncle.",
+      "m": "[수식어구가 끼어든 주어] 저기 서 있는 남자는 내 삼촌이다. (분사구 수식)"
+    },
+    {
+      "w": "The flowers in the garden smell nice.",
+      "m": "[수식어구가 끼어든 주어] 정원의 꽃들은 향기롭다."
+    },
+    {
+      "w": "The key to the doors is lost.",
+      "m": "[수식어구가 끼어든 주어] 문들의 열쇠가 없어졌다. (주어는 key)"
+    },
+    {
+      "w": "The teacher, along with her students, is on a trip.",
+      "m": "[수식어구가 끼어든 주어] 선생님은 학생들과 함께 여행 중이다. (along with는 수에 영향 없음)"
+    },
+    {
+      "w": "The boy, together with his friends, was late.",
+      "m": "[수식어구가 끼어든 주어] 그 소년은 친구들과 함께 늦었다. (together with)"
+    },
+    {
+      "w": "My sister, not my brothers, is coming.",
+      "m": "[수식어구가 끼어든 주어] 형들이 아니라 내 여동생이 온다. (not ~ 삽입구는 영향 없음)"
+    },
+    {
+      "w": "One of the students who were late is my friend.",
+      "m": "[수식어구가 끼어든 주어] 지각한 학생들 중 한 명은 내 친구다. (관계사절 동사는 students에 일치)"
+    },
+    {
+      "w": "My family is very big.",
+      "m": "[집합명사·-s 명사·단위] 우리 가족은 대가족이다. (family 한 단위 → 단수)"
+    },
+    {
+      "w": "My family are all tall.",
+      "m": "[집합명사·-s 명사·단위] 우리 가족은 모두 키가 크다. (구성원 각각 → 복수(영국식))"
+    },
+    {
+      "w": "The team has won the game.",
+      "m": "[집합명사·-s 명사·단위] 그 팀은 경기에서 이겼다."
+    },
+    {
+      "w": "The audience was impressed.",
+      "m": "[집합명사·-s 명사·단위] 관객은 감동받았다."
+    },
+    {
+      "w": "Mathematics is my favorite subject.",
+      "m": "[집합명사·-s 명사·단위] 수학은 내가 가장 좋아하는 과목이다. (-ics 학문명 → 단수)"
+    },
+    {
+      "w": "Physics is hard.",
+      "m": "[집합명사·-s 명사·단위] 물리학은 어렵다."
+    },
+    {
+      "w": "The news was good.",
+      "m": "[집합명사·-s 명사·단위] 그 소식은 좋았다. (news → 단수)"
+    },
+    {
+      "w": "Ten dollars is a lot for a coffee.",
+      "m": "[집합명사·-s 명사·단위] 커피 한 잔에 10달러는 비싸다. (금액 한 덩어리 → 단수)"
+    },
+    {
+      "w": "Five years is a long time.",
+      "m": "[집합명사·-s 명사·단위] 5년은 긴 시간이다. (기간 → 단수)"
+    },
+    {
+      "w": "Three miles is too far to walk.",
+      "m": "[집합명사·-s 명사·단위] 3마일은 걷기에 너무 멀다. (거리 → 단수)"
+    },
+    {
+      "w": "The United States is a big country.",
+      "m": "[집합명사·-s 명사·단위] 미국은 큰 나라다. (국가명 → 단수)"
+    },
+    {
+      "w": "Cattle are grazing on the hill.",
+      "m": "[집합명사·-s 명사·단위] 소들이 언덕에서 풀을 뜯고 있다. (cattle 복수)"
+    },
+    {
+      "w": "The staff are very helpful.",
+      "m": "[집합명사·-s 명사·단위] 직원들은 매우 친절하다. (staff 구성원 → 복수)"
+    },
+    {
+      "w": "Economics is a difficult subject.",
+      "m": "[집합명사·-s 명사·단위] 경제학은 어려운 과목이다."
+    },
+    {
+      "w": "The committee has decided.",
+      "m": "[집합명사·-s 명사·단위] 위원회가 결정했다."
+    },
+    {
+      "w": "There is a cat under the table.",
+      "m": "[There is/are·도치 문장] 탁자 아래에 고양이가 있다. (뒤의 명사에 일치)"
+    },
+    {
+      "w": "There are two cats under the table.",
+      "m": "[There is/are·도치 문장] 탁자 아래에 고양이 두 마리가 있다."
+    },
+    {
+      "w": "There is some milk in the fridge.",
+      "m": "[There is/are·도치 문장] 냉장고에 우유가 좀 있다."
+    },
+    {
+      "w": "There are many reasons for this.",
+      "m": "[There is/are·도치 문장] 여기에는 많은 이유가 있다."
+    },
+    {
+      "w": "There was a lot of noise.",
+      "m": "[There is/are·도치 문장] 소음이 많았다."
+    },
+    {
+      "w": "There were a lot of people.",
+      "m": "[There is/are·도치 문장] 사람이 많았다."
+    },
+    {
+      "w": "Here comes the bus.",
+      "m": "[There is/are·도치 문장] 버스가 온다. (도치: 동사는 뒤의 주어에 일치)"
+    },
+    {
+      "w": "Here are your keys.",
+      "m": "[There is/are·도치 문장] 여기 네 열쇠 있어."
+    },
+    {
+      "w": "On the hill stands an old castle.",
+      "m": "[There is/are·도치 문장] 언덕 위에 오래된 성이 서 있다. (장소 부사구 도치)"
+    },
+    {
+      "w": "Among the guests were two famous actors.",
+      "m": "[There is/are·도치 문장] 손님 중에 유명 배우 두 명이 있었다."
+    },
+    {
+      "w": "Never have I seen such a thing.",
+      "m": "[There is/are·도치 문장] 그런 것은 본 적이 없다. (부정어 도치)"
+    },
+    {
+      "w": "Not only does he sing, but he also dances.",
+      "m": "[There is/are·도치 문장] 그는 노래할 뿐만 아니라 춤도 춘다. (not only 도치 → does)"
+    },
+    {
+      "w": "I have a friend who lives in Paris.",
+      "m": "[관계사절 안의 수일치] 나는 파리에 사는 친구가 있다. (선행사 friend → lives)"
+    },
+    {
+      "w": "I have friends who live in Paris.",
+      "m": "[관계사절 안의 수일치] 나는 파리에 사는 친구들이 있다. (선행사 friends → live)"
+    },
+    {
+      "w": "She is the only student who has finished.",
+      "m": "[관계사절 안의 수일치] 그녀는 끝낸 유일한 학생이다. (the only + 단수 → 단수)"
+    },
+    {
+      "w": "He is one of the students who have finished.",
+      "m": "[관계사절 안의 수일치] 그는 끝낸 학생들 중 한 명이다. (one of + 복수 → 관계사절은 복수)"
+    },
+    {
+      "w": "This is the book that was written by him.",
+      "m": "[관계사절 안의 수일치] 이것은 그가 쓴 책이다."
+    },
+    {
+      "w": "These are the books that were written by him.",
+      "m": "[관계사절 안의 수일치] 이것들은 그가 쓴 책들이다."
+    },
+    {
+      "w": "The man who is talking is my teacher.",
+      "m": "[관계사절 안의 수일치] 이야기하고 있는 남자는 우리 선생님이다."
+    },
+    {
+      "w": "The people who were waiting left.",
+      "m": "[관계사절 안의 수일치] 기다리던 사람들이 떠났다."
+    },
+    {
+      "w": "It is I who am responsible.",
+      "m": "[관계사절 안의 수일치] 책임이 있는 사람은 나다. (강조구문: I → am)"
+    },
+    {
+      "w": "It is they who are wrong.",
+      "m": "[관계사절 안의 수일치] 틀린 것은 그들이다."
+    },
+    {
+      "w": "She was late, and they were late too.",
+      "m": "[시제·조동사와 수일치] 그녀도 늦었고 그들도 늦었다. (was/were)"
+    },
+    {
+      "w": "He has gone, but they have stayed.",
+      "m": "[시제·조동사와 수일치] 그는 갔지만 그들은 남았다. (has/have)"
+    },
+    {
+      "w": "The dog doesn't bark, but the dogs do.",
+      "m": "[시제·조동사와 수일치] 그 개는 짖지 않지만 다른 개들은 짖는다. (doesn't/do)"
+    },
+    {
+      "w": "She can swim, and he can too.",
+      "m": "[시제·조동사와 수일치] 그녀도 수영할 수 있고 그도 할 수 있다. (조동사는 수 변화 없음)"
+    },
+    {
+      "w": "He will go, and so will I.",
+      "m": "[시제·조동사와 수일치] 그는 갈 것이고 나도 갈 것이다."
+    },
+    {
+      "w": "Did she come? Did they come?",
+      "m": "[시제·조동사와 수일치] 그녀가 왔니? 그들이 왔니? (과거는 did로 동일)"
+    },
+    {
+      "w": "The students were studying when the teacher came in.",
+      "m": "[시제·조동사와 수일치] 선생님이 들어오셨을 때 학생들은 공부하고 있었다. (were / came)"
+    },
+    {
+      "w": "Everybody was singing.",
+      "m": "[시제·조동사와 수일치] 모두 노래하고 있었다. (everybody → was)"
+    },
+    {
+      "w": "The children have been playing all day.",
+      "m": "[시제·조동사와 수일치] 아이들은 하루 종일 놀고 있다. (have been)"
+    },
+    {
+      "w": "There has been a change.",
+      "m": "[시제·조동사와 수일치] 변화가 있었다. (there has been + 단수)"
+    },
+    {
+      "w": "There have been many changes.",
+      "m": "[시제·조동사와 수일치] 많은 변화가 있었다. (there have been + 복수)"
+    },
+    {
+      "w": "Each of us has to do our best.",
+      "m": "[시제·조동사와 수일치] 우리 각자 최선을 다해야 한다. (each of → has to)"
+    },
+    {
+      "w": "Neither of them is going to help.",
+      "m": "[시제·조동사와 수일치] 그들 둘 다 돕지 않을 것이다. (neither of → is going to)"
+    },
+    {
+      "w": "Many a student has made that mistake.",
+      "m": "[시제·조동사와 수일치] 많은 학생이 그 실수를 했다. (many a + 단수 → 단수)"
+    },
+    {
+      "w": "More than one person was injured.",
+      "m": "[시제·조동사와 수일치] 한 명 이상이 다쳤다. (more than one + 단수 → 단수)"
+    },
+    {
+      "w": "A pair of shoes is on the floor.",
+      "m": "[시제·조동사와 수일치] 신발 한 켤레가 바닥에 있다. (a pair of → 단수)"
+    },
+    {
+      "w": "Two pairs of shoes are on the floor.",
+      "m": "[시제·조동사와 수일치] 신발 두 켤레가 바닥에 있다. (two pairs of → 복수)"
+    },
+    {
+      "w": "The old are not always wise.",
+      "m": "[시제·조동사와 수일치] 노인들이 항상 현명한 것은 아니다. (the + 형용사 = 복수 사람들)"
+    },
+    {
+      "w": "The rich get richer.",
+      "m": "[시제·조동사와 수일치] 부자는 더 부유해진다. (the rich → 복수)"
+    },
+    {
+      "w": "The poor need help.",
+      "m": "[시제·조동사와 수일치] 가난한 사람들은 도움이 필요하다."
+    },
+    {
+      "w": "Fish and chips is a popular dish.",
+      "m": "[시제·조동사와 수일치] 피시 앤 칩스는 인기 있는 요리다. (하나의 요리명 → 단수)"
+    },
+    {
+      "w": "A cup of coffee costs three dollars.",
+      "m": "[시제·조동사와 수일치] 커피 한 잔은 3달러다. (a cup of → 단수)"
+    },
+    {
+      "w": "Two cups of coffee cost six dollars.",
+      "m": "[시제·조동사와 수일치] 커피 두 잔은 6달러다. (two cups of → 복수)"
+    },
+    {
+      "w": "Either is fine with me.",
+      "m": "[시제·조동사와 수일치] 어느 쪽이든 나는 괜찮다. (either 단독 → 단수)"
+    },
+    {
+      "w": "Both are fine with me.",
+      "m": "[시제·조동사와 수일치] 둘 다 나는 괜찮다. (both 단독 → 복수)"
+    },
+    {
+      "w": "Each has its own merit.",
+      "m": "[시제·조동사와 수일치] 각각 나름의 장점이 있다. (each 단독 → 단수)"
+    },
+    {
+      "w": "All is well.",
+      "m": "[시제·조동사와 수일치] 모든 것이 잘 되어 간다. (all = 모든 것(사물) → 단수)"
+    },
+    {
+      "w": "All are welcome.",
+      "m": "[시제·조동사와 수일치] 모두 환영합니다. (all = 모든 사람 → 복수)"
+    },
+    {
+      "w": "Some is left.",
+      "m": "[시제·조동사와 수일치] 조금 남았다. (some = 불가산 → 단수)"
+    },
+    {
+      "w": "Some are missing.",
+      "m": "[시제·조동사와 수일치] 몇 개가 없어졌다. (some = 복수 → 복수)"
+    },
+    {
+      "w": "Much has changed.",
+      "m": "[시제·조동사와 수일치] 많은 것이 바뀌었다. (much 단독 → 단수)"
+    },
+    {
+      "w": "Many have tried, but few have succeeded.",
+      "m": "[시제·조동사와 수일치] 많은 이가 시도했지만 성공한 이는 거의 없다. (many/few 단독 → 복수)"
+    },
+    {
+      "w": "The majority has decided.",
+      "m": "[시제·조동사와 수일치] 다수가 결정했다. (the majority 단독 → 단수)"
+    },
+    {
+      "w": "The data show a clear trend.",
+      "m": "[시제·조동사와 수일치] 그 자료는 분명한 경향을 보여 준다. (data 복수(격식체))"
+    },
+    {
+      "w": "The media are reporting the event.",
+      "m": "[시제·조동사와 수일치] 언론이 그 사건을 보도하고 있다. (media 복수)"
+    },
+    {
+      "w": "Statistics is a branch of mathematics.",
+      "m": "[시제·조동사와 수일치] 통계학은 수학의 한 분야다. (statistics 학문 → 단수)"
+    },
+    {
+      "w": "The statistics show a rise in crime.",
+      "m": "[시제·조동사와 수일치] 그 통계는 범죄 증가를 보여 준다. (statistics 수치들 → 복수)"
+    },
+    {
+      "w": "The Philippines is an island nation.",
+      "m": "[시제·조동사와 수일치] 필리핀은 섬나라다. (복수형 국가명 → 단수)"
+    },
+    {
+      "w": "Measles is contagious.",
+      "m": "[시제·조동사와 수일치] 홍역은 전염성이 있다. (병명 → 단수)"
+    },
+    {
+      "w": "A lot of students want to join.",
+      "m": "[시제·조동사와 수일치] 많은 학생이 가입하길 원한다. (a lot of + 복수 → 복수)"
+    },
+    {
+      "w": "Plenty of time remains.",
+      "m": "[시제·조동사와 수일치] 시간이 충분히 남아 있다. (plenty of + 불가산 → 단수)"
+    },
+    {
+      "w": "The couple are on their honeymoon.",
+      "m": "[시제·조동사와 수일치] 그 부부는 신혼여행 중이다. (couple 구성원 → 복수)"
+    },
+    {
+      "w": "The crew were all rescued.",
+      "m": "[시제·조동사와 수일치] 승무원들은 모두 구조되었다. (crew 구성원 → 복수)"
+    },
+    {
+      "w": "The public has a right to know.",
+      "m": "[시제·조동사와 수일치] 대중은 알 권리가 있다. (the public → 단수)"
+    },
+    {
+      "w": "The young are full of energy.",
+      "m": "[시제·조동사와 수일치] 젊은이들은 에너지가 넘친다. (the young → 복수)"
+    },
+    {
+      "w": "The number of the unemployed is rising.",
+      "m": "[시제·조동사와 수일치] 실업자 수가 늘고 있다. (the number of → 단수)"
+    },
+    {
+      "w": "My favorite food is noodles.",
+      "m": "[시제·조동사와 수일치] 내가 가장 좋아하는 음식은 국수다. (동사는 주어(food)에 일치, 보어 아님)"
+    },
+    {
+      "w": "Noodles are my favorite food.",
+      "m": "[시제·조동사와 수일치] 국수는 내가 가장 좋아하는 음식이다. (주어가 noodles → 복수)"
+    },
+    {
+      "w": "The problem is the high prices.",
+      "m": "[시제·조동사와 수일치] 문제는 높은 가격이다. (주어 problem → 단수)"
+    },
+    {
+      "w": "Our biggest asset is our people.",
+      "m": "[시제·조동사와 수일치] 우리의 가장 큰 자산은 사람이다."
+    },
+    {
+      "w": "What matters most is the results.",
+      "m": "[시제·조동사와 수일치] 가장 중요한 것은 결과다. (what절 주어 → 단수)"
+    }
+  ]
+}

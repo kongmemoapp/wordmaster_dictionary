@@ -1,0 +1,806 @@
+{
+  "name": "영어 문장의 종류 예문 200",
+  "description": "평서문, 부정문(be동사·조동사·일반동사), Yes/No 의문문, 의문사 의문문, 부정의문문, 부가의문문, 간접의문문, 명령문(Let's·Don't·명령문+and/or), 감탄문(What/How), There is/are, 문장 종류 변환, 제안·기원·동의 표현 예문 200개",
+  "words": [
+    {
+      "w": "I am a student.",
+      "m": "[평서문] 나는 학생이다. (주어 + 동사 어순)"
+    },
+    {
+      "w": "She lives in Seoul.",
+      "m": "[평서문] 그녀는 서울에 산다."
+    },
+    {
+      "w": "We played soccer after school.",
+      "m": "[평서문] 우리는 방과 후에 축구를 했다."
+    },
+    {
+      "w": "The sun rises in the east.",
+      "m": "[평서문] 해는 동쪽에서 뜬다."
+    },
+    {
+      "w": "He will come tomorrow.",
+      "m": "[평서문] 그는 내일 올 것이다."
+    },
+    {
+      "w": "My brother can swim very well.",
+      "m": "[평서문] 내 형은 수영을 아주 잘한다."
+    },
+    {
+      "w": "It is raining outside.",
+      "m": "[평서문] 밖에 비가 오고 있다."
+    },
+    {
+      "w": "They have finished their homework.",
+      "m": "[평서문] 그들은 숙제를 끝냈다."
+    },
+    {
+      "w": "I am not tired.",
+      "m": "[부정문-be동사·조동사] 나는 피곤하지 않다. (be동사 + not)"
+    },
+    {
+      "w": "She isn't at home now.",
+      "m": "[부정문-be동사·조동사] 그녀는 지금 집에 없다. (is not = isn't)"
+    },
+    {
+      "w": "They aren't my friends.",
+      "m": "[부정문-be동사·조동사] 그들은 내 친구가 아니다."
+    },
+    {
+      "w": "He wasn't late yesterday.",
+      "m": "[부정문-be동사·조동사] 그는 어제 늦지 않았다."
+    },
+    {
+      "w": "We weren't ready.",
+      "m": "[부정문-be동사·조동사] 우리는 준비되지 않았다."
+    },
+    {
+      "w": "I can't speak Chinese.",
+      "m": "[부정문-be동사·조동사] 나는 중국어를 못 한다. (조동사 + not)"
+    },
+    {
+      "w": "You must not run here.",
+      "m": "[부정문-be동사·조동사] 여기서 뛰면 안 된다. (must not = 금지)"
+    },
+    {
+      "w": "She won't come to the party.",
+      "m": "[부정문-be동사·조동사] 그녀는 파티에 오지 않을 것이다. (will not = won't)"
+    },
+    {
+      "w": "He shouldn't eat so much.",
+      "m": "[부정문-be동사·조동사] 그는 그렇게 많이 먹으면 안 된다."
+    },
+    {
+      "w": "I haven't seen that movie.",
+      "m": "[부정문-be동사·조동사] 나는 그 영화를 본 적이 없다. (have not = haven't)"
+    },
+    {
+      "w": "I don't like carrots.",
+      "m": "[부정문-일반동사] 나는 당근을 좋아하지 않는다. (do not + 동사원형)"
+    },
+    {
+      "w": "She doesn't eat meat.",
+      "m": "[부정문-일반동사] 그녀는 고기를 먹지 않는다. (3인칭 단수 does not)"
+    },
+    {
+      "w": "We don't have any pets.",
+      "m": "[부정문-일반동사] 우리는 반려동물이 없다."
+    },
+    {
+      "w": "He didn't call me last night.",
+      "m": "[부정문-일반동사] 그는 어젯밤에 나에게 전화하지 않았다. (과거 did not + 동사원형)"
+    },
+    {
+      "w": "They don't live here anymore.",
+      "m": "[부정문-일반동사] 그들은 더 이상 여기 살지 않는다. (not ~ anymore)"
+    },
+    {
+      "w": "I didn't know that.",
+      "m": "[부정문-일반동사] 나는 그걸 몰랐어."
+    },
+    {
+      "w": "My father doesn't smoke.",
+      "m": "[부정문-일반동사] 우리 아빠는 담배를 피우지 않으신다."
+    },
+    {
+      "w": "It doesn't matter.",
+      "m": "[부정문-일반동사] 상관없어."
+    },
+    {
+      "w": "I never eat breakfast.",
+      "m": "[부정문-일반동사] 나는 아침을 절대 먹지 않는다. (never = 결코 ~않다 (do 불필요))"
+    },
+    {
+      "w": "Nobody came to the party.",
+      "m": "[부정문-일반동사] 아무도 파티에 오지 않았다. (주어 자체가 부정)"
+    },
+    {
+      "w": "Are you a student?",
+      "m": "[Yes/No 의문문] 너는 학생이니? (be동사 + 주어)"
+    },
+    {
+      "w": "Is she your sister?",
+      "m": "[Yes/No 의문문] 그녀는 네 언니니?"
+    },
+    {
+      "w": "Was the movie good?",
+      "m": "[Yes/No 의문문] 그 영화 좋았니?"
+    },
+    {
+      "w": "Do you like pizza?",
+      "m": "[Yes/No 의문문] 피자 좋아하니? (Do + 주어 + 동사원형)"
+    },
+    {
+      "w": "Does he play the piano?",
+      "m": "[Yes/No 의문문] 그는 피아노를 치니? (3인칭 단수 Does)"
+    },
+    {
+      "w": "Did you sleep well?",
+      "m": "[Yes/No 의문문] 잘 잤니? (과거 Did)"
+    },
+    {
+      "w": "Can you help me?",
+      "m": "[Yes/No 의문문] 나 좀 도와줄 수 있니? (조동사 + 주어)"
+    },
+    {
+      "w": "Will it rain tomorrow?",
+      "m": "[Yes/No 의문문] 내일 비가 올까?"
+    },
+    {
+      "w": "Have you ever been to Japan?",
+      "m": "[Yes/No 의문문] 일본에 가 본 적 있니? (Have + 주어 + p.p.)"
+    },
+    {
+      "w": "Should I bring an umbrella?",
+      "m": "[Yes/No 의문문] 우산을 가져가야 할까?"
+    },
+    {
+      "w": "What is your name?",
+      "m": "[의문사 의문문] 이름이 뭐니? (의문사 + be동사 + 주어)"
+    },
+    {
+      "w": "Where do you live?",
+      "m": "[의문사 의문문] 어디 사니? (의문사 + do + 주어 + 동사원형)"
+    },
+    {
+      "w": "When does the movie start?",
+      "m": "[의문사 의문문] 영화는 언제 시작하니?"
+    },
+    {
+      "w": "Why did you cry?",
+      "m": "[의문사 의문문] 왜 울었니?"
+    },
+    {
+      "w": "How do you go to school?",
+      "m": "[의문사 의문문] 학교에 어떻게 가니?"
+    },
+    {
+      "w": "Who broke the window?",
+      "m": "[의문사 의문문] 누가 창문을 깼니? (의문사가 주어면 어순 그대로)"
+    },
+    {
+      "w": "Which color do you like?",
+      "m": "[의문사 의문문] 어떤 색을 좋아하니?"
+    },
+    {
+      "w": "Whose bag is this?",
+      "m": "[의문사 의문문] 이것은 누구의 가방이니?"
+    },
+    {
+      "w": "How many books do you have?",
+      "m": "[의문사 의문문] 책이 몇 권 있니?"
+    },
+    {
+      "w": "How long have you lived here?",
+      "m": "[의문사 의문문] 여기 얼마나 오래 살았니?"
+    },
+    {
+      "w": "Isn't it beautiful?",
+      "m": "[부정의문문] 아름답지 않니? (부정의문문 = 동의 기대)"
+    },
+    {
+      "w": "Don't you like coffee?",
+      "m": "[부정의문문] 커피 안 좋아해?"
+    },
+    {
+      "w": "Aren't you tired?",
+      "m": "[부정의문문] 피곤하지 않아?"
+    },
+    {
+      "w": "Didn't you see him?",
+      "m": "[부정의문문] 그를 못 봤어?"
+    },
+    {
+      "w": "Can't you swim?",
+      "m": "[부정의문문] 수영 못 해?"
+    },
+    {
+      "w": "Why don't you join us?",
+      "m": "[부정의문문] 우리랑 같이하는 게 어때? (Why don't you = 제안)"
+    },
+    {
+      "w": "Why don't we take a break?",
+      "m": "[부정의문문] 우리 좀 쉬는 게 어때? (Why don't we = 제안)"
+    },
+    {
+      "w": "Won't you come in?",
+      "m": "[부정의문문] 들어오지 않을래? (권유)"
+    },
+    {
+      "w": "Doesn't she look happy?",
+      "m": "[부정의문문] 그녀가 행복해 보이지 않니?"
+    },
+    {
+      "w": "Haven't you finished yet?",
+      "m": "[부정의문문] 아직 안 끝냈어?"
+    },
+    {
+      "w": "You are a student, aren't you?",
+      "m": "[부가의문문] 너 학생이지, 그렇지? (긍정문 + 부정 부가의문)"
+    },
+    {
+      "w": "She isn't here, is she?",
+      "m": "[부가의문문] 그녀는 여기 없지, 그렇지? (부정문 + 긍정 부가의문)"
+    },
+    {
+      "w": "It's cold today, isn't it?",
+      "m": "[부가의문문] 오늘 춥지, 그렇지?"
+    },
+    {
+      "w": "You like music, don't you?",
+      "m": "[부가의문문] 너 음악 좋아하지, 그렇지? (일반동사 → do)"
+    },
+    {
+      "w": "He plays tennis, doesn't he?",
+      "m": "[부가의문문] 그는 테니스를 치지, 그렇지? (3인칭 단수 → does)"
+    },
+    {
+      "w": "They went home, didn't they?",
+      "m": "[부가의문문] 그들은 집에 갔지, 그렇지? (과거 → did)"
+    },
+    {
+      "w": "You can drive, can't you?",
+      "m": "[부가의문문] 너 운전할 수 있지, 그렇지? (조동사 그대로)"
+    },
+    {
+      "w": "She will come, won't she?",
+      "m": "[부가의문문] 그녀는 올 거지, 그렇지? (will → won't)"
+    },
+    {
+      "w": "You haven't eaten, have you?",
+      "m": "[부가의문문] 너 아직 안 먹었지, 그렇지? (have → have)"
+    },
+    {
+      "w": "He didn't call, did he?",
+      "m": "[부가의문문] 그는 전화 안 했지, 그렇지?"
+    },
+    {
+      "w": "I am right, aren't I?",
+      "m": "[부가의문문] 내 말이 맞지, 그렇지? (I am → aren't I (amn't ×))"
+    },
+    {
+      "w": "Let's go, shall we?",
+      "m": "[부가의문문] 가자, 그럴까? (Let's → shall we)"
+    },
+    {
+      "w": "Open the door, will you?",
+      "m": "[부가의문문] 문 좀 열어 줄래? (명령문 → will you)"
+    },
+    {
+      "w": "Don't be late, will you?",
+      "m": "[부가의문문] 늦지 마, 알았지? (부정 명령문 → will you)"
+    },
+    {
+      "w": "There is a park near here, isn't there?",
+      "m": "[부가의문문] 이 근처에 공원이 있지, 그렇지? (there is → isn't there)"
+    },
+    {
+      "w": "Nobody called, did they?",
+      "m": "[부가의문문] 아무도 전화 안 했지, 그렇지? (nobody → did they)"
+    },
+    {
+      "w": "This is your pen, isn't it?",
+      "m": "[부가의문문] 이거 네 펜이지, 그렇지? (this → it)"
+    },
+    {
+      "w": "You must study hard, mustn't you?",
+      "m": "[부가의문문] 너 열심히 공부해야 하지, 그렇지?"
+    },
+    {
+      "w": "She has a dog, doesn't she?",
+      "m": "[부가의문문] 그녀는 개를 키우지, 그렇지? (have(소유) → doesn't)"
+    },
+    {
+      "w": "We should leave now, shouldn't we?",
+      "m": "[부가의문문] 우리 지금 떠나야 하지, 그렇지?"
+    },
+    {
+      "w": "I don't know where he lives.",
+      "m": "[간접의문문] 나는 그가 어디 사는지 모른다. (의문사 + 주어 + 동사 (평서문 어순))"
+    },
+    {
+      "w": "Do you know what time it is?",
+      "m": "[간접의문문] 지금 몇 시인지 아니? (what time it is (what time is it ×))"
+    },
+    {
+      "w": "Tell me why you were late.",
+      "m": "[간접의문문] 왜 늦었는지 말해 봐."
+    },
+    {
+      "w": "I wonder who she is.",
+      "m": "[간접의문문] 나는 그녀가 누구인지 궁금하다. (I wonder + 간접의문문)"
+    },
+    {
+      "w": "Can you tell me how I can get to the station?",
+      "m": "[간접의문문] 역에 어떻게 가는지 알려 주시겠어요?"
+    },
+    {
+      "w": "I'm not sure when the bus comes.",
+      "m": "[간접의문문] 버스가 언제 오는지 잘 모르겠다."
+    },
+    {
+      "w": "Do you know if she likes coffee?",
+      "m": "[간접의문문] 그녀가 커피를 좋아하는지 아니? (Yes/No 의문문 → if/whether)"
+    },
+    {
+      "w": "I asked whether he was coming.",
+      "m": "[간접의문문] 나는 그가 오는지 물었다. (whether)"
+    },
+    {
+      "w": "Nobody knows what happened.",
+      "m": "[간접의문문] 무슨 일이 일어났는지 아무도 모른다. (의문사가 주어면 어순 변화 없음)"
+    },
+    {
+      "w": "I want to know how old he is.",
+      "m": "[간접의문문] 나는 그가 몇 살인지 알고 싶다."
+    },
+    {
+      "w": "Please tell me where you put the keys.",
+      "m": "[간접의문문] 열쇠를 어디에 뒀는지 말해 주세요. (do 사라지고 과거형 그대로)"
+    },
+    {
+      "w": "Do you think he is honest?",
+      "m": "[간접의문문] 그가 정직하다고 생각하니?"
+    },
+    {
+      "w": "Who do you think will win?",
+      "m": "[간접의문문] 누가 이길 거라고 생각하니? (think류 동사는 의문사가 문장 앞으로)"
+    },
+    {
+      "w": "What do you suppose she wants?",
+      "m": "[간접의문문] 그녀가 뭘 원한다고 생각해?"
+    },
+    {
+      "w": "I have no idea what he means.",
+      "m": "[간접의문문] 나는 그가 무슨 뜻인지 전혀 모르겠다."
+    },
+    {
+      "w": "Open the window.",
+      "m": "[명령문] 창문을 열어라. (동사원형으로 시작)"
+    },
+    {
+      "w": "Be quiet, please.",
+      "m": "[명령문] 조용히 해 주세요. (be동사 명령문 = Be)"
+    },
+    {
+      "w": "Please sit down.",
+      "m": "[명령문] 앉으세요. (please로 공손하게)"
+    },
+    {
+      "w": "Wash your hands before dinner.",
+      "m": "[명령문] 저녁 먹기 전에 손을 씻어라."
+    },
+    {
+      "w": "Turn left at the corner.",
+      "m": "[명령문] 모퉁이에서 왼쪽으로 도세요."
+    },
+    {
+      "w": "Be careful!",
+      "m": "[명령문] 조심해!"
+    },
+    {
+      "w": "Have a nice day.",
+      "m": "[명령문] 좋은 하루 보내세요."
+    },
+    {
+      "w": "Don't touch that.",
+      "m": "[명령문] 그거 만지지 마. (부정 명령문 Don't + 동사원형)"
+    },
+    {
+      "w": "Don't be afraid.",
+      "m": "[명령문] 두려워하지 마. (Don't be + 형용사)"
+    },
+    {
+      "w": "Never give up.",
+      "m": "[명령문] 절대 포기하지 마. (Never + 동사원형 = 강한 금지)"
+    },
+    {
+      "w": "Let's go to the park.",
+      "m": "[명령문] 공원에 가자. (Let's + 동사원형 = 제안)"
+    },
+    {
+      "w": "Let's not waste time.",
+      "m": "[명령문] 시간 낭비하지 말자. (Let's not)"
+    },
+    {
+      "w": "Let me help you.",
+      "m": "[명령문] 내가 도와줄게. (Let me + 동사원형)"
+    },
+    {
+      "w": "Do come in!",
+      "m": "[명령문] 어서 들어오세요! (Do + 동사원형 = 강조)"
+    },
+    {
+      "w": "Study hard, and you will pass.",
+      "m": "[명령문] 열심히 공부해라, 그러면 합격할 것이다. (명령문, and = ~해라, 그러면)"
+    },
+    {
+      "w": "Hurry up, or you will miss the bus.",
+      "m": "[명령문] 서둘러라, 안 그러면 버스를 놓친다. (명령문, or = ~해라, 안 그러면)"
+    },
+    {
+      "w": "Everybody stand up.",
+      "m": "[명령문] 모두 일어서. (주어를 밝힌 명령문)"
+    },
+    {
+      "w": "You be quiet!",
+      "m": "[명령문] 너 조용히 해! (강조를 위해 you 사용)"
+    },
+    {
+      "w": "What a beautiful day!",
+      "m": "[감탄문] 정말 아름다운 날이구나! (What + a + 형용사 + 명사)"
+    },
+    {
+      "w": "What a big dog it is!",
+      "m": "[감탄문] 정말 큰 개구나! (What a 형 명 (주어 동사))"
+    },
+    {
+      "w": "What an interesting story!",
+      "m": "[감탄문] 정말 흥미로운 이야기야! (모음 소리 앞 an)"
+    },
+    {
+      "w": "What beautiful flowers!",
+      "m": "[감탄문] 정말 아름다운 꽃들이야! (복수 명사에는 a 없음)"
+    },
+    {
+      "w": "What nice weather!",
+      "m": "[감탄문] 날씨 정말 좋다! (불가산 명사에는 a 없음)"
+    },
+    {
+      "w": "How beautiful she is!",
+      "m": "[감탄문] 그녀는 정말 아름답구나! (How + 형용사 (+ 주어 + 동사))"
+    },
+    {
+      "w": "How fast he runs!",
+      "m": "[감탄문] 그는 정말 빨리 달리는구나! (How + 부사)"
+    },
+    {
+      "w": "How kind of you!",
+      "m": "[감탄문] 정말 친절하시네요!"
+    },
+    {
+      "w": "How tall you have grown!",
+      "m": "[감탄문] 키가 정말 많이 컸구나!"
+    },
+    {
+      "w": "What a surprise!",
+      "m": "[감탄문] 정말 놀라워!"
+    },
+    {
+      "w": "How delicious this cake is!",
+      "m": "[감탄문] 이 케이크 정말 맛있다!"
+    },
+    {
+      "w": "What a wonderful world!",
+      "m": "[감탄문] 정말 멋진 세상이야!"
+    },
+    {
+      "w": "There is a book on the desk.",
+      "m": "[There is / There are] 책상 위에 책이 한 권 있다. (there is + 단수)"
+    },
+    {
+      "w": "There are three cats under the tree.",
+      "m": "[There is / There are] 나무 아래에 고양이 세 마리가 있다. (there are + 복수)"
+    },
+    {
+      "w": "There is some water in the glass.",
+      "m": "[There is / There are] 잔에 물이 좀 있다. (불가산 → is)"
+    },
+    {
+      "w": "There isn't any milk left.",
+      "m": "[There is / There are] 우유가 남아 있지 않다. (부정)"
+    },
+    {
+      "w": "There aren't any chairs here.",
+      "m": "[There is / There are] 여기에는 의자가 없다."
+    },
+    {
+      "w": "Is there a bank near here?",
+      "m": "[There is / There are] 이 근처에 은행이 있나요? (의문문 Is there)"
+    },
+    {
+      "w": "Are there any questions?",
+      "m": "[There is / There are] 질문 있나요?"
+    },
+    {
+      "w": "There was a big fire last night.",
+      "m": "[There is / There are] 어젯밤에 큰 불이 났다. (과거 there was)"
+    },
+    {
+      "w": "There were many people at the concert.",
+      "m": "[There is / There are] 콘서트에 사람이 많았다."
+    },
+    {
+      "w": "There will be a test tomorrow.",
+      "m": "[There is / There are] 내일 시험이 있을 것이다. (미래 there will be)"
+    },
+    {
+      "w": "There has been an accident.",
+      "m": "[There is / There are] 사고가 있었다. (현재완료 there has been)"
+    },
+    {
+      "w": "How many students are there in your class?",
+      "m": "[There is / There are] 너희 반에 학생이 몇 명 있니?"
+    },
+    {
+      "w": "There is nothing to eat.",
+      "m": "[There is / There are] 먹을 것이 없다."
+    },
+    {
+      "w": "There's no time to lose.",
+      "m": "[There is / There are] 지체할 시간이 없다."
+    },
+    {
+      "w": "There are a lot of stars tonight.",
+      "m": "[There is / There are] 오늘 밤 별이 많다."
+    },
+    {
+      "w": "She is a teacher. → Is she a teacher?",
+      "m": "[문장의 종류 변환] 그녀는 선생님이다. → 그녀는 선생님이니? (평서문 → 의문문)"
+    },
+    {
+      "w": "He likes dogs. → He doesn't like dogs.",
+      "m": "[문장의 종류 변환] 그는 개를 좋아한다. → 그는 개를 좋아하지 않는다. (평서문 → 부정문)"
+    },
+    {
+      "w": "You are kind. → Be kind.",
+      "m": "[문장의 종류 변환] 너는 친절하다. → 친절해라. (평서문 → 명령문)"
+    },
+    {
+      "w": "It is a very nice car. → What a nice car it is!",
+      "m": "[문장의 종류 변환] 그것은 아주 멋진 차다. → 정말 멋진 차구나! (평서문 → What 감탄문)"
+    },
+    {
+      "w": "She sings very well. → How well she sings!",
+      "m": "[문장의 종류 변환] 그녀는 노래를 아주 잘한다. → 정말 노래를 잘하는구나! (평서문 → How 감탄문)"
+    },
+    {
+      "w": "You can swim. → You can swim, can't you?",
+      "m": "[문장의 종류 변환] 너는 수영할 수 있다. → 수영할 수 있지, 그렇지? (평서문 → 부가의문문)"
+    },
+    {
+      "w": "Where is he? → I don't know where he is.",
+      "m": "[문장의 종류 변환] 그는 어디 있니? → 나는 그가 어디 있는지 모른다. (직접의문문 → 간접의문문)"
+    },
+    {
+      "w": "Is she busy? → Do you know if she is busy?",
+      "m": "[문장의 종류 변환] 그녀는 바쁘니? → 그녀가 바쁜지 아니? (Yes/No → if 간접의문문)"
+    },
+    {
+      "w": "Don't run. → You must not run.",
+      "m": "[문장의 종류 변환] 뛰지 마라. → 뛰면 안 된다. (부정 명령문 ↔ must not)"
+    },
+    {
+      "w": "Let's play soccer. → Shall we play soccer?",
+      "m": "[문장의 종류 변환] 축구하자. → 축구할까? (Let's ↔ Shall we)"
+    },
+    {
+      "w": "Open the door. → Will you open the door?",
+      "m": "[문장의 종류 변환] 문을 열어라. → 문 좀 열어 줄래? (명령문 ↔ Will you)"
+    },
+    {
+      "w": "There is a cat. → There isn't a cat.",
+      "m": "[문장의 종류 변환] 고양이가 있다. → 고양이가 없다. (there is 부정)"
+    },
+    {
+      "w": "What about going to the movies?",
+      "m": "[기타 문장 형태] 영화 보러 가는 거 어때? (What about -ing = 제안)"
+    },
+    {
+      "w": "How about a cup of tea?",
+      "m": "[기타 문장 형태] 차 한 잔 어때? (How about + 명사)"
+    },
+    {
+      "w": "Shall we dance?",
+      "m": "[기타 문장 형태] 우리 춤출까요? (Shall we = 제안)"
+    },
+    {
+      "w": "Would you like some coffee?",
+      "m": "[기타 문장 형태] 커피 좀 드시겠어요? (정중한 권유)"
+    },
+    {
+      "w": "Could you open the window, please?",
+      "m": "[기타 문장 형태] 창문 좀 열어 주시겠어요? (정중한 부탁)"
+    },
+    {
+      "w": "May I come in?",
+      "m": "[기타 문장 형태] 들어가도 될까요? (허락 요청)"
+    },
+    {
+      "w": "Watch out!",
+      "m": "[기타 문장 형태] 조심해! (경고)"
+    },
+    {
+      "w": "Help!",
+      "m": "[기타 문장 형태] 도와줘! (한 단어 문장)"
+    },
+    {
+      "w": "No smoking.",
+      "m": "[기타 문장 형태] 금연. (명사구 안내문)"
+    },
+    {
+      "w": "Happy birthday!",
+      "m": "[기타 문장 형태] 생일 축하해! (인사 표현)"
+    },
+    {
+      "w": "What if it rains?",
+      "m": "[기타 문장 형태] 비가 오면 어떡하지? (What if = ~하면 어쩌지)"
+    },
+    {
+      "w": "If only I were taller!",
+      "m": "[기타 문장 형태] 내가 키가 더 컸더라면! (If only = ~라면 좋을 텐데)"
+    },
+    {
+      "w": "Here comes the bus!",
+      "m": "[기타 문장 형태] 버스가 온다! (Here + 동사 + 주어 (도치))"
+    },
+    {
+      "w": "Long live the king!",
+      "m": "[기타 문장 형태] 국왕 만세! (기원문)"
+    },
+    {
+      "w": "May you be happy!",
+      "m": "[기타 문장 형태] 행복하길 빌어요! (May + 주어 + 동사원형 = 기원)"
+    },
+    {
+      "w": "So do I.",
+      "m": "[기타 문장 형태] 나도 그래. (So + 동사 + 주어 = 동의)"
+    },
+    {
+      "w": "Neither do I.",
+      "m": "[기타 문장 형태] 나도 안 그래. (Neither + 동사 + 주어 = 부정 동의)"
+    },
+    {
+      "w": "Me too.",
+      "m": "[기타 문장 형태] 나도. (구어체 동의)"
+    },
+    {
+      "w": "Yes, please.",
+      "m": "[기타 문장 형태] 네, 부탁해요. (권유에 대한 수락)"
+    },
+    {
+      "w": "No, thanks.",
+      "m": "[기타 문장 형태] 아니요, 괜찮아요. (권유에 대한 거절)"
+    },
+    {
+      "w": "Do you want tea or coffee?",
+      "m": "[선택의문문] 차를 원하니, 커피를 원하니? (A or B 중 선택)"
+    },
+    {
+      "w": "Is he a doctor or a nurse?",
+      "m": "[선택의문문] 그는 의사니, 간호사니?"
+    },
+    {
+      "w": "Which do you prefer, summer or winter?",
+      "m": "[선택의문문] 여름과 겨울 중 어느 쪽을 더 좋아하니? (Which ~, A or B?)"
+    },
+    {
+      "w": "Will you walk or take a bus?",
+      "m": "[선택의문문] 걸어갈 거니, 버스 탈 거니?"
+    },
+    {
+      "w": "Did she call you or text you?",
+      "m": "[선택의문문] 그녀가 전화했니, 문자했니?"
+    },
+    {
+      "w": "Are you coming or not?",
+      "m": "[선택의문문] 올 거야, 말 거야? (or not)"
+    },
+    {
+      "w": "Shall we eat in or go out?",
+      "m": "[선택의문문] 집에서 먹을까, 나가서 먹을까?"
+    },
+    {
+      "w": "Is this yours or mine?",
+      "m": "[선택의문문] 이거 네 거니, 내 거니?"
+    },
+    {
+      "w": "Would you like it hot or cold?",
+      "m": "[선택의문문] 뜨겁게 드릴까요, 차갑게 드릴까요?"
+    },
+    {
+      "w": "Do you go to school by bus or on foot?",
+      "m": "[선택의문문] 학교에 버스로 가니, 걸어서 가니?"
+    },
+    {
+      "w": "What is he like?",
+      "m": "[의문문 심화] 그는 어떤 사람이니? (What ~ like = 성격·외모)"
+    },
+    {
+      "w": "What does she look like?",
+      "m": "[의문문 심화] 그녀는 어떻게 생겼니? (look like = 외모)"
+    },
+    {
+      "w": "What is the weather like today?",
+      "m": "[의문문 심화] 오늘 날씨 어때?"
+    },
+    {
+      "w": "What do you do?",
+      "m": "[의문문 심화] 직업이 뭐예요? (What do you do = 직업)"
+    },
+    {
+      "w": "What is this for?",
+      "m": "[의문문 심화] 이건 무엇에 쓰는 거니? (What ~ for = 용도)"
+    },
+    {
+      "w": "How come you're late?",
+      "m": "[의문문 심화] 어째서 늦었어? (How come + 평서문 어순)"
+    },
+    {
+      "w": "What time do you get up?",
+      "m": "[의문문 심화] 몇 시에 일어나니?"
+    },
+    {
+      "w": "How often do you exercise?",
+      "m": "[의문문 심화] 얼마나 자주 운동하니? (빈도)"
+    },
+    {
+      "w": "How far is the station?",
+      "m": "[의문문 심화] 역까지 얼마나 멀어? (거리)"
+    },
+    {
+      "w": "How old is your brother?",
+      "m": "[의문문 심화] 네 남동생은 몇 살이니? (나이)"
+    },
+    {
+      "w": "I don't like it at all.",
+      "m": "[부정 표현 심화] 나는 그것이 전혀 마음에 들지 않는다. (not ~ at all = 전혀)"
+    },
+    {
+      "w": "She no longer lives here.",
+      "m": "[부정 표현 심화] 그녀는 더 이상 여기 살지 않는다. (no longer = 더 이상 ~않다)"
+    },
+    {
+      "w": "He is not a teacher but a doctor.",
+      "m": "[부정 표현 심화] 그는 선생님이 아니라 의사다. (not A but B)"
+    },
+    {
+      "w": "I have never been abroad.",
+      "m": "[부정 표현 심화] 나는 해외에 가 본 적이 없다. (never)"
+    },
+    {
+      "w": "There is nothing wrong with it.",
+      "m": "[부정 표현 심화] 그것에는 아무 문제가 없다. (nothing)"
+    },
+    {
+      "w": "I can hardly hear you.",
+      "m": "[부정 표현 심화] 네 말이 거의 안 들려. (hardly = 거의 ~않다)"
+    },
+    {
+      "w": "Not everyone likes spicy food.",
+      "m": "[부정 표현 심화] 모든 사람이 매운 음식을 좋아하는 것은 아니다. (not every = 부분부정)"
+    },
+    {
+      "w": "Neither of them was right.",
+      "m": "[부정 표현 심화] 그들 둘 다 옳지 않았다. (neither)"
+    },
+    {
+      "w": "I don't think he will come.",
+      "m": "[부정 표현 심화] 그는 오지 않을 것 같아. (I don't think ~ (부정은 앞에))"
+    },
+    {
+      "w": "Nothing is impossible.",
+      "m": "[부정 표현 심화] 불가능한 것은 없다."
+    }
+  ]
+}

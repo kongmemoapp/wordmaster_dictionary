@@ -1,0 +1,806 @@
+{
+  "name": "영어 접속부사·연결어 예문 200",
+  "description": "대조·양보(however, nevertheless, on the other hand), 원인·결과(therefore, as a result, due to), 추가(moreover, in addition, besides), 예시·강조(for example, in fact, above all), 순서·시간(first, meanwhile, finally), 요약·결론(in conclusion, to sum up), 조건(unless, otherwise, in case), 바꿔 말하기(in other words, by the way), 비교(unlike, just as), 담화 표지(well, honestly, luckily), 목적·수단(so that, by -ing) 예문 200개",
+  "words": [
+    {
+      "w": "I wanted to go out. However, it was raining.",
+      "m": "[대조·양보] 나는 나가고 싶었다. 하지만 비가 오고 있었다. (however = 그러나)"
+    },
+    {
+      "w": "He is rich. Nevertheless, he is not happy.",
+      "m": "[대조·양보] 그는 부자다. 그럼에도 불구하고 행복하지 않다. (nevertheless = 그럼에도)"
+    },
+    {
+      "w": "The test was hard. Nonetheless, she passed.",
+      "m": "[대조·양보] 시험은 어려웠다. 그럼에도 그녀는 합격했다. (nonetheless = nevertheless)"
+    },
+    {
+      "w": "I like tea. On the other hand, my sister likes coffee.",
+      "m": "[대조·양보] 나는 차를 좋아한다. 반면에 내 여동생은 커피를 좋아한다. (on the other hand = 반면에)"
+    },
+    {
+      "w": "Cats are independent. In contrast, dogs need attention.",
+      "m": "[대조·양보] 고양이는 독립적이다. 대조적으로 개는 관심이 필요하다. (in contrast = 대조적으로)"
+    },
+    {
+      "w": "Tom is tall. Conversely, his brother is short.",
+      "m": "[대조·양보] 톰은 키가 크다. 반대로 그의 형은 작다. (conversely = 반대로)"
+    },
+    {
+      "w": "It's expensive. Still, I want to buy it.",
+      "m": "[대조·양보] 비싸다. 그래도 사고 싶다. (still = 그래도)"
+    },
+    {
+      "w": "He studied hard. Even so, he failed.",
+      "m": "[대조·양보] 그는 열심히 공부했다. 그렇더라도 떨어졌다. (even so = 그렇다 하더라도)"
+    },
+    {
+      "w": "The hotel was old. All the same, we enjoyed it.",
+      "m": "[대조·양보] 호텔은 낡았다. 그래도 우리는 즐겼다. (all the same = 그래도)"
+    },
+    {
+      "w": "I'm tired. Anyway, let's finish this.",
+      "m": "[대조·양보] 피곤하다. 어쨌든 이것을 끝내자. (anyway = 어쨌든)"
+    },
+    {
+      "w": "She was sick. Yet she came to school.",
+      "m": "[대조·양보] 그녀는 아팠다. 그런데도 학교에 왔다. (yet = 그런데도)"
+    },
+    {
+      "w": "He is young but experienced. Instead of panicking, he stayed calm.",
+      "m": "[대조·양보] 그는 젊지만 경험이 많다. 당황하는 대신 침착했다. (instead of = ~ 대신에)"
+    },
+    {
+      "w": "I didn't take the bus. Instead, I walked.",
+      "m": "[대조·양보] 나는 버스를 타지 않았다. 대신 걸었다. (instead = 대신에)"
+    },
+    {
+      "w": "Despite the rain, we went hiking.",
+      "m": "[대조·양보] 비에도 불구하고 우리는 등산을 갔다. (despite + 명사)"
+    },
+    {
+      "w": "In spite of his age, he runs every day.",
+      "m": "[대조·양보] 나이에도 불구하고 그는 매일 달린다. (in spite of + 명사)"
+    },
+    {
+      "w": "Although it was cold, we swam.",
+      "m": "[대조·양보] 추웠지만 우리는 수영했다. (although + 절)"
+    },
+    {
+      "w": "Even though she was tired, she kept working.",
+      "m": "[대조·양보] 피곤했음에도 그녀는 계속 일했다. (even though + 절)"
+    },
+    {
+      "w": "While I like the city, I prefer the countryside.",
+      "m": "[대조·양보] 도시도 좋지만 나는 시골을 더 좋아한다. (while = ~인 반면)"
+    },
+    {
+      "w": "Whereas he is quiet, his wife is talkative.",
+      "m": "[대조·양보] 그는 조용한 반면 아내는 수다스럽다. (whereas = ~인 반면)"
+    },
+    {
+      "w": "Regardless of the cost, we must fix it.",
+      "m": "[대조·양보] 비용에 상관없이 우리는 그것을 고쳐야 한다. (regardless of = ~에 상관없이)"
+    },
+    {
+      "w": "It rained all day. Therefore, the game was canceled.",
+      "m": "[원인·결과] 하루 종일 비가 왔다. 그래서 경기가 취소되었다. (therefore = 그러므로)"
+    },
+    {
+      "w": "He didn't study. As a result, he failed.",
+      "m": "[원인·결과] 그는 공부하지 않았다. 그 결과 떨어졌다. (as a result = 그 결과)"
+    },
+    {
+      "w": "The road was icy. Consequently, there were accidents.",
+      "m": "[원인·결과] 도로가 얼어 있었다. 결과적으로 사고가 났다. (consequently = 결과적으로)"
+    },
+    {
+      "w": "She was late. Thus, she missed the bus.",
+      "m": "[원인·결과] 그녀는 늦었다. 그리하여 버스를 놓쳤다. (thus = 그리하여)"
+    },
+    {
+      "w": "Prices went up. Hence, people bought less.",
+      "m": "[원인·결과] 물가가 올랐다. 따라서 사람들은 덜 샀다. (hence = 따라서)"
+    },
+    {
+      "w": "I was tired, so I went to bed early.",
+      "m": "[원인·결과] 나는 피곤해서 일찍 잤다. (so = 그래서)"
+    },
+    {
+      "w": "For this reason, we changed the plan.",
+      "m": "[원인·결과] 이런 이유로 우리는 계획을 바꿨다. (for this reason)"
+    },
+    {
+      "w": "Accordingly, the meeting was postponed.",
+      "m": "[원인·결과] 그에 따라 회의가 연기되었다. (accordingly = 그에 따라)"
+    },
+    {
+      "w": "It was snowing heavily. Because of this, schools were closed.",
+      "m": "[원인·결과] 눈이 많이 왔다. 이 때문에 학교가 문을 닫았다. (because of + 명사)"
+    },
+    {
+      "w": "Due to the storm, the flight was delayed.",
+      "m": "[원인·결과] 폭풍 때문에 비행기가 지연되었다. (due to + 명사)"
+    },
+    {
+      "w": "Owing to his effort, the project succeeded.",
+      "m": "[원인·결과] 그의 노력 덕분에 프로젝트가 성공했다. (owing to + 명사)"
+    },
+    {
+      "w": "Thanks to your help, I finished on time.",
+      "m": "[원인·결과] 네 도움 덕분에 제때 끝냈다. (thanks to = ~ 덕분에)"
+    },
+    {
+      "w": "Since it's late, let's go home.",
+      "m": "[원인·결과] 늦었으니 집에 가자. (since = ~이므로)"
+    },
+    {
+      "w": "As he was ill, he stayed home.",
+      "m": "[원인·결과] 그는 아팠기 때문에 집에 있었다. (as = ~이므로)"
+    },
+    {
+      "w": "Now that you're here, we can start.",
+      "m": "[원인·결과] 네가 왔으니 이제 시작할 수 있다. (now that = ~이니까)"
+    },
+    {
+      "w": "That's why I called you.",
+      "m": "[원인·결과] 그래서 내가 너에게 전화한 거야. (that's why = 그래서)"
+    },
+    {
+      "w": "The result is that we lost money.",
+      "m": "[원인·결과] 결과는 우리가 돈을 잃었다는 것이다."
+    },
+    {
+      "w": "He was so tired that he fell asleep.",
+      "m": "[원인·결과] 그는 너무 피곤해서 잠들었다. (so ~ that)"
+    },
+    {
+      "w": "It was such a good book that I read it twice.",
+      "m": "[원인·결과] 너무 좋은 책이라 두 번 읽었다. (such ~ that)"
+    },
+    {
+      "w": "I studied hard in order to pass.",
+      "m": "[원인·결과] 나는 합격하기 위해 열심히 공부했다. (in order to = 목적)"
+    },
+    {
+      "w": "The room is big. Moreover, it has a nice view.",
+      "m": "[추가·첨가] 그 방은 크다. 게다가 전망도 좋다. (moreover = 게다가)"
+    },
+    {
+      "w": "She is smart. Furthermore, she is kind.",
+      "m": "[추가·첨가] 그녀는 똑똑하다. 더욱이 친절하다. (furthermore = 더욱이)"
+    },
+    {
+      "w": "I don't have time. Besides, I'm not interested.",
+      "m": "[추가·첨가] 시간이 없다. 게다가 관심도 없다. (besides = 게다가)"
+    },
+    {
+      "w": "He speaks English. In addition, he speaks Chinese.",
+      "m": "[추가·첨가] 그는 영어를 한다. 또한 중국어도 한다. (in addition = 또한)"
+    },
+    {
+      "w": "The food was good. Also, the service was great.",
+      "m": "[추가·첨가] 음식이 좋았다. 서비스도 훌륭했다. (also = 또한)"
+    },
+    {
+      "w": "We visited Paris and Rome as well.",
+      "m": "[추가·첨가] 우리는 파리를 방문했고 로마도 갔다. (as well = ~도)"
+    },
+    {
+      "w": "She can sing. What's more, she can dance.",
+      "m": "[추가·첨가] 그녀는 노래할 수 있다. 게다가 춤도 춘다. (what's more = 게다가)"
+    },
+    {
+      "w": "I like the color. On top of that, it's cheap.",
+      "m": "[추가·첨가] 색이 마음에 든다. 거기다 싸기까지 하다. (on top of that)"
+    },
+    {
+      "w": "Not only is he fast, but he is also strong.",
+      "m": "[추가·첨가] 그는 빠를 뿐 아니라 힘도 세다. (not only ~ but also)"
+    },
+    {
+      "w": "In addition to English, she studies Japanese.",
+      "m": "[추가·첨가] 영어 외에도 그녀는 일본어를 공부한다. (in addition to + 명사)"
+    },
+    {
+      "w": "Besides being a teacher, he is a writer.",
+      "m": "[추가·첨가] 교사일 뿐만 아니라 그는 작가이기도 하다. (besides + -ing)"
+    },
+    {
+      "w": "Likewise, the second test was easy.",
+      "m": "[추가·첨가] 마찬가지로 두 번째 시험도 쉬웠다. (likewise = 마찬가지로)"
+    },
+    {
+      "w": "Similarly, the other team won.",
+      "m": "[추가·첨가] 비슷하게 다른 팀도 이겼다. (similarly = 비슷하게)"
+    },
+    {
+      "w": "Equally important is practice.",
+      "m": "[추가·첨가] 마찬가지로 중요한 것은 연습이다. (equally)"
+    },
+    {
+      "w": "Apart from that, everything is fine.",
+      "m": "[추가·첨가] 그것 말고는 모두 괜찮다. (apart from = ~을 제외하고/외에도)"
+    },
+    {
+      "w": "Many fruits are sweet. For example, mangoes are very sweet.",
+      "m": "[예시·강조] 많은 과일이 달다. 예를 들어 망고는 매우 달다. (for example)"
+    },
+    {
+      "w": "I love outdoor sports, for instance, hiking and cycling.",
+      "m": "[예시·강조] 나는 야외 운동, 예를 들면 등산과 자전거를 좋아한다. (for instance)"
+    },
+    {
+      "w": "Some animals, such as bats, sleep during the day.",
+      "m": "[예시·강조] 박쥐 같은 몇몇 동물은 낮에 잔다. (such as)"
+    },
+    {
+      "w": "Eat healthy food like vegetables and fruit.",
+      "m": "[예시·강조] 채소와 과일 같은 건강한 음식을 먹어라. (like = ~같은)"
+    },
+    {
+      "w": "He has many hobbies, namely reading, chess, and golf.",
+      "m": "[예시·강조] 그는 취미가 많다. 즉 독서, 체스, 골프다. (namely = 즉)"
+    },
+    {
+      "w": "To illustrate, let's look at this chart.",
+      "m": "[예시·강조] 설명하자면 이 도표를 보자. (to illustrate)"
+    },
+    {
+      "w": "In fact, she is the best player on the team.",
+      "m": "[예시·강조] 사실 그녀는 팀 최고의 선수다. (in fact = 사실)"
+    },
+    {
+      "w": "Indeed, it was the coldest day of the year.",
+      "m": "[예시·강조] 정말로 그날은 그해 가장 추운 날이었다. (indeed = 정말로)"
+    },
+    {
+      "w": "Above all, be honest.",
+      "m": "[예시·강조] 무엇보다도 정직해라. (above all = 무엇보다)"
+    },
+    {
+      "w": "Most importantly, don't give up.",
+      "m": "[예시·강조] 가장 중요한 것은 포기하지 않는 것이다. (most importantly)"
+    },
+    {
+      "w": "In particular, I liked the ending.",
+      "m": "[예시·강조] 특히 나는 결말이 좋았다. (in particular = 특히)"
+    },
+    {
+      "w": "Especially in summer, the beach is crowded.",
+      "m": "[예시·강조] 특히 여름에 해변은 붐빈다. (especially = 특히)"
+    },
+    {
+      "w": "Actually, I have never met him.",
+      "m": "[예시·강조] 사실 나는 그를 만난 적이 없다. (actually = 사실은)"
+    },
+    {
+      "w": "As a matter of fact, I was born here.",
+      "m": "[예시·강조] 사실은 나는 여기서 태어났다. (as a matter of fact)"
+    },
+    {
+      "w": "Needless to say, practice makes perfect.",
+      "m": "[예시·강조] 말할 필요도 없이 연습이 완벽을 만든다. (needless to say)"
+    },
+    {
+      "w": "First, mix the flour and sugar.",
+      "m": "[순서·시간] 먼저 밀가루와 설탕을 섞어라. (first = 먼저)"
+    },
+    {
+      "w": "Second, add the eggs.",
+      "m": "[순서·시간] 둘째로 달걀을 넣어라. (second)"
+    },
+    {
+      "w": "Then, pour in the milk.",
+      "m": "[순서·시간] 그다음 우유를 부어라. (then = 그다음)"
+    },
+    {
+      "w": "Next, bake it for 30 minutes.",
+      "m": "[순서·시간] 다음으로 30분 동안 구워라. (next = 다음으로)"
+    },
+    {
+      "w": "After that, let it cool.",
+      "m": "[순서·시간] 그 후에 식혀라. (after that = 그 후에)"
+    },
+    {
+      "w": "Finally, enjoy your cake.",
+      "m": "[순서·시간] 마지막으로 케이크를 즐겨라. (finally = 마지막으로)"
+    },
+    {
+      "w": "At first, I didn't like him.",
+      "m": "[순서·시간] 처음에는 그가 마음에 들지 않았다. (at first = 처음에는)"
+    },
+    {
+      "w": "In the beginning, everything was new.",
+      "m": "[순서·시간] 처음에는 모든 것이 새로웠다. (in the beginning)"
+    },
+    {
+      "w": "Meanwhile, the soup was boiling.",
+      "m": "[순서·시간] 그동안 수프가 끓고 있었다. (meanwhile = 그동안)"
+    },
+    {
+      "w": "In the meantime, please wait here.",
+      "m": "[순서·시간] 그 사이에 여기서 기다려 주세요. (in the meantime)"
+    },
+    {
+      "w": "Afterwards, we went for a walk.",
+      "m": "[순서·시간] 그 후에 우리는 산책을 갔다. (afterwards = 그 후에)"
+    },
+    {
+      "w": "Previously, she worked at a bank.",
+      "m": "[순서·시간] 이전에 그녀는 은행에서 일했다. (previously = 이전에)"
+    },
+    {
+      "w": "Eventually, the rain stopped.",
+      "m": "[순서·시간] 결국 비가 그쳤다. (eventually = 결국)"
+    },
+    {
+      "w": "At last, we reached the top.",
+      "m": "[순서·시간] 마침내 우리는 정상에 도착했다. (at last = 마침내)"
+    },
+    {
+      "w": "In the end, they got married.",
+      "m": "[순서·시간] 결국 그들은 결혼했다. (in the end = 결국)"
+    },
+    {
+      "w": "Later, I found out the truth.",
+      "m": "[순서·시간] 나중에 나는 진실을 알게 되었다. (later = 나중에)"
+    },
+    {
+      "w": "Soon, the show will begin.",
+      "m": "[순서·시간] 곧 쇼가 시작될 것이다. (soon = 곧)"
+    },
+    {
+      "w": "Immediately, he called the police.",
+      "m": "[순서·시간] 즉시 그는 경찰에 전화했다. (immediately = 즉시)"
+    },
+    {
+      "w": "Until then, keep practicing.",
+      "m": "[순서·시간] 그때까지 계속 연습해라. (until then)"
+    },
+    {
+      "w": "From then on, they were friends.",
+      "m": "[순서·시간] 그때부터 그들은 친구였다. (from then on = 그때부터)"
+    },
+    {
+      "w": "Last but not least, thank your parents.",
+      "m": "[순서·시간] 마지막으로 중요한 것은 부모님께 감사하는 것이다. (last but not least)"
+    },
+    {
+      "w": "To begin with, let me introduce myself.",
+      "m": "[순서·시간] 우선 제 소개를 하겠습니다. (to begin with = 우선)"
+    },
+    {
+      "w": "Firstly, we need a plan. Secondly, we need money.",
+      "m": "[순서·시간] 첫째로 계획이 필요하다. 둘째로 돈이 필요하다. (firstly, secondly)"
+    },
+    {
+      "w": "Subsequently, the company grew fast.",
+      "m": "[순서·시간] 그 후 회사는 빠르게 성장했다. (subsequently = 그 뒤에)"
+    },
+    {
+      "w": "Simultaneously, two alarms went off.",
+      "m": "[순서·시간] 동시에 두 알람이 울렸다. (simultaneously = 동시에)"
+    },
+    {
+      "w": "In conclusion, exercise is good for you.",
+      "m": "[요약·결론] 결론적으로 운동은 몸에 좋다. (in conclusion)"
+    },
+    {
+      "w": "To sum up, we need more time.",
+      "m": "[요약·결론] 요약하면 우리는 시간이 더 필요하다. (to sum up)"
+    },
+    {
+      "w": "In short, the plan failed.",
+      "m": "[요약·결론] 요컨대 그 계획은 실패했다. (in short = 요컨대)"
+    },
+    {
+      "w": "In summary, the results were positive.",
+      "m": "[요약·결론] 요약하자면 결과는 긍정적이었다. (in summary)"
+    },
+    {
+      "w": "All in all, it was a great trip.",
+      "m": "[요약·결론] 대체로 멋진 여행이었다. (all in all = 대체로)"
+    },
+    {
+      "w": "Overall, the movie was good.",
+      "m": "[요약·결론] 전반적으로 그 영화는 좋았다. (overall = 전반적으로)"
+    },
+    {
+      "w": "In brief, we won.",
+      "m": "[요약·결론] 간단히 말해 우리가 이겼다. (in brief)"
+    },
+    {
+      "w": "To conclude, I recommend this book.",
+      "m": "[요약·결론] 결론적으로 나는 이 책을 추천한다. (to conclude)"
+    },
+    {
+      "w": "On the whole, people were friendly.",
+      "m": "[요약·결론] 전체적으로 사람들은 친절했다. (on the whole)"
+    },
+    {
+      "w": "In a word, it was perfect.",
+      "m": "[요약·결론] 한마디로 완벽했다. (in a word = 한마디로)"
+    },
+    {
+      "w": "Generally speaking, cats are quiet.",
+      "m": "[요약·결론] 일반적으로 말해 고양이는 조용하다. (generally speaking)"
+    },
+    {
+      "w": "As a whole, the class did well.",
+      "m": "[요약·결론] 전체적으로 그 반은 잘했다. (as a whole)"
+    },
+    {
+      "w": "If it rains, we will stay home.",
+      "m": "[조건·가정] 비가 오면 우리는 집에 있을 것이다. (if)"
+    },
+    {
+      "w": "Unless you hurry, you'll be late.",
+      "m": "[조건·가정] 서두르지 않으면 늦을 거야. (unless = ~하지 않으면)"
+    },
+    {
+      "w": "Otherwise, you will miss the train.",
+      "m": "[조건·가정] 그렇지 않으면 기차를 놓칠 것이다. (otherwise = 그렇지 않으면)"
+    },
+    {
+      "w": "In that case, let's cancel the trip.",
+      "m": "[조건·가정] 그런 경우라면 여행을 취소하자. (in that case)"
+    },
+    {
+      "w": "As long as you try, I'm happy.",
+      "m": "[조건·가정] 네가 노력하는 한 나는 만족한다. (as long as = ~하는 한)"
+    },
+    {
+      "w": "Provided that you pay, you can enter.",
+      "m": "[조건·가정] 돈을 낸다면 들어갈 수 있다. (provided that = ~한다면)"
+    },
+    {
+      "w": "Suppose you won the lottery. What would you do?",
+      "m": "[조건·가정] 복권에 당첨됐다고 가정해 봐. 뭘 할 거야? (suppose = 가정해 보자)"
+    },
+    {
+      "w": "In case of fire, use the stairs.",
+      "m": "[조건·가정] 화재 시에는 계단을 이용하세요. (in case of + 명사)"
+    },
+    {
+      "w": "Take an umbrella in case it rains.",
+      "m": "[조건·가정] 비가 올지 모르니 우산을 가져가라. (in case + 절 = ~할 경우에 대비해)"
+    },
+    {
+      "w": "Even if it snows, the game will go on.",
+      "m": "[조건·가정] 눈이 와도 경기는 진행된다. (even if = 설령 ~해도)"
+    },
+    {
+      "w": "Whether you like it or not, you must go.",
+      "m": "[조건·가정] 좋든 싫든 너는 가야 한다. (whether ~ or not)"
+    },
+    {
+      "w": "If so, let me know.",
+      "m": "[조건·가정] 그렇다면 알려 줘. (if so = 그렇다면)"
+    },
+    {
+      "w": "If not, we'll try again.",
+      "m": "[조건·가정] 그렇지 않으면 다시 시도할 것이다. (if not)"
+    },
+    {
+      "w": "He is a polyglot. In other words, he speaks many languages.",
+      "m": "[바꿔 말하기·설명] 그는 폴리글랏이다. 다시 말해 여러 언어를 한다. (in other words = 다시 말해)"
+    },
+    {
+      "w": "The store is closed, that is, you can't buy anything.",
+      "m": "[바꿔 말하기·설명] 가게가 닫혔다. 즉 아무것도 살 수 없다. (that is = 즉)"
+    },
+    {
+      "w": "She works at home, i.e., she is a freelancer.",
+      "m": "[바꿔 말하기·설명] 그녀는 집에서 일한다. 즉 프리랜서다. (i.e. = 즉)"
+    },
+    {
+      "w": "To put it simply, we need help.",
+      "m": "[바꿔 말하기·설명] 간단히 말해 우리는 도움이 필요하다. (to put it simply)"
+    },
+    {
+      "w": "That is to say, the test was too hard.",
+      "m": "[바꿔 말하기·설명] 말하자면 시험이 너무 어려웠다. (that is to say)"
+    },
+    {
+      "w": "By the way, have you seen Tom?",
+      "m": "[바꿔 말하기·설명] 그건 그렇고, 톰 봤니? (by the way = 그건 그렇고 (화제 전환))"
+    },
+    {
+      "w": "Speaking of movies, have you seen the new one?",
+      "m": "[바꿔 말하기·설명] 영화 얘기가 나와서 말인데, 새 영화 봤어? (speaking of = ~ 얘기가 나와서)"
+    },
+    {
+      "w": "As for me, I prefer tea.",
+      "m": "[바꿔 말하기·설명] 나로 말하자면 차를 더 좋아한다. (as for = ~에 관해서는)"
+    },
+    {
+      "w": "Regarding your question, I'll answer later.",
+      "m": "[바꿔 말하기·설명] 네 질문에 관해서는 나중에 답할게. (regarding = ~에 관해)"
+    },
+    {
+      "w": "With regard to the plan, we agree.",
+      "m": "[바꿔 말하기·설명] 그 계획에 관해서는 우리는 동의한다. (with regard to)"
+    },
+    {
+      "w": "In terms of price, this one is better.",
+      "m": "[바꿔 말하기·설명] 가격 면에서는 이것이 더 낫다. (in terms of = ~ 면에서)"
+    },
+    {
+      "w": "Concerning the trip, we need to decide soon.",
+      "m": "[바꿔 말하기·설명] 여행에 관해서는 곧 결정해야 한다. (concerning = ~에 관해)"
+    },
+    {
+      "w": "On the contrary, I enjoyed it.",
+      "m": "[바꿔 말하기·설명] 오히려 나는 그것을 즐겼다. (on the contrary = 오히려 (반박))"
+    },
+    {
+      "w": "Of course, you can come.",
+      "m": "[바꿔 말하기·설명] 물론 너도 올 수 있다. (of course = 물론)"
+    },
+    {
+      "w": "Naturally, she was upset.",
+      "m": "[바꿔 말하기·설명] 당연히 그녀는 속상했다. (naturally = 당연히)"
+    },
+    {
+      "w": "Like his father, he is a doctor.",
+      "m": "[비교·유사] 아버지처럼 그는 의사다. (like = ~처럼)"
+    },
+    {
+      "w": "Unlike his brother, he is shy.",
+      "m": "[비교·유사] 형과 달리 그는 수줍음이 많다. (unlike = ~와 달리)"
+    },
+    {
+      "w": "Just as birds fly, fish swim.",
+      "m": "[비교·유사] 새가 날듯이 물고기는 헤엄친다. (just as = 꼭 ~처럼)"
+    },
+    {
+      "w": "In the same way, children learn by watching.",
+      "m": "[비교·유사] 같은 방식으로 아이들은 보면서 배운다. (in the same way)"
+    },
+    {
+      "w": "By comparison, this city is quiet.",
+      "m": "[비교·유사] 비교하자면 이 도시는 조용하다. (by comparison)"
+    },
+    {
+      "w": "Compared with last year, sales are up.",
+      "m": "[비교·유사] 작년과 비교하면 매출이 올랐다. (compared with)"
+    },
+    {
+      "w": "As with any job, practice matters.",
+      "m": "[비교·유사] 다른 일과 마찬가지로 연습이 중요하다. (as with = ~와 마찬가지로)"
+    },
+    {
+      "w": "Rather than drive, let's walk.",
+      "m": "[비교·유사] 운전하기보다 걷자. (rather than = ~보다는)"
+    },
+    {
+      "w": "The more you practice, the better you get.",
+      "m": "[비교·유사] 연습할수록 더 잘하게 된다. (the 비교급, the 비교급)"
+    },
+    {
+      "w": "Both cities are big; however, Seoul is bigger.",
+      "m": "[비교·유사] 두 도시 다 크지만 서울이 더 크다."
+    },
+    {
+      "w": "Well, I'm not sure about that.",
+      "m": "[담화 표지(구어)] 글쎄, 그건 잘 모르겠어. (well = 글쎄)"
+    },
+    {
+      "w": "You know, it's not easy.",
+      "m": "[담화 표지(구어)] 있잖아, 그거 쉽지 않아. (you know)"
+    },
+    {
+      "w": "I mean, he's a nice guy.",
+      "m": "[담화 표지(구어)] 내 말은, 그는 좋은 사람이야. (I mean = 내 말은)"
+    },
+    {
+      "w": "Anyway, what were we talking about?",
+      "m": "[담화 표지(구어)] 어쨌든 우리 무슨 얘기 하고 있었지? (anyway)"
+    },
+    {
+      "w": "So, what do you think?",
+      "m": "[담화 표지(구어)] 그래서, 어떻게 생각해? (so)"
+    },
+    {
+      "w": "Honestly, I didn't like it.",
+      "m": "[담화 표지(구어)] 솔직히 나는 마음에 안 들었어. (honestly = 솔직히)"
+    },
+    {
+      "w": "Frankly, I don't care.",
+      "m": "[담화 표지(구어)] 솔직히 말해 난 상관없어. (frankly)"
+    },
+    {
+      "w": "Luckily, nobody was hurt.",
+      "m": "[담화 표지(구어)] 다행히 아무도 다치지 않았다. (luckily = 다행히)"
+    },
+    {
+      "w": "Unfortunately, the shop was closed.",
+      "m": "[담화 표지(구어)] 안타깝게도 가게는 닫혀 있었다. (unfortunately)"
+    },
+    {
+      "w": "Hopefully, it will be sunny tomorrow.",
+      "m": "[담화 표지(구어)] 바라건대 내일은 맑았으면 좋겠다. (hopefully)"
+    },
+    {
+      "w": "Surprisingly, he agreed.",
+      "m": "[담화 표지(구어)] 놀랍게도 그는 동의했다. (surprisingly)"
+    },
+    {
+      "w": "Obviously, she was lying.",
+      "m": "[담화 표지(구어)] 분명히 그녀는 거짓말을 하고 있었다. (obviously = 분명히)"
+    },
+    {
+      "w": "Certainly, I'll help you.",
+      "m": "[담화 표지(구어)] 물론 도와줄게. (certainly)"
+    },
+    {
+      "w": "Basically, it's a simple game.",
+      "m": "[담화 표지(구어)] 기본적으로 그것은 간단한 게임이다. (basically)"
+    },
+    {
+      "w": "Personally, I think it's a good idea.",
+      "m": "[담화 표지(구어)] 개인적으로 좋은 생각이라고 본다. (personally)"
+    },
+    {
+      "w": "Sadly, the old tree fell down.",
+      "m": "[담화 표지(구어)] 슬프게도 그 오래된 나무가 쓰러졌다. (sadly)"
+    },
+    {
+      "w": "Clearly, we need a new plan.",
+      "m": "[담화 표지(구어)] 분명히 새 계획이 필요하다. (clearly)"
+    },
+    {
+      "w": "Fortunately, I found my wallet.",
+      "m": "[담화 표지(구어)] 다행히 나는 지갑을 찾았다. (fortunately)"
+    },
+    {
+      "w": "Interestingly, cats can't taste sweetness.",
+      "m": "[담화 표지(구어)] 흥미롭게도 고양이는 단맛을 못 느낀다. (interestingly)"
+    },
+    {
+      "w": "Apparently, he moved to Busan.",
+      "m": "[담화 표지(구어)] 듣자 하니 그는 부산으로 이사했다. (apparently = 듣자 하니)"
+    },
+    {
+      "w": "I saved money so that I could travel.",
+      "m": "[목적·수단] 나는 여행하기 위해 돈을 모았다. (so that = ~하기 위해)"
+    },
+    {
+      "w": "Turn off the light so as to save energy.",
+      "m": "[목적·수단] 에너지를 아끼기 위해 불을 꺼라. (so as to)"
+    },
+    {
+      "w": "He left early for fear of missing the train.",
+      "m": "[목적·수단] 그는 기차를 놓칠까 봐 일찍 떠났다. (for fear of = ~할까 봐)"
+    },
+    {
+      "w": "By using a map, we found the way.",
+      "m": "[목적·수단] 지도를 이용해서 우리는 길을 찾았다. (by -ing = ~함으로써)"
+    },
+    {
+      "w": "Through hard work, she succeeded.",
+      "m": "[목적·수단] 노력을 통해 그녀는 성공했다. (through = ~을 통해)"
+    },
+    {
+      "w": "With this tool, you can fix it.",
+      "m": "[목적·수단] 이 도구로 그것을 고칠 수 있다. (with = ~을 가지고)"
+    },
+    {
+      "w": "For the purpose of safety, wear a helmet.",
+      "m": "[목적·수단] 안전을 위해 헬멧을 써라. (for the purpose of)"
+    },
+    {
+      "w": "With a view to improving, he practiced daily.",
+      "m": "[목적·수단] 향상을 목표로 그는 매일 연습했다. (with a view to -ing)"
+    },
+    {
+      "w": "In order that everyone can hear, speak loudly.",
+      "m": "[목적·수단] 모두가 들을 수 있도록 크게 말해라. (in order that + 절)"
+    },
+    {
+      "w": "To this end, we hired more staff.",
+      "m": "[목적·수단] 이를 위해 우리는 직원을 더 고용했다. (to this end = 이를 위해)"
+    },
+    {
+      "w": "It was late. However, we kept going.",
+      "m": "[접속부사의 위치와 구두점] 늦었다. 하지만 우리는 계속 갔다. (문장 앞 + 쉼표)"
+    },
+    {
+      "w": "It was late; however, we kept going.",
+      "m": "[접속부사의 위치와 구두점] 늦었다. 하지만 우리는 계속 갔다. (세미콜론 + 접속부사 + 쉼표)"
+    },
+    {
+      "w": "We kept going, however.",
+      "m": "[접속부사의 위치와 구두점] 그래도 우리는 계속 갔다. (문장 끝에도 가능)"
+    },
+    {
+      "w": "The plan, therefore, was changed.",
+      "m": "[접속부사의 위치와 구두점] 그래서 그 계획은 변경되었다. (문장 중간에 쉼표로 삽입)"
+    },
+    {
+      "w": "I was tired, but I finished.",
+      "m": "[접속부사의 위치와 구두점] 피곤했지만 끝냈다. (등위접속사 but은 쉼표 뒤에 바로)"
+    },
+    {
+      "w": "I was tired. But I finished.",
+      "m": "[접속부사의 위치와 구두점] 피곤했다. 하지만 끝냈다. (구어체에서는 But으로 문장 시작 가능)"
+    },
+    {
+      "w": "She is rich; moreover, she is generous.",
+      "m": "[접속부사의 위치와 구두점] 그녀는 부자다. 게다가 너그럽다."
+    },
+    {
+      "w": "First of all, thank you for coming.",
+      "m": "[접속부사의 위치와 구두점] 우선 와 주셔서 감사합니다. (first of all)"
+    },
+    {
+      "w": "He failed; nevertheless, he smiled.",
+      "m": "[접속부사의 위치와 구두점] 그는 실패했다. 그럼에도 웃었다."
+    },
+    {
+      "w": "It is cheap. Also, it works well.",
+      "m": "[접속부사의 위치와 구두점] 싸다. 게다가 잘 작동한다."
+    },
+    {
+      "w": "It rained, so we stayed home. / It rained. Therefore, we stayed home.",
+      "m": "[등위·종속 접속사와의 비교] 비가 와서 집에 있었다. (so = 접속사, therefore = 접속부사) (so는 절을 직접 연결, therefore는 새 문장)"
+    },
+    {
+      "w": "He is poor, but he is happy. / He is poor. However, he is happy.",
+      "m": "[등위·종속 접속사와의 비교] 그는 가난하지만 행복하다. (but = 접속사, however = 접속부사)"
+    },
+    {
+      "w": "Because it rained, we stayed home. / It rained. Because of this, we stayed home.",
+      "m": "[등위·종속 접속사와의 비교] 비가 왔기 때문에 집에 있었다. (because + 절, because of + 명사)"
+    },
+    {
+      "w": "Although he is rich, he is unhappy. / He is rich. Nevertheless, he is unhappy.",
+      "m": "[등위·종속 접속사와의 비교] 부자이지만 불행하다. (although + 절, nevertheless = 접속부사)"
+    },
+    {
+      "w": "I like tea and coffee. / I like tea. In addition, I like coffee.",
+      "m": "[등위·종속 접속사와의 비교] 나는 차와 커피를 좋아한다. (and = 접속사, in addition = 접속부사)"
+    },
+    {
+      "w": "Hurry, or you'll be late. / Hurry. Otherwise, you'll be late.",
+      "m": "[등위·종속 접속사와의 비교] 서둘러, 안 그러면 늦어. (or = 접속사, otherwise = 접속부사)"
+    },
+    {
+      "w": "While he slept, I worked. / He slept. Meanwhile, I worked.",
+      "m": "[등위·종속 접속사와의 비교] 그가 자는 동안 나는 일했다. (while + 절, meanwhile = 접속부사)"
+    },
+    {
+      "w": "If you study, you will pass. / Study. Then you will pass.",
+      "m": "[등위·종속 접속사와의 비교] 공부하면 합격할 거야. (if + 절, then = 접속부사)"
+    },
+    {
+      "w": "Not only did it rain, but it also snowed. / It rained. Moreover, it snowed.",
+      "m": "[등위·종속 접속사와의 비교] 비가 왔을 뿐 아니라 눈도 왔다."
+    },
+    {
+      "w": "Since you are here, help me. / You are here. So, help me.",
+      "m": "[등위·종속 접속사와의 비교] 네가 여기 있으니 도와줘."
+    },
+    {
+      "w": "Unless it rains, we'll go. / It may rain. In that case, we won't go.",
+      "m": "[등위·종속 접속사와의 비교] 비가 오지 않으면 갈 것이다."
+    },
+    {
+      "w": "As soon as he came, we left. / He came. Immediately, we left.",
+      "m": "[등위·종속 접속사와의 비교] 그가 오자마자 우리는 떠났다. (as soon as + 절)"
+    },
+    {
+      "w": "Though it was hard, we did it. / It was hard. Still, we did it.",
+      "m": "[등위·종속 접속사와의 비교] 어려웠지만 우리는 해냈다. (though + 절, still = 접속부사)"
+    },
+    {
+      "w": "Whereas cats sleep a lot, dogs play a lot. / Cats sleep a lot. In contrast, dogs play a lot.",
+      "m": "[등위·종속 접속사와의 비교] 고양이는 많이 자는 반면 개는 많이 논다."
+    },
+    {
+      "w": "Both tea and coffee are popular. / Tea is popular. Likewise, coffee is popular.",
+      "m": "[등위·종속 접속사와의 비교] 차와 커피 둘 다 인기가 있다."
+    }
+  ]
+}

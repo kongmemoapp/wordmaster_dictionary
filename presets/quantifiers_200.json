@@ -1,0 +1,806 @@
+{
+  "name": "영어 수량 표현 예문 200",
+  "description": "some/any, many/much, a lot of/plenty of, a few/few, a little/little, enough, all/most/none of, both/either/neither, each/every, no/nothing/nobody, several/various, another/other/others와 수량 표현 비교(a number of vs the number of, half of, one of 등) 예문 200개",
+  "words": [
+    {
+      "w": "I have some money.",
+      "m": "[some (긍정문)] 나는 돈이 좀 있다. (불가산 + some)"
+    },
+    {
+      "w": "There are some apples in the basket.",
+      "m": "[some (긍정문)] 바구니에 사과가 몇 개 있다. (복수 + some)"
+    },
+    {
+      "w": "She bought some bread.",
+      "m": "[some (긍정문)] 그녀는 빵을 좀 샀다."
+    },
+    {
+      "w": "We need some help.",
+      "m": "[some (긍정문)] 우리는 도움이 좀 필요하다."
+    },
+    {
+      "w": "Some students were late.",
+      "m": "[some (긍정문)] 몇몇 학생이 늦었다. (some + 복수 = 몇몇)"
+    },
+    {
+      "w": "I met some friends downtown.",
+      "m": "[some (긍정문)] 나는 시내에서 친구 몇 명을 만났다."
+    },
+    {
+      "w": "Would you like some tea?",
+      "m": "[some (긍정문)] 차 좀 드시겠어요? (권유 의문문은 some)"
+    },
+    {
+      "w": "Can I have some water, please?",
+      "m": "[some (긍정문)] 물 좀 주시겠어요? (부탁 의문문은 some)"
+    },
+    {
+      "w": "Some people like winter.",
+      "m": "[some (긍정문)] 어떤 사람들은 겨울을 좋아한다."
+    },
+    {
+      "w": "Let's buy some flowers for Mom.",
+      "m": "[some (긍정문)] 엄마께 드릴 꽃을 좀 사자."
+    },
+    {
+      "w": "I don't have any money.",
+      "m": "[any (부정문·의문문)] 나는 돈이 하나도 없다. (부정문 + any)"
+    },
+    {
+      "w": "Do you have any questions?",
+      "m": "[any (부정문·의문문)] 질문 있나요? (의문문 + any)"
+    },
+    {
+      "w": "There aren't any eggs left.",
+      "m": "[any (부정문·의문문)] 남은 달걀이 하나도 없다."
+    },
+    {
+      "w": "Is there any milk in the fridge?",
+      "m": "[any (부정문·의문문)] 냉장고에 우유가 있니?"
+    },
+    {
+      "w": "She didn't buy any clothes.",
+      "m": "[any (부정문·의문문)] 그녀는 옷을 하나도 사지 않았다."
+    },
+    {
+      "w": "Did you see any birds?",
+      "m": "[any (부정문·의문문)] 새를 좀 봤니?"
+    },
+    {
+      "w": "We don't need any help.",
+      "m": "[any (부정문·의문문)] 우리는 도움이 전혀 필요 없다."
+    },
+    {
+      "w": "Are there any good restaurants near here?",
+      "m": "[any (부정문·의문문)] 이 근처에 괜찮은 식당이 있나요?"
+    },
+    {
+      "w": "You can take any seat you like.",
+      "m": "[any (부정문·의문문)] 원하는 아무 자리나 앉아도 돼. (긍정문의 any = 어떤 ~이라도)"
+    },
+    {
+      "w": "Any child can do this.",
+      "m": "[any (부정문·의문문)] 어떤 아이라도 이것을 할 수 있다. (any + 단수 = 누구든)"
+    },
+    {
+      "w": "If you have any problems, call me.",
+      "m": "[any (부정문·의문문)] 문제가 있으면 전화해. (if절에는 any)"
+    },
+    {
+      "w": "I hardly have any free time.",
+      "m": "[any (부정문·의문문)] 나는 자유 시간이 거의 없다. (hardly + any)"
+    },
+    {
+      "w": "How many brothers do you have?",
+      "m": "[many (가산)] 형제가 몇 명이니? (How many + 복수)"
+    },
+    {
+      "w": "There are many books in the library.",
+      "m": "[many (가산)] 도서관에는 책이 많다."
+    },
+    {
+      "w": "I don't have many friends.",
+      "m": "[many (가산)] 나는 친구가 많지 않다. (부정문에서 자연스러움)"
+    },
+    {
+      "w": "Many people visit Jeju every year.",
+      "m": "[many (가산)] 많은 사람이 매년 제주를 방문한다."
+    },
+    {
+      "w": "Did you take many photos?",
+      "m": "[many (가산)] 사진 많이 찍었니?"
+    },
+    {
+      "w": "Not many students passed the test.",
+      "m": "[many (가산)] 시험에 합격한 학생이 많지 않다. (not many = 많지 않은)"
+    },
+    {
+      "w": "She has visited many countries.",
+      "m": "[many (가산)] 그녀는 많은 나라를 방문했다."
+    },
+    {
+      "w": "Too many cooks spoil the broth.",
+      "m": "[many (가산)] 요리사가 너무 많으면 국을 망친다. (too many = 너무 많은)"
+    },
+    {
+      "w": "How many times have you been there?",
+      "m": "[many (가산)] 거기 몇 번 가 봤니?"
+    },
+    {
+      "w": "There were so many stars in the sky.",
+      "m": "[many (가산)] 하늘에 별이 정말 많았다. (so many)"
+    },
+    {
+      "w": "How much money do you have?",
+      "m": "[much (불가산)] 돈이 얼마나 있니? (How much + 불가산)"
+    },
+    {
+      "w": "I don't have much time.",
+      "m": "[much (불가산)] 나는 시간이 많지 않다. (부정문 + much)"
+    },
+    {
+      "w": "Is there much traffic today?",
+      "m": "[much (불가산)] 오늘 교통량이 많니?"
+    },
+    {
+      "w": "We didn't get much sleep last night.",
+      "m": "[much (불가산)] 우리는 어젯밤에 잠을 많이 못 잤다."
+    },
+    {
+      "w": "How much is this bag?",
+      "m": "[much (불가산)] 이 가방은 얼마예요? (How much = 가격)"
+    },
+    {
+      "w": "There isn't much milk left.",
+      "m": "[much (불가산)] 우유가 많이 남지 않았다."
+    },
+    {
+      "w": "Too much salt is bad for you.",
+      "m": "[much (불가산)] 소금을 너무 많이 먹으면 몸에 나쁘다. (too much)"
+    },
+    {
+      "w": "He doesn't eat much meat.",
+      "m": "[much (불가산)] 그는 고기를 많이 먹지 않는다."
+    },
+    {
+      "w": "Thank you so much.",
+      "m": "[much (불가산)] 정말 고마워요. (so much)"
+    },
+    {
+      "w": "How much sugar do you want?",
+      "m": "[much (불가산)] 설탕 얼마나 넣어 줄까?"
+    },
+    {
+      "w": "She has a lot of friends.",
+      "m": "[a lot of / lots of / plenty of] 그녀는 친구가 많다. (가산·불가산 모두 가능)"
+    },
+    {
+      "w": "We have a lot of homework today.",
+      "m": "[a lot of / lots of / plenty of] 우리는 오늘 숙제가 많다. (불가산도 가능)"
+    },
+    {
+      "w": "There are lots of people in the park.",
+      "m": "[a lot of / lots of / plenty of] 공원에 사람이 많다. (lots of = a lot of)"
+    },
+    {
+      "w": "He drinks a lot of water.",
+      "m": "[a lot of / lots of / plenty of] 그는 물을 많이 마신다."
+    },
+    {
+      "w": "I have plenty of time.",
+      "m": "[a lot of / lots of / plenty of] 나는 시간이 충분히 많다. (plenty of = 충분히 많은)"
+    },
+    {
+      "w": "There is plenty of food for everyone.",
+      "m": "[a lot of / lots of / plenty of] 모두가 먹을 음식이 충분하다."
+    },
+    {
+      "w": "Lots of students joined the club.",
+      "m": "[a lot of / lots of / plenty of] 많은 학생이 그 동아리에 가입했다."
+    },
+    {
+      "w": "We spent a lot of money on the trip.",
+      "m": "[a lot of / lots of / plenty of] 우리는 여행에 돈을 많이 썼다."
+    },
+    {
+      "w": "She knows a lot of English words.",
+      "m": "[a lot of / lots of / plenty of] 그녀는 영어 단어를 많이 안다."
+    },
+    {
+      "w": "There's plenty of room in the car.",
+      "m": "[a lot of / lots of / plenty of] 차에 공간이 충분하다."
+    },
+    {
+      "w": "I learned a lot from this book.",
+      "m": "[a lot of / lots of / plenty of] 나는 이 책에서 많이 배웠다. (a lot 단독 = 많이(부사))"
+    },
+    {
+      "w": "He talks a lot.",
+      "m": "[a lot of / lots of / plenty of] 그는 말을 많이 한다."
+    },
+    {
+      "w": "I have a few close friends.",
+      "m": "[a few / few (가산)] 나는 친한 친구가 몇 명 있다. (a few = 몇몇 있는 (긍정))"
+    },
+    {
+      "w": "There are a few apples left.",
+      "m": "[a few / few (가산)] 사과가 몇 개 남아 있다."
+    },
+    {
+      "w": "She knows a few words of Korean.",
+      "m": "[a few / few (가산)] 그녀는 한국어 단어를 몇 개 안다."
+    },
+    {
+      "w": "Wait a few minutes, please.",
+      "m": "[a few / few (가산)] 몇 분만 기다려 주세요."
+    },
+    {
+      "w": "Few people came to the meeting.",
+      "m": "[a few / few (가산)] 회의에 온 사람이 거의 없었다. (few = 거의 없는 (부정적))"
+    },
+    {
+      "w": "He has few friends in this city.",
+      "m": "[a few / few (가산)] 그는 이 도시에 친구가 거의 없다."
+    },
+    {
+      "w": "Very few students passed.",
+      "m": "[a few / few (가산)] 합격한 학생이 아주 적었다. (very few)"
+    },
+    {
+      "w": "Quite a few people were there.",
+      "m": "[a few / few (가산)] 꽤 많은 사람이 거기 있었다. (quite a few = 꽤 많은)"
+    },
+    {
+      "w": "Only a few tickets are left.",
+      "m": "[a few / few (가산)] 표가 몇 장밖에 안 남았다. (only a few = 몇 개밖에)"
+    },
+    {
+      "w": "I read a few pages before bed.",
+      "m": "[a few / few (가산)] 나는 자기 전에 몇 페이지를 읽었다."
+    },
+    {
+      "w": "I have a little money.",
+      "m": "[a little / little (불가산)] 나는 돈이 조금 있다. (a little = 조금 있는 (긍정))"
+    },
+    {
+      "w": "Add a little salt to the soup.",
+      "m": "[a little / little (불가산)] 수프에 소금을 조금 넣어라."
+    },
+    {
+      "w": "She speaks a little English.",
+      "m": "[a little / little (불가산)] 그녀는 영어를 조금 한다."
+    },
+    {
+      "w": "There is a little milk left.",
+      "m": "[a little / little (불가산)] 우유가 조금 남아 있다."
+    },
+    {
+      "w": "We have little time.",
+      "m": "[a little / little (불가산)] 우리는 시간이 거의 없다. (little = 거의 없는 (부정적))"
+    },
+    {
+      "w": "He has little interest in sports.",
+      "m": "[a little / little (불가산)] 그는 운동에 거의 관심이 없다."
+    },
+    {
+      "w": "There is little hope.",
+      "m": "[a little / little (불가산)] 희망이 거의 없다."
+    },
+    {
+      "w": "Very little water was left.",
+      "m": "[a little / little (불가산)] 물이 아주 조금밖에 남지 않았다."
+    },
+    {
+      "w": "I know a little about computers.",
+      "m": "[a little / little (불가산)] 나는 컴퓨터에 대해 조금 안다. (a little 단독 = 조금)"
+    },
+    {
+      "w": "It's a little cold today.",
+      "m": "[a little / little (불가산)] 오늘 조금 춥다. (a little + 형용사 = 약간)"
+    },
+    {
+      "w": "We have enough food.",
+      "m": "[enough] 우리는 음식이 충분하다. (enough + 명사)"
+    },
+    {
+      "w": "Is there enough time?",
+      "m": "[enough] 시간이 충분하니?"
+    },
+    {
+      "w": "He isn't old enough to drive.",
+      "m": "[enough] 그는 운전할 만큼 나이가 들지 않았다. (형용사 + enough (어순 주의))"
+    },
+    {
+      "w": "She is tall enough to reach the shelf.",
+      "m": "[enough] 그녀는 선반에 닿을 만큼 키가 크다. (형용사 + enough + to V)"
+    },
+    {
+      "w": "I don't have enough money for a new phone.",
+      "m": "[enough] 나는 새 휴대폰을 살 돈이 충분하지 않다."
+    },
+    {
+      "w": "You've had enough candy today.",
+      "m": "[enough] 오늘 사탕은 충분히 먹었어."
+    },
+    {
+      "w": "He runs fast enough to win.",
+      "m": "[enough] 그는 이길 만큼 빨리 달린다. (부사 + enough)"
+    },
+    {
+      "w": "There are enough chairs for everyone.",
+      "m": "[enough] 모두를 위한 의자가 충분하다."
+    },
+    {
+      "w": "That's enough!",
+      "m": "[enough] 그만하면 됐어! (enough 단독)"
+    },
+    {
+      "w": "We didn't practice enough.",
+      "m": "[enough] 우리는 충분히 연습하지 않았다. (동사 + enough)"
+    },
+    {
+      "w": "All students must wear uniforms.",
+      "m": "[all / most / some / none of] 모든 학생은 교복을 입어야 한다. (all + 복수)"
+    },
+    {
+      "w": "All the money was stolen.",
+      "m": "[all / most / some / none of] 그 돈이 전부 도난당했다. (all + 불가산 (단수 취급))"
+    },
+    {
+      "w": "Most people like music.",
+      "m": "[all / most / some / none of] 대부분의 사람은 음악을 좋아한다. (most + 명사 (most of the ×))"
+    },
+    {
+      "w": "Most of my friends live nearby.",
+      "m": "[all / most / some / none of] 내 친구 대부분은 근처에 산다. (most of + the/소유격 + 명사)"
+    },
+    {
+      "w": "Some of the apples are rotten.",
+      "m": "[all / most / some / none of] 그 사과 중 일부는 썩었다. (some of the)"
+    },
+    {
+      "w": "None of the students knew the answer.",
+      "m": "[all / most / some / none of] 학생 중 아무도 답을 몰랐다. (none of = 아무도 ~않다)"
+    },
+    {
+      "w": "All of us were tired.",
+      "m": "[all / most / some / none of] 우리 모두 피곤했다. (all of + 대명사)"
+    },
+    {
+      "w": "Most of the food was eaten.",
+      "m": "[all / most / some / none of] 음식 대부분이 먹혔다."
+    },
+    {
+      "w": "None of this is your fault.",
+      "m": "[all / most / some / none of] 이 중 어느 것도 네 잘못이 아니다."
+    },
+    {
+      "w": "Half of the class was absent.",
+      "m": "[all / most / some / none of] 반 학생의 절반이 결석했다. (half of)"
+    },
+    {
+      "w": "I spent all day at home.",
+      "m": "[all / most / some / none of] 나는 하루 종일 집에 있었다. (all day = 하루 종일)"
+    },
+    {
+      "w": "Not all birds can fly.",
+      "m": "[all / most / some / none of] 모든 새가 날 수 있는 것은 아니다. (not all = 부분부정)"
+    },
+    {
+      "w": "Both my parents are teachers.",
+      "m": "[both / either / neither] 우리 부모님 두 분 다 선생님이다. (both + 복수 = 둘 다)"
+    },
+    {
+      "w": "Both of them like pizza.",
+      "m": "[both / either / neither] 그들 둘 다 피자를 좋아한다. (both of + 대명사)"
+    },
+    {
+      "w": "I like both tea and coffee.",
+      "m": "[both / either / neither] 나는 차와 커피 둘 다 좋아한다. (both A and B)"
+    },
+    {
+      "w": "You can sit on either side.",
+      "m": "[both / either / neither] 어느 쪽이든 앉아도 돼. (either = 둘 중 어느 하나)"
+    },
+    {
+      "w": "Either answer is correct.",
+      "m": "[both / either / neither] 두 답 중 어느 것이든 맞다. (either + 단수)"
+    },
+    {
+      "w": "Neither answer is correct.",
+      "m": "[both / either / neither] 두 답 모두 틀리다. (neither = 둘 다 아닌)"
+    },
+    {
+      "w": "Neither of them came to the party.",
+      "m": "[both / either / neither] 그들 둘 다 파티에 오지 않았다. (neither of)"
+    },
+    {
+      "w": "I don't like either of these shirts.",
+      "m": "[both / either / neither] 나는 이 셔츠 둘 다 마음에 안 든다. (not ~ either = 둘 다 아닌)"
+    },
+    {
+      "w": "You can have either cake or ice cream.",
+      "m": "[both / either / neither] 케이크나 아이스크림 중 하나를 먹을 수 있어. (either A or B)"
+    },
+    {
+      "w": "He speaks neither English nor French.",
+      "m": "[both / either / neither] 그는 영어도 프랑스어도 못 한다. (neither A nor B)"
+    },
+    {
+      "w": "Both roads lead to the city.",
+      "m": "[both / either / neither] 두 길 모두 도시로 이어진다."
+    },
+    {
+      "w": "There are shops on both sides of the street.",
+      "m": "[both / either / neither] 길 양쪽에 가게들이 있다. (both sides)"
+    },
+    {
+      "w": "Each student has a desk.",
+      "m": "[each / every] 학생마다 책상이 하나씩 있다. (each + 단수명사 + 단수동사)"
+    },
+    {
+      "w": "Every student has a desk.",
+      "m": "[each / every] 모든 학생이 책상을 하나씩 갖고 있다. (every + 단수명사 (every students ×))"
+    },
+    {
+      "w": "Each of the boys got a prize.",
+      "m": "[each / every] 소년들 각자 상을 받았다. (each of + 복수 (every of ×))"
+    },
+    {
+      "w": "I visit my grandmother every week.",
+      "m": "[each / every] 나는 매주 할머니를 방문한다. (every + 시간 = ~마다)"
+    },
+    {
+      "w": "The bus comes every ten minutes.",
+      "m": "[each / every] 버스는 10분마다 온다. (every + 수 + 복수명사)"
+    },
+    {
+      "w": "Every day is a new beginning.",
+      "m": "[each / every] 매일이 새로운 시작이다."
+    },
+    {
+      "w": "The tickets cost ten dollars each.",
+      "m": "[each / every] 표는 한 장에 10달러다. (each 단독 = 각각)"
+    },
+    {
+      "w": "Each one of us has a role.",
+      "m": "[each / every] 우리 각자가 역할이 있다. (each one of)"
+    },
+    {
+      "w": "Every child needs love.",
+      "m": "[each / every] 모든 아이는 사랑이 필요하다."
+    },
+    {
+      "w": "She knows every word of the song.",
+      "m": "[each / every] 그녀는 그 노래의 가사를 전부 안다."
+    },
+    {
+      "w": "We shook hands with each other.",
+      "m": "[each / every] 우리는 서로 악수했다. (each other = 서로)"
+    },
+    {
+      "w": "Every one of the answers was wrong.",
+      "m": "[each / every] 답이 하나도 빠짐없이 틀렸다. (every one of + 복수)"
+    },
+    {
+      "w": "I have no money.",
+      "m": "[no / none / nothing / nobody] 나는 돈이 전혀 없다. (no + 명사 = not any)"
+    },
+    {
+      "w": "There is no water in the bottle.",
+      "m": "[no / none / nothing / nobody] 병에 물이 없다."
+    },
+    {
+      "w": "No students were absent today.",
+      "m": "[no / none / nothing / nobody] 오늘 결석한 학생은 없었다. (no + 복수)"
+    },
+    {
+      "w": "None of the shops were open.",
+      "m": "[no / none / nothing / nobody] 열린 가게가 하나도 없었다. (none = 아무것도)"
+    },
+    {
+      "w": "There was nothing in the box.",
+      "m": "[no / none / nothing / nobody] 상자 안에는 아무것도 없었다. (nothing)"
+    },
+    {
+      "w": "Nobody knows the answer.",
+      "m": "[no / none / nothing / nobody] 아무도 답을 모른다. (nobody + 단수동사)"
+    },
+    {
+      "w": "No one was home.",
+      "m": "[no / none / nothing / nobody] 집에 아무도 없었다. (no one = nobody)"
+    },
+    {
+      "w": "I said nothing.",
+      "m": "[no / none / nothing / nobody] 나는 아무 말도 하지 않았다. (not anything = nothing)"
+    },
+    {
+      "w": "There's no reason to worry.",
+      "m": "[no / none / nothing / nobody] 걱정할 이유가 없다."
+    },
+    {
+      "w": "No news is good news.",
+      "m": "[no / none / nothing / nobody] 무소식이 희소식이다."
+    },
+    {
+      "w": "I have read several books about Korea.",
+      "m": "[several / various / numerous] 나는 한국에 관한 책을 여러 권 읽었다. (several = 여러 개의 (3~5 정도))"
+    },
+    {
+      "w": "Several people were injured.",
+      "m": "[several / various / numerous] 여러 사람이 다쳤다."
+    },
+    {
+      "w": "She waited for several hours.",
+      "m": "[several / various / numerous] 그녀는 몇 시간을 기다렸다."
+    },
+    {
+      "w": "The store sells various kinds of tea.",
+      "m": "[several / various / numerous] 그 가게는 다양한 종류의 차를 판다. (various = 다양한)"
+    },
+    {
+      "w": "There are numerous reasons for this.",
+      "m": "[several / various / numerous] 여기에는 수많은 이유가 있다. (numerous = 수많은)"
+    },
+    {
+      "w": "We discussed several topics.",
+      "m": "[several / various / numerous] 우리는 여러 주제를 논의했다."
+    },
+    {
+      "w": "He has lived in several countries.",
+      "m": "[several / various / numerous] 그는 여러 나라에서 살았다."
+    },
+    {
+      "w": "Various people came to the event.",
+      "m": "[several / various / numerous] 다양한 사람들이 행사에 왔다."
+    },
+    {
+      "w": "Would you like another cup of coffee?",
+      "m": "[another / other / others] 커피 한 잔 더 드실래요? (another = 또 하나의)"
+    },
+    {
+      "w": "This shirt is too small. Show me another.",
+      "m": "[another / other / others] 이 셔츠는 너무 작아요. 다른 것을 보여 주세요. (another = 다른 하나)"
+    },
+    {
+      "w": "I have two brothers. One is a doctor, and the other is a teacher.",
+      "m": "[another / other / others] 나는 형이 둘 있다. 한 명은 의사이고 다른 한 명은 선생님이다. (둘 중 나머지 하나 = the other)"
+    },
+    {
+      "w": "Some people like summer; others like winter.",
+      "m": "[another / other / others] 어떤 사람들은 여름을 좋아하고, 다른 사람들은 겨울을 좋아한다. (some ~ others ~)"
+    },
+    {
+      "w": "Do you have any other questions?",
+      "m": "[another / other / others] 다른 질문 있나요? (other + 복수/불가산)"
+    },
+    {
+      "w": "I'll call you some other time.",
+      "m": "[another / other / others] 다른 때 전화할게. (some other)"
+    },
+    {
+      "w": "There are three cats. One is black, and the others are white.",
+      "m": "[another / other / others] 고양이가 세 마리 있다. 하나는 검고 나머지는 흰색이다. (나머지 전부 = the others)"
+    },
+    {
+      "w": "We should help each other.",
+      "m": "[another / other / others] 우리는 서로 도와야 한다. (each other)"
+    },
+    {
+      "w": "One after another, the students left.",
+      "m": "[another / other / others] 학생들이 차례차례 떠났다. (one after another = 잇따라)"
+    },
+    {
+      "w": "Let's wait another ten minutes.",
+      "m": "[another / other / others] 10분만 더 기다리자. (another + 수 + 복수 = ~더)"
+    },
+    {
+      "w": "How many apples and how much juice do we need?",
+      "m": "[수량 표현 비교] 사과 몇 개와 주스 얼마나 필요하지? (many(가산) vs much(불가산))"
+    },
+    {
+      "w": "I have a few coins but little cash.",
+      "m": "[수량 표현 비교] 동전은 몇 개 있지만 현금은 거의 없다. (a few(가산) vs little(불가산))"
+    },
+    {
+      "w": "There are few chairs and little space.",
+      "m": "[수량 표현 비교] 의자도 거의 없고 공간도 거의 없다. (few / little 모두 부정적)"
+    },
+    {
+      "w": "Some of the students have some questions.",
+      "m": "[수량 표현 비교] 학생 중 일부가 질문이 좀 있다. (some of the / some)"
+    },
+    {
+      "w": "Each of them has a book; all of them are reading.",
+      "m": "[수량 표현 비교] 그들 각자 책이 있고, 모두 읽고 있다. (each 단수 / all 복수)"
+    },
+    {
+      "w": "Every seat was taken, so there was no room.",
+      "m": "[수량 표현 비교] 모든 자리가 차서 공간이 없었다. (every / no)"
+    },
+    {
+      "w": "Both are good, but neither is perfect.",
+      "m": "[수량 표현 비교] 둘 다 좋지만 둘 다 완벽하지는 않다. (both 복수 / neither 단수)"
+    },
+    {
+      "w": "Many students, but not much time.",
+      "m": "[수량 표현 비교] 학생은 많지만 시간은 별로 없다."
+    },
+    {
+      "w": "A lot of people have lots of ideas.",
+      "m": "[수량 표현 비교] 많은 사람이 많은 아이디어를 갖고 있다. (a lot of = lots of)"
+    },
+    {
+      "w": "There are plenty of seats, so don't worry.",
+      "m": "[수량 표현 비교] 자리가 충분하니 걱정 마."
+    },
+    {
+      "w": "Most children like most sweets.",
+      "m": "[수량 표현 비교] 대부분의 아이는 대부분의 단것을 좋아한다. (most + 명사)"
+    },
+    {
+      "w": "Half of the pizza was gone in a minute.",
+      "m": "[수량 표현 비교] 피자 절반이 1분 만에 사라졌다. (half of + 불가산 → 단수)"
+    },
+    {
+      "w": "Half of the cookies were gone.",
+      "m": "[수량 표현 비교] 쿠키 절반이 사라졌다. (half of + 복수 → 복수)"
+    },
+    {
+      "w": "One of my friends is from Japan.",
+      "m": "[수량 표현 비교] 내 친구 중 한 명은 일본 출신이다. (one of + 복수 + 단수동사)"
+    },
+    {
+      "w": "A number of students were absent.",
+      "m": "[수량 표현 비교] 많은 학생이 결석했다. (a number of = 많은 (복수 취급))"
+    },
+    {
+      "w": "The number of students is decreasing.",
+      "m": "[수량 표현 비교] 학생 수가 줄고 있다. (the number of = ~의 수 (단수 취급))"
+    },
+    {
+      "w": "A couple of friends came over.",
+      "m": "[수량 표현 비교] 친구 두어 명이 놀러 왔다. (a couple of = 두어 개의)"
+    },
+    {
+      "w": "I've seen that movie a couple of times.",
+      "m": "[수량 표현 비교] 나는 그 영화를 두어 번 봤다."
+    },
+    {
+      "w": "A great deal of money was spent.",
+      "m": "[수량 표현 비교] 많은 돈이 쓰였다. (a great deal of + 불가산)"
+    },
+    {
+      "w": "A large number of people attended.",
+      "m": "[수량 표현 비교] 많은 사람이 참석했다. (a large number of + 복수)"
+    },
+    {
+      "w": "There's a bit of cheese left.",
+      "m": "[수량 표현 비교] 치즈가 조금 남았다. (a bit of = 약간의)"
+    },
+    {
+      "w": "Hardly any students were late.",
+      "m": "[수량 표현 비교] 지각한 학생이 거의 없었다. (hardly any = 거의 없는)"
+    },
+    {
+      "w": "The whole class laughed.",
+      "m": "[수량 표현 비교] 반 전체가 웃었다. (the whole + 단수 = 전체)"
+    },
+    {
+      "w": "I ate the whole pizza.",
+      "m": "[수량 표현 비교] 나는 피자를 통째로 다 먹었다."
+    },
+    {
+      "w": "Almost all the students passed.",
+      "m": "[수량 표현 비교] 거의 모든 학생이 합격했다. (almost all (almost students ×))"
+    },
+    {
+      "w": "It took the whole day.",
+      "m": "[수량 표현 비교] 하루 종일 걸렸다. (the whole day = all day)"
+    },
+    {
+      "w": "Every other day I go jogging.",
+      "m": "[수량 표현 비교] 나는 이틀에 한 번 조깅한다. (every other = 하나 걸러)"
+    },
+    {
+      "w": "Two thirds of the earth is covered with water.",
+      "m": "[수량 표현 비교] 지구의 3분의 2는 물로 덮여 있다. (분수 of + 불가산 → 단수)"
+    },
+    {
+      "w": "Several of the books were damaged.",
+      "m": "[수량 표현 비교] 책 중 몇 권이 손상되었다. (several of)"
+    },
+    {
+      "w": "Not much is known about him.",
+      "m": "[수량 표현 비교] 그에 대해 알려진 것은 많지 않다. (much 단독 주어)"
+    },
+    {
+      "w": "Many of them agreed.",
+      "m": "[수량 표현 비교] 그들 중 많은 이가 동의했다. (many of)"
+    },
+    {
+      "w": "Few of us remember that day.",
+      "m": "[수량 표현 비교] 우리 중 그날을 기억하는 사람은 거의 없다. (few of)"
+    },
+    {
+      "w": "There's little we can do.",
+      "m": "[수량 표현 비교] 우리가 할 수 있는 일은 거의 없다. (little 단독)"
+    },
+    {
+      "w": "He has no idea what to do.",
+      "m": "[수량 표현 비교] 그는 무엇을 해야 할지 전혀 모른다. (have no idea)"
+    },
+    {
+      "w": "I have nothing to say.",
+      "m": "[수량 표현 비교] 나는 할 말이 없다."
+    },
+    {
+      "w": "Everything is ready.",
+      "m": "[수량 표현 비교] 모든 것이 준비되었다. (everything 단수 취급)"
+    },
+    {
+      "w": "Everybody loves holidays.",
+      "m": "[수량 표현 비교] 누구나 휴일을 좋아한다. (everybody 단수 취급)"
+    },
+    {
+      "w": "Something smells good.",
+      "m": "[수량 표현 비교] 뭔가 좋은 냄새가 난다. (something 단수)"
+    },
+    {
+      "w": "Is anybody home?",
+      "m": "[수량 표현 비교] 집에 누구 있어요? (의문문 anybody)"
+    },
+    {
+      "w": "Somebody left the door open.",
+      "m": "[수량 표현 비교] 누군가 문을 열어 두었다. (somebody)"
+    },
+    {
+      "w": "I'd like something cold to drink.",
+      "m": "[수량 표현 비교] 시원한 마실 것을 원해요. (something + 형용사 (어순))"
+    },
+    {
+      "w": "There is too much noise in here.",
+      "m": "[수량 표현 심화] 여기는 소음이 너무 많다. (too much + 불가산)"
+    },
+    {
+      "w": "There are too many cars on the road.",
+      "m": "[수량 표현 심화] 도로에 차가 너무 많다. (too many + 복수)"
+    },
+    {
+      "w": "I have so much work to do.",
+      "m": "[수량 표현 심화] 나는 할 일이 너무 많다. (so much)"
+    },
+    {
+      "w": "How much longer do we have to wait?",
+      "m": "[수량 표현 심화] 얼마나 더 기다려야 하죠? (how much + 비교급)"
+    },
+    {
+      "w": "As many as 100 people came.",
+      "m": "[수량 표현 심화] 무려 100명이나 왔다. (as many as + 수 = 무려)"
+    },
+    {
+      "w": "Take as much as you want.",
+      "m": "[수량 표현 심화] 원하는 만큼 가져가. (as much as = ~만큼)"
+    },
+    {
+      "w": "There are twice as many girls as boys.",
+      "m": "[수량 표현 심화] 여학생이 남학생의 두 배다. (배수 + as many as)"
+    },
+    {
+      "w": "The more, the better.",
+      "m": "[수량 표현 심화] 많을수록 좋다. (the 비교급, the 비교급)"
+    },
+    {
+      "w": "I have more books than you.",
+      "m": "[수량 표현 심화] 나는 너보다 책이 더 많다. (more + 명사 than)"
+    },
+    {
+      "w": "She has fewer mistakes than before.",
+      "m": "[수량 표현 심화] 그녀는 전보다 실수가 더 적다. (fewer + 복수 (less ×))"
+    },
+    {
+      "w": "Use less sugar next time.",
+      "m": "[수량 표현 심화] 다음에는 설탕을 더 적게 써라. (less + 불가산)"
+    }
+  ]
+}

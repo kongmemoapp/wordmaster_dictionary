@@ -1,0 +1,806 @@
+{
+  "name": "영어 명사 용법 예문 200",
+  "description": "가산명사(규칙·불규칙 복수), 불가산명사(물질·추상·집합)와 수량 표현(a cup of 등), 가산·불가산 양용 명사, 집합명사, 항상 복수형 명사, -s로 끝나는 단수 명사, 고유명사, 소유격, 명사의 역할, 복합명사 예문 200개",
+  "words": [
+    {
+      "w": "I have a pen and two pencils.",
+      "m": "[가산명사-단수] 나는 펜 하나와 연필 두 자루가 있다. (셀 수 있는 명사는 a/an 또는 수를 붙임)"
+    },
+    {
+      "w": "There is an orange on the table.",
+      "m": "[가산명사-단수] 탁자 위에 오렌지 하나가 있다. (모음 소리 앞 an)"
+    },
+    {
+      "w": "She bought a new dress.",
+      "m": "[가산명사-단수] 그녀는 새 드레스를 샀다. (단수 가산명사 앞 a)"
+    },
+    {
+      "w": "A dog is a loyal animal.",
+      "m": "[가산명사-단수] 개는 충성스러운 동물이다. (a + 단수명사로 종족 전체를 대표)"
+    },
+    {
+      "w": "He has a car and a bike.",
+      "m": "[가산명사-단수] 그는 차 한 대와 자전거 한 대가 있다."
+    },
+    {
+      "w": "We need a bigger house.",
+      "m": "[가산명사-단수] 우리는 더 큰 집이 필요하다."
+    },
+    {
+      "w": "I ate an egg for breakfast.",
+      "m": "[가산명사-단수] 나는 아침으로 달걀 하나를 먹었다."
+    },
+    {
+      "w": "A friend of mine lives in Busan.",
+      "m": "[가산명사-단수] 내 친구 한 명이 부산에 산다. (a friend of mine = 내 친구 중 한 명)"
+    },
+    {
+      "w": "Every student has a locker.",
+      "m": "[가산명사-단수] 모든 학생이 사물함 하나씩을 갖고 있다. (every + 단수명사)"
+    },
+    {
+      "w": "Each child received a gift.",
+      "m": "[가산명사-단수] 아이마다 선물 하나씩을 받았다. (each + 단수명사)"
+    },
+    {
+      "w": "I have two cats and three dogs.",
+      "m": "[가산명사-규칙 복수] 나는 고양이 두 마리와 개 세 마리를 키운다. (-s)"
+    },
+    {
+      "w": "The buses are always crowded.",
+      "m": "[가산명사-규칙 복수] 버스는 항상 붐빈다. (-s/-x/-ch/-sh 뒤 -es)"
+    },
+    {
+      "w": "She washed the dishes.",
+      "m": "[가산명사-규칙 복수] 그녀는 설거지를 했다. (-sh 뒤 -es)"
+    },
+    {
+      "w": "We bought some boxes.",
+      "m": "[가산명사-규칙 복수] 우리는 상자 몇 개를 샀다. (-x 뒤 -es)"
+    },
+    {
+      "w": "The babies are sleeping.",
+      "m": "[가산명사-규칙 복수] 아기들이 자고 있다. (자음+y → ies)"
+    },
+    {
+      "w": "Many cities have subways.",
+      "m": "[가산명사-규칙 복수] 많은 도시에 지하철이 있다. (city → cities)"
+    },
+    {
+      "w": "I like strawberries.",
+      "m": "[가산명사-규칙 복수] 나는 딸기를 좋아한다. (strawberry → strawberries)"
+    },
+    {
+      "w": "The boys are playing soccer.",
+      "m": "[가산명사-규칙 복수] 소년들이 축구를 하고 있다. (모음+y → 그냥 -s)"
+    },
+    {
+      "w": "We saw many monkeys at the zoo.",
+      "m": "[가산명사-규칙 복수] 우리는 동물원에서 원숭이를 많이 봤다. (monkey → monkeys)"
+    },
+    {
+      "w": "Leaves fall in autumn.",
+      "m": "[가산명사-규칙 복수] 가을에는 잎이 떨어진다. (-f/-fe → -ves)"
+    },
+    {
+      "w": "The knives are very sharp.",
+      "m": "[가산명사-규칙 복수] 그 칼들은 매우 날카롭다. (knife → knives)"
+    },
+    {
+      "w": "Wolves live in groups.",
+      "m": "[가산명사-규칙 복수] 늑대는 무리 지어 산다. (wolf → wolves)"
+    },
+    {
+      "w": "There are two shelves in my room.",
+      "m": "[가산명사-규칙 복수] 내 방에는 선반이 두 개 있다. (shelf → shelves)"
+    },
+    {
+      "w": "I bought two loaves of bread.",
+      "m": "[가산명사-규칙 복수] 나는 빵 두 덩어리를 샀다. (loaf → loaves)"
+    },
+    {
+      "w": "Potatoes and tomatoes are vegetables.",
+      "m": "[가산명사-규칙 복수] 감자와 토마토는 채소다. (자음+o → -es)"
+    },
+    {
+      "w": "She took many photos.",
+      "m": "[가산명사-규칙 복수] 그녀는 사진을 많이 찍었다. (photo → photos (예외))"
+    },
+    {
+      "w": "Pianos are expensive.",
+      "m": "[가산명사-규칙 복수] 피아노는 비싸다. (piano → pianos (예외))"
+    },
+    {
+      "w": "The heroes saved the city.",
+      "m": "[가산명사-규칙 복수] 영웅들이 도시를 구했다. (hero → heroes)"
+    },
+    {
+      "w": "I have two watches.",
+      "m": "[가산명사-규칙 복수] 나는 시계가 두 개 있다. (-ch 뒤 -es)"
+    },
+    {
+      "w": "The classes start at nine.",
+      "m": "[가산명사-규칙 복수] 수업은 9시에 시작한다. (-ss 뒤 -es)"
+    },
+    {
+      "w": "The children are playing outside.",
+      "m": "[가산명사-불규칙 복수] 아이들이 밖에서 놀고 있다. (child → children)"
+    },
+    {
+      "w": "Three men are waiting at the door.",
+      "m": "[가산명사-불규칙 복수] 세 남자가 문 앞에서 기다리고 있다. (man → men)"
+    },
+    {
+      "w": "Many women work here.",
+      "m": "[가산명사-불규칙 복수] 많은 여성이 여기서 일한다. (woman → women)"
+    },
+    {
+      "w": "I brush my teeth twice a day.",
+      "m": "[가산명사-불규칙 복수] 나는 하루에 두 번 이를 닦는다. (tooth → teeth)"
+    },
+    {
+      "w": "My feet are cold.",
+      "m": "[가산명사-불규칙 복수] 내 발이 차갑다. (foot → feet)"
+    },
+    {
+      "w": "The mice ate the cheese.",
+      "m": "[가산명사-불규칙 복수] 쥐들이 치즈를 먹었다. (mouse → mice)"
+    },
+    {
+      "w": "Geese fly south in winter.",
+      "m": "[가산명사-불규칙 복수] 거위는 겨울에 남쪽으로 날아간다. (goose → geese)"
+    },
+    {
+      "w": "Some people are kind.",
+      "m": "[가산명사-불규칙 복수] 어떤 사람들은 친절하다. (person → people)"
+    },
+    {
+      "w": "There are many fish in the lake.",
+      "m": "[가산명사-불규칙 복수] 호수에 물고기가 많다. (fish → fish (단복 동형))"
+    },
+    {
+      "w": "Ten sheep are in the field.",
+      "m": "[가산명사-불규칙 복수] 양 열 마리가 들판에 있다. (sheep → sheep)"
+    },
+    {
+      "w": "We saw three deer in the forest.",
+      "m": "[가산명사-불규칙 복수] 우리는 숲에서 사슴 세 마리를 봤다. (deer → deer)"
+    },
+    {
+      "w": "The oxen pulled the cart.",
+      "m": "[가산명사-불규칙 복수] 황소들이 수레를 끌었다. (ox → oxen)"
+    },
+    {
+      "w": "Two aircraft landed safely.",
+      "m": "[가산명사-불규칙 복수] 비행기 두 대가 안전하게 착륙했다. (aircraft → aircraft)"
+    },
+    {
+      "w": "These phenomena are rare.",
+      "m": "[가산명사-불규칙 복수] 이 현상들은 드물다. (phenomenon → phenomena)"
+    },
+    {
+      "w": "The data are correct.",
+      "m": "[가산명사-불규칙 복수] 그 자료들은 정확하다. (datum → data)"
+    },
+    {
+      "w": "The criteria are clear.",
+      "m": "[가산명사-불규칙 복수] 기준이 분명하다. (criterion → criteria)"
+    },
+    {
+      "w": "Both analyses were useful.",
+      "m": "[가산명사-불규칙 복수] 두 분석 모두 유용했다. (analysis → analyses)"
+    },
+    {
+      "w": "Cacti grow in the desert.",
+      "m": "[가산명사-불규칙 복수] 선인장은 사막에서 자란다. (cactus → cacti)"
+    },
+    {
+      "w": "She has three children.",
+      "m": "[가산명사-불규칙 복수] 그녀는 아이가 셋 있다. (children에 -s를 또 붙이지 않음)"
+    },
+    {
+      "w": "The policemen caught the thief.",
+      "m": "[가산명사-불규칙 복수] 경찰관들이 도둑을 잡았다. (policeman → policemen)"
+    },
+    {
+      "w": "Water is essential for life.",
+      "m": "[불가산명사-물질] 물은 생명에 필수적이다. (물질명사는 a/an·복수형 없음)"
+    },
+    {
+      "w": "I drink milk every morning.",
+      "m": "[불가산명사-물질] 나는 매일 아침 우유를 마신다."
+    },
+    {
+      "w": "We need some rice.",
+      "m": "[불가산명사-물질] 우리는 쌀이 좀 필요하다."
+    },
+    {
+      "w": "Bread is made from flour.",
+      "m": "[불가산명사-물질] 빵은 밀가루로 만든다."
+    },
+    {
+      "w": "Please pass me the salt.",
+      "m": "[불가산명사-물질] 소금 좀 건네주세요."
+    },
+    {
+      "w": "Gold is a precious metal.",
+      "m": "[불가산명사-물질] 금은 귀금속이다."
+    },
+    {
+      "w": "The soup needs more pepper.",
+      "m": "[불가산명사-물질] 수프에 후추가 더 필요하다."
+    },
+    {
+      "w": "Paper is made from wood.",
+      "m": "[불가산명사-물질] 종이는 나무로 만든다. (paper(종이)는 불가산)"
+    },
+    {
+      "w": "He put sugar in his coffee.",
+      "m": "[불가산명사-물질] 그는 커피에 설탕을 넣었다."
+    },
+    {
+      "w": "Sand gets everywhere at the beach.",
+      "m": "[불가산명사-물질] 해변에서는 모래가 어디든 들어간다."
+    },
+    {
+      "w": "The air is fresh in the mountains.",
+      "m": "[불가산명사-물질] 산속 공기는 신선하다."
+    },
+    {
+      "w": "Oil floats on water.",
+      "m": "[불가산명사-물질] 기름은 물 위에 뜬다."
+    },
+    {
+      "w": "I bought some cheese and butter.",
+      "m": "[불가산명사-물질] 나는 치즈와 버터를 좀 샀다."
+    },
+    {
+      "w": "Snow covered the whole town.",
+      "m": "[불가산명사-물질] 눈이 온 마을을 덮었다."
+    },
+    {
+      "w": "Meat is expensive these days.",
+      "m": "[불가산명사-물질] 요즘 고기가 비싸다."
+    },
+    {
+      "w": "Knowledge is power.",
+      "m": "[불가산명사-추상·집합] 아는 것이 힘이다. (추상명사는 셀 수 없음)"
+    },
+    {
+      "w": "She gave me some advice.",
+      "m": "[불가산명사-추상·집합] 그녀는 나에게 조언을 좀 해 주었다. (advice는 불가산 (an advice ×))"
+    },
+    {
+      "w": "I need more information.",
+      "m": "[불가산명사-추상·집합] 나는 정보가 더 필요하다. (information 불가산)"
+    },
+    {
+      "w": "Thank you for your help.",
+      "m": "[불가산명사-추상·집합] 도와줘서 고마워."
+    },
+    {
+      "w": "He has a lot of homework today.",
+      "m": "[불가산명사-추상·집합] 그는 오늘 숙제가 많다. (homework 불가산 (homeworks ×))"
+    },
+    {
+      "w": "We have a lot of work to do.",
+      "m": "[불가산명사-추상·집합] 우리는 할 일이 많다. (work(일) 불가산)"
+    },
+    {
+      "w": "Time is money.",
+      "m": "[불가산명사-추상·집합] 시간은 돈이다."
+    },
+    {
+      "w": "Music makes me happy.",
+      "m": "[불가산명사-추상·집합] 음악은 나를 행복하게 한다."
+    },
+    {
+      "w": "Love is more important than money.",
+      "m": "[불가산명사-추상·집합] 사랑은 돈보다 중요하다."
+    },
+    {
+      "w": "She has a lot of experience.",
+      "m": "[불가산명사-추상·집합] 그녀는 경험이 많다. (경험(총칭)은 불가산)"
+    },
+    {
+      "w": "I bought some new furniture.",
+      "m": "[불가산명사-추상·집합] 나는 새 가구를 좀 샀다. (furniture 불가산 (furnitures ×))"
+    },
+    {
+      "w": "Please put your luggage here.",
+      "m": "[불가산명사-추상·집합] 짐은 여기에 놓아 주세요. (luggage/baggage 불가산)"
+    },
+    {
+      "w": "The news was shocking.",
+      "m": "[불가산명사-추상·집합] 그 소식은 충격적이었다. (news는 -s로 끝나지만 단수 취급)"
+    },
+    {
+      "w": "Happiness cannot be bought.",
+      "m": "[불가산명사-추상·집합] 행복은 살 수 없다."
+    },
+    {
+      "w": "We had fun at the party.",
+      "m": "[불가산명사-추상·집합] 우리는 파티에서 즐거웠다. (fun 불가산)"
+    },
+    {
+      "w": "Traffic is heavy in the morning.",
+      "m": "[불가산명사-추상·집합] 아침에는 교통량이 많다. (traffic 불가산)"
+    },
+    {
+      "w": "The weather is nice today.",
+      "m": "[불가산명사-추상·집합] 오늘 날씨가 좋다. (weather 불가산)"
+    },
+    {
+      "w": "He gave me good advice about money.",
+      "m": "[불가산명사-추상·집합] 그는 돈에 관해 좋은 조언을 해 주었다."
+    },
+    {
+      "w": "Progress takes time.",
+      "m": "[불가산명사-추상·집합] 발전에는 시간이 걸린다."
+    },
+    {
+      "w": "Honesty is the best policy.",
+      "m": "[불가산명사-추상·집합] 정직이 최선의 방책이다."
+    },
+    {
+      "w": "I'd like a cup of coffee.",
+      "m": "[불가산명사-수량 표현] 커피 한 잔 주세요. (a cup of + 음료)"
+    },
+    {
+      "w": "She drank two glasses of water.",
+      "m": "[불가산명사-수량 표현] 그녀는 물 두 잔을 마셨다. (a glass of + 찬 음료)"
+    },
+    {
+      "w": "Give me a piece of paper.",
+      "m": "[불가산명사-수량 표현] 종이 한 장 줘. (a piece/sheet of paper)"
+    },
+    {
+      "w": "He ate three slices of pizza.",
+      "m": "[불가산명사-수량 표현] 그는 피자 세 조각을 먹었다. (a slice of)"
+    },
+    {
+      "w": "We bought a loaf of bread.",
+      "m": "[불가산명사-수량 표현] 우리는 빵 한 덩어리를 샀다. (a loaf of bread)"
+    },
+    {
+      "w": "Add a spoonful of sugar.",
+      "m": "[불가산명사-수량 표현] 설탕 한 숟가락을 넣어라. (a spoonful of)"
+    },
+    {
+      "w": "I need a bottle of milk.",
+      "m": "[불가산명사-수량 표현] 나는 우유 한 병이 필요하다. (a bottle of)"
+    },
+    {
+      "w": "She gave me a piece of advice.",
+      "m": "[불가산명사-수량 표현] 그녀는 조언 한마디를 해 주었다. (a piece of advice)"
+    },
+    {
+      "w": "That's an interesting piece of news.",
+      "m": "[불가산명사-수량 표현] 그거 흥미로운 소식이네. (a piece of news)"
+    },
+    {
+      "w": "He bought two bars of chocolate.",
+      "m": "[불가산명사-수량 표현] 그는 초콜릿 두 개를 샀다. (a bar of chocolate/soap)"
+    },
+    {
+      "w": "Put a pinch of salt in the soup.",
+      "m": "[불가산명사-수량 표현] 수프에 소금 한 꼬집을 넣어라. (a pinch of salt)"
+    },
+    {
+      "w": "We saw a flash of lightning.",
+      "m": "[불가산명사-수량 표현] 우리는 번개가 번쩍이는 것을 봤다. (a flash of lightning)"
+    },
+    {
+      "w": "There was a sheet of ice on the road.",
+      "m": "[불가산명사-수량 표현] 도로에 얼음이 한 겹 깔려 있었다. (a sheet of)"
+    },
+    {
+      "w": "I bought a pair of jeans.",
+      "m": "[불가산명사-수량 표현] 나는 청바지 한 벌을 샀다. (짝을 이루는 것은 a pair of)"
+    },
+    {
+      "w": "She needs a new pair of glasses.",
+      "m": "[불가산명사-수량 표현] 그녀는 새 안경이 필요하다. (a pair of glasses)"
+    },
+    {
+      "w": "I'd like a coffee, please.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 커피 한 잔 주세요. (주문할 때 a coffee = 한 잔)"
+    },
+    {
+      "w": "Coffee is grown in Brazil.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 커피는 브라질에서 재배된다. (총칭 → 불가산)"
+    },
+    {
+      "w": "Can I have a paper?",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 신문 한 부 주시겠어요? (a paper = 신문(가산))"
+    },
+    {
+      "w": "She has long hair.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 그녀는 머리가 길다. (hair(머리카락 전체) 불가산)"
+    },
+    {
+      "w": "There is a hair in my soup!",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 내 수프에 머리카락이 있어! (a hair = 한 가닥(가산))"
+    },
+    {
+      "w": "Glass breaks easily.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 유리는 쉽게 깨진다. (glass(유리) 불가산)"
+    },
+    {
+      "w": "He broke a glass.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 그는 유리잔 하나를 깼다. (a glass = 유리잔(가산))"
+    },
+    {
+      "w": "We had a wonderful time.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 우리는 멋진 시간을 보냈다. (a time = 특정한 때(가산))"
+    },
+    {
+      "w": "I've been there many times.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 나는 거기 여러 번 가 봤다. (times = 횟수)"
+    },
+    {
+      "w": "Light travels fast.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 빛은 빠르게 이동한다. (light(빛) 불가산)"
+    },
+    {
+      "w": "Turn off the lights.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 불을 꺼라. (lights = 전등(가산))"
+    },
+    {
+      "w": "She has much experience in teaching.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 그녀는 교직 경험이 많다. (경험(총칭) 불가산)"
+    },
+    {
+      "w": "It was an interesting experience.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 그것은 흥미로운 경험이었다. (an experience = 하나의 사건(가산))"
+    },
+    {
+      "w": "Chicken is my favorite food.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 닭고기는 내가 가장 좋아하는 음식이다. (chicken(고기) 불가산)"
+    },
+    {
+      "w": "A chicken laid an egg.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 닭 한 마리가 알을 낳았다. (a chicken = 닭(동물))"
+    },
+    {
+      "w": "I don't have much room in my bag.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 내 가방에 공간이 별로 없다. (room(공간) 불가산)"
+    },
+    {
+      "w": "This house has five rooms.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 이 집은 방이 다섯 개다. (rooms = 방(가산))"
+    },
+    {
+      "w": "Work hard and you will succeed.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 열심히 일하면 성공할 것이다. (work(일) 불가산)"
+    },
+    {
+      "w": "This painting is a famous work of art.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 이 그림은 유명한 예술 작품이다. (a work = 작품(가산))"
+    },
+    {
+      "w": "Iron is a strong metal.",
+      "m": "[가산·불가산 양쪽으로 쓰이는 명사] 철은 강한 금속이다. (iron(철) 불가산 / an iron = 다리미)"
+    },
+    {
+      "w": "My family is very large.",
+      "m": "[집합명사] 우리 가족은 대가족이다. (family를 한 단위로 보면 단수)"
+    },
+    {
+      "w": "My family are all early risers.",
+      "m": "[집합명사] 우리 가족은 모두 일찍 일어난다. (구성원 각각을 보면 복수 (영국식))"
+    },
+    {
+      "w": "The team was founded in 1990.",
+      "m": "[집합명사] 그 팀은 1990년에 창단되었다. (team 단수 취급)"
+    },
+    {
+      "w": "The audience was very quiet.",
+      "m": "[집합명사] 관객은 매우 조용했다. (audience)"
+    },
+    {
+      "w": "The police are looking for the thief.",
+      "m": "[집합명사] 경찰이 도둑을 찾고 있다. (police는 항상 복수 취급)"
+    },
+    {
+      "w": "Cattle are grazing in the field.",
+      "m": "[집합명사] 소들이 들판에서 풀을 뜯고 있다. (cattle 항상 복수)"
+    },
+    {
+      "w": "The staff are very friendly.",
+      "m": "[집합명사] 직원들이 매우 친절하다. (staff 구성원 → 복수)"
+    },
+    {
+      "w": "The class is going on a trip.",
+      "m": "[집합명사] 그 반은 여행을 간다. (class 단수)"
+    },
+    {
+      "w": "The committee has made a decision.",
+      "m": "[집합명사] 위원회는 결정을 내렸다. (committee 단수)"
+    },
+    {
+      "w": "The government is planning a new law.",
+      "m": "[집합명사] 정부는 새 법을 계획하고 있다."
+    },
+    {
+      "w": "People say that he is honest.",
+      "m": "[집합명사] 사람들은 그가 정직하다고 말한다. (people 복수 취급)"
+    },
+    {
+      "w": "The crowd was cheering loudly.",
+      "m": "[집합명사] 군중은 큰 소리로 환호하고 있었다. (crowd 단수)"
+    },
+    {
+      "w": "Our class has thirty students.",
+      "m": "[집합명사] 우리 반은 학생이 서른 명이다."
+    },
+    {
+      "w": "The jury has reached a verdict.",
+      "m": "[집합명사] 배심원단은 평결에 도달했다."
+    },
+    {
+      "w": "The public is interested in the news.",
+      "m": "[집합명사] 대중은 그 소식에 관심이 있다."
+    },
+    {
+      "w": "These jeans are too tight.",
+      "m": "[항상 복수형인 명사] 이 청바지는 너무 꽉 낀다. (jeans 항상 복수)"
+    },
+    {
+      "w": "My glasses are on the desk.",
+      "m": "[항상 복수형인 명사] 내 안경은 책상 위에 있다. (glasses(안경) 복수)"
+    },
+    {
+      "w": "The scissors are in the drawer.",
+      "m": "[항상 복수형인 명사] 가위는 서랍 안에 있다. (scissors 복수)"
+    },
+    {
+      "w": "Where are my shoes?",
+      "m": "[항상 복수형인 명사] 내 신발 어디 있지? (shoes 복수)"
+    },
+    {
+      "w": "Your pants are dirty.",
+      "m": "[항상 복수형인 명사] 네 바지가 더럽다. (pants 복수)"
+    },
+    {
+      "w": "The stairs are very steep.",
+      "m": "[항상 복수형인 명사] 계단이 매우 가파르다. (stairs 복수)"
+    },
+    {
+      "w": "I bought new socks.",
+      "m": "[항상 복수형인 명사] 나는 새 양말을 샀다."
+    },
+    {
+      "w": "His clothes are always clean.",
+      "m": "[항상 복수형인 명사] 그의 옷은 항상 깨끗하다. (clothes 항상 복수)"
+    },
+    {
+      "w": "The goods were delivered on time.",
+      "m": "[항상 복수형인 명사] 물품은 제때 배달되었다. (goods(상품) 복수)"
+    },
+    {
+      "w": "Thanks for your help.",
+      "m": "[항상 복수형인 명사] 도와줘서 고마워. (thanks 복수형)"
+    },
+    {
+      "w": "Mathematics is my favorite subject.",
+      "m": "[-s로 끝나지만 단수 취급] 수학은 내가 가장 좋아하는 과목이다. (학문명 -ics 단수)"
+    },
+    {
+      "w": "Physics is difficult for me.",
+      "m": "[-s로 끝나지만 단수 취급] 물리학은 나에게 어렵다."
+    },
+    {
+      "w": "Economics is a social science.",
+      "m": "[-s로 끝나지만 단수 취급] 경제학은 사회과학이다."
+    },
+    {
+      "w": "No news is good news.",
+      "m": "[-s로 끝나지만 단수 취급] 무소식이 희소식이다. (news 단수)"
+    },
+    {
+      "w": "Measles is a dangerous disease.",
+      "m": "[-s로 끝나지만 단수 취급] 홍역은 위험한 병이다. (병명 -s 단수)"
+    },
+    {
+      "w": "The United States is a large country.",
+      "m": "[-s로 끝나지만 단수 취급] 미국은 큰 나라다. (국가명 단수)"
+    },
+    {
+      "w": "Ten dollars is enough.",
+      "m": "[-s로 끝나지만 단수 취급] 10달러면 충분하다. (금액은 한 덩어리 → 단수)"
+    },
+    {
+      "w": "Two hours is a long time to wait.",
+      "m": "[-s로 끝나지만 단수 취급] 두 시간은 기다리기에 긴 시간이다. (시간도 한 덩어리 → 단수)"
+    },
+    {
+      "w": "Politics is a sensitive topic.",
+      "m": "[-s로 끝나지만 단수 취급] 정치는 민감한 주제다."
+    },
+    {
+      "w": "Gymnastics is her best event.",
+      "m": "[-s로 끝나지만 단수 취급] 체조는 그녀의 주종목이다."
+    },
+    {
+      "w": "Seoul is the capital of Korea.",
+      "m": "[고유명사] 서울은 한국의 수도다. (고유명사는 대문자, 보통 관사 없음)"
+    },
+    {
+      "w": "Mr. Kim is my homeroom teacher.",
+      "m": "[고유명사] 김 선생님은 우리 담임 선생님이다."
+    },
+    {
+      "w": "We visited the Han River.",
+      "m": "[고유명사] 우리는 한강을 방문했다. (강 이름에는 the)"
+    },
+    {
+      "w": "Mount Everest is the highest mountain.",
+      "m": "[고유명사] 에베레스트산은 가장 높은 산이다. (산 이름에는 관사 없음)"
+    },
+    {
+      "w": "Christmas is on December 25th.",
+      "m": "[고유명사] 크리스마스는 12월 25일이다. (요일·달·명절은 대문자)"
+    },
+    {
+      "w": "She speaks English and French.",
+      "m": "[고유명사] 그녀는 영어와 프랑스어를 한다. (언어명 대문자)"
+    },
+    {
+      "w": "The Pacific Ocean is the largest ocean.",
+      "m": "[고유명사] 태평양은 가장 큰 대양이다. (바다 이름에는 the)"
+    },
+    {
+      "w": "I was born on Monday.",
+      "m": "[고유명사] 나는 월요일에 태어났다."
+    },
+    {
+      "w": "The Kims live next door.",
+      "m": "[고유명사] 김 씨네 가족이 옆집에 산다. (the + 성 + s = ~네 가족)"
+    },
+    {
+      "w": "Korea has four seasons.",
+      "m": "[고유명사] 한국에는 사계절이 있다."
+    },
+    {
+      "w": "This is Tom's book.",
+      "m": "[명사의 소유격] 이것은 톰의 책이다. (사람 + 's)"
+    },
+    {
+      "w": "My mother's car is red.",
+      "m": "[명사의 소유격] 우리 엄마의 차는 빨간색이다."
+    },
+    {
+      "w": "The students' books are on the desk.",
+      "m": "[명사의 소유격] 학생들의 책이 책상 위에 있다. (복수 -s 뒤에는 ' 만)"
+    },
+    {
+      "w": "The children's room is upstairs.",
+      "m": "[명사의 소유격] 아이들의 방은 위층에 있다. (불규칙 복수에는 's)"
+    },
+    {
+      "w": "James's house is big.",
+      "m": "[명사의 소유격] 제임스의 집은 크다. (-s로 끝나는 이름 + 's (또는 '))"
+    },
+    {
+      "w": "The legs of the table are broken.",
+      "m": "[명사의 소유격] 탁자의 다리가 부러졌다. (사물은 보통 of)"
+    },
+    {
+      "w": "The roof of the house is red.",
+      "m": "[명사의 소유격] 그 집의 지붕은 빨간색이다."
+    },
+    {
+      "w": "Today's weather is perfect.",
+      "m": "[명사의 소유격] 오늘 날씨는 완벽하다. (시간 표현 + 's)"
+    },
+    {
+      "w": "I need a week's rest.",
+      "m": "[명사의 소유격] 나는 일주일의 휴식이 필요하다. (기간 + 's)"
+    },
+    {
+      "w": "We went to Tom and Jerry's party.",
+      "m": "[명사의 소유격] 우리는 톰과 제리의 파티에 갔다. (공동 소유 → 마지막에만 's)"
+    },
+    {
+      "w": "Let's meet at the doctor's.",
+      "m": "[명사의 소유격] 병원에서 만나자. (the doctor's = 병원 (장소 생략))"
+    },
+    {
+      "w": "I bought it at the baker's.",
+      "m": "[명사의 소유격] 나는 그것을 빵집에서 샀다. (the baker's = 빵집)"
+    },
+    {
+      "w": "Korea's economy is growing.",
+      "m": "[명사의 소유격] 한국의 경제는 성장하고 있다. (국가·단체도 's 가능)"
+    },
+    {
+      "w": "This is a friend of my brother's.",
+      "m": "[명사의 소유격] 이 사람은 내 형의 친구다. (이중 소유격 a ~ of + 's)"
+    },
+    {
+      "w": "It's a ten minutes' walk.",
+      "m": "[명사의 소유격] 걸어서 10분 거리다. (거리·시간 + ')"
+    },
+    {
+      "w": "The dog barked loudly.",
+      "m": "[명사의 역할] 개가 크게 짖었다. (주어)"
+    },
+    {
+      "w": "I love chocolate.",
+      "m": "[명사의 역할] 나는 초콜릿을 아주 좋아한다. (목적어)"
+    },
+    {
+      "w": "She is a nurse.",
+      "m": "[명사의 역할] 그녀는 간호사다. (주격 보어)"
+    },
+    {
+      "w": "They elected him president.",
+      "m": "[명사의 역할] 그들은 그를 회장으로 뽑았다. (목적격 보어)"
+    },
+    {
+      "w": "I gave my sister a present.",
+      "m": "[명사의 역할] 나는 여동생에게 선물을 주었다. (간접목적어 + 직접목적어)"
+    },
+    {
+      "w": "He lives in a small village.",
+      "m": "[명사의 역할] 그는 작은 마을에 산다. (전치사의 목적어)"
+    },
+    {
+      "w": "Tom, my best friend, is a doctor.",
+      "m": "[명사의 역할] 내 가장 친한 친구인 톰은 의사다. (동격)"
+    },
+    {
+      "w": "Mr. Lee, the principal, gave a speech.",
+      "m": "[명사의 역할] 교장인 이 선생님이 연설했다. (동격)"
+    },
+    {
+      "w": "Swimming is good exercise.",
+      "m": "[명사의 역할] 수영은 좋은 운동이다. (동명사도 명사 역할)"
+    },
+    {
+      "w": "To read books is fun.",
+      "m": "[명사의 역할] 책을 읽는 것은 재미있다. (to부정사의 명사적 용법)"
+    },
+    {
+      "w": "I'm waiting at the bus stop.",
+      "m": "[명사 + 명사 (복합명사)] 나는 버스 정류장에서 기다리고 있다. (앞 명사는 단수형 (buses stop ×))"
+    },
+    {
+      "w": "She works in a shoe store.",
+      "m": "[명사 + 명사 (복합명사)] 그녀는 신발 가게에서 일한다. (shoe store (shoes store ×))"
+    },
+    {
+      "w": "I need a toothbrush.",
+      "m": "[명사 + 명사 (복합명사)] 나는 칫솔이 필요하다. (tooth + brush)"
+    },
+    {
+      "w": "We ate at a seafood restaurant.",
+      "m": "[명사 + 명사 (복합명사)] 우리는 해산물 식당에서 먹었다."
+    },
+    {
+      "w": "My bedroom is small.",
+      "m": "[명사 + 명사 (복합명사)] 내 침실은 작다. (bed + room)"
+    },
+    {
+      "w": "He is a taxi driver.",
+      "m": "[명사 + 명사 (복합명사)] 그는 택시 기사다."
+    },
+    {
+      "w": "There is a car park nearby.",
+      "m": "[명사 + 명사 (복합명사)] 근처에 주차장이 있다."
+    },
+    {
+      "w": "I lost my credit card.",
+      "m": "[명사 + 명사 (복합명사)] 나는 신용카드를 잃어버렸다."
+    },
+    {
+      "w": "She bought a birthday cake.",
+      "m": "[명사 + 명사 (복합명사)] 그녀는 생일 케이크를 샀다."
+    },
+    {
+      "w": "This is a five-year-old boy.",
+      "m": "[명사 + 명사 (복합명사)] 이 아이는 다섯 살 소년이다. (수사+명사가 형용사 역할이면 단수 (years ×))"
+    }
+  ]
+}

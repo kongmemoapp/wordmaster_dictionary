@@ -189,6 +189,41 @@
     "category": "문법공부(주제별)"
   },
   {
+    "file": "nouns_200.json",
+    "name": "영어 명사 용법 예문 200",
+    "description": "가산명사(규칙·불규칙 복수), 불가산명사(물질·추상·집합)와 수량 표현(a cup of 등), 가산·불가산 양용 명사, 집합명사, 항상 복수형 명사, -s로 끝나는 단수 명사, 고유명사, 소유격, 명사의 역할, 복합명사 예문 200개",
+    "wordCount": 200,
+    "category": "문법공부(주제별)"
+  },
+  {
+    "file": "quantifiers_200.json",
+    "name": "영어 수량 표현 예문 200",
+    "description": "some/any, many/much, a lot of/plenty of, a few/few, a little/little, enough, all/most/none of, both/either/neither, each/every, no/nothing/nobody, several/various, another/other/others와 수량 표현 비교(a number of vs the number of, half of, one of 등) 예문 200개",
+    "wordCount": 200,
+    "category": "문법공부(주제별)"
+  },
+  {
+    "file": "sentence_types_200.json",
+    "name": "영어 문장의 종류 예문 200",
+    "description": "평서문, 부정문(be동사·조동사·일반동사), Yes/No 의문문, 의문사 의문문, 부정의문문, 부가의문문, 간접의문문, 명령문(Let's·Don't·명령문+and/or), 감탄문(What/How), There is/are, 문장 종류 변환, 제안·기원·동의 표현 예문 200개",
+    "wordCount": 200,
+    "category": "문법공부(주제별)"
+  },
+  {
+    "file": "subject_verb_agreement_200.json",
+    "name": "영어 주어·동사 수일치 예문 200",
+    "description": "단수·복수 주어, and/or/nor/not only로 연결된 주어, every/each/-one, one of/none of, 부분 표현(some/most/half of), a number of vs the number of, 동명사·to부정사·절 주어, 수식어구가 끼어든 주어, 집합명사·학문명·금액·기간, There is/are·도치, 관계사절, the + 형용사 등 수일치 예문 200개",
+    "wordCount": 200,
+    "category": "문법공부(주제별)"
+  },
+  {
+    "file": "connectors_200.json",
+    "name": "영어 접속부사·연결어 예문 200",
+    "description": "대조·양보(however, nevertheless, on the other hand), 원인·결과(therefore, as a result, due to), 추가(moreover, in addition, besides), 예시·강조(for example, in fact, above all), 순서·시간(first, meanwhile, finally), 요약·결론(in conclusion, to sum up), 조건(unless, otherwise, in case), 바꿔 말하기(in other words, by the way), 비교(unlike, just as), 담화 표지(well, honestly, luckily), 목적·수단(so that, by -ing) 예문 200개",
+    "wordCount": 200,
+    "category": "문법공부(주제별)"
+  },
+  {
     "file": "elem_be_verb_200.json",
     "name": "1. 초등 be동사 기초 200",
     "description": "be동사(am/is/are/was/were)의 긍정·부정·의문 예문 200개 (초등 수준)",
