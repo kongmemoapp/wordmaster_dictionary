@@ -119,6 +119,13 @@
     "category": "영단어 - 시험대비"
   },
   {
+    "file": "fill_in_blank_toeic_part5_200.json",
+    "name": "토익 Part 5 문법 빈칸 200",
+    "description": "TOEIC Part 5 형식의 문법·어휘 빈칸 200문제. 품사 자리(명사·형용사·부사), 동사 시제, 수일치, 능동·수동, 대명사, 전치사, 접속사 vs 전치사, 관계사, 분사, to부정사·동명사, 비교, 빈출 어휘·연어. 비즈니스 문맥 예문과 해설 포함",
+    "wordCount": 200,
+    "category": "영단어 - 시험대비"
+  },
+  {
     "file": "toefl_2000.json",
     "name": "토플 필수 영단어 2000",
     "description": "TOEFL 시험 필수 영단어 2000개",
