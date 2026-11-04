@@ -21,6 +21,20 @@
     "category": "영단어 - 수준별"
   },
   {
+    "file": "elementary_grade34_400.json",
+    "name": "초등 3~4학년 필수 영단어 400",
+    "description": "교육부 기본어휘 2022 초등 800 중 쉬운 400개. 짧고 구체적인 사물·동물·가족·색·숫자·기본 동사 중심(미취학 600 다음 단계), 알파벳순",
+    "wordCount": 400,
+    "category": "영단어 - 수준별"
+  },
+  {
+    "file": "elementary_grade56_400.json",
+    "name": "초등 5~6학년 필수 영단어 400",
+    "description": "교육부 기본어휘 2022 초등 800 중 나머지 400개. 추상어·문법어(because, should, however)와 긴 단어 중심, 중1 500으로 이어지는 단계, 알파벳순",
+    "wordCount": 400,
+    "category": "영단어 - 수준별"
+  },
+  {
     "file": "edu_2022_elementary_800.json",
     "name": "교육부 기본어휘 2022년 - 초등(800)",
     "description": "교육부 기본어휘 2022년 - 초등(800) 800개",
