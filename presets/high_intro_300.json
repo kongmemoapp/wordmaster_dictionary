@@ -1,0 +1,1206 @@
+{
+  "name": "고등 입문 영단어 300",
+  "description": "교육부 기본어휘 2022 중고등 1800 중 중학 1·2·3학년 500씩을 제외한 가장 어려운 300개. 추상·학술 어휘 중심의 고1 수준, 알파벳순. 중3 500 다음 단계",
+  "words": [
+    {
+      "w": "absolute",
+      "m": "절대의"
+    },
+    {
+      "w": "abstract",
+      "m": "추상적인"
+    },
+    {
+      "w": "abundant",
+      "m": "풍부한"
+    },
+    {
+      "w": "accelerate",
+      "m": "가속하다 속도가 가해지다"
+    },
+    {
+      "w": "accommodate",
+      "m": "수용하다"
+    },
+    {
+      "w": "accompany",
+      "m": "동반하다"
+    },
+    {
+      "w": "accomplish",
+      "m": "이루다"
+    },
+    {
+      "w": "acknowledge",
+      "m": "인정하다"
+    },
+    {
+      "w": "activate",
+      "m": "활동적으로 하다"
+    },
+    {
+      "w": "adequate",
+      "m": "충분한"
+    },
+    {
+      "w": "administer",
+      "m": "관리하다"
+    },
+    {
+      "w": "admission",
+      "m": "입장"
+    },
+    {
+      "w": "adolescent",
+      "m": "청소년기의; 청소년"
+    },
+    {
+      "w": "advocate",
+      "m": "옹호자; 옹호하다"
+    },
+    {
+      "w": "affection",
+      "m": "애정"
+    },
+    {
+      "w": "aggressive",
+      "m": "침략적인"
+    },
+    {
+      "w": "alongside",
+      "m": "-의 곁에"
+    },
+    {
+      "w": "alternative",
+      "m": "대안, 대체의"
+    },
+    {
+      "w": "ambassador",
+      "m": "대사"
+    },
+    {
+      "w": "anticipate",
+      "m": "예기하다"
+    },
+    {
+      "w": "apparent",
+      "m": "명백한"
+    },
+    {
+      "w": "applicant",
+      "m": "지원자"
+    },
+    {
+      "w": "appropriate",
+      "m": "적당한"
+    },
+    {
+      "w": "approximate",
+      "m": "대략적인"
+    },
+    {
+      "w": "architecture",
+      "m": "건축"
+    },
+    {
+      "w": "assemble",
+      "m": "모으다"
+    },
+    {
+      "w": "associate",
+      "m": "연상하다"
+    },
+    {
+      "w": "astonish",
+      "m": "놀라게 하다"
+    },
+    {
+      "w": "attribute",
+      "m": "속성"
+    },
+    {
+      "w": "autobiography",
+      "m": "자서전"
+    },
+    {
+      "w": "certificate",
+      "m": "증명서"
+    },
+    {
+      "w": "circulate",
+      "m": "순환하다"
+    },
+    {
+      "w": "circumstance",
+      "m": "환경"
+    },
+    {
+      "w": "classify",
+      "m": "분류하다"
+    },
+    {
+      "w": "coincide",
+      "m": "일치하다"
+    },
+    {
+      "w": "collaborate",
+      "m": "공동으로 일하다"
+    },
+    {
+      "w": "collapse",
+      "m": "붕괴"
+    },
+    {
+      "w": "commerce",
+      "m": "상업"
+    },
+    {
+      "w": "commission",
+      "m": "위임"
+    },
+    {
+      "w": "committee",
+      "m": "위원회"
+    },
+    {
+      "w": "communist",
+      "m": "공산주의자"
+    },
+    {
+      "w": "companion",
+      "m": "동료"
+    },
+    {
+      "w": "competent",
+      "m": "능력있는"
+    },
+    {
+      "w": "complement",
+      "m": "보완하는 것"
+    },
+    {
+      "w": "complicate",
+      "m": "복잡하게 하다"
+    },
+    {
+      "w": "compose",
+      "m": "구성하다"
+    },
+    {
+      "w": "comprehensive",
+      "m": "포괄적인, 종합적인"
+    },
+    {
+      "w": "conceal",
+      "m": "숨기다"
+    },
+    {
+      "w": "concept",
+      "m": "개념"
+    },
+    {
+      "w": "conclude",
+      "m": "결론짓다, 끝내다"
+    },
+    {
+      "w": "concrete",
+      "m": "구체적인 응고물"
+    },
+    {
+      "w": "confess",
+      "m": "실토하다"
+    },
+    {
+      "w": "confine",
+      "m": "제한하다, 가두다"
+    },
+    {
+      "w": "conform",
+      "m": "일치시키다"
+    },
+    {
+      "w": "confront",
+      "m": "직면하다"
+    },
+    {
+      "w": "congress",
+      "m": "의회, 국회"
+    },
+    {
+      "w": "conscience",
+      "m": "양심"
+    },
+    {
+      "w": "conscious",
+      "m": "의식적인"
+    },
+    {
+      "w": "consist",
+      "m": "-으로 이루어지다"
+    },
+    {
+      "w": "consistent",
+      "m": "시종일관한"
+    },
+    {
+      "w": "constant",
+      "m": "불변의"
+    },
+    {
+      "w": "construct",
+      "m": "건설하다, 구성하다"
+    },
+    {
+      "w": "consult",
+      "m": "상의하다"
+    },
+    {
+      "w": "consume",
+      "m": "소비하다"
+    },
+    {
+      "w": "content",
+      "m": "만족하여"
+    },
+    {
+      "w": "context",
+      "m": "문맥"
+    },
+    {
+      "w": "contract",
+      "m": "계약"
+    },
+    {
+      "w": "contrary",
+      "m": "반대의 반대 거꾸로"
+    },
+    {
+      "w": "contrast",
+      "m": "대조"
+    },
+    {
+      "w": "contribute",
+      "m": "기부하다"
+    },
+    {
+      "w": "controversy",
+      "m": "논쟁"
+    },
+    {
+      "w": "convict",
+      "m": "유죄로 판결하다 죄수"
+    },
+    {
+      "w": "convince",
+      "m": "확신시키다"
+    },
+    {
+      "w": "cooperate",
+      "m": "협동하다"
+    },
+    {
+      "w": "copyright",
+      "m": "판권"
+    },
+    {
+      "w": "corporate",
+      "m": "법인조직의"
+    },
+    {
+      "w": "correspond",
+      "m": "일치하다"
+    },
+    {
+      "w": "corrupt",
+      "m": "타락한"
+    },
+    {
+      "w": "counsel",
+      "m": "의논"
+    },
+    {
+      "w": "counter",
+      "m": "카운터, 계산대"
+    },
+    {
+      "w": "credible",
+      "m": "믿을 수 있는"
+    },
+    {
+      "w": "crucial",
+      "m": "결정적인"
+    },
+    {
+      "w": "cultivate",
+      "m": "경작하다"
+    },
+    {
+      "w": "database",
+      "m": "데이터베이스"
+    },
+    {
+      "w": "declare",
+      "m": "선언하다"
+    },
+    {
+      "w": "decline",
+      "m": "감소하다, 거절하다"
+    },
+    {
+      "w": "defendant",
+      "m": "피고 피고의"
+    },
+    {
+      "w": "definite",
+      "m": "일정한"
+    },
+    {
+      "w": "democracy",
+      "m": "민주주의"
+    },
+    {
+      "w": "democrat",
+      "m": "민주주의자"
+    },
+    {
+      "w": "demonstrate",
+      "m": "증명하다"
+    },
+    {
+      "w": "departure",
+      "m": "출발"
+    },
+    {
+      "w": "dependence",
+      "m": "종속"
+    },
+    {
+      "w": "depress",
+      "m": "우울하게 하다"
+    },
+    {
+      "w": "descend",
+      "m": "내려오다"
+    },
+    {
+      "w": "describe",
+      "m": "기술하다"
+    },
+    {
+      "w": "description",
+      "m": "서술"
+    },
+    {
+      "w": "despair",
+      "m": "절망하다"
+    },
+    {
+      "w": "desperate",
+      "m": "절망적인"
+    },
+    {
+      "w": "despite",
+      "m": "~에도 불구하고"
+    },
+    {
+      "w": "destination",
+      "m": "목적지"
+    },
+    {
+      "w": "destiny",
+      "m": "운명"
+    },
+    {
+      "w": "destruction",
+      "m": "파괴"
+    },
+    {
+      "w": "determine",
+      "m": "결정하다"
+    },
+    {
+      "w": "diminish",
+      "m": "감소하다"
+    },
+    {
+      "w": "diplomat",
+      "m": "외교관"
+    },
+    {
+      "w": "disabled",
+      "m": "장애가 있는"
+    },
+    {
+      "w": "disadvantage",
+      "m": "불리"
+    },
+    {
+      "w": "discipline",
+      "m": "훈련"
+    },
+    {
+      "w": "disclose",
+      "m": "나타내다"
+    },
+    {
+      "w": "discount",
+      "m": "할인"
+    },
+    {
+      "w": "dismiss",
+      "m": "떠나게 하다"
+    },
+    {
+      "w": "disorder",
+      "m": "무질서; 장애"
+    },
+    {
+      "w": "dispose",
+      "m": "처분하다, 처리하다"
+    },
+    {
+      "w": "distract",
+      "m": "산만하게 하다"
+    },
+    {
+      "w": "distribute",
+      "m": "분배하다"
+    },
+    {
+      "w": "district",
+      "m": "지구"
+    },
+    {
+      "w": "disturb",
+      "m": "방해하다"
+    },
+    {
+      "w": "diverse",
+      "m": "다양한"
+    },
+    {
+      "w": "domestic",
+      "m": "가정의"
+    },
+    {
+      "w": "dynamic",
+      "m": "동적인"
+    },
+    {
+      "w": "economy",
+      "m": "경제"
+    },
+    {
+      "w": "effective",
+      "m": "효과적인"
+    },
+    {
+      "w": "efficient",
+      "m": "능률적인"
+    },
+    {
+      "w": "eliminate",
+      "m": "제거하다"
+    },
+    {
+      "w": "emphasis",
+      "m": "강조"
+    },
+    {
+      "w": "enclose",
+      "m": "에워싸다"
+    },
+    {
+      "w": "encounter",
+      "m": "마주치다, 만나다"
+    },
+    {
+      "w": "encourage",
+      "m": "용기를 돋우다"
+    },
+    {
+      "w": "enhance",
+      "m": "향상하다"
+    },
+    {
+      "w": "enterprise",
+      "m": "기업"
+    },
+    {
+      "w": "enthusiastic",
+      "m": "열심인"
+    },
+    {
+      "w": "essential",
+      "m": "본질적인"
+    },
+    {
+      "w": "establish",
+      "m": "확립하다"
+    },
+    {
+      "w": "estimate",
+      "m": "어림잡다"
+    },
+    {
+      "w": "evaluate",
+      "m": "평가하다"
+    },
+    {
+      "w": "eventually",
+      "m": "결국"
+    },
+    {
+      "w": "evident",
+      "m": "명백한"
+    },
+    {
+      "w": "evolution",
+      "m": "진화"
+    },
+    {
+      "w": "exaggerate",
+      "m": "과장하다"
+    },
+    {
+      "w": "examine",
+      "m": "검사하다, 조사하다"
+    },
+    {
+      "w": "exclude",
+      "m": "배척하다"
+    },
+    {
+      "w": "exhaust",
+      "m": "다 써버리다"
+    },
+    {
+      "w": "expense",
+      "m": "지출"
+    },
+    {
+      "w": "external",
+      "m": "외부의"
+    },
+    {
+      "w": "extinct",
+      "m": "멸종된"
+    },
+    {
+      "w": "facility",
+      "m": "시설"
+    },
+    {
+      "w": "fascinate",
+      "m": "황홀케 하다"
+    },
+    {
+      "w": "finance",
+      "m": "재정"
+    },
+    {
+      "w": "flexible",
+      "m": "유연한"
+    },
+    {
+      "w": "flourish",
+      "m": "번창하다"
+    },
+    {
+      "w": "formation",
+      "m": "형성"
+    },
+    {
+      "w": "foundation",
+      "m": "기초"
+    },
+    {
+      "w": "framework",
+      "m": "뼈대"
+    },
+    {
+      "w": "frustrate",
+      "m": "(계획 등을)좌절시키다"
+    },
+    {
+      "w": "function",
+      "m": "기능"
+    },
+    {
+      "w": "fundamental",
+      "m": "기본적인, 근본적인"
+    },
+    {
+      "w": "funeral",
+      "m": "장례식"
+    },
+    {
+      "w": "furthermore",
+      "m": "더우기"
+    },
+    {
+      "w": "generation",
+      "m": "세대"
+    },
+    {
+      "w": "genuine",
+      "m": "진짜의"
+    },
+    {
+      "w": "geology",
+      "m": "지질학"
+    },
+    {
+      "w": "gradual",
+      "m": "점차적인"
+    },
+    {
+      "w": "graphic",
+      "m": "그래픽의, 생생한"
+    },
+    {
+      "w": "guarantee",
+      "m": "보증하다"
+    },
+    {
+      "w": "guideline",
+      "m": "지침"
+    },
+    {
+      "w": "handicap",
+      "m": "불리한 조건"
+    },
+    {
+      "w": "identical",
+      "m": "아주 동일한"
+    },
+    {
+      "w": "identify",
+      "m": "확인하다, 식별하다"
+    },
+    {
+      "w": "illustrate",
+      "m": "설명하다"
+    },
+    {
+      "w": "imitate",
+      "m": "흉내내다"
+    },
+    {
+      "w": "immediate",
+      "m": "즉각적인, 당장의"
+    },
+    {
+      "w": "imperial",
+      "m": "제국의"
+    },
+    {
+      "w": "incentive",
+      "m": "동기, 인센티브"
+    },
+    {
+      "w": "incident",
+      "m": "사건"
+    },
+    {
+      "w": "indicate",
+      "m": "나타내다, 가리키다"
+    },
+    {
+      "w": "informal",
+      "m": "비공식의"
+    },
+    {
+      "w": "inhabit",
+      "m": "살다"
+    },
+    {
+      "w": "initial",
+      "m": "처음의"
+    },
+    {
+      "w": "initiate",
+      "m": "시작하다"
+    },
+    {
+      "w": "insight",
+      "m": "통찰(력)"
+    },
+    {
+      "w": "inspect",
+      "m": "검사하다"
+    },
+    {
+      "w": "install",
+      "m": "설치하다"
+    },
+    {
+      "w": "instance",
+      "m": "실례"
+    },
+    {
+      "w": "instant",
+      "m": "즉시의"
+    },
+    {
+      "w": "instinct",
+      "m": "본능"
+    },
+    {
+      "w": "institute",
+      "m": "기관, 연구소"
+    },
+    {
+      "w": "instruct",
+      "m": "가르치다"
+    },
+    {
+      "w": "intellectual",
+      "m": "지적인"
+    },
+    {
+      "w": "intense",
+      "m": "강렬한"
+    },
+    {
+      "w": "interact",
+      "m": "서로 작용하다"
+    },
+    {
+      "w": "interfere",
+      "m": "간섭하다"
+    },
+    {
+      "w": "intermediate",
+      "m": "중간의 중간물"
+    },
+    {
+      "w": "internal",
+      "m": "내부의"
+    },
+    {
+      "w": "interpret",
+      "m": "해석하다"
+    },
+    {
+      "w": "interval",
+      "m": "간격"
+    },
+    {
+      "w": "intimate",
+      "m": "친밀한"
+    },
+    {
+      "w": "investigate",
+      "m": "조사하다"
+    },
+    {
+      "w": "involve",
+      "m": "포함하다, 관련시키다"
+    },
+    {
+      "w": "irritate",
+      "m": "노하게 하다"
+    },
+    {
+      "w": "isolate",
+      "m": "고립시키다"
+    },
+    {
+      "w": "justify",
+      "m": "옳다고 하다"
+    },
+    {
+      "w": "laboratory",
+      "m": "실험실"
+    },
+    {
+      "w": "liberal",
+      "m": "자유주의의"
+    },
+    {
+      "w": "liberty",
+      "m": "자유"
+    },
+    {
+      "w": "likewise",
+      "m": "같이, 마찬가지로"
+    },
+    {
+      "w": "linguistic",
+      "m": "언어의, 언어학의"
+    },
+    {
+      "w": "maintain",
+      "m": "계속하다"
+    },
+    {
+      "w": "majority",
+      "m": "대다수"
+    },
+    {
+      "w": "manufacture",
+      "m": "제조하다"
+    },
+    {
+      "w": "maximum",
+      "m": "최대, 최댓값"
+    },
+    {
+      "w": "mechanic",
+      "m": "정비사, 기계공"
+    },
+    {
+      "w": "mechanism",
+      "m": "(기계)장치"
+    },
+    {
+      "w": "mediate",
+      "m": "중재하다"
+    },
+    {
+      "w": "merchant",
+      "m": "상인"
+    },
+    {
+      "w": "minimal",
+      "m": "최소(한도)의"
+    },
+    {
+      "w": "minimum",
+      "m": "최소 한도"
+    },
+    {
+      "w": "ministry",
+      "m": "부, 부처; 성직"
+    },
+    {
+      "w": "moisture",
+      "m": "습기"
+    },
+    {
+      "w": "multiple",
+      "m": "복합의"
+    },
+    {
+      "w": "multiply",
+      "m": "늘리다"
+    },
+    {
+      "w": "narrate",
+      "m": "이야기하다"
+    },
+    {
+      "w": "neglect",
+      "m": "게을리 하다"
+    },
+    {
+      "w": "negotiate",
+      "m": "교섭하다"
+    },
+    {
+      "w": "neutral",
+      "m": "중립의"
+    },
+    {
+      "w": "nevertheless",
+      "m": "그럼에도 불구하고"
+    },
+    {
+      "w": "objective",
+      "m": "객관적인"
+    },
+    {
+      "w": "occasion",
+      "m": "경우"
+    },
+    {
+      "w": "occupation",
+      "m": "직업"
+    },
+    {
+      "w": "optimist",
+      "m": "낙천가"
+    },
+    {
+      "w": "outcome",
+      "m": "결과"
+    },
+    {
+      "w": "outline",
+      "m": "윤곽"
+    },
+    {
+      "w": "overhead",
+      "m": "머리위에 머리 위의"
+    },
+    {
+      "w": "overlap",
+      "m": "겹치다"
+    },
+    {
+      "w": "overlook",
+      "m": "간과하다; 내려다보다"
+    },
+    {
+      "w": "participate",
+      "m": "참가하다"
+    },
+    {
+      "w": "perceive",
+      "m": "지각하다"
+    },
+    {
+      "w": "permanent",
+      "m": "영구의"
+    },
+    {
+      "w": "personality",
+      "m": "개성"
+    },
+    {
+      "w": "phenomenon",
+      "m": "현상"
+    },
+    {
+      "w": "philosophy",
+      "m": "철학"
+    },
+    {
+      "w": "possess",
+      "m": "소유하다"
+    },
+    {
+      "w": "potential",
+      "m": "잠재적인"
+    },
+    {
+      "w": "practical",
+      "m": "실제의"
+    },
+    {
+      "w": "precise",
+      "m": "정확한"
+    },
+    {
+      "w": "prescribe",
+      "m": "처방하다, 규정하다"
+    },
+    {
+      "w": "presence",
+      "m": "존재, 현존, 실재 출석, 임석, 참석"
+    },
+    {
+      "w": "preserve",
+      "m": "보호하다, 지키다"
+    },
+    {
+      "w": "primitive",
+      "m": "원시의, 초기의"
+    },
+    {
+      "w": "principal",
+      "m": "주요한, 주된, 제일의, 앞장서는"
+    },
+    {
+      "w": "principle",
+      "m": "원리, 원칙, 법칙, 공리"
+    },
+    {
+      "w": "privacy",
+      "m": "사생활, 프라이버시"
+    },
+    {
+      "w": "proceed",
+      "m": "나아가다, 가다"
+    },
+    {
+      "w": "profession",
+      "m": "직업, 전문직"
+    },
+    {
+      "w": "property",
+      "m": "재산, 자산"
+    },
+    {
+      "w": "propose",
+      "m": "제의하다, 제출하다 추천하다, 지명하다"
+    },
+    {
+      "w": "prospect",
+      "m": "전망, 조망, 경치"
+    },
+    {
+      "w": "province",
+      "m": "주, 성, 도 범위, 영역, 분야"
+    },
+    {
+      "w": "psychology",
+      "m": "심리학"
+    },
+    {
+      "w": "purchase",
+      "m": "사다, 구입하다"
+    },
+    {
+      "w": "qualify",
+      "m": "자격을 부여하다"
+    },
+    {
+      "w": "quantity",
+      "m": "양"
+    },
+    {
+      "w": "register",
+      "m": "기록"
+    },
+    {
+      "w": "relative",
+      "m": "친척"
+    },
+    {
+      "w": "represent",
+      "m": "표현(묘사)하다"
+    },
+    {
+      "w": "resolve",
+      "m": "해결하다"
+    },
+    {
+      "w": "resource",
+      "m": "자원"
+    },
+    {
+      "w": "respond",
+      "m": "대답하다"
+    },
+    {
+      "w": "restore",
+      "m": "복원하다, 회복시키다"
+    },
+    {
+      "w": "revolution",
+      "m": "혁명"
+    },
+    {
+      "w": "sacrifice",
+      "m": "희생"
+    },
+    {
+      "w": "satellite",
+      "m": "위성"
+    },
+    {
+      "w": "scandal",
+      "m": "추문"
+    },
+    {
+      "w": "sensation",
+      "m": "감각"
+    },
+    {
+      "w": "sensible",
+      "m": "분별있는"
+    },
+    {
+      "w": "session",
+      "m": "개회"
+    },
+    {
+      "w": "significant",
+      "m": "중요한"
+    },
+    {
+      "w": "sociology",
+      "m": "사회학"
+    },
+    {
+      "w": "software",
+      "m": "소프트웨어"
+    },
+    {
+      "w": "somewhat",
+      "m": "약간"
+    },
+    {
+      "w": "specific",
+      "m": "특정한"
+    },
+    {
+      "w": "standard",
+      "m": "표준"
+    },
+    {
+      "w": "strategy",
+      "m": "전략"
+    },
+    {
+      "w": "structure",
+      "m": "구조"
+    },
+    {
+      "w": "sufficient",
+      "m": "충분한"
+    },
+    {
+      "w": "suicide",
+      "m": "자살 자살하다"
+    },
+    {
+      "w": "superior",
+      "m": "뛰어난"
+    },
+    {
+      "w": "suspect",
+      "m": "짐작하다"
+    },
+    {
+      "w": "sympathy",
+      "m": "동정"
+    },
+    {
+      "w": "symphony",
+      "m": "교향곡"
+    },
+    {
+      "w": "symptom",
+      "m": "증상"
+    },
+    {
+      "w": "territory",
+      "m": "영토"
+    },
+    {
+      "w": "thorough",
+      "m": "완전한"
+    },
+    {
+      "w": "transform",
+      "m": "변형(변용,변태)시키다"
+    },
+    {
+      "w": "ultimate",
+      "m": "최후의"
+    },
+    {
+      "w": "venture",
+      "m": "모험"
+    },
+    {
+      "w": "voluntary",
+      "m": "자발적인"
+    },
+    {
+      "w": "welfare",
+      "m": "복지"
+    },
+    {
+      "w": "widespread",
+      "m": "널리 보급되어 있는"
+    },
+    {
+      "w": "worship",
+      "m": "숭배"
+    }
+  ]
+}
