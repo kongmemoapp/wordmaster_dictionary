@@ -1,0 +1,1206 @@
+{
+  "name": "상황별 영어 표현 300",
+  "description": "실제 상황에서 그대로 쓰는 완성 영어 문장 300개. 여행(공항·기내, 입국심사·세관, 호텔, 길 찾기, 대중교통·택시, 관광·사진), 소비(식당 주문, 카페·패스트푸드, 쇼핑·계산, 교환·환불), 생활(병원·약국, 은행·환전, 우편·배송, 미용실·세탁, 집·이웃·수리), 사회(전화·메시지, 직장·회의, 학교·수업, 스몰토크·날씨·취미, 긴급상황·분실) 20개 상황 × 15문장. 각 상황 안에서 묻기 → 요청 → 문제 상황 → 마무리 순으로 배치",
+  "words": [
+    {
+      "w": "Where is the check-in counter for Korean Air?",
+      "m": "[공항·기내] 대한항공 체크인 카운터가 어디예요?"
+    },
+    {
+      "w": "I'd like to check in for my flight to London.",
+      "m": "[공항·기내] 런던행 비행기 체크인하고 싶어요."
+    },
+    {
+      "w": "Could I get a window seat, please?",
+      "m": "[공항·기내] 창가 좌석으로 받을 수 있을까요?"
+    },
+    {
+      "w": "How many bags can I check in?",
+      "m": "[공항·기내] 짐은 몇 개까지 부칠 수 있어요?"
+    },
+    {
+      "w": "Is this bag okay as a carry-on?",
+      "m": "[공항·기내] 이 가방은 기내에 들고 탈 수 있나요?"
+    },
+    {
+      "w": "My suitcase is over the weight limit. What should I do?",
+      "m": "[공항·기내] 제 짐이 무게 제한을 넘었어요. 어떻게 해야 하죠?"
+    },
+    {
+      "w": "What time does boarding start?",
+      "m": "[공항·기내] 탑승은 몇 시에 시작하나요?"
+    },
+    {
+      "w": "Which gate does my flight leave from?",
+      "m": "[공항·기내] 제 비행기는 어느 게이트에서 출발하나요?"
+    },
+    {
+      "w": "Is the flight on time?",
+      "m": "[공항·기내] 비행기가 정시에 출발하나요?"
+    },
+    {
+      "w": "Excuse me, I think you're in my seat.",
+      "m": "[공항·기내] 실례지만, 제 자리에 앉으신 것 같아요."
+    },
+    {
+      "w": "Could I have a blanket, please?",
+      "m": "[공항·기내] 담요 하나 주시겠어요?"
+    },
+    {
+      "w": "Can I have some water, please?",
+      "m": "[공항·기내] 물 좀 주시겠어요?"
+    },
+    {
+      "w": "Chicken or beef? Beef, please.",
+      "m": "[공항·기내] 닭고기와 소고기 중 어느 것으로요? 소고기로 주세요."
+    },
+    {
+      "w": "Could you help me put this in the overhead bin?",
+      "m": "[공항·기내] 이거 위 짐칸에 넣는 것 좀 도와주시겠어요?"
+    },
+    {
+      "w": "How long is the layover in Tokyo?",
+      "m": "[공항·기내] 도쿄에서 경유 시간이 얼마나 되나요?"
+    },
+    {
+      "w": "What's the purpose of your visit?",
+      "m": "[입국심사·세관] 방문 목적이 무엇입니까?"
+    },
+    {
+      "w": "I'm here on vacation.",
+      "m": "[입국심사·세관] 휴가로 왔습니다."
+    },
+    {
+      "w": "I'm here for a business trip.",
+      "m": "[입국심사·세관] 출장으로 왔습니다."
+    },
+    {
+      "w": "How long will you be staying?",
+      "m": "[입국심사·세관] 얼마나 머무를 예정입니까?"
+    },
+    {
+      "w": "I'll be staying for ten days.",
+      "m": "[입국심사·세관] 열흘 동안 머무를 거예요."
+    },
+    {
+      "w": "Where will you be staying?",
+      "m": "[입국심사·세관] 어디에 머무를 예정입니까?"
+    },
+    {
+      "w": "I'm staying at the Hilton Hotel downtown.",
+      "m": "[입국심사·세관] 시내 힐튼 호텔에 머물 거예요."
+    },
+    {
+      "w": "Is this your first time in the United States?",
+      "m": "[입국심사·세관] 미국 방문은 처음입니까?"
+    },
+    {
+      "w": "Do you have a return ticket?",
+      "m": "[입국심사·세관] 돌아가는 항공권이 있습니까?"
+    },
+    {
+      "w": "Do you have anything to declare?",
+      "m": "[입국심사·세관] 신고할 물품이 있습니까?"
+    },
+    {
+      "w": "No, I have nothing to declare.",
+      "m": "[입국심사·세관] 아니요, 신고할 것이 없습니다."
+    },
+    {
+      "w": "These are gifts for my friends.",
+      "m": "[입국심사·세관] 이것들은 친구들에게 줄 선물이에요."
+    },
+    {
+      "w": "Could you open your suitcase, please?",
+      "m": "[입국심사·세관] 가방을 열어 주시겠습니까?"
+    },
+    {
+      "w": "Where can I pick up my luggage?",
+      "m": "[입국심사·세관] 짐은 어디서 찾나요?"
+    },
+    {
+      "w": "My luggage didn't come out. Where should I report it?",
+      "m": "[입국심사·세관] 제 짐이 안 나왔어요. 어디에 신고해야 하나요?"
+    },
+    {
+      "w": "I have a reservation under the name Kim.",
+      "m": "[호텔] 김으로 예약했어요."
+    },
+    {
+      "w": "Do you have any rooms available tonight?",
+      "m": "[호텔] 오늘 밤 빈방 있나요?"
+    },
+    {
+      "w": "I'd like a room with two beds.",
+      "m": "[호텔] 침대가 두 개인 방으로 주세요."
+    },
+    {
+      "w": "Until what time can I check out?",
+      "m": "[호텔] 체크아웃은 몇 시까지 할 수 있어요?"
+    },
+    {
+      "w": "Does the rate include breakfast?",
+      "m": "[호텔] 요금에 아침 식사가 포함되어 있나요?"
+    },
+    {
+      "w": "Could I have a late check-out?",
+      "m": "[호텔] 체크아웃을 늦게 할 수 있을까요?"
+    },
+    {
+      "w": "Can I leave my luggage here until check-in?",
+      "m": "[호텔] 체크인 전까지 짐을 여기 맡겨도 될까요?"
+    },
+    {
+      "w": "What's the Wi-Fi password?",
+      "m": "[호텔] 와이파이 비밀번호가 뭐예요?"
+    },
+    {
+      "w": "The air conditioner isn't working.",
+      "m": "[호텔] 에어컨이 작동하지 않아요."
+    },
+    {
+      "w": "There's no hot water in my room.",
+      "m": "[호텔] 제 방에 온수가 안 나와요."
+    },
+    {
+      "w": "Could I get some extra towels?",
+      "m": "[호텔] 타월을 좀 더 받을 수 있을까요?"
+    },
+    {
+      "w": "Could you send someone to fix it?",
+      "m": "[호텔] 고칠 사람을 보내 주시겠어요?"
+    },
+    {
+      "w": "I'd like to change my room, please.",
+      "m": "[호텔] 방을 바꾸고 싶어요."
+    },
+    {
+      "w": "Could you call a taxi for me?",
+      "m": "[호텔] 택시를 불러 주시겠어요?"
+    },
+    {
+      "w": "I'd like to check out, please. Here's my key.",
+      "m": "[호텔] 체크아웃하려고요. 여기 열쇠요."
+    },
+    {
+      "w": "Excuse me, could you tell me how to get to the museum?",
+      "m": "[길 찾기] 실례합니다, 박물관에 어떻게 가는지 알려 주시겠어요?"
+    },
+    {
+      "w": "Is it within walking distance?",
+      "m": "[길 찾기] 걸어갈 수 있는 거리예요?"
+    },
+    {
+      "w": "How long does it take on foot?",
+      "m": "[길 찾기] 걸어서 얼마나 걸려요?"
+    },
+    {
+      "w": "Go straight for two blocks and turn left.",
+      "m": "[길 찾기] 두 블록 직진해서 왼쪽으로 가세요."
+    },
+    {
+      "w": "It's on your right, next to the bank.",
+      "m": "[길 찾기] 오른쪽에 있어요, 은행 옆이요."
+    },
+    {
+      "w": "You can't miss it.",
+      "m": "[길 찾기] 쉽게 찾으실 거예요."
+    },
+    {
+      "w": "I think I'm lost.",
+      "m": "[길 찾기] 길을 잃은 것 같아요."
+    },
+    {
+      "w": "Where am I on this map?",
+      "m": "[길 찾기] 이 지도에서 제가 어디에 있는 거죠?"
+    },
+    {
+      "w": "Is there a subway station near here?",
+      "m": "[길 찾기] 이 근처에 지하철역이 있나요?"
+    },
+    {
+      "w": "Which way is the city center?",
+      "m": "[길 찾기] 시내 중심가는 어느 쪽이에요?"
+    },
+    {
+      "w": "Can I walk there, or should I take a bus?",
+      "m": "[길 찾기] 걸어갈 수 있어요, 아니면 버스를 타야 해요?"
+    },
+    {
+      "w": "Is this the right way to the station?",
+      "m": "[길 찾기] 역으로 가는 길이 이쪽 맞나요?"
+    },
+    {
+      "w": "Sorry, I'm not from around here.",
+      "m": "[길 찾기] 죄송해요, 저도 이 근처 사람이 아니에요."
+    },
+    {
+      "w": "Could you show me on the map?",
+      "m": "[길 찾기] 지도에서 가리켜 주시겠어요?"
+    },
+    {
+      "w": "Thank you so much for your help.",
+      "m": "[길 찾기] 도와주셔서 정말 감사합니다."
+    },
+    {
+      "w": "Where can I buy a ticket?",
+      "m": "[대중교통·택시] 표는 어디서 사나요?"
+    },
+    {
+      "w": "One ticket to Central Station, please.",
+      "m": "[대중교통·택시] 센트럴역까지 한 장 주세요."
+    },
+    {
+      "w": "Does this bus go to the airport?",
+      "m": "[대중교통·택시] 이 버스가 공항에 가나요?"
+    },
+    {
+      "w": "Which line should I take to get to Times Square?",
+      "m": "[대중교통·택시] 타임스퀘어에 가려면 어느 노선을 타야 하나요?"
+    },
+    {
+      "w": "Where do I transfer?",
+      "m": "[대중교통·택시] 어디서 갈아타요?"
+    },
+    {
+      "w": "How many stops is it from here?",
+      "m": "[대중교통·택시] 여기서 몇 정거장이에요?"
+    },
+    {
+      "w": "Could you let me know when we get there?",
+      "m": "[대중교통·택시] 거기 도착하면 알려 주시겠어요?"
+    },
+    {
+      "w": "Excuse me, is anyone sitting here?",
+      "m": "[대중교통·택시] 실례지만, 여기 누가 앉아 있나요?"
+    },
+    {
+      "w": "What time is the last train?",
+      "m": "[대중교통·택시] 마지막 열차가 몇 시예요?"
+    },
+    {
+      "w": "Can I get a day pass?",
+      "m": "[대중교통·택시] 일일 승차권을 살 수 있나요?"
+    },
+    {
+      "w": "To this address, please.",
+      "m": "[대중교통·택시] 이 주소로 가 주세요."
+    },
+    {
+      "w": "How much will it cost to get downtown?",
+      "m": "[대중교통·택시] 시내까지 얼마나 나와요?"
+    },
+    {
+      "w": "Could you turn on the meter, please?",
+      "m": "[대중교통·택시] 미터기를 켜 주시겠어요?"
+    },
+    {
+      "w": "Please stop here. Keep the change.",
+      "m": "[대중교통·택시] 여기서 세워 주세요. 잔돈은 가지세요."
+    },
+    {
+      "w": "Could I have a receipt, please?",
+      "m": "[대중교통·택시] 영수증 주시겠어요?"
+    },
+    {
+      "w": "What time does the museum open?",
+      "m": "[관광·사진] 박물관은 몇 시에 열어요?"
+    },
+    {
+      "w": "How much is the admission fee?",
+      "m": "[관광·사진] 입장료가 얼마예요?"
+    },
+    {
+      "w": "Two adult tickets, please.",
+      "m": "[관광·사진] 성인 두 장 주세요."
+    },
+    {
+      "w": "Is there a student discount?",
+      "m": "[관광·사진] 학생 할인이 있나요?"
+    },
+    {
+      "w": "Do you have a guided tour in English?",
+      "m": "[관광·사진] 영어 가이드 투어가 있나요?"
+    },
+    {
+      "w": "Can I get a map of the city?",
+      "m": "[관광·사진] 시내 지도를 받을 수 있을까요?"
+    },
+    {
+      "w": "What's worth seeing around here?",
+      "m": "[관광·사진] 이 근처에 볼 만한 곳이 뭐가 있어요?"
+    },
+    {
+      "w": "Is it okay to take pictures here?",
+      "m": "[관광·사진] 여기서 사진 찍어도 되나요?"
+    },
+    {
+      "w": "Could you take a picture of us, please?",
+      "m": "[관광·사진] 저희 사진 좀 찍어 주시겠어요?"
+    },
+    {
+      "w": "Just press this button.",
+      "m": "[관광·사진] 이 버튼만 누르시면 돼요."
+    },
+    {
+      "w": "Could you take one more, please?",
+      "m": "[관광·사진] 한 장 더 찍어 주시겠어요?"
+    },
+    {
+      "w": "Would you like me to take a picture of you?",
+      "m": "[관광·사진] 제가 사진 찍어 드릴까요?"
+    },
+    {
+      "w": "Where is the best view of the city?",
+      "m": "[관광·사진] 도시 전망이 가장 좋은 곳이 어디예요?"
+    },
+    {
+      "w": "How do I get to the top of the tower?",
+      "m": "[관광·사진] 타워 꼭대기에는 어떻게 올라가요?"
+    },
+    {
+      "w": "What time does the show start?",
+      "m": "[관광·사진] 공연은 몇 시에 시작해요?"
+    },
+    {
+      "w": "A table for two, please.",
+      "m": "[식당 주문] 두 명 자리 부탁합니다."
+    },
+    {
+      "w": "Do you have a reservation?",
+      "m": "[식당 주문] 예약하셨나요?"
+    },
+    {
+      "w": "Could we sit by the window?",
+      "m": "[식당 주문] 창가 자리에 앉을 수 있을까요?"
+    },
+    {
+      "w": "Could I see the menu, please?",
+      "m": "[식당 주문] 메뉴판을 볼 수 있을까요?"
+    },
+    {
+      "w": "What's popular here?",
+      "m": "[식당 주문] 여기서 인기 있는 메뉴가 뭐예요?"
+    },
+    {
+      "w": "What's today's special?",
+      "m": "[식당 주문] 오늘의 특별 메뉴가 뭐예요?"
+    },
+    {
+      "w": "Are you ready to order?",
+      "m": "[식당 주문] 주문하시겠어요?"
+    },
+    {
+      "w": "I'll have the grilled salmon.",
+      "m": "[식당 주문] 구운 연어로 할게요."
+    },
+    {
+      "w": "How would you like your steak?",
+      "m": "[식당 주문] 스테이크는 어떻게 익혀 드릴까요?"
+    },
+    {
+      "w": "Medium rare, please.",
+      "m": "[식당 주문] 미디엄 레어로 주세요."
+    },
+    {
+      "w": "Does this dish contain nuts? I'm allergic.",
+      "m": "[식당 주문] 이 요리에 견과류가 들어 있나요? 알레르기가 있어요."
+    },
+    {
+      "w": "Could I get this without onions?",
+      "m": "[식당 주문] 이거 양파 빼고 주실 수 있어요?"
+    },
+    {
+      "w": "This isn't what I ordered.",
+      "m": "[식당 주문] 이건 제가 주문한 게 아니에요."
+    },
+    {
+      "w": "Could we have the bill, please?",
+      "m": "[식당 주문] 계산서 주시겠어요?"
+    },
+    {
+      "w": "Can we split the bill?",
+      "m": "[식당 주문] 따로 계산할 수 있을까요?"
+    },
+    {
+      "w": "Can I get a medium latte, please?",
+      "m": "[카페·패스트푸드] 라테 미디엄 사이즈 하나 주세요."
+    },
+    {
+      "w": "For here or to go?",
+      "m": "[카페·패스트푸드] 매장에서 드시나요, 포장이신가요?"
+    },
+    {
+      "w": "To go, please.",
+      "m": "[카페·패스트푸드] 포장이요."
+    },
+    {
+      "w": "Could you make it iced?",
+      "m": "[카페·패스트푸드] 아이스로 해 주시겠어요?"
+    },
+    {
+      "w": "Can I have it with oat milk?",
+      "m": "[카페·패스트푸드] 오트 밀크로 바꿀 수 있어요?"
+    },
+    {
+      "w": "Less ice, please.",
+      "m": "[카페·패스트푸드] 얼음 적게 주세요."
+    },
+    {
+      "w": "Can I get a refill?",
+      "m": "[카페·패스트푸드] 리필할 수 있나요?"
+    },
+    {
+      "w": "What sizes do you have?",
+      "m": "[카페·패스트푸드] 사이즈는 어떤 게 있어요?"
+    },
+    {
+      "w": "I'll have a number three combo.",
+      "m": "[카페·패스트푸드] 3번 세트로 할게요."
+    },
+    {
+      "w": "Would you like fries with that?",
+      "m": "[카페·패스트푸드] 감자튀김도 함께 드릴까요?"
+    },
+    {
+      "w": "Can I get extra ketchup?",
+      "m": "[카페·패스트푸드] 케첩 더 받을 수 있을까요?"
+    },
+    {
+      "w": "Hold the pickles, please.",
+      "m": "[카페·패스트푸드] 피클은 빼 주세요."
+    },
+    {
+      "w": "Is this seat free?",
+      "m": "[카페·패스트푸드] 이 자리 비어 있어요?"
+    },
+    {
+      "w": "Do you have an outlet I can use?",
+      "m": "[카페·패스트푸드] 쓸 수 있는 콘센트가 있나요?"
+    },
+    {
+      "w": "Can I get a name on that? It's Minsu.",
+      "m": "[카페·패스트푸드] 이름 적어 주시겠어요? 민수예요."
+    },
+    {
+      "w": "I'm just looking, thanks.",
+      "m": "[쇼핑·계산] 그냥 둘러보는 거예요, 감사합니다."
+    },
+    {
+      "w": "I'm looking for a jacket.",
+      "m": "[쇼핑·계산] 재킷을 찾고 있어요."
+    },
+    {
+      "w": "Do you have this in a larger size?",
+      "m": "[쇼핑·계산] 이거 더 큰 사이즈 있어요?"
+    },
+    {
+      "w": "Do you have this in another color?",
+      "m": "[쇼핑·계산] 이거 다른 색상 있어요?"
+    },
+    {
+      "w": "Can I try this on?",
+      "m": "[쇼핑·계산] 이거 입어 봐도 될까요?"
+    },
+    {
+      "w": "Where is the fitting room?",
+      "m": "[쇼핑·계산] 탈의실이 어디예요?"
+    },
+    {
+      "w": "How much does this come to?",
+      "m": "[쇼핑·계산] 이거 다 해서 얼마예요?"
+    },
+    {
+      "w": "Is this on sale?",
+      "m": "[쇼핑·계산] 이거 세일 중이에요?"
+    },
+    {
+      "w": "Can you give me a discount?",
+      "m": "[쇼핑·계산] 할인해 주실 수 있어요?"
+    },
+    {
+      "w": "I'll take it.",
+      "m": "[쇼핑·계산] 이거 살게요."
+    },
+    {
+      "w": "Do you take credit cards?",
+      "m": "[쇼핑·계산] 신용카드 받으세요?"
+    },
+    {
+      "w": "Can I pay in cash?",
+      "m": "[쇼핑·계산] 현금으로 계산할 수 있나요?"
+    },
+    {
+      "w": "Would you like a bag?",
+      "m": "[쇼핑·계산] 봉투 필요하세요?"
+    },
+    {
+      "w": "Could you gift-wrap it, please?",
+      "m": "[쇼핑·계산] 선물 포장해 주시겠어요?"
+    },
+    {
+      "w": "Can I get a tax refund on this?",
+      "m": "[쇼핑·계산] 이거 세금 환급 받을 수 있나요?"
+    },
+    {
+      "w": "I'd like to return this, please.",
+      "m": "[교환·환불] 이거 반품하고 싶어요."
+    },
+    {
+      "w": "Do you have the receipt?",
+      "m": "[교환·환불] 영수증 있으세요?"
+    },
+    {
+      "w": "Here's my receipt.",
+      "m": "[교환·환불] 여기 영수증이요."
+    },
+    {
+      "w": "What's the reason for the return?",
+      "m": "[교환·환불] 반품 사유가 무엇인가요?"
+    },
+    {
+      "w": "It doesn't fit me.",
+      "m": "[교환·환불] 저한테 안 맞아요."
+    },
+    {
+      "w": "It was broken when I opened the box.",
+      "m": "[교환·환불] 상자를 열었을 때 이미 망가져 있었어요."
+    },
+    {
+      "w": "Can I exchange this for a different size?",
+      "m": "[교환·환불] 이거 다른 사이즈로 교환할 수 있나요?"
+    },
+    {
+      "w": "Is this item refundable?",
+      "m": "[교환·환불] 이 상품은 환불이 가능한가요?"
+    },
+    {
+      "w": "Can I get a refund in cash?",
+      "m": "[교환·환불] 현금으로 환불받을 수 있나요?"
+    },
+    {
+      "w": "The refund will go back to your card.",
+      "m": "[교환·환불] 환불은 카드로 다시 들어갑니다."
+    },
+    {
+      "w": "How long does the refund take?",
+      "m": "[교환·환불] 환불은 얼마나 걸려요?"
+    },
+    {
+      "w": "What's your return policy?",
+      "m": "[교환·환불] 반품 규정이 어떻게 되나요?"
+    },
+    {
+      "w": "You can return it within 30 days.",
+      "m": "[교환·환불] 30일 이내에 반품하실 수 있어요."
+    },
+    {
+      "w": "I haven't used it. The tags are still on.",
+      "m": "[교환·환불] 사용하지 않았어요. 태그도 그대로 있어요."
+    },
+    {
+      "w": "Can I get store credit instead?",
+      "m": "[교환·환불] 대신 매장 포인트로 받을 수 있나요?"
+    },
+    {
+      "w": "I'd like to make an appointment with Dr. Lee.",
+      "m": "[병원·약국] 리 선생님께 진료 예약을 하고 싶어요."
+    },
+    {
+      "w": "I don't have an appointment. Can I still see a doctor?",
+      "m": "[병원·약국] 예약은 없는데 진료를 볼 수 있을까요?"
+    },
+    {
+      "w": "What seems to be the problem?",
+      "m": "[병원·약국] 어디가 불편하세요?"
+    },
+    {
+      "w": "I have a terrible headache.",
+      "m": "[병원·약국] 머리가 너무 아파요."
+    },
+    {
+      "w": "I've had a fever since last night.",
+      "m": "[병원·약국] 어젯밤부터 열이 나요."
+    },
+    {
+      "w": "I have a sore throat and a runny nose.",
+      "m": "[병원·약국] 목이 아프고 코가 흘러요."
+    },
+    {
+      "w": "It hurts when I press here.",
+      "m": "[병원·약국] 여기를 누르면 아파요."
+    },
+    {
+      "w": "How long have you had these symptoms?",
+      "m": "[병원·약국] 이 증상이 얼마나 오래됐나요?"
+    },
+    {
+      "w": "Are you allergic to any medication?",
+      "m": "[병원·약국] 약물 알레르기가 있으세요?"
+    },
+    {
+      "w": "Do I need a prescription for this?",
+      "m": "[병원·약국] 이 약은 처방전이 필요한가요?"
+    },
+    {
+      "w": "I'd like to fill this prescription.",
+      "m": "[병원·약국] 이 처방전대로 약을 받고 싶어요."
+    },
+    {
+      "w": "How often should I take this?",
+      "m": "[병원·약국] 이 약은 얼마나 자주 먹어야 하나요?"
+    },
+    {
+      "w": "Take one tablet twice a day after meals.",
+      "m": "[병원·약국] 식후에 하루 두 번 한 알씩 드세요."
+    },
+    {
+      "w": "Does this have any side effects?",
+      "m": "[병원·약국] 이 약에 부작용이 있나요?"
+    },
+    {
+      "w": "Do you have anything for motion sickness?",
+      "m": "[병원·약국] 멀미약 있나요?"
+    },
+    {
+      "w": "I'd like to open a bank account.",
+      "m": "[은행·환전] 은행 계좌를 개설하고 싶어요."
+    },
+    {
+      "w": "What documents do I need?",
+      "m": "[은행·환전] 어떤 서류가 필요하죠?"
+    },
+    {
+      "w": "I'd like to exchange Korean won for dollars.",
+      "m": "[은행·환전] 원화를 달러로 환전하고 싶어요."
+    },
+    {
+      "w": "What's the exchange rate today?",
+      "m": "[은행·환전] 오늘 환율이 얼마예요?"
+    },
+    {
+      "w": "Is there a commission?",
+      "m": "[은행·환전] 수수료가 있나요?"
+    },
+    {
+      "w": "Could I have it in small bills?",
+      "m": "[은행·환전] 소액권으로 주시겠어요?"
+    },
+    {
+      "w": "I'd like to withdraw two hundred dollars.",
+      "m": "[은행·환전] 200달러를 인출하고 싶어요."
+    },
+    {
+      "w": "I'd like to deposit this check.",
+      "m": "[은행·환전] 이 수표를 입금하고 싶어요."
+    },
+    {
+      "w": "Can I transfer money to a Korean account?",
+      "m": "[은행·환전] 한국 계좌로 송금할 수 있나요?"
+    },
+    {
+      "w": "The ATM ate my card.",
+      "m": "[은행·환전] ATM 기계가 제 카드를 먹었어요."
+    },
+    {
+      "w": "My card was declined.",
+      "m": "[은행·환전] 제 카드가 거절됐어요."
+    },
+    {
+      "w": "I'd like to report a lost card.",
+      "m": "[은행·환전] 카드 분실 신고를 하고 싶어요."
+    },
+    {
+      "w": "Please enter your PIN.",
+      "m": "[은행·환전] 비밀번호를 입력해 주세요."
+    },
+    {
+      "w": "Would you like a receipt?",
+      "m": "[은행·환전] 영수증 필요하세요?"
+    },
+    {
+      "w": "Where is the nearest ATM?",
+      "m": "[은행·환전] 가장 가까운 ATM이 어디예요?"
+    },
+    {
+      "w": "I'd like to send this package to Korea.",
+      "m": "[우편·배송] 이 소포를 한국으로 보내고 싶어요."
+    },
+    {
+      "w": "How much does it cost to send it by air?",
+      "m": "[우편·배송] 항공편으로 보내면 얼마예요?"
+    },
+    {
+      "w": "How long will it take to get there?",
+      "m": "[우편·배송] 거기까지 얼마나 걸려요?"
+    },
+    {
+      "w": "What's inside the package?",
+      "m": "[우편·배송] 소포 안에 무엇이 들어 있나요?"
+    },
+    {
+      "w": "Please fill out this customs form.",
+      "m": "[우편·배송] 이 세관 신고서를 작성해 주세요."
+    },
+    {
+      "w": "I'd like to send this by express mail.",
+      "m": "[우편·배송] 이거 특급 우편으로 보내고 싶어요."
+    },
+    {
+      "w": "Can I track the package online?",
+      "m": "[우편·배송] 온라인으로 배송 조회할 수 있나요?"
+    },
+    {
+      "w": "Could I have ten stamps, please?",
+      "m": "[우편·배송] 우표 열 장 주시겠어요?"
+    },
+    {
+      "w": "I'm here to pick up a package.",
+      "m": "[우편·배송] 소포를 찾으러 왔어요."
+    },
+    {
+      "w": "I got a notice that my package is here.",
+      "m": "[우편·배송] 제 소포가 도착했다는 안내를 받았어요."
+    },
+    {
+      "w": "My package hasn't arrived yet.",
+      "m": "[우편·배송] 제 소포가 아직 안 왔어요."
+    },
+    {
+      "w": "The package arrived damaged.",
+      "m": "[우편·배송] 소포가 파손된 채로 도착했어요."
+    },
+    {
+      "w": "Could you leave it at the front door?",
+      "m": "[우편·배송] 현관 앞에 두고 가 주시겠어요?"
+    },
+    {
+      "w": "Can I change the delivery address?",
+      "m": "[우편·배송] 배송지를 변경할 수 있나요?"
+    },
+    {
+      "w": "Could you sign here, please?",
+      "m": "[우편·배송] 여기 서명해 주시겠어요?"
+    },
+    {
+      "w": "I'd like to get a haircut.",
+      "m": "[미용실·세탁] 머리를 자르고 싶어요."
+    },
+    {
+      "w": "Do I need an appointment?",
+      "m": "[미용실·세탁] 예약이 필요한가요?"
+    },
+    {
+      "w": "How would you like your hair?",
+      "m": "[미용실·세탁] 머리를 어떻게 해 드릴까요?"
+    },
+    {
+      "w": "Just a trim, please.",
+      "m": "[미용실·세탁] 조금만 다듬어 주세요."
+    },
+    {
+      "w": "Could you take about two inches off?",
+      "m": "[미용실·세탁] 5센티 정도 잘라 주시겠어요?"
+    },
+    {
+      "w": "I'd like the same style, just shorter.",
+      "m": "[미용실·세탁] 같은 스타일로 조금만 더 짧게 해 주세요."
+    },
+    {
+      "w": "Could you thin it out a bit?",
+      "m": "[미용실·세탁] 숱을 조금 쳐 주시겠어요?"
+    },
+    {
+      "w": "I'd like to dye my hair brown.",
+      "m": "[미용실·세탁] 머리를 갈색으로 염색하고 싶어요."
+    },
+    {
+      "w": "Not too short, please.",
+      "m": "[미용실·세탁] 너무 짧지 않게 해 주세요."
+    },
+    {
+      "w": "That looks great. Thank you.",
+      "m": "[미용실·세탁] 아주 좋아요. 감사합니다."
+    },
+    {
+      "w": "I'd like to have this dry-cleaned.",
+      "m": "[미용실·세탁] 이거 드라이클리닝 하고 싶어요."
+    },
+    {
+      "w": "When will it be ready?",
+      "m": "[미용실·세탁] 언제 돼요?"
+    },
+    {
+      "w": "Can you get this stain out?",
+      "m": "[미용실·세탁] 이 얼룩 지울 수 있어요?"
+    },
+    {
+      "w": "Could you iron this shirt as well?",
+      "m": "[미용실·세탁] 이 셔츠도 다려 주시겠어요?"
+    },
+    {
+      "w": "I'm here to pick up my laundry.",
+      "m": "[미용실·세탁] 세탁물을 찾으러 왔어요."
+    },
+    {
+      "w": "Hi, I just moved in next door.",
+      "m": "[집·이웃·수리] 안녕하세요, 옆집에 새로 이사 왔어요."
+    },
+    {
+      "w": "Welcome to the neighborhood!",
+      "m": "[집·이웃·수리] 우리 동네에 오신 걸 환영해요!"
+    },
+    {
+      "w": "Let me know if you need anything.",
+      "m": "[집·이웃·수리] 필요한 게 있으면 말씀하세요."
+    },
+    {
+      "w": "Sorry, could you keep the noise down?",
+      "m": "[집·이웃·수리] 죄송하지만 소리를 좀 줄여 주시겠어요?"
+    },
+    {
+      "w": "Which day is the trash collected?",
+      "m": "[집·이웃·수리] 쓰레기는 무슨 요일에 수거하나요?"
+    },
+    {
+      "w": "The sink is clogged.",
+      "m": "[집·이웃·수리] 싱크대가 막혔어요."
+    },
+    {
+      "w": "The toilet won't flush.",
+      "m": "[집·이웃·수리] 변기 물이 안 내려가요."
+    },
+    {
+      "w": "The faucet is leaking.",
+      "m": "[집·이웃·수리] 수도꼭지에서 물이 새요."
+    },
+    {
+      "w": "The heater isn't working.",
+      "m": "[집·이웃·수리] 난방기가 작동하지 않아요."
+    },
+    {
+      "w": "The power went out.",
+      "m": "[집·이웃·수리] 전기가 나갔어요."
+    },
+    {
+      "w": "Could you send someone to take a look?",
+      "m": "[집·이웃·수리] 누구 보내서 봐 주실 수 있나요?"
+    },
+    {
+      "w": "How much will the repair cost?",
+      "m": "[집·이웃·수리] 수리비는 얼마나 들까요?"
+    },
+    {
+      "w": "When can you come by?",
+      "m": "[집·이웃·수리] 언제 오실 수 있어요?"
+    },
+    {
+      "w": "I locked myself out.",
+      "m": "[집·이웃·수리] 열쇠를 안에 두고 문이 잠겼어요."
+    },
+    {
+      "w": "The rent is due on the first of the month.",
+      "m": "[집·이웃·수리] 집세는 매달 1일에 내야 해요."
+    },
+    {
+      "w": "Hello, this is Minsu speaking.",
+      "m": "[전화·메시지] 안녕하세요, 민수입니다."
+    },
+    {
+      "w": "May I speak to Ms. Brown, please?",
+      "m": "[전화·메시지] 브라운 씨와 통화할 수 있을까요?"
+    },
+    {
+      "w": "Who's calling, please?",
+      "m": "[전화·메시지] 누구시죠?"
+    },
+    {
+      "w": "Hold on a second, please.",
+      "m": "[전화·메시지] 잠시만 기다려 주세요."
+    },
+    {
+      "w": "I'll put you through.",
+      "m": "[전화·메시지] 연결해 드리겠습니다."
+    },
+    {
+      "w": "She's not available right now.",
+      "m": "[전화·메시지] 지금 자리에 안 계세요."
+    },
+    {
+      "w": "Can I leave a message?",
+      "m": "[전화·메시지] 메시지를 남길 수 있을까요?"
+    },
+    {
+      "w": "Could you ask her to call me back?",
+      "m": "[전화·메시지] 저에게 다시 전화해 달라고 전해 주시겠어요?"
+    },
+    {
+      "w": "Sorry, I didn't catch that.",
+      "m": "[전화·메시지] 죄송해요, 잘 못 들었어요."
+    },
+    {
+      "w": "You're breaking up. Can you hear me?",
+      "m": "[전화·메시지] 소리가 끊겨요. 제 말 들리세요?"
+    },
+    {
+      "w": "Sorry, I think I have the wrong number.",
+      "m": "[전화·메시지] 죄송해요, 전화를 잘못 걸었나 봐요."
+    },
+    {
+      "w": "Can I call you back in ten minutes?",
+      "m": "[전화·메시지] 10분 후에 다시 전화해도 될까요?"
+    },
+    {
+      "w": "I'll text you the address.",
+      "m": "[전화·메시지] 주소를 문자로 보낼게요."
+    },
+    {
+      "w": "Did you get my message?",
+      "m": "[전화·메시지] 제 메시지 받았어요?"
+    },
+    {
+      "w": "Thanks for calling. Talk to you soon.",
+      "m": "[전화·메시지] 전화 주셔서 감사합니다. 곧 다시 얘기해요."
+    },
+    {
+      "w": "Let's get started, shall we?",
+      "m": "[직장·회의] 시작할까요?"
+    },
+    {
+      "w": "Thank you all for coming today.",
+      "m": "[직장·회의] 오늘 모두 와 주셔서 감사합니다."
+    },
+    {
+      "w": "Could you share your screen?",
+      "m": "[직장·회의] 화면을 공유해 주시겠어요?"
+    },
+    {
+      "w": "You're on mute.",
+      "m": "[직장·회의] 음소거 상태예요."
+    },
+    {
+      "w": "Let's move on to the next item.",
+      "m": "[직장·회의] 다음 안건으로 넘어가죠."
+    },
+    {
+      "w": "Could you go over that again?",
+      "m": "[직장·회의] 그 부분을 다시 설명해 주시겠어요?"
+    },
+    {
+      "w": "I have a question about the schedule.",
+      "m": "[직장·회의] 일정에 대해 질문이 있어요."
+    },
+    {
+      "w": "Can we push the deadline back a week?",
+      "m": "[직장·회의] 마감을 일주일 미룰 수 있을까요?"
+    },
+    {
+      "w": "I'll send you the file by the end of the day.",
+      "m": "[직장·회의] 오늘 중으로 파일을 보내 드릴게요."
+    },
+    {
+      "w": "Could you cc me on that email?",
+      "m": "[직장·회의] 그 이메일에 저도 참조로 넣어 주시겠어요?"
+    },
+    {
+      "w": "I'm running a bit late. Please start without me.",
+      "m": "[직장·회의] 조금 늦을 것 같아요. 먼저 시작해 주세요."
+    },
+    {
+      "w": "Let's take a ten-minute break.",
+      "m": "[직장·회의] 10분간 쉬었다 하죠."
+    },
+    {
+      "w": "Let's wrap it up here.",
+      "m": "[직장·회의] 여기서 마무리하죠."
+    },
+    {
+      "w": "I'll follow up with an email.",
+      "m": "[직장·회의] 이메일로 후속 조치하겠습니다."
+    },
+    {
+      "w": "I'm taking a day off tomorrow.",
+      "m": "[직장·회의] 내일 하루 휴가를 내려고요."
+    },
+    {
+      "w": "Sorry I'm late. May I come in?",
+      "m": "[학교·수업] 늦어서 죄송합니다. 들어가도 될까요?"
+    },
+    {
+      "w": "Please open your books to page 42.",
+      "m": "[학교·수업] 책 42쪽을 펴세요."
+    },
+    {
+      "w": "Could you say that again, please?",
+      "m": "[학교·수업] 다시 한번 말씀해 주시겠어요?"
+    },
+    {
+      "w": "Could you speak a little more slowly?",
+      "m": "[학교·수업] 조금 더 천천히 말씀해 주시겠어요?"
+    },
+    {
+      "w": "How do you spell that?",
+      "m": "[학교·수업] 그거 철자가 어떻게 되나요?"
+    },
+    {
+      "w": "What does this word mean?",
+      "m": "[학교·수업] 이 단어는 무슨 뜻이에요?"
+    },
+    {
+      "w": "I don't understand this part.",
+      "m": "[학교·수업] 이 부분이 이해가 안 돼요."
+    },
+    {
+      "w": "Can I ask a question?",
+      "m": "[학교·수업] 질문해도 될까요?"
+    },
+    {
+      "w": "When is the assignment due?",
+      "m": "[학교·수업] 과제 제출 기한이 언제예요?"
+    },
+    {
+      "w": "I'd like to hand in my homework.",
+      "m": "[학교·수업] 숙제를 제출하고 싶어요."
+    },
+    {
+      "w": "Can I get an extension on the essay?",
+      "m": "[학교·수업] 에세이 제출 기한을 연장받을 수 있을까요?"
+    },
+    {
+      "w": "Can we work in pairs?",
+      "m": "[학교·수업] 둘씩 짝지어서 해도 될까요?"
+    },
+    {
+      "w": "Could I borrow your notes?",
+      "m": "[학교·수업] 네 노트 좀 빌릴 수 있을까?"
+    },
+    {
+      "w": "What's on the test?",
+      "m": "[학교·수업] 시험 범위가 뭐예요?"
+    },
+    {
+      "w": "Do you have office hours this week?",
+      "m": "[학교·수업] 이번 주에 면담 시간이 있으신가요?"
+    },
+    {
+      "w": "How was your weekend?",
+      "m": "[스몰토크·날씨·취미] 주말 어떻게 보냈어요?"
+    },
+    {
+      "w": "It was pretty relaxing. How about yours?",
+      "m": "[스몰토크·날씨·취미] 꽤 편하게 쉬었어요. 당신은요?"
+    },
+    {
+      "w": "Any plans for the weekend?",
+      "m": "[스몰토크·날씨·취미] 주말에 무슨 계획 있어요?"
+    },
+    {
+      "w": "Beautiful day, isn't it?",
+      "m": "[스몰토크·날씨·취미] 날씨 정말 좋죠?"
+    },
+    {
+      "w": "It's freezing out there.",
+      "m": "[스몰토크·날씨·취미] 밖이 정말 추워요."
+    },
+    {
+      "w": "Don't forget your umbrella. It might rain later.",
+      "m": "[스몰토크·날씨·취미] 우산 잊지 마세요. 나중에 비가 올지도 몰라요."
+    },
+    {
+      "w": "I heard it's going to snow tonight.",
+      "m": "[스몰토크·날씨·취미] 오늘 밤에 눈이 온다고 들었어요."
+    },
+    {
+      "w": "What do you do in your free time?",
+      "m": "[스몰토크·날씨·취미] 여가 시간에는 뭐 하세요?"
+    },
+    {
+      "w": "I'm really into hiking these days.",
+      "m": "[스몰토크·날씨·취미] 요즘 하이킹에 푹 빠져 있어요."
+    },
+    {
+      "w": "Have you seen any good movies lately?",
+      "m": "[스몰토크·날씨·취미] 최근에 좋은 영화 본 거 있어요?"
+    },
+    {
+      "w": "Do you follow any sports?",
+      "m": "[스몰토크·날씨·취미] 챙겨 보는 스포츠가 있어요?"
+    },
+    {
+      "w": "How do you like living here?",
+      "m": "[스몰토크·날씨·취미] 여기 사는 건 어때요?"
+    },
+    {
+      "w": "How long have you been in Seoul?",
+      "m": "[스몰토크·날씨·취미] 서울에 오신 지 얼마나 됐어요?"
+    },
+    {
+      "w": "Small world!",
+      "m": "[스몰토크·날씨·취미] 세상 참 좁네요!"
+    },
+    {
+      "w": "It was nice talking to you.",
+      "m": "[스몰토크·날씨·취미] 이야기 나눠서 즐거웠어요."
+    },
+    {
+      "w": "Help! Somebody call an ambulance!",
+      "m": "[긴급상황·분실] 도와주세요! 누가 구급차 좀 불러 주세요!"
+    },
+    {
+      "w": "Call the police!",
+      "m": "[긴급상황·분실] 경찰을 불러 주세요!"
+    },
+    {
+      "w": "Is there a doctor here?",
+      "m": "[긴급상황·분실] 여기 의사 있나요?"
+    },
+    {
+      "w": "There's been an accident.",
+      "m": "[긴급상황·분실] 사고가 났어요."
+    },
+    {
+      "w": "Someone has collapsed.",
+      "m": "[긴급상황·분실] 누군가 쓰러졌어요."
+    },
+    {
+      "w": "Where is the nearest hospital?",
+      "m": "[긴급상황·분실] 가장 가까운 병원이 어디예요?"
+    },
+    {
+      "w": "I've lost my passport.",
+      "m": "[긴급상황·분실] 여권을 잃어버렸어요."
+    },
+    {
+      "w": "My wallet was stolen.",
+      "m": "[긴급상황·분실] 지갑을 도둑맞았어요."
+    },
+    {
+      "w": "I left my bag on the train.",
+      "m": "[긴급상황·분실] 기차에 가방을 두고 내렸어요."
+    },
+    {
+      "w": "Where is the lost and found?",
+      "m": "[긴급상황·분실] 분실물 보관소가 어디예요?"
+    },
+    {
+      "w": "I'd like to file a police report.",
+      "m": "[긴급상황·분실] 경찰에 신고서를 접수하고 싶어요."
+    },
+    {
+      "w": "Could you contact the Korean embassy for me?",
+      "m": "[긴급상황·분실] 한국 대사관에 연락해 주시겠어요?"
+    },
+    {
+      "w": "I need an interpreter.",
+      "m": "[긴급상황·분실] 통역이 필요해요."
+    },
+    {
+      "w": "Please stay calm.",
+      "m": "[긴급상황·분실] 진정하세요."
+    },
+    {
+      "w": "Is everyone okay?",
+      "m": "[긴급상황·분실] 모두 괜찮아요?"
+    }
+  ]
+}
